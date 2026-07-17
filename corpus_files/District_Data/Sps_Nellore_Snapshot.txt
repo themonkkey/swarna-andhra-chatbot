@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Sps Nellore (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 7.00 Cr., statewide rank 40.37
+  - Horticulture: N/A% of district GVA, Rs. 17.00 Cr., statewide rank -6.82
+  - Live stock: N/A% of district GVA, Rs. 6.00 Cr., statewide rank 8.65
+  - Forestry & Logging: N/A% of district GVA, Rs. 6.00 Cr., statewide rank 0
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 5.00 Cr., statewide rank 13.22
+
+Fastest-growing sectors in Sps Nellore (2025-26 (FAE) YoY):
+  - Electricity, Gas, Water Supply: 21.29% growth, Rs. 1.00 Cr.
+  - Fishing & Aquaculture: 6.66% growth, Rs. 5.00 Cr.
+  - Transport by Other means & Storage: 6.27% growth, Rs. 3.00 Cr.
+  - Railways: 5.70% growth, Rs. 4.00 Cr.
+  - Agriculture: 5.43% growth, Rs. 7.00 Cr.
+
+Best statewide ranks (sectors where Sps Nellore leads other districts):
+  - Mining & Quarrying: rank -36.03 of 28, Rs. 20.00 Cr.
+  - Horticulture: rank -6.82 of 28, Rs. 17.00 Cr.
+  - Public Admn.: rank 3.25 of 28, Rs. 4.00 Cr.
+  - Electricity, Gas, Water Supply: rank 3.41 of 28, Rs. 1.00 Cr.
+  - Railways: rank 7.53 of 28, Rs. 4.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 7.00 Cr., growth 5.05%, rank 5.95
+  - Services Sector (aggregate): Rs. 5.00 Cr., growth 4.71%, rank 12.87
+  - Gross District Value Added (GDVA): Rs. 6.00 Cr., growth 4.86%, rank 10.41
+  - Product Taxes: Rs. 6.00 Cr., growth 4.86%, rank 12.15
+  - Product Subsidies: Rs. 6.00 Cr., growth 4.85%, rank -3
+  - Gross District Domestic Product (GDDP): Rs. 6.00 Cr., growth 4.86%, rank 10.78
+  - Net District Domestic Product (NDDP): Rs. 6.00 Cr., growth 4.81%, rank 10.98
+  - Population ('000): Rs. 1.00 Cr., growth 4.88%, rank 0.35
+  - Per Capita Income (Rs.): Rs. 10.00 Cr., growth 3.64%, rank 10.6

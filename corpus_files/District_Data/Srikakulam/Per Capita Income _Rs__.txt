@@ -1,0 +1,6 @@
+District: Srikakulam — Sector: Per Capita Income (Rs.)
+
+2022-23 (TRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 2.42, Contribution to state total = 153,836.00%
+2023-24 (SRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 6.63, YoY Growth = 2.38%, Contribution to state total = 166,002.00%
+2024-25 (FRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 7.91, YoY Growth = 2.29%, Contribution to state total = 182,508.00%
+2025-26 (FAE): Value = Rs. 26.00 Cr., Rank among 28 districts = 9.94, YoY Growth = 2.28%, Contribution to state total = N/A%

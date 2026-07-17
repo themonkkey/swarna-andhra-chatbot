@@ -1,0 +1,2316 @@
+# index.html
+
+What Gets Measured
+
+Gets Managed
+
+Understanding the basics of GVA/GDDP/GSDP methodology and district-specific sector–KPI linkages to GVA trends
+
+Government of Andhra Pradesh
+
+Purpose of the session
+
+Move from reporting numbers to using them for district economic management
+
+1
+
+Conceptual clarity
+
+Understand GVA, GSDP and GDDP in simple operational terms.
+
+2
+
+Methodology logic
+
+Know the broad estimation sequence without getting lost in formulas.
+
+3
+
+Administrative use
+
+Turn data into review questions, decisions and follow-up actions.
+
+Approaches to estimate the GDP
+
+Basic concepts of measuring the Gross Domestic Product (GDP)
+
+Income approach
+
+Value added as income generated in production
+
+Compensation of employees
+
++ Operating surplus
+
++ Mixed income
+
++ Taxes less subsidies on production and imports
+
+= GVA
+
+Where useful
+
+District caution
+
+Government services and some organised sectors.
+
+Understanding distribution of income generated.
+
+Cross-checking production-side estimates where data permits.
+
+Income records may not be available district-wise.
+
+Enterprise headquarters may differ from place of production.
+
+Informal mixed income is difficult to measure directly.
+
+GVA is the Gross Value Added
+
+Expenditure approach
+
+Useful conceptually, but less central for district sector advisory
+
+Consumption
+
++ Investment
+
++ Government spending
+
++ Exports
+
+− Imports
+
+= GDP
+
+| Why it matters | District-level limitation |
+| :-: | :-: |
+| It helps understand demand-side drivers of growth. | Consumption and investment are difficult to allocate precisely by district. |
+| It is useful for macro policy and fiscal discussion. | District-level imports/exports of goods and services are often weakly measured. |
+| It helps connect growth with expenditure patterns. | Many indicators are proxies rather than direct district expenditure measures. |
+
+Expenditure Side Components
+
+Private Final
+
+Consumption
+
+Expenditure (PFCE)
+
+Government Final
+
+Consumption
+
+Expenditure (GFCE)
+
+Gross Capital
+
+Formation
+
+Gross Fixed Capital
+
+Formation (GFCF)
+
+Change In Stock
+
+(CIS)
+
+Valuables
+
+Exports
+
+Imports
+
+Production approach
+
+The most intuitive route for linking sector data with GVA
+
+Output − Intermediate Consumption = GVA
+
+| Use case | Examples | Typical data required |
+| :-: | :-: | :-: |
+| Physical production sectors | Agriculture, livestock, fisheries, mining | Quantity produced, prices, input ratios |
+| Industrial sectors | Manufacturing, electricity, construction | Output/sales, cost structure, input-output ratios, deflators |
+| Service sectors | Trade, transport, hotels, professional services | Receipts/turnover, employment, proxies, administrative records |
+
+GVA, GSDP and GDDP in the Indian Context
+
+Conceptual foundation for economic measurement and district planning
+
+GVA, GSDP, and GDDP: the Overall Framework
+
+Think of the economy as sectors adding value across geography
+
+Sector-wise value added
+
+State aggregate
+
+District view
+
+Agriculture
+
+Industry
+
+Services
+
+GVA by sector
+
+GSDP
+
+GDDP / district sector profile
+
+The same economic activity can be understood by sector, by state, and by district — but the data availability and estimation difficulty increase as we go below the state level.
+
+India's Data Hierarchy
+
+GDP
+
+National level. Estimated by MoSPI. Released every quarter.
+
+GSDP
+
+State level. Released annually by the State DES (e.g., DES for AP).
+
+DDP — District Domestic Product
+
+District level. Annual. Published by the Directorate of Economics and Statistics.
+
+The Building Block: Gross State Value Added (GSVA)
+
+GSVA = Output − Intermediate Consumption
+
+GSDP = Σ GSVA across all sectors in the district (at Basic Prices)
+
+| Illustrative example | Amount |
+| :-: | :-: |
+| Value of rice produced (Output) | ₹100 |
+| Seeds, fertiliser, electricity, transport and other inputs (Inputs) | ₹40 |
+| Gross Value Added | ₹60 |
+
+Important: higher output does not always mean higher GSVA if input costs rise faster or if prices fall.
+
+The sectoral economy: primary, secondary and tertiary
+
+Useful grouping for district diagnosis, but not sufficient by itself
+
+| Broad sector | Typical sub-sectors | District planning relevance |
+| :-: | :-: | :-: |
+| Primary | Agriculture (crops), livestock, forestry, fishing, mining | Production base, natural resources, rural livelihoods |
+| Secondary | Manufacturing, construction, electricity, gas, water supply and other utilities | Industrial activity, infrastructure, urban expansion |
+| Tertiary | Trade, transport, hotels, finance, real estate, public services, etc. | Market activity, logistics, service delivery, urban economy |
+
+District action requires sub-sector specificity: "services are growing" is less useful than "logistics and tourism indicators are improving while formal trade is stagnant."
+
+Mapping of Data Sources
+
+Sub-sector
+
+Main data sources
+
+Price / deflator sources
+
+Crops
+
+DESAg, State DESs, Horticulture Statistics Division, Commodity Boards, CCS, LUS
+
+State DES prices, WPI, base year prices
+
+Livestock
+
+DADF Integrated Sample Survey, Indian Livestock Census, State DESs, DMI, KVIC
+
+State DES prices, CCS prices, WPI
+
+Forestry
+
+State DESs, Forest Survey of India, NSS CES, ASI, Budget documents
+
+State DES prices, WPI
+
+Fishing
+
+DADF, State DESs
+
+State DES prices, fixed input rates
+
+Mining & Quarrying
+
+Annual reports, MCA21, Public Enterprises Survey, IBM, MoPNG, Salt Commissioner, State Geological Departments
+
+WPI, IBM deflators
+
+Current Methodology: Overall Framework
+
+Gross Value
+
+of Output
+
+( - ) Intermediate Inputs
+
+= Gross State Value
+
+Added
+
+( - ) Taxes less Subsidies
+
+= Gross State Domestic Product
+
+• At current prices, estimates generally use current year production or quantities multiplied by current year prices.
+
+• At constant (2011-12) prices, estimates generally use current year production or quantities multiplied by base year prices, or deflation using relevant CPI/WPI/indices.
+
+• For activities where direct state-level data are not available, national estimates are allocated using suitable state-wise indicators.
+
+• For unincorporated or household activities, benchmark survey estimates are moved using relevant growth indicators.
+
+Crop Sector GSVA
+
+Crop Sector – Value of Output
+
+Category
+
+Data source
+
+Current price estimation
+
+Constant price estimation
+
+Major crops
+
+Production: DESAg; Prices: State DESs
+
+Current year production * current year price
+
+Current year production * base year price
+
+Minor crops / Horticulture
+
+Horticulture Statistics Division / State DESs; Prices: State DESs
+
+Current year production * current year price
+
+Current year production * base year price
+
+Small millets / other pulses
+
+DESAg and State DESs
+
+Current year production * current year price
+
+Current year production * base year price
+
+Commercial crops
+
+Commodity Boards / State DESs
+
+Current year production * current year price
+
+Current year production * base year price
+
+Crop Sector – Special Crop Rules
+
+Item
+
+Method / rule
+
+Remarks
+
+Tea
+
+Value of output = current year production of Raw tea * current year price
+
+Production of Raw tea = processed tea / 0.225
+
+Small Millets
+
+Value of output = current year production * current year price
+
+Price = 75% of weighted average price of jowar, bajra, barley, maize and ragi
+
+Other Pulses
+
+Value of output = current year production * current year price
+
+Price = 85% of weighted average price of arhar, urad, moong, masur and horsegram
+
+Other Sugars
+
+Value of output = area * current year value per hectare
+
+Value per hectare = 0.90 * VPH of sugarcane
+
+Tobacco stem
+
+Value of output = current year production * current year price
+
+Production = 86.63% of production of tobacco leaves; Price = 50% of price of tobacco leaves
+
+Miscellaneous Crops, By-products and Other Products
+
+Component
+
+Data source
+
+Estimation logic
+
+Other cereals, oilseeds, fibres, drugs, condiments and spices
+
+LUS from DESAg / State DESs
+
+Area * current year value per hectare; base year VPH for constant prices
+
+Fodder
+
+DESAg / State DESs and prices
+
+Production = irrigated area * 50MT/ha + un-irrigated area * 25MT/ha
+
+Grass
+
+LUS and State DES prices
+
+Weighted area formulation using permanent pastures, tree crops, culturable waste, fallows and net area sown
+
+By-products
+
+Area from LUS; VPH from CCS / State DESs; WPI
+
+Area * value per hectare; WPI used when current CCS not available
+
+Gur, palmyra, bagasse, kitchen garden
+
+DESAg, Dte. of Sugar, ASI/NSS, State DESs
+
+Product-specific formulas based on sugarcane use, prices and net sown area
+
+Crops – Intermediate Inputs
+
+Livestock – Value of Output
+
+Product group
+
+Data source
+
+Estimation logic
+
+Milk, eggs and wool
+
+DADF Integrated Sample Survey; Prices: State DESs
+
+Current year production * current year price; base year price for constant estimates
+
+Meat
+
+ISS from DADF and State DESs; Prices: State DESs
+
+Production after adjusting manufacturing sector quantity * price
+
+Meat products and by-products
+
+NRCM study proportions
+
+Animal-wise products and by-products estimated as % of value of meat
+
+Poultry meat
+
+Poultry population, egg production and State DES prices
+
+Separate estimation for chicken/ducklings, adult fowls, adult ducks and other poultry
+
+Silk, honey and bee wax
+
+Central Silk Board, KVIC and State DESs
+
+Current year production * current year price
+
+Livestock – Other Output Components
+
+Component
+
+Method
+
+Fats from fallen animals
+
+Number of fallen animals * yield rate * current/base year price
+
+Hides and skins from fallen animals
+
+Number of fallen animals * current/base year value of hides/skin per animal
+
+Camel hair / Goat hair / Pig bristles
+
+Yield rate * population * current/base year price
+
+Dung fuel and dung manure
+
+Dung production * utilization rate * current/base year price
+
+Increment in livestock
+
+Additions to livestock population during the year * current/base year price
+
+Livestock – Inputs
+
+Input
+
+Data source
+
+Method
+
+Repair & maintenance and operational costs
+
+AIDIS 2013
+
+Benchmark estimates moved with capital stock + operational cost
+
+Market charges
+
+ISS from DADF and municipal charges from State DESs
+
+Rates in rupees per animal * number of slaughtered animals
+
+Feed of livestock
+
+ILC, CCS and WPI
+
+Species-wise and category-wise per animal feed consumption value * population
+
+Operational cost = 0.25% of value of output at current/constant prices of poultry meat, silk, wool, hides and increment in livestock.
+
+Forestry – Value of Output
+
+Component
+
+Data source
+
+Estimation logic
+
+Industrial wood from forests
+
+State DES production and prices
+
+Recorded value = production * price; total = 1.1 * recorded value
+
+Industrial wood from trees outside forest
+
+Forest Survey of India growing stock
+
+Estimated production * base year price adjusted for price growth
+
+Firewood
+
+NSS CES, Census population, ASI and State DES prices
+
+Total firewood value adjusted for agricultural by-products and industrial/religious purposes
+
+Minor forest products
+
+State DESs; WPI
+
+Value of output furnished by State DESs; constant estimates by deflation
+
+Fodder from forest
+
+ISFR and feed of livestock estimates
+
+Value of roughages * percentage of livestock dependent on forest for fodder
+
+Forestry – Inputs
+
+Data Source
+
+Budget documents of state governments.
+
+Current Prices
+
+16.2% of total value of output at current price.
+
+Constant Prices
+
+16.2% of total value of output at base year price.
+
+The input ratio is calculated using information available for 2010-11, 2011-12 and 2012-13.
+
+Fishing – Value of Output
+
+Component
+
+Data source
+
+Method
+
+Marine fish, inland fish and prawns
+
+DADF; State DES production, disposals and prices
+
+Raw fish + salted fish + sun-dried fish + fish let-in for freezing, valued at current/base year prices
+
+Subsistence fish
+
+State DES production, disposals and prices
+
+Production of subsistence fish * current/base year price
+
+Where subsistence fish production is unavailable
+
+State estimates / rule-based assumption
+
+Production of subsistence fish = 0.125 * production of inland fish
+
+Fishing – Inputs
+
+Input component
+
+Input rate
+
+Marine fish and prawns
+
+Value of inputs = 0.225 * value of catch
+
+Inland fish
+
+Value of inputs = 0.1 * value of catch
+
+Fish salting / sun-dried / subsistence
+
+Value of inputs = 0.01 * value of output of salted fish and subsistence fish
+
+Fixed input rates are used for fishing inputs; validation should focus on production, disposal, processing and price data.
+
+Mining & Quarrying – Public and Private Corporations
+
+Item
+
+Data source
+
+Current price method
+
+Coal
+
+Annual reports, Public Enterprises Survey, MCA21, Coal Controller, WPI
+
+Production approach; allocation using employment/assets for NDEs and production of coal in private sector
+
+Crude petroleum and natural gas
+
+Annual reports, Public Enterprises Survey, MCA21, MoPNG, WPI
+
+Production approach; allocation by employment/assets for NDEs and state-wise crude oil production for private sector
+
+Other major minerals
+
+Annual reports, MCA21, IBM production, prices and input rates
+
+Production approach using state-wise mineral-wise production
+
+Mining & Quarrying – Minerals, Salt and Sand
+
+Item
+
+Data source
+
+Method / allocation
+
+Salt
+
+Salt Commissioner's Office and Hindustan Salt Limited
+
+State-wise value of output from Salt Commissioner; input rates from Hindustan Salt Limited
+
+Minor minerals except sand
+
+State Geological Departments and IBM
+
+Value of output directly available at current year price; input rates from IBM
+
+Sand
+
+CBRI Study and IBM input rates
+
+Value of output = 7.21% of material inputs in construction adjusted for TTM; GVA allocated using value of production of sand received from States
+
+Constant price estimates are generally derived using deflators compiled from IBM data on production, prices and input rates.
+
+Introduction to Secondary Sector
+
+Introduction to the Secondary Sector
+
+Secondary Sector = Manufacturing + Electricity, Gas, Water Supply and Other Utility Services + Construction
+
+Sub-sector
+
+Coverage
+
+Core estimation logic
+
+Manufacturing
+
+Railway workshops, production units, other DEs, NDEs, private companies, quasi-corporations and unincorporated enterprises
+
+Production approach and allocation using ASI, MCA21, IIP and NSS-based benchmarks
+
+Electricity, Gas, Water Supply and Other Utility Services
+
+Electricity generation/distribution, gas, gobar gas, water supply, recycling, sewerage and sanitation
+
+Production approach and allocation using electricity/gas quantities, wages, ASI, MCA21 and NSS
+
+Construction
+
+General Government, DEs, NDEs, household sector, plantations, other households and residual sector
+
+Budget/outlay, AIDIS, construction indices, material consumption and commodity flow methods
+
+Mapping of Institutional Sectors: Secondary Sectors
+
+Institutional sector
+
+Typical data source
+
+Relevant secondary sectors
+
+Public Corporations: DEs
+
+Budget documents of central and state governments
+
+Manufacturing, electricity, gas, water supply, construction
+
+Public Corporations: NDEs
+
+Annual reports of NDEs; Public Enterprises Survey
+
+Manufacturing, electricity/gas utilities, construction
+
+Private Corporations
+
+MCA21 database, ASI, CEA, NHAI and sector-specific allocators
+
+Manufacturing, utilities, construction
+
+Private Quasi-corporations
+
+ASI, IIP and WPI
+
+Manufacturing
+
+Private Unincorporated Enterprises
+
+NSS 67th Round ES, NSS 68th Round EUS, IIP, WPI/CPI
+
+Manufacturing, water supply, remediation
+
+Households / residual sector
+
+AIDIS, Census, NBO/State price data, commodity flow
+
+Construction
+
+Secondary Sector
+
+Secondary Sector
+
+Secondary Sector
+
+Secondary Sector
+
+Secondary Sector
+
+Manufacturing – Public Corporations
+
+Entity
+
+Data source
+
+Method
+
+Railway Workshops & Production Units
+
+Railway Budget Documents and WPI
+
+Production approach; allocated by sanctioned strength of employees for workshops and state-wise salaries for production units
+
+Other Departmental Enterprises
+
+Budget documents of central and state governments; WPI
+
+Production approach; central DEs allocated by location and State DEs to respective States
+
+Non-Departmental Enterprises
+
+Annual reports of NDEs; Public Enterprises Survey; WPI
+
+Production approach; CE by employment and OS by assets for multi-state NDEs
+
+Data source
+
+Current price method
+
+Constant price method
+
+ASI, IIP and WPI
+
+State-wise estimates of GVA, by compilation category, obtained from ASI for quasi-corporations; till ASI becomes available, preceding year estimates extrapolated using IIP and WPI
+
+Current price estimates are deflated with the relevant WPI
+
+• Quasi-corporations include factories covered under ASI but not registered under Companies Act.
+
+• For years when ASI is not available, IIP and WPI are used as interim indicators.
+
+Manufacturing – Private Quasi-corporations
+
+Manufacturing – Private Unincorporated Enterprises
+
+Step
+
+Method
+
+Base year benchmark
+
+National GVA for 2011-12 allocated using state-wise benchmark estimates compiled from NSS 67th Round and NSS 68th Round
+
+Subsequent years
+
+Benchmark estimates moved using state's growth rate of GVA-manufacturing as estimated by ASI
+
+When ASI is unavailable
+
+Preceding year estimates moved using IIP and WPI
+
+Compilation categories
+
+State estimate allocated using base year structure of the state's GVA by compilation category
+
+Electricity – Public Corporations
+
+Entity
+
+Data source
+
+Current price method
+
+Departmental Enterprises
+
+Budget documents; quantity of electricity sold from CEA
+
+Production approach; central DEs allocated by location; State DEs to respective States
+
+Central NDEs: generating companies
+
+Annual reports; electricity generated and sold from CEA/concerned NDE
+
+Production approach; allocated on state-wise electricity generated
+
+Central NDEs: power grid companies
+
+Annual reports; Public Enterprises Survey; electricity sold from CEA
+
+CE by employment and OS by assets for multi-state NDEs
+
+Constant price estimates: base year estimate moved with the index of quantum sales of electricity.
+
+Electricity – Private Corporations
+
+Data
+
+MCA21 annual reports and State-wise quantity of electricity generated and sold by private companies from CEA.
+
+Current Prices
+
+GVA compiled using production approach and allocated using the sum of units generated and units sold.
+
+Constant Prices
+
+Base year estimate moved with the index of quantum sales of electricity.
+
+Assumption: companies are either generating electricity or involved in distribution; hence units generated and units sold are summed.
+
+Gas – Public and Private Corporations
+
+Entity
+
+Data source
+
+Method
+
+Central NDEs: Gas generating companies
+
+Annual reports; state-wise quantity of gas sold from concerned NDE
+
+Production approach; NDE-wise GVA allocated based on state-wise gas sold
+
+Other NDEs
+
+Annual reports; Public Enterprises Survey
+
+CE by employment and OS by assets
+
+Private Corporations
+
+MCA21 database
+
+Production approach; allocated on state-wise revenue of companies
+
+Constant prices
+
+Index of quantum sales of gas
+
+Base year estimate moved with index of quantum sales of gas
+
+Gobar Gas and Water Supply
+
+Component
+
+Data source
+
+Method
+
+Gobar gas: Private Unincorporated Enterprises
+
+KVIC value of production; number of bio gas plants
+
+State-wise GVA calculated as value of production at current prices and adjusted for KVIC share in total biogas plants
+
+Water supply: General Government
+
+State government budget documents; CPI
+
+Production approach; current price estimates deflated with CPI (General)
+
+Water supply: Public Corporations
+
+Annual reports of public sector companies; CPI
+
+Production approach; single-state NDE entirely allocated to that State
+
+Water supply: Private Corporations
+
+MCA21 and NSS 68th Round
+
+Allocated on state-wise annual wages of workers in the industry
+
+Water Supply – Private Unincorporated Enterprises
+
+Data
+
+NSS 68th Round EUS, 2011-12 and CPI from MOSPI.
+
+Base Year
+
+Estimate of GVA calculated as wage per day * number of working days and allocated by State-wise annual wages.
+
+Subsequent Years
+
+Growth rate of GVA at current prices of Private Corporate Sector at national level used and allocated by base year proportions.
+
+Current price estimates are deflated with CPI (General).
+
+Remediation – Sewerage & Sanitation
+
+Entity
+
+Data source
+
+Method
+
+General Government
+
+State government budget documents; CPI
+
+Production approach; current price estimates deflated with CPI (General)
+
+Private Corporations
+
+MCA21 and CPI
+
+Production approach; allocated using base GVA from NSS 68th Round
+
+Private Unincorporated Enterprises
+
+NSS 67th Round ES, NSS 68th Round EUS, CPI
+
+National estimates allocated using state-wise GVA as per NSS 67th Round; subsequent years moved using private corporate growth
+
+Construction – Overview
+
+Component
+
+Coverage
+
+Core indicator / method
+
+General Government
+
+State and central government construction
+
+Budget documents, works annexure, NVA and CFC
+
+Public Corporations: DEs
+
+Departmental enterprises in construction
+
+Budget documents and state-wise outlay on construction
+
+Public Corporations: NDEs
+
+NHAI and other NDEs
+
+NHAI highway length awarded; employment and assets for other NDEs
+
+Household sector
+
+Rural/urban residential and non-residential buildings; plantations
+
+AIDIS, Census, CCI, agriculture/manufacturing output and plantation area
+
+Other households and residual sector
+
+NPISH/unincorporated not covered in AIDIS; private corporate/unallocated GVA
+
+Commodity flow and cement/iron & steel consumption
+
+Construction – General Government
+
+Data source
+
+Current price method
+
+Constant price method
+
+Budget documents for central and state governments; annual accounts of local bodies
+
+NVA of State Government in Construction taken from State Government budget documents; NVA of Central Government allocated using works annexure; CFC allocated using NVA and GVA = NVA + CFC
+
+Deflated by General Pucca Construction Index
+
+General Pucca Construction Index is a weighted index of building materials, labour and fixtures & fittings.
+
+Construction – Public Corporations
+
+Entity
+
+Data source
+
+Method
+
+Departmental Enterprises
+
+Budget documents for central and state governments
+
+Production approach; central DEs allocated using state-wise outlay on construction; State DEs allocated to respective States
+
+Non-Departmental Enterprises
+
+Annual reports; Public Enterprises Survey; NHAI website
+
+Production approach; NHAI allocated by state-wise length of highways awarded under PPP/EPC; other NDEs by employment and assets
+
+Constant prices
+
+General Pucca Construction Index
+
+Current price estimates deflated by General Pucca Construction Index
+
+Construction – Household Sector: Residential Buildings
+
+Component
+
+Data source
+
+Method
+
+Rural/Urban residential buildings: new construction outlays plus repair & maintenance
+
+AIDIS 2013 for capital expenditure; Census 2011 for number of dwellings; NBO/States for prices and wages
+
+State-wise AIDIS estimates moved to later years using inter-censal growth rate in number of dwellings; price changes imposed using Rural/Urban CCI
+
+Constant prices
+
+Cost of Construction Index for Rural/Urban Housing
+
+Deflated by Cost of Construction Index for Rural/Urban Housing
+
+Construction – Non-Residential Buildings and Plantations
+
+Component
+
+Data source
+
+Method
+
+Rural/Urban non-residential buildings and other construction works
+
+AIDIS 2013
+
+Estimates moved to later years with combined index of value of output from Agriculture and Manufacturing sectors
+
+Plantations in the household sector
+
+NHB and Commodity Boards
+
+All-India GVO of construction in plantations distributed using increment in area under cultivation of plantation crops
+
+Constant prices
+
+General Pucca Construction Index / CPI(R)
+
+NRB&OCW deflated by General Pucca Construction Index; plantations deflated by CPI(R)
+
+Construction – Other Households and Residual Sector
+
+Component
+
+Coverage
+
+Method
+
+Other households
+
+NPISH and unincorporated enterprises not covered in AIDIS
+
+Obtained as residual through commodity flow method of household sector and allocated using cement and iron & steel consumption
+
+Residual sector
+
+Private Corporate Sector and other unallocated portion of GVA construction at national level
+
+Allocated using composite indicator: cement consumption weight 19.66% and iron & steel consumption weight 80.34%
+
+Constant prices
+
+General Pucca Construction Index
+
+Current price estimates deflated by General Pucca Construction Index
+
+Introduction to the Tertiary Sector
+
+The tertiary sector covers market and non-market services that support households, enterprises and government operations.
+
+Market services
+
+Trade, hotels, transport, communication, financial services, real estate, professional services and information services.
+
+Government services
+
+Public administration, defence and public delivery of education, health and other services.
+
+Household services
+
+Unincorporated enterprises, own-account workers, domestic services and ownership of dwellings.
+
+GSDP at market prices = GSVA at basic prices + Product taxes – Product subsidies
+
+For sectoral analysis, the core measurement unit is GSVA. GSDP is obtained after adding net product taxes.
+
+Tertiary Sector: Major Sub-Sectors
+
+Sub-sector
+
+Illustrative coverage
+
+Trade & repair services
+
+Wholesale/retail trade, repair services, public/private/unincorporated activity
+
+Hotels & restaurants
+
+Accommodation, food services, tourism-linked activity
+
+Transport, storage & communication
+
+Railways, road, water, air, storage, warehousing, telecom and broadcasting
+
+Financial services
+
+Banking, insurance, deposits, credit, financial intermediation
+
+Real estate, ownership of dwellings & professional services
+
+Rental imputation, professional services, IT and information services
+
+Public administration & defence
+
+Central/state/local government and autonomous institutions
+
+Other services
+
+Education, health, recreation, personal and social services
+
+Mapping of Institutional Sectors: Tertiary Sector
+
+Institutional sector
+
+Typical data source
+
+Where used in tertiary sector
+
+Departmental Enterprises (DEs)
+
+Budget documents of central and state governments
+
+Trade, transport, communication and other public services
+
+Non-Departmental Enterprises (NDEs)
+
+Annual reports; employee and asset details from Public Enterprises Survey
+
+Public corporations across services
+
+General Government
+
+Central/state budget documents and local body accounts
+
+Public administration, defence, education and health
+
+Private Corporates
+
+MCA21 database and sector-specific allocators
+
+Trade, hotels, transport, IT, real estate, financial and other services
+
+Private Unincorporated Enterprises
+
+NSS 67th Enterprise Survey, NSS 68th EUS, Census 2011
+
+Most household/own-account service activities
+
+Households / ownership of dwellings
+
+Census houses, CES rent, AIDIS, capital stock, CPI
+
+Ownership of dwellings
+
+Survey-based estimates require the correct application of sampling weights/multipliers before aggregation.
+
+Current Methodology: Overall Framework
+
+Gross State Value Added (Tertiary Sector)
+
+Public sector
+
+Private corporate sector
+
+Private unincorporated sector
+
+Households
+
+Public sector
+
+Budget documents, annual reports and production approach.
+
+Private corporate sector
+
+MCA21 database, production approach and sector-specific allocation indicators.
+
+Unincorporated sector
+
+Base-year estimates from NSS survey inputs; extrapolated using sector-specific indicators.
+
+Households
+
+Ownership of dwellings and private households with employed persons.
+
+Calculation of GVA for Public Sector
+
+Component
+
+Estimation logic
+
+Allocation / deflation
+
+Central DEs
+
+GVA compiled using production approach from budget documents.
+
+Allocated to States on the basis of location of the DE.
+
+State DEs
+
+GVA compiled from state budget documents and accounts.
+
+Allocated to the respective State.
+
+NDEs
+
+GVA estimated from annual reports. CE and OS are identified.
+
+CE by state-wise employment; OS by state-wise gross block / value of assets.
+
+General Government
+
+GVA compiled through Compensation of Employees and Consumption of Fixed Capital.
+
+Deflated by CPI (General) or relevant sector CPI.
+
+Key dependency
+
+Timely availability of budget documents, annual accounts and state-wise employee / asset details.
+
+Calculation of GVA for Private Corporates
+
+MCA21 annual reports → Production approach → Sector-specific allocation to States
+
+Sector group
+
+Typical allocator used
+
+Trade & repair services
+
+GVA estimated using GVAPW from NSS 67th Round and labour input from NSS 68th Round.
+
+Hotels & restaurants
+
+Domestic + international tourist arrivals.
+
+Transport & storage
+
+Registered vehicles, cargo handled, passengers handled, base-year proportions and combined sector growth.
+
+Communication & broadcasting
+
+Posts, television population, subscribers and related indicators.
+
+IT / computer services
+
+State-wise software exports made by units registered under STPI.
+
+Calculation of GVA for Unincorporated Enterprises
+
+Base-year GVA = GVA per worker × Labour input
+
+NSS 67th ES
+
+NSS 68th EUS
+
+Census 2011
+
+Base-year GVA
+
+Current-year estimate
+
+• Base-year GVA uses enterprise-level GVA per worker and labor input.
+
+• Subsequent year estimates are moved using sector-specific indicators such as corporate growth, sales tax index, registered vehicles, or expenditure growth.
+
+• Current price estimates are generally deflated using the relevant CPI series to obtain constant price estimates.
+
+• Sampling weights/multipliers must be applied correctly when using survey microdata.
+
+Trade & Repair Services – Public Corporations
+
+Item
+
+Data source
+
+Method of estimation
+
+Departmental Enterprises
+
+Budget documents of central and state governments; CPI from MoSPI.
+
+GVA compiled using production approach. Central DEs allocated by location; State DEs allocated to respective States.
+
+Non-Departmental Enterprises
+
+Annual reports of NDEs; state-wise employees and value of assets from Public Enterprises Survey.
+
+GVA at current prices estimated by production approach. CE allocated by employees; OS allocated by gross block / assets.
+
+Constant prices
+
+CPI (General)
+
+Current price estimates are deflated using CPI (General).
+
+Trade & Repair Services – Private and Unincorporated
+
+Component
+
+Data source
+
+Estimation logic
+
+Private companies
+
+MCA21 database for annual reports; WPI; survey-based GVAPW and LI.
+
+Production approach; allocated using GVA per worker from NSS 67th Round and labour input from NSS 68th Round.
+
+Co-operatives
+
+NABARD publication on cooperative movement; NSS 68th labour input.
+
+Allocated on LI in the sector; subsequent years extrapolated using index of sales tax.
+
+Private unincorporated enterprises
+
+NSS 67th ES, NSS 68th EUS and Census 2011.
+
+Base-year GVA allocated using GVAPW and LI; subsequent years extrapolated using index of sales tax.
+
+Deflator
+
+Current price estimates are generally deflated using CPI (General).
+
+Trade & Repair Services – Data Requirements
+
+Administrative records
+
+Budget documents, accounts of public enterprises, employee details and asset details.
+
+Corporate records
+
+MCA21 annual reports for private sector companies.
+
+Survey inputs
+
+NSS enterprise and employment survey data for unincorporated trade and repair activity.
+
+• Ensure alignment between trade registrations, tax records, and statistical survey frames.
+
+• Maintain documentation of the allocator used for each component.
+
+• Check consistency of current price and constant price series.
+
+• Use survey weights/multipliers before deriving worker-level or enterprise-level estimates.
+
+Hotels & Restaurants – Methodology
+
+Component
+
+Data source
+
+Method of estimation
+
+Public corporations: NDEs
+
+Annual reports of NDEs; state-wise employees and value of assets; CPI.
+
+Production approach; CE by employees and OS by gross block / value of assets.
+
+Private corporations
+
+MCA21 database; CPI from MoSPI.
+
+Production approach; allocated on the basis of tourist arrivals (domestic + international tourists).
+
+Private unincorporated enterprises
+
+NSS 67th ES, NSS 68th EUS and Census 2011; CPI.
+
+Base-year GVA using GVAPW and LI; subsequent years moved using growth in the corporate sector.
+
+Key allocator
+
+Tourist arrivals are central to allocation for private corporate hotels and restaurants.
+
+Transport Other than Railways & Storage – Public Corporations
+
+Category
+
+Data source
+
+Method / movement
+
+Land transport
+
+Budget documents, annual reports, DPE employee/assets data, registered vehicles and CPI.
+
+Production approach; base-year estimates moved using index of registered vehicles.
+
+Water transport
+
+Budget documents, annual reports and DPE data.
+
+Current price estimates deflated by CPI (Transport & Communication).
+
+Services incidental to transport
+
+Public sector accounts and sector indicators.
+
+Previous year estimates extrapolated using combined growth of water, air and land transport.
+
+Storage & warehousing
+
+Public sector accounts and CPI.
+
+Current price estimates deflated by CPI (Miscellaneous).
+
+Transport & Storage – Private Corporations
+
+Category
+
+Data source / allocator
+
+Estimation logic
+
+Land transport
+
+MCA21, NSS 63rd ES for cooperatives, registered vehicles from transport ministry.
+
+Production approach; base-year estimates moved using index of registered vehicles.
+
+Water transport
+
+Cargo handled at ports and length of navigable rivers.
+
+National GVA allocated using share of cargo handled and length of navigable rivers.
+
+Services incidental to transport
+
+CPI and combined growth of water, air and land transport.
+
+Previous year estimate extrapolated using combined sector growth.
+
+Storage & warehousing
+
+MCA21 and base-year proportions.
+
+National GVA allocated using base-year proportions.
+
+Transport & Storage – Private Unincorporated Enterprises
+
+Category
+
+Survey / administrative input
+
+Subsequent year movement
+
+Land transport
+
+NSS 67th ES, NSS 68th EUS, Census 2011, registered vehicles.
+
+Moved using growth in registered vehicles; CPI (Transport & Communication) for price adjustment.
+
+Water transport
+
+NSS survey inputs, navigable length and cargo handled.
+
+Allocated using index of navigable length plus cargo handled.
+
+Storage & warehousing
+
+NSS 67th ES and NSS 68th EUS.
+
+Base-year proportions used to allocate national level GVA.
+
+Services incidental to transport
+
+NSS 67th ES and NSS 68th EUS.
+
+Extrapolated using the combined growth of water and land transport.
+
+Air Transport – Public and Private Corporations
+
+Annual reports / MCA21
+
+Production approach
+
+Passenger traffic
+
+State allocation
+
+• Annual reports of NDEs and MCA21 annual reports are used for the public and private corporate segments.
+
+• Passenger traffic from the Ministry of Civil Aviation is used as the key allocator.
+
+• GVA at the national level is allocated to States on the basis of passengers handled by the airports in the State during the year.
+
+• Current price estimates are deflated using CPI (Transport & Communication).
+
+• The methodology specifies no household enterprises in air transport.
+
+Communication & Services Related to Broadcasting
+
+Public corporations
+
+Department of Posts budget documents, annual reports of NDEs and CPI from MoSPI.
+
+Private corporations
+
+MCA21 database, NSS 63rd ES for cooperatives and CPI from MoSPI.
+
+Unincorporated enterprises
+
+NSS 67th ES, NSS 68th EUS, Census 2011 and relevant CPI.
+
+Component
+
+Allocation approach
+
+Posts and central NDEs
+
+Allocated using indicators like receipts, rent and interest.
+
+Broadcasting / Prasar Bharati
+
+Allocated on the basis of sanctioned strength.
+
+Courier activities
+
+Allocated on the basis of GVA of Posts.
+
+Cable, recording, publishing and broadcasting
+
+Allocated on the basis of population having television in Census 2011.
+
+Telecommunication
+
+Base-year allocated using average number of subscribers; extrapolated using subscriber growth and CPI.
+
+Real Estate and Professional Services
+
+Component
+
+Data source
+
+Method of estimation
+
+Public corporations: NDEs
+
+Annual accounts of NDEs; state-wise employees and assets from Public Enterprises Survey; CPI.
+
+Production approach; CE by state-wise employment; OS by gross block / value of assets.
+
+Private corporations: Real estate and professional services
+
+MCA21 database; CPI from MoSPI.
+
+Production approach; allocated using base-year GVA compiled from NSS 67th ES and NSS 68th labour input.
+
+Private unincorporated enterprises
+
+NSS 67th ES, NSS 68th EUS, Census 2011; CPI.
+
+Base-year GVA allocated using enterprise information and LI; subsequent years moved using corporate growth.
+
+Computer and Information Related Services
+
+MCA21 GVA → Allocated using State-wise software exports from STPI units
+
+• Private corporate GVA for computer and information related services is compiled using the production approach.
+
+• State-wise software exports made by units registered under Software Technology Parks of India (STPI) are used for allocation.
+
+• Private unincorporated estimates are based on NSS 67th Enterprise Survey and NSS 68th labour input in the base year.
+
+• For subsequent years, unincorporated estimates are moved using corporate growth, as in the organised sector.
+
+• Current price estimates are deflated using CPI (Miscellaneous).
+
+Ownership of Dwellings
+
+GVA = Gross rental of residential census houses – Repairs and maintenance
+
+Component
+
+Data source
+
+Method
+
+Urban dwellings
+
+Population Census 2011, NSS 68th CES rent per household, CPI (R) and CPI (U).
+
+Gross rental = number of urban census houses × rent per household. Subsequent years use house rent index and inter-censal growth of dwellings.
+
+Rural dwellings
+
+Capital stock of rural residential buildings, AIDIS, growth in number of dwellings and CPI (R).
+
+Gross rental estimated through user cost approach; allocated to States using state-wise stock of rural dwellings.
+
+Constant prices
+
+Relevant CPI and inter-censal growth.
+
+Urban base-year moved with inter-censal growth; rural current price estimates deflated using CPI (R).
+
+Financial Services
+
+Data inputs
+
+Number of employees
+
+Deposits
+
+Credits
+
+Life insurance premiums
+
+Institution-level financial information
+
+Estimation approach
+
+Estimates of GVA are split into Compensation of Employees, Rent, Profit and related components.
+
+Allocation
+
+CSO allocates at the enterprise level using salaries, deposits, premiums and number of employees.
+
+Current price estimates are deflated by the implicit price deflator for financial services
+
+Public Administration and Defence
+
+Component
+
+Data source
+
+Estimation / allocation
+
+Central Government
+
+Budget document of central government.
+
+GVA at current prices allocated on the basis of number of central government employees across States.
+
+State Governments & Local Bodies
+
+Budget documents from state governments and annual accounts of local bodies.
+
+GVA at current prices compiled using production approach.
+
+Autonomous Institutions
+
+Annual accounts of sampled Central Autonomous Institutions and State Autonomous Institutions.
+
+Benchmark estimates projected using total grants; allocated by location and public sector labour input proportions.
+
+Constant prices
+
+CPI (General).
+
+Current price estimates deflated by CPI (General).
+
+Other Services – Education and Health
+
+Component
+
+Data source
+
+Movement / deflator
+
+Public education, health and recreation
+
+State budget documents, annual reports of NDEs, DPE employee and asset data.
+
+Production approach; education and health deflated using CPI for Education and Health; recreation by CPI (Miscellaneous).
+
+Private corporate education
+
+MCA21, NSS 63rd ES for cooperatives, NSS 68th labour input.
+
+Base-year allocation by LI; subsequent years moved using state-wise inter-survey growth in education expenditure.
+
+Private corporate health
+
+MCA21, NSS 63rd ES for cooperatives, NSS 68th labour input.
+
+Base-year allocation by LI; subsequent years moved using state-wise inter-survey growth in health expenditure.
+
+Unincorporated education and health
+
+NSS 67th ES, NSS 68th EUS, consumer expenditure survey rounds and CPI.
+
+Base-year GVA using GVAPW and LI; moved using expenditure growth; deflated by CPI (Education/Health).
+
+Other Services – Remaining Services and Private Households
+
+Component
+
+Data source
+
+Estimation logic
+
+Remaining social & personal services – Private corporations
+
+MCA21 database, NSS 63rd ES for cooperatives and CPI.
+
+GVA compiled by production approach and allocated on the basis of LI from NSS 68th Round.
+
+Remaining social & personal services – Unincorporated
+
+NSS 67th ES, NSS 68th EUS, CES rounds and CPI.
+
+Base-year GVA using GVAPW and LI; subsequent years moved using inter-survey growth in non-food consumer expenditure excluding education and health.
+
+Private households with employed persons
+
+NSS 61st EUS and NSS 68th EUS.
+
+Base-year GVA allocated using LI; subsequent years moved using inter-survey growth of LI and CPI (General).
+
+Why district estimates are harder than state estimates
+
+More local detail usually means more data constraints
+
+1
+
+Data availability
+
+Some sector data exists only at state level or with weak district identifiers.
+
+2
+
+Informality
+
+A large share of activity may be unregistered or not reported in routine systems.
+
+3
+
+Headquarter effects
+
+Services or company records may be booked in one location but delivered elsewhere.
+
+4
+
+Proxy dependence
+
+District estimates often require allocation keys or proxy indicators.
+
+5
+
+Comparability risk
+
+Districts differ in area, population, sector mix and administrative capacity.
+
+Therefore, district estimates should always be read with their methodology, data source and validation trail.
+
+State estimates and district apportionment
+
+When direct district GVA is unavailable, allocation keys become important
+
+State sector GVA
+
+District allocation key
+
+District-wise sector GVA
+
+• A mixed approach is used.
+
+• GDDP = GDVA + Taxes on Products – Subsidies on Products
+
+• NDDP = NDVA + Taxes on Products – Subsidies on Products
+
+• Per Capita Income =GDDP/ projected population for the year for the district
+
+GDDP Estimation Methodology
+
+District Domestic Product estimates support decentralised planning by comparing inter-district economic structure, performance and sectoral disparities.
+
+State sector estimate
+
+Official GVA / GSDP estimate at state level
+
+District data / allocator
+
+Direct district production data where available; proxy or physical indicator where direct data is weak
+
+District sector GVA
+
+Sector-wise value allocated or estimated for each district
+
+GDDP / PCI
+
+Aggregate district economy and per capita income for planning
+
+Core rule
+
+Use the same sectoral logic as state accounts wherever district-level data are available. Where data are scarce, apportion state estimates using the best available district indicator.
+
+Key caution
+
+For many non-primary sectors, district estimates are broad indicators because direct district data remain limited and estimates are revised when firmer data arrive.
+
+Primary sector methodology I: Agriculture, horticulture and livestock
+
+Agriculture + Horticulture
+
+• Major crops: district-wise value of output = district production × district price.
+
+• If district prices are unavailable, use regional / neighbouring district prices where available.
+
+• If no regional price is available, use state-level prices.
+
+• Miscellaneous/unspecified crops: if only district area is available, value of output = district area × state-level VPH of similar crops.
+
+• Inputs are allocated across districts in proportion to district GVO before deriving district GVA.
+
+Livestock
+
+• Milk, meat, wool, cocoons and honey: district production × average wholesale prices.
+
+• Meat by-products: state GVO allocated by district-wise meat production.
+
+• Dung: state GVO allocated by district-wise bovine, sheep and goat population.
+
+• Eggs: state GVO allocated by district-wise egg production.
+
+• Poultry meat: state GVO allocated by district-wise poultry population.
+
+• Increment in livestock: state GVO allocated by district-wise livestock population.
+
+Primary sector methodology II: Forestry, fishing and mining
+
+Forestry & Logging
+
+• Major and minor forest produce: state GVA apportioned by district-wise forest area.
+
+• Trees Outside Forest (TOF): state GVA apportioned by area under pulp and timber.
+
+• Fuel wood: state GVA apportioned by rural and urban population.
+
+• Fodder: state GVA apportioned by livestock projected population based on 2019 Census.
+
+Fishing
+
+• District-wise value of inland fish, marine fish and prawns is estimated by multiplying district-wise production with corresponding prices.
+
+• This is closer to direct estimation than proxy apportionment when district production and prices are available.
+
+Mining & Quarrying
+
+• State GVA is allocated to districts on the basis of district-wise production of major and minor minerals.
+
+• District production data should be reconciled with mining records and mineral-wise reporting.
+
+4
+
+Secondary sector methodology: Manufacturing, utilities and construction
+
+Manufacturing
+
+Organised
+
+• Public + private corporate GVA allocated using district-wise ASI GVA provided by NSO, Kolkata.
+
+• NDEs allocated on the basis of location.
+
+Unorganised/unincorporated
+
+• State GVA allocated by district-wise ASI non-corporate GVA provided by ASI, NSO, Kolkata (Code 1 & 2).
+
+Electricity, gas, water supply and remediation
+
+Electricity
+
+• Generation: plant location and generated capacity.
+
+• Transmission/distribution: district-wise power consumption.
+
+Gas
+
+• NDE gas: district-wise natural gas production.
+
+• Bio-gas: number of bio-gas plants.
+
+Water supply / Remediation
+
+• District GVA from water supply and sanitary services in local body accounts.
+
+Construction
+
+Household sector
+
+• RRBs: rural households, Census 2011.
+
+• URBs: urban households, Census 2011.
+
+• NRB & OCW: urban households, Census 2011.
+
+• Plantation: area of plantation in agriculture.
+
+• Other households: urban households, Census 2011.
+
+Public/residual
+
+• State/local body GVA; railways by railway line length; residual by urban households.
+
+Tertiary sector methodology I: Trade, hotels, restaurants, transport and communication
+
+Trade, hotels and restaurants
+
+Trade
+
+• Public: district-wise paddy procured from Civil Supplies Department.
+
+• Private corporate + unincorporated: district-wise total tax revenue collections.
+
+Hotels & restaurants
+
+• Public, private corporate and unincorporated components: district-wise number of tourists, domestic and foreign.
+
+Railways, transport and storage
+
+Railways
+
+• State GVA apportioned using district-wise number of employees.
+
+Road transport
+
+• Public: APSRTC employees.
+
+• Private corporate + unincorporated: registered vehicles.
+
+Water / air transport
+
+• Cargo handled at ports; passenger air traffic, location-based.
+
+Incidental services / storage
+
+• NDE location, combined transport growth, warehousing capacity and cold storage capacity.
+
+Communication and broadcasting
+
+• District estimates for communication are compiled by apportioning state GVA using district-wise urban households as per Census 2011.
+
+Why this matters
+
+• Urban households serve as a structural proxy for communication demand and service usage.
+
+Tertiary sector methodology II: Finance, real estate, public administration and other services
+
+Banking & Insurance
+
+• State GVA apportioned to districts using district-wise bank credits and deposits.
+
+Real estate & ownership of dwellings
+
+Real estate
+
+• Public: number of non-agricultural enterprises from 6th Economic Census.
+
+• Real estate + renting: real estate workforce.
+
+• Computer and R&D: professional, scientific and technical activities from 6th Economic Census.
+
+• Unincorporated rent + admin: real estate workforce.
+
+Ownership of dwellings
+
+• Urban: urban households, Census 2011.
+
+• Rural: rural households, Census 2011.
+
+Public administration
+
+Central and State Government
+
+• District-wise number of employees working in all departments and local bodies.
+
+• Source: Director, Office of Treasuries & Accounts.
+
+Autonomous institutions
+
+• District-wise GVA of autonomous institution accounts compiled by DE&S.
+
+Other services
+
+Education / Health
+
+• Public: employees, local body GVA, autonomous institution accounts.
+
+• Private corporate + unincorporated: employees in private sector.
+
+Remaining other services
+
+• District-wise urban population, Census 2011.
+
+Mandal Domestic Product (MDP)
+
+Conceptual foundation for economic measurement and mandal-level planning
+
+Mandal GVA Allocation Indicators
+
+District GVA → Mandal Domestic Product (MDP) allocation framework
+
+District GVA
+
+Growth Engine
+
+Mandal Indicator
+
+Mandal Share
+
+Mandal GVA
+
+18
+
+Sub-sectors
+
+110
+
+Allocation indicators
+
+26
+
+Primary + secondary + tertiary coverage
+
+Distribution of allocation indicators by sub-sector
+
+Horticulture
+
+32
+
+Agriculture
+
+12
+
+Mining & Quarrying
+
+11
+
+Livestock
+
+8
+
+Forestry & Logging
+
+7
+
+Transport & Storage
+
+7
+
+Fishing & Aquaculture
+
+6
+
+Others
+
+6
+
+Electricity, Gas, Water supply & Remediation
+
+5
+
+Other services
+
+5
+
+Real estate, Ownership of Dwellings & Professional services
+
+3
+
+Trade
+
+2
+
+Manufacturing
+
+1
+
+Construction
+
+1
+
+Railways
+
+1
+
+Communication
+
+1
+
+Banking & Insurance
+
+1
+
+Public Administration
+
+1
+
+What type of mandal indicators are used?
+
+Production / output
+
+64
+
+Population / Census
+
+10
+
+Workers / employment
+
+9
+
+Area / land
+
+8
+
+Fiscal / monetary
+
+6
+
+Households / dwellings
+
+4
+
+Activity / throughput
+
+3
+
+Assets / registrations
+
+2
+
+Capacity / utilisation
+
+2
+
+Consumption
+
+1
+
+Derived / composite
+
+1
+
+Interpretation
+
+Production/output indicators are closest to direct economic activity. Workforce, population, households and fiscal indicators are proxies and need stronger validation.
+
+Risk
+
+Structural indicators such as Census 2011 population or households may be stable but can become outdated for current-year allocation.
+
+Use
+
+A proxy should be used only when it is the best available indicator and the limitation is disclosed in the methodology note.
+
+Source ownership: who supplies mandal indicators?
+
+District Horticulture office
+
+32
+
+DE&SO office
+
+17
+
+District A.D Mines & Geology
+
+11
+
+District Animal Husbandery Department
+
+8
+
+DE&SO
+
+8
+
+District Fisheries Dept.
+
+6
+
+District Agriculture Marketing Dept.
+
+2
+
+2011 Census
+
+2
+
+2011 census
+
+2
+
+District Education Dept.
+
+2
+
+District Health Dept.
+
+2
+
+District Sericultute office
+
+1
+
+| Source type | Examples from workbook | Operational note |
+| :-: | :-: | :-: |
+| DES / DE&SO | DE&SO office; DE&SO | Core owner for compilation, reconciliation and final consistency checks |
+| Line departments | Horticulture, Animal Husbandry, Fisheries, Mines, Electricity, Education, Health | Primary owners of mandal-level administrative records |
+| Location-specific sources | Airport, port, APSRTC depot, production location | Requires precise geotagging to mandal boundaries |
+| Census / Economic Census | 2011 Census; 6th Economic Census | Useful structural allocators but require caveat on recency |
+
+Primary sector overview
+
+| Sub-sector | Allocation indicators | Dominant mandal allocator | Main source |
+| :-: | :-: | :-: | :-: |
+| Agriculture | 12 | Production / output | DE&SO office |
+| Horticulture | 32 | Production / output | District Horticulture office |
+| Livestock | 8 | Production / output | District Animal Husbandery Department |
+| Forestry & Logging | 7 | Area / land | DE&SO office |
+| Fishing & Aquaculture | 6 | Production / output | District Fisheries Dept. |
+| Mining & Quarrying | 11 | Production / output | District A.D Mines & Geology |
+
+Secondary sector overview
+
+| Sub-sector | Allocation indicators | Key allocator logic | Source owner |
+| :-: | :-: | :-: | :-: |
+| Manufacturing | 1 | Workers / employment | District Inspector of Factories |
+| Electricity, Gas, Water supply & Remediation | 5 | Consumption, Production / output, Assets / registratio… | DE&SO |
+| Construction | 1 | Households / dwellings | Census 2011 |
+
+Tertiary sector overview
+
+| Sub-sector | Indicators | Dominant/typical allocator | Source examples |
+| :-: | :-: | :-: | :-: |
+| Trade | 2 | Fiscal / monetary | District Commercial Tax Dept. |
+| Transport & Storage | 7 | Activity / throughput | District Agriculture Marketing Dept. |
+| Railways | 1 | Workers / employment | Railway Dept. |
+| Communication | 1 | Households / dwellings | 2011 Census |
+| Banking & Insurance | 1 | Workers / employment | District Lead Bank Manager |
+| Real estate, Ownership of Dwellings & Professional services | 3 | Households / dwellings | 2011 census, 6th Economic Census |
+| Public Administration | 1 | Workers / employment | District Treasury & Accounts Dept. |
+| Other services | 5 | Workers / employment | District Education Dept., District Health Dept. |
+
+Illustrative allocation example
+
+| Mandal | Indicator value: Paddy production (tonnes) | Share | District agriculture-paddy GVA (₹ lakh) | Allocated mandal GVA (₹ lakh) |
+| :-: | :-: | :-: | :-: | :-: |
+| A | 10,000 | 10,000 / 40,000 = 25.0% | 4,000 | 1,000 |
+| B | 15,000 | 15,000 / 40,000 = 37.5% | 4,000 | 1,500 |
+| C | 5,000 | 5,000 / 40,000 = 12.5% | 4,000 | 500 |
+| D | 10,000 | 10,000 / 40,000 = 25.0% | 4,000 | 1,000 |
+| District total | 40,000 | 100.0% | 4,000 | 4,000 |
+
+Interpretation
+
+The mandal with a higher share of paddy production receives a higher share of the district paddy GVA. This does not imply higher productivity unless yield, prices, and input costs are separately examined.
+
+Wrap-up: the five takeaways
+
+1
+
+GVA measures value added
+
+Not just production, sales or expenditure.
+
+2
+
+GSDP/GDDP need methodology
+
+Always read estimates with source, method and revision status.
+
+3
+
+Validation is central
+
+Triangulate official estimates, administrative data and proxies.
+
+4
+
+Action closes the loop
+
+Measurement becomes management only through assigned follow-up.
+
+Final message: data should not end at reporting; it should improve diagnosis, prioritisation and administrative decisions.
+
+Thank you!
+
+Government of Andhra Pradesh
+
+1

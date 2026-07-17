@@ -1,0 +1,1663 @@
+# index.html
+
+DDP Toolbox
+
+Strategies for Boosting GDDP
+
+and Sectoral GVA
+
+Andhra Pradesh
+
+Government of Andhra Pradesh · DDP Toolbox 2025
+
+1
+
+An Operating System, Not a Rigid Rulebook
+
+What the Toolbox IS
+
+Generalised guidance and a decision-support tool for district administrations.
+
+A customisable strategy framework — adapt it to your district's unique strengths.
+
+A living document driven by field feedback. Deviation is encouraged.
+
+What the Toolbox is NOT
+
+Not a set manual dictating state-mandated paths. No one-size-fits-all strategy.
+
+Not predetermined strategies that ignore district-level nuances and conditions.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+2 / 34
+
+2
+
+Andhra Pradesh: The Numbers That Matter
+
+All figures from AP APDES DDP Booklet — 2024-25 (First Revised Estimate)
+
+₹15.9L Cr
+
+AP GDDP
+
+2024-25
+
+11.75%
+
+GDDP
+
+Growth Rate
+
+28
+
+Districts
+
+(New Boundaries)
+
+₹5,91,232
+
+Highest Per Capita
+
+(Visakhapatnam, 2024-25)
+
+District GDDP Ranking — 2024-25 (₹ Crore)
+
+144220
+
+93112
+
+88637
+
+83598
+
+81971
+
+77239
+
+73707
+
+72395
+
+70972
+
+66811
+
+64572
+
+63866
+
+59273
+
+53010
+
+52762
+
+45654
+
+45453
+
+43694
+
+43439
+
+42460
+
+41895
+
+40940
+
+38964
+
+36167
+
+27678
+
+16440
+
+16074
+
+6223
+
+GDDP 2024-25 (₹ Crore)
+
+VISAKHAPATNAM
+
+NTR
+
+TIRUPATI
+
+KRISHNA
+
+ELURU
+
+SPS NELLORE
+
+GUNTUR
+
+YSR KADAPA
+
+ANANTHAPURAMU
+
+KAKINADA
+
+WEST GODAVARI
+
+EAST GODAVARI
+
+SRI SATYA SAI
+
+ANAKAPALLE
+
+KURNOOL
+
+PRAKASAM
+
+PALNADU
+
+NANDYAL
+
+SRIKAKULAM
+
+CHITTOOR
+
+DR.BR.KONASEEMA
+
+VIZIANAGARAM
+
+BAPATLA
+
+ANNAMAYYA
+
+MARKAPURAM
+
+ALLURI S.R.RAJU
+
+PARVATHIPURAM
+
+POLAVARAM
+
+TOP 5 DISTRICTS in GDDP (2024-25)
+
+\#1 Visakhapatnam: ₹1,44,220 Cr
+
+\#2 NTR: ₹93,112 Cr
+
+\#3 Tirupati: ₹88,637 Cr
+
+\#4 Krishna: ₹83,598 Cr
+
+\#5 Eluru: ₹81,971 Cr
+
+THE GROWTH GAP
+
+Vizag GDDP is 23× Polavaram's.
+
+Per capita: ₹5.9L vs ₹1.5L.
+
+Reducing this gap is our mandate.
+
+Fastest growing (GDDP): Alluri S.R.Raju +27.75%,
+
+Polavaram +25.04% — small base, big opportunity.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+3 / 34
+
+3
+
+What is GVA — and Why Does Your District Own It?
+
+GVA = Output − Intermediate Consumption
+
+GDDP = GVA + Taxes − Subsidies
+
+NATIONAL
+
+MoSPI compiles GVA from all sectors using production data, NSS surveys, ASI (Annual Survey of Industries), and corporate filings (MCA21).
+
+▶
+
+STATE (AP)
+
+APDES apportions national GVA to Andhra Pradesh using state-level activity indicators — production volumes, employment, expenditure.
+
+▶
+
+DISTRICT
+
+State GVA is split to 28 districts using district-level PROXY indicators — factory electricity, vehicle registrations, GST collections, Udyam units, tourist arrivals.
+
+KEY INSIGHT FOR DISTRICT OFFICERS
+
+District GVA is NOT directly measured — it is ESTIMATED from proxy indicators that YOU control.
+
+More Udyam registrations → higher MSME GVA. More industrial electricity connections → higher Manufacturing GVA. More tourist arrivals → higher Trade GVA.
+
+This means: every real economic action in your district directly improves your DDP number.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+4 / 34
+
+4
+
+The Four-Step Economic Engine Cycle
+
+1
+
+IDENTIFY
+
+Priority Sectors
+
+Open your district's DDP booklet. Compare each sector's share in district GVA vs AP GSDP. Where your share > AP average = Comparative Advantage.
+
+2
+
+UNDERSTAND
+
+Estimation Method
+
+Learn HOW district GVA is calculated for your priority sector. Identify which proxy indicators drive the estimates — these are the variables you must move.
+
+3
+
+STRATEGISE
+
+Plan for District
+
+Use sector frameworks to identify administrative levers. Map interventions to GVA growth pathways. Choose policies and schemes to unlock resources.
+
+4
+
+MONITOR
+
+Outcomes & Progress
+
+Track high-frequency indicators monthly. Use dashboards to spot gaps and intervene before year-end. DDP is annual — but your signals are real-time.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+5 / 34
+
+5
+
+How to Identify Your District's Priority Sectors
+
+Compare district sector share in GDDP vs. AP sector share in GSDP. Where your district share > AP average → Comparative Advantage.
+
+Sector Shares in AP GSDP — Reference Benchmark
+
+9.65
+
+11.19
+
+8.74
+
+8.46
+
+8.28
+
+7.82
+
+10.97
+
+3.89
+
+5.05
+
+6.53
+
+7.41
+
+2.88
+
+3.76
+
+2.2
+
+0.68
+
+AP GSDP Share (%)
+
+Horticulture
+
+Livestock
+
+Fisheries
+
+Other Services
+
+Real Estate
+
+Construction
+
+Manufacturing
+
+Pub.Admin
+
+Banking
+
+Transport
+
+Trade & Hotels
+
+Utilities
+
+Agriculture
+
+Mining
+
+Forestry
+
+Note: Each bar is the percentage share of that sector in AP's overall GSDP. Manufacturing and Livestock are the largest at 11% each, followed by Horticulture (10%) and Fisheries (9%). Forestry (1%) and Mining (2%) are the smallest.
+
+Step-by-Step Guide
+
+1
+
+Open DDP Booklet
+
+Find your district's DDP page (published annually by APDES). Note the % share of each sector in your district's GVA.
+
+2
+
+Find AP benchmark
+
+Use the chart on the left. Each bar is the AP average share for that sector.
+
+3
+
+Spot your advantage
+
+If your district share > AP average → you have Comparative Advantage in that sector. PRIORITISE it.
+
+4
+
+Spot fast growth
+
+Even if share is below AP average, a fast-growing sector (>15% YoY) is an Emerging Opportunity. Watch it.
+
+5
+
+Choose top 2-3
+
+Focus on 2-3 sectors. Do not spread thin. Each sector needs dedicated intervention.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+6 / 34
+
+Worked example
+
+If Livestock is 17% of your district's DDP but only 11% of AP's GSDP (hypothetical figures)→ that 6-point gap is your edge. Build your plan around it first.
+
+6
+
+Primary Sector:
+
+The Foundation of Rural Wealth
+
+Crops · Horticulture · Livestock · Fisheries · Forestry · Mining
+
+₹5.0L Cr
+
+Primary Sector GVA
+
+34%
+
+Share in AP GDVA
+
+11.6%
+
+Growth Rate 2024-25
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+7 / 34
+
+7
+
+The Crops Growth Equation
+
+AP Crops GVA 2024-25: ₹55,246 Cr · \#1 Prakasam · Estimated from crop area × production × price
+
+Production (Yield × Area)
+
+x
+
+Price Realisation
+
+−
+
+Input Costs
+
+=
+
+Crops GVA
+
+LEVERS YOU CONTROL
+
+Diversify to high-value horticulture crops
+
+Timely supply of climate-smart HYV seeds
+
+Block-level fertiliser & input monitoring
+
+Push Pradhan Mantri Fasal Bima Yojana (PMFBY) crop-insurance claim ratio
+
+Run the digital crop survey on time
+
+POLICY ENABLERS
+
+One Block – One Crop focus
+
+APEX Export Policy 2022-27
+
+Food Processing Policy 4.0 (2024-29)
+
+Mission on Agri Extension & Tech
+
+Atmanirbhar Krishak Samanvit Yojana
+
+MONITOR MONTHLY
+
+Mandi arrivals — e-NAM / AgMarknet
+
+Agri pumpset power — APCPDCL
+
+Crop exports — DGCIS
+
+Area-Production-Yield — Agri Dept
+
+Annual Crops GVA — DDP booklet
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+8 / 34
+
+8
+
+Crops in Action: Two District Stories
+
+Source: AP APDES DDP Booklet — official GVA data only. No external estimates.
+
+PRAKASAM — Agriculture Rank \#1 (2024-25)
+
+2231
+
+3083
+
+4087
+
+Agriculture GVA (₹ Crore)
+
+2022-23
+
+2023-24
+
+2024-25
+
+₹4,087 Cr
+
+GVA in 2024-25 — Rank \#1 in AP
+
++83%
+
+Total growth over 3 years (₹2,231 → ₹4,087 Cr)
+
++38%
+
+Growth in 2023-24, then +33% in 2024-25
+
+Key Levers: One Block–One Crop focus, Farmer Producer Organization (FPO)–market linkages, APEX Policy export facilitation, digital crop survey deployment.
+
+However, as per FAE for 2025-26, agriculture GVA has dipped to ₹ 1,980 Cr.
+
+KURNOOL — The Great Agriculture Comeback
+
+3713
+
+2115
+
+4028
+
+Agriculture GVA (₹ Crore)
+
+2022-23
+
+2023-24
+
+2024-25
+
+−43%
+
+Crash in 2023-24: extreme drought, crop failure
+
++90%
+
+Rebound in 2024-25: ₹2,115 Cr→ ₹4,028 Cr
+
+(But fallen again to 3,872 Crore)
+
+\#2
+
+Agriculture rank in AP after rebound
+
+Lesson: Build climate resilience first — PMFBY + PMKSY irrigation are non-negotiable levers.
+
+Neighbour Nandyal also rebounded: ₹2,657 Cr → ₹3,894 Cr (+46.56%) — same drought-recovery pattern.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+9 / 34
+
+9
+
+Horticulture: AP's Biggest Primary Sub-Sector
+
+Horticulture GVA 2024-25: ₹1,42,034 Cr — larger than Crops and Mining combined
+
+Top 10 Horticulture Districts — 2024-25
+
+16129
+
+11683
+
+10898
+
+9033
+
+8586
+
+7147
+
+6912
+
+6261
+
+6219
+
+5959
+
+Horticulture GVA 2024-25 (₹ Crore)
+
+ANANTHAPURAMU
+
+YSR KADAPA
+
+SRI SATYA SAI
+
+ELURU
+
+KURNOOL
+
+ALLURI SEETHA RAMA RAJU
+
+EAST GODAVARI
+
+CHITTOOR
+
+TIRUPATI
+
+NANDYAL
+
+Deep Dive: ANANTHAPURAMU \#1
+
+16519
+
+16093
+
+16129
+
+Horticulture GVA (₹ Cr)
+
+2022-23
+
+2023-24
+
+2024-25
+
+₹16,129 Cr — stable & resilient to shocks
+
+\#1 horticulture district in AP by GVA
+
+Lever: GI tagging for key horticulture produce
+
+Lever: FPO–APEX Policy export linkages
+
+THE RAYALASEEMA HORTICULTURE BELT — Your Biggest Opportunity
+
+Ananthapuramu (₹16,129 Cr) + YSR Kadapa (₹11,683 Cr) + Sri Satya Sai (₹10,898 Cr) = ₹38,710 Cr = 27% of AP's entire horticulture GVA
+
+Administrative levers: APEX Policy export facilitation + AP Food Processing Policy 4.0 cold chain investments + FPO formation linked to processing units.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+10 / 34
+
+10
+
+Multiplying Value in Livestock & Fisheries
+
+Livestock: ₹1,64,543 Cr (\#1 Sri Satya Sai) · Fisheries: ₹1,28,481 Cr (\#1 Eluru)
+
+1 BREEDING
+
+High-yield indigenous cattle
+
+Wider AI & sex-sorted semen
+
+High-value fish species
+
+2 FEED & HEALTH
+
+Climate-smart fodder
+
+Doorstep para-vet care
+
+Vaccination & insurance
+
+3 PROCESSING
+
+Insulated transport & chilling
+
+Cut post-harvest loss
+
+Paneer / fillet / FPO units
+
+4 MARKETING
+
+Urban retail + export certs
+
+AP Poultry Policy & Milk Act
+
+CASE STUDY — Eluru: \#1 in AP Fisheries
+
+Fisheries GVA trajectory
+
+₹22,446 Cr → ₹24,181 Cr (+7.7%) → ₹27,489 Cr (+13.68%)
+
+Godavari-delta aquaculture is the engine.
+
+Top 3 = 57.6% of AP fisheries:
+
+Eluru 21.4% · Krishna 20.8% · W. Godavari 15.4%
+
+The decisive levers
+
+Insulated cold-chain transport
+
+Export certification compliance
+
+FPO collective marketing
+
+Monitor: DGCIS exports (monthly), AHD production (qtrly)
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+11 / 34
+
+11
+
+The Mining Output Funnel
+
+AP Mining & Quarrying GVA 2024-25: ₹32,423 Cr · \#1 Konaseema
+
+No. of Active Sites
+
+×
+
+Output per Site
+
+=
+
+Mining GVA
+
+1. EXPLORATION & LICENSING
+
+Hold mineral auctions & permits on time
+
+Keep mineral survey & lease data transparent
+
+Curb illegal mining actively
+
+2. INFRASTRUCTURE & LOGISTICS
+
+Build quarry access roads
+
+Add weighbridges & warehouses
+
+Run regulated transit corridors & check-posts
+
+3. PROCESSING & VALUE ADDITION
+
+Mechanise kilns & granite polishing
+
+Form MSME mineral clusters
+
+Set up Common Facility Centres for certification
+
+CASE STUDY — Dr. B.R. Ambedkar Konaseema: AP's \#1 mining district
+
+GVA held steady at the top: ₹7,150 Cr (22-23) → ₹6,766 Cr (23-24) → ₹7,124 Cr (24-25, +5.3%).
+
+Lever: streamline transit permits and clamp down on illegal sand mining — that is where leakage and lost GVA hide.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+12 / 34
+
+12
+
+Balancing Extraction and Preservation in Forestry
+
+AP Forestry GVA 2024-25: ₹9,998 Cr · \#1 YSR Kadapa · Tribal districts Alluri S.R.Raju & Parvathipuram are high-growth opportunities
+
+Prudent Usage
+
+Expand green cover through afforestation. Monitor sapling plantation targets in coordination meetings. Enforce against illegal felling and encroachment.
+
+Price Realisation
+
+Support bamboo furniture & resin plants via MSME + skilling schemes. Link minor forest produce (tendu, honey, gum) to urban markets and e-NAM.
+
+Lower Input Costs
+
+Ensure timely timber extraction transit permits. Coordinate forest fire prevention using drones. Reduce wastage through improved harvesting methods.
+
+TRIBAL DISTRICT OPPORTUNITY: ALLURI S.R. RAJU & PARVATHIPURAM MANYAM
+
+Alluri S.R. Raju: GDDP ₹16,440 Cr but growing at +27.75% — the FASTEST growth rate in all of AP in 2024-25.
+
+Parvathipuram Manyam: ₹16,074 Cr, +14.14%. Both districts have massive forest-based livelihood potential — bamboo, NTFP, tribal craft MSMEs. These are small-base, high-growth districts. The right policy levers could transform them.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+13 / 34
+
+13
+
+Group Activity
+
+Identify Your District's Primary Sector Advantage
+
+15 Minutes | Groups of 3–4 | 2-minute group presentation at the end
+
+1
+
+Look up your district
+
+Using the DDP Booklet provided, find your district's sector-wise GVA shares. Note the top 3 sectors by % contribution to your GDDP.
+
+2
+
+Compare vs AP average
+
+Using the chart from Slide 6, compare your sector shares vs the AP GSDP average. Mark sectors where your district OUTPERFORMS AP.
+
+3
+
+Spot the growth stars
+
+Which sector grew fastest in 2024-25 in your district? Which sector declined? What one administrative action could have prevented the decline?
+
+4
+
+Choose 2 priority sectors
+
+Select 2 sectors. For EACH, name: one specific lever from the toolbox you will activate, the scheme that funds it, and the KPI you will track monthly.
+
+Presentation format: 'Our district is [X]. Our top 2 sectors are [Y] & [Z]. In the next 90 days, we will [specific lever] to move [KPI].'
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+14 / 34
+
+14
+
+Secondary Sector:
+
+Powering Industry and Construction
+
+Manufacturing · Construction · Electricity & Utilities
+
+₹3.51L Cr
+
+Industry GVA
+
+2024-25
+
+23.9%
+
+Share in AP GDVA
+
+8.6%
+
+Growth Rate
+
+2024-25
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+15 / 34
+
+The Industrial Engine: Manufacturing
+
+Mfg GVA 2024-25: ₹1,61,283 Cr · Organised \~two-thirds (ASI) + Unorganised \~one-third (MSME / Udyam)
+
+No. of Factories
+
+×
+
+Productivity per Factory
+
+=
+
+Mfg GVA
+
+Land & Infrastructure
+
+Maintain a live AP Industrial Infrastructure Corporation (APIIC) land bank; fast-track land conversion; ensure reliable power, water & waste links.
+
+Investment Facilitation
+
+Run National Single Window System (NSWS) clearances fast; keep investor relations with top firms; build a district vendor database via District Industries and Export Promotion Committee (DIEPC).
+
+Policy Enablers
+
+Use ODOP, AP Industrial Policy 4.0, Electronics Mfg Policy 4.0 and GoI PLI schemes.
+
+MSME Value Addition
+
+Set up common facility centres (CFCs), design & testing labs; help with branding, bank credit, subsidies & guarantees.
+
+Formalisation
+
+Drive Udyam registrations — they sharpen the GVA estimate and ease MSME GST & expansion.
+
+Monitor Monthly
+
+Industrial power (APCPDCL), live Udyam count, Factories Act data, annual Mfg GVA (DDP).
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+16 / 34
+
+Manufacturing in Action: Two District Stories
+
+Official Manufacturing GVA from AP APDES DDP Booklet · Rs. in Cr.
+
+VISAKHAPATNAM — Now Rank \#1
+
+Rs.34,343 Cr
+
+Manufacturing GVA, 2024-25
+
++56%
+
+Growth over 2 years: Rs.22,021 → 34,343 Cr
+
+\#2 → \#1
+
+Overtook Tirupati to lead AP manufacturing
+
+Anchor
+
+Chemicals, pharma & port-led industry cluster
+
+Lever: APIIC land bank + fast NSWS clearances. Land + speed are the two decisive levers.
+
+YSR KADAPA — The Breakout
+
+Rs.10,237 Cr
+
+Manufacturing GVA, 2024-25
+
+\~4×
+
+Grew from just Rs.2,563 Cr in 2022-23
+
+\#13 → \#5
+
+Biggest manufacturing rank jump in AP
+
+Base
+
+A low starting base became the opportunity
+
+Lesson: targeted investment facilitation + ODOP can move a small district into the top tier fast.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+17 / 34
+
+Construction & Utilities: Building the Foundation
+
+Construction GVA: ₹1,14,992 Cr · Utilities GVA: ₹42,321 Cr · \#1 Visakhapatnam (Construction) · \#1 SPS Nellore (Utilities, +25.17%)
+
+CONSTRUCTION — ₹1,14,992 Cr | \#1 Vizag
+
+GVA driven by: Government Works + Household Construction + Residual/Commercial (largest component)
+
+Works Portfolio
+
+Identify & initiate new public works (roads, housing, irrigation) with PWD & ULBs. Track project pipelines. Fast-track viable proposals.
+
+Execution Efficiency
+
+Improve material quality → ↑ Gross Fixed Capital Formation. Fast-track clearances. Monitor contractors. Resolve bottlenecks.
+
+PMAY Coverage
+
+Drive PMAY-Urban & Rural housing completions. Coordinate with ULBs and housing boards. Improve property registration.
+
+BOCW & Labour
+
+MGNREGA person-days monitoring. BOCW worker registration. GST cement/steel as leading indicator of construction activity.
+
+ELECTRICITY, GAS & WATER — ₹42,321 Cr | \#1 SPS Nellore
+
+SPS NELLORE: ₹5,961 Cr (2022-23) → ₹9,130 Cr (2024-25) = +53% in 2 years, +25.17% in 2024-25
+
+Coverage
+
+Coordinate with DISCOMs for new household, industrial & agri connections. Drive JJM tap water & PNG coverage where networks exist.
+
+Reliability
+
+Monitor power hours & water pressure. Resolve local bottlenecks with APCPDCL. Feeder separation for agriculture reliability.
+
+Efficiency
+
+Promote rooftop solar, biogas, mini-grids. Energy-efficient pumps. Strengthen billing & AT&C loss reduction.
+
+Water & Sanitation
+
+JJM Dashboard tracking (concurrent). SBM-Urban/Rural expenditure. GOBARdhan biogas plant registration.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+18 / 34
+
+Tertiary Sector:
+
+Connecting People, Capital and Services
+
+Trade & Tourism · Financial Services · Real Estate & IT/GCC · Education · Health
+
+₹6.2L Cr
+
+Services GVA
+
+2024-25
+
+13.1%
+
+Sector Growth
+
+Rate
+
+42%
+
+Share in AP
+
+GDVA
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+19 / 34
+
+Activating the Tourism and Trade Economy
+
+Trade & Hotels GVA: ₹1,09,011 Cr · \#1 Visakhapatnam ₹35,602 Cr (+14.41%)
+
+Number of Tourists
+
+×
+
+Spend per Tourist
+
+×
+
+Length of Stay
+
+=
+
+GVA
+
+Identify
+
+Attractions
+
+Prioritise 2-3 anchor sites for focused development. Register heritage buildings under ASI Act. Promote local fairs and cultural festivals.
+
+▶
+
+Build
+
+Amenities
+
+Coordinate with PWD for last-mile access. Upgrade tourist sites — basic amenities, clean facilities, signage.
+
+▶
+
+Link to Local
+
+Economy
+
+Co-locate tourism clusters with ODOP and handicrafts. Attract PPP/CSR investments. Train local guides and hospitality workers.
+
+▶
+
+Policy &
+
+Regulation
+
+AP Tourism Policy (4.0) 2024-29. National Digital Tourism Mission. Pradhan Mantri MUDRA Yojana.
+
+The Dashboard (Indicators): Quarterly tourist footfall — Tourism Dept · Monthly GST from hotels/restaurants — Commercial Tax · Registered units under AP Tourism Policy 4.0
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+20 / 34
+
+Deepening the Financial Ecosystem
+
+Banking & Insurance GVA: ₹74,313 Cr · \#1 NTR · GVA = f(Credit, Deposits, No. of Bank Branches)
+
+GVA grows when: Credit ↑ · Deposits ↑ · CD Ratio improves · Bank Branches expand · Financial Inclusion deepens
+
+Banking Coverage
+
+Push wider banking coverage in underserved mandals. Ensure registration of all financial companies. Support Bank Mitras, ATM kiosks, post offices as alternate access points.
+
+Credit Access & CD Ratio
+
+Run loan camps: KCC, PM Mudra, SVANidhi. Review priority sector lending targets in district forums under annual credit plan. Maintain healthy Credit-Deposit ratio. Reduce NPAs through monitoring.
+
+Digitalisation & Literacy
+
+Promote UPI/digital payments in mandal markets. Financial literacy drives for SHGs, farmers, students, and small traders.
+
+The Dashboard (Indicators): Quarterly: Credit, Deposit, CD Ratio — Finance Department · Quarterly: Number of bank branches · Annual: Banking GVA — DDP Booklet
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+21 / 34
+
+Formalising Real Estate and Professional Services
+
+Real Estate & Dwellings GVA: ₹1,21,711 Cr · \#1 NTR · GVA = Real Estate Projects + Housing Stock (imputed rent) + IT/Professional Services
+
+Real Estate
+
+Projects
+
+Strengthen RERA implementation: project registration and faster dispute resolution. Accelerate property registration and mutation through digitisation. Stamp duty drives to formalise transactions.
+
+Housing Stock
+
+Formalisation
+
+Support PMAY-Urban & Rural through ULBs and housing boards. Improve property tax collections via updated assessments.
+
+IT/GCC &
+
+Professional Services
+
+AP IT & GCC Policy 4.0 (2024-29): attract global capability centres. AP Startup Policy 4.0. STPI registration for IT units = district GVA credit. Enable office space and power infrastructure.
+
+Policy Enablers
+
+AP IT & GCC Policy 4.0 (2024-29) · AP Innovation & Startup Policy 4.0 · RERA 2016 · Pradhan Mantri Awas Yojana
+
+The Dashboard (Indicators)
+
+Monthly: Stamp Duty & Registration revenue (Registration & Stamps Dept) · Monthly: AP RERA project registrations · Annual: Real Estate & IT GVA (DDP Booklet)
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+22 / 34
+
+Education, Health & Transport: Human Capital
+
+Other Services GVA: ₹1,24,356 Cr · Transport: ₹95,960 Cr · Public Admin: ₹57,212 Cr · Services: \#1 NTR · Public Admin: \#1 Guntur · Transport: \#1 Vizag
+
+EDUCATION
+
+Other Services
+
+GVA: ₹1,24,356 Cr
+
+Institutions
+
+Clear private provider applications. Map vocational institutes in Skill Committees to job demand.
+
+Teacher Availability
+
+Track faculty deployment. Escalate vacancies. Monitor absenteeism and coordinate training.
+
+Enrolment & Outcomes
+
+Drive enrolment into secondary/higher education. Monitor mid-day meals, scholarships, remedials.
+
+Dashboard: Annual: Enrolment in HEIs · Annual: Student placements (SSDF)
+
+HEALTH
+
+National Health Mission
+
+Expenditure
+
+Infrastructure
+
+Enable clearances for private hospitals & diagnostics. Formalise unregistered providers. Expand PHC/CHC.
+
+Human Resources
+
+Ensure doctor/paramedic punctuality. ASHA/ANM incentives. Fill vacancies through timely recruitment.
+
+Accessibility
+
+Targeted health camps in underserved areas. Monitor NHM expenditure utilisation. Quality of care monitoring.
+
+Dashboard: Monthly: NHM expenditure · Annual: GST from pharmacies
+
+TRANSPORT
+
+& STORAGE
+
+Transport GVA:
+
+₹95,960 Cr
+
+Connectivity
+
+Improve rural roads and bus stands. Promote district markets as freight aggregation hubs.
+
+Infrastructure
+
+Complete road/depot/logistics hub projects. Expedite land & approvals for warehouses and cold storage.
+
+Communication
+
+Fast-track BTS tower permits. Fibre rollout support. Warehouse capacity tracking.
+
+Dashboard: Monthly: Vehicle registrations (Vahan) · Quarterly: Petrol/diesel/CNG sales (PPAC)
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+23 / 34
+
+Communications, Railways and Value Addition
+
+Communications GVA: ₹28,641 Cr · Railways GVA: ₹9,223 Cr · \#1 Visakhapatnam (Comms) · \#1 NTR (Railways)
+
+COMMUNICATIONS
+
+Communications
+
+GVA: ₹28,641 Cr
+
+BTS Towers
+
+Fast-track BTS tower permit applications. Coordinate with telecom operators for site clearances.
+
+Fibre Rollout
+
+Support fibre rollout for last-mile broadband. Track internet subscriber base at district level.
+
+Coverage Monitoring
+
+Monitor BTS tower count, telecom subscriber growth, and broadband penetration quarterly.
+
+Dashboard: Monthly: BTS tower count (DoT/TRAI) · Monthly: Telecom subscriber base
+
+RAILWAYS
+
+Passenger & Freight
+
+₹9,223 Cr
+
+Track Coverage
+
+Railway track length is the key district proxy indicator for apportionment. Flag underserved mandals.
+
+Freight Hubs
+
+Promote district market yards as freight aggregation hubs. Coordinate with DRM for siding access.
+
+Project Approvals
+
+Facilitate land and approvals for railway projects. Track passenger traffic at district stations.
+
+Dashboard: Monthly: Passenger & freight earnings · Indicator: Railway track length
+
+VALUE ADDITION
+
+OPPORTUNITY
+
+Reference: 7th Collectors
+
+Conference, May 2026
+
+Chilli
+
+AP produces 12L MT; exports 4.5L MT (65% of Indian chilli exports, ₹5,000 Cr). Value-added products: 300% premium.
+
+Mango
+
+AP produces 4 MMT (25-30% of India). Value addition = 20% premium. Only 15.6% currently processed.
+
+Seafood
+
+AP produces 4L MT; exports 3L MT (37% of Indian seafood exports). Value-added shrimp: 25% premium.
+
+Source: 7th Collectors Conference, May 2026, Amaravati (Swarna Andhra KPI Deck).
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+35 / 35
+
+Group Activity
+
+Mapping Your District's Service Sector Levers
+
+15 Minutes | Same Groups | Focus: One sector from secondary OR tertiary
+
+1
+
+Which sector contributes most to your district's GDDP?
+
+Hint: Use the DDP Booklet. Compare your sector % share vs AP average from Slide 6.
+
+2
+
+Which proxy indicator for that sector can you move fastest?
+
+Hint: E.g. for Manufacturing: Udyam registrations. For Tourism: hotel GST registrations. For Construction: MGNREGA days.
+
+3
+
+Name ONE lever from the toolbox you will activate in 30 days.
+
+Hint: Be specific: which scheme, which officer, which mandal? Vague actions don't happen.
+
+4
+
+What is your 90-day measurable target?
+
+Hint: A number, with a data source. 'Increase tourist footfall by 20%' + 'measured from Tourism Dept quarterly data'.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+24 / 34
+
+NITI for States: Learning from India's Best Practices
+
+Portal: https://shm.to/nitiforstates · Case studies from Agriculture, MSMEs, Manufacturing, Skilling & Tourism across Indian states
+
+Use NITI for States alongside your DDP Toolbox — find what worked elsewhere, then adapt it to your district's specific conditions.
+
+Best Practice: Agriculture
+
+Agriculture & Horticulture
+
+GI Tagging + Export Linkage for Price Premiums
+
+What worked:
+
+GI tagging combined with FPO–exporter linkage programmes has enabled premium price realisation for key horticulture produce. Collective branding reduced price volatility and improved market access.
+
+AP Relevance:
+
+AP Applicability: Ananthapuramu groundnuts, Guntur chilli, Tirupati banana, YSR Kadapa tomatoes — all strong GI tag candidates. Bundle with APEX Policy export facilitation.
+
+Lever: One GI tag application per district per year in horticulture belt. Measure: Export value from DGCIS monthly data.
+
+Best Practice: MSME
+
+MSME / Manufacturing
+
+MSME Cluster CFCs: Shared Infrastructure Drives Formalisation
+
+What worked:
+
+Cluster Development Programmes link MSME clusters to shared testing labs, design studios, and export cells. Shared infrastructure drives formalisation of informal units and widens the GVA base.
+
+AP Relevance:
+
+AP Applicability: Tirupati pharma cluster, Vizag chemicals, Anakapalle MSME belt — all suitable for CFC establishment under AP Industrial Policy 4.0 + APIIC support.
+
+Lever: Identify 1 dominant MSME sub-sector per district. Push for CFC via DIEPC. Measure: Udyam registrations + industrial electricity monthly.
+
+Best Practice: Tourism
+
+Tourism
+
+Responsible Tourism: Linking Tourist Spend to Local Economy
+
+What worked:
+
+Responsible Tourism initiatives link tourist spending directly to local farmer-producers and artisans — raising spend per tourist, extending length of stay, and multiplying GVA across trade, transport, and hospitality.
+
+AP Relevance:
+
+AP Applicability: Araku Valley, Lambasingi, Lepakshi heritage, Vizag beaches, Nagarjunasagar — link tourism clusters with tribal craft ODOP and local agri-produce.
+
+Lever: Identify 2 'responsible tourism' pilot villages per district under AP Tourism Policy 4.0. Measure: Quarterly tourist arrivals + GST from hotels/restaurants.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+25 / 34
+
+Monitoring &
+
+Data Tools
+
+Consolidated Dashboard · AI Tools · NITI for States Portal
+
+DDP is published ONCE a year. But your economy moves every day.
+
+You need monthly signals — not annual reports — to drive your decisions.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+26 / 34
+
+Your Monthly Economic Monitoring Dashboard
+
+Track these indicators monthly. DDP is annual — these are your real-time proxies for each sector's GVA.
+
+| Sector | Key Indicator | Frequency | Data Source |
+| :-: | :-: | :-: | :-: |
+| Primary | Mandi arrivals by volume (commodity-wise) | Weekly | e-NAM / AgMarknet |
+| Primary | Agricultural pumpset electricity consumption | Monthly | APCPDCL |
+| Primary | Commodity-wise exports (value & AP share %) | Monthly | DGCIS |
+| Primary | Area, Production, Yield — crops & horticulture | Annual | AP Agriculture Department |
+| Primary | Livestock & fisheries production and yield | Quarterly | AHD / Directorate of Fisheries |
+| Secondary | Industrial electricity consumption | Monthly | APCPDCL |
+| Secondary | Udyam Portal — workers & units registered | Real-time | MSME Dashboard |
+| Secondary | Factories Act — factories & workers | Quarterly | Labour Dept / ASI |
+| Secondary | MGNREGA — person-days, expenditure | Concurrent | NREGANAREP portal |
+| Secondary | GST collections from manufacturing | Annual | Commercial Tax Dept |
+| Tertiary | No. of domestic & foreign tourists | Quarterly | Tourism Department |
+| Tertiary | Registered commercial & other vehicles | Monthly | Vahan Dashboard |
+| Tertiary | Total petrol, diesel & CNG sales | Quarterly | PPAC / Vahan |
+| Tertiary | Credit, Deposit, CD ratio | Quarterly | Finance Department |
+| Overall | Total GDDP & sector-wise GVA | Annual | DDP Booklet (APDES) |
+| Overall | Total district exports (commodity-wise) | Annual | DGCIS |
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+27 / 34
+
+Accelerating Strategy with Modern AI Tools
+
+Free AI tools any district officer can use today — no technical skills required.
+
+| AI Tool | Use Case for Districts | Actionable Prompt / How to Use |
+| :-: | :-: | :-: |
+| Perplexity(Search Engine) | Find case studies. Draw insights from AP schemes and policies. | "Summarise key provisions of AP Food Processing Policy 4.0 and lessons for Eluru district." |
+| ChatGPT(Thought Partner) | Brainstorm strategies and troubleshoot challenges. | "Brainstorm 5 ways a DM can improve the Credit-Deposit ratio in a semi-urban AP district." |
+| Copilot / Gemini(Workspace) | Generate slides, dashboards, and reports from Excel or Word files. | "[Upload DDP Excel] Generate a SWOT for my district. Create a slide with 3 strategies to boost exports." |
+| NotebookLM(Document Synthesiser) | Feed AP policy documents; get district-focused insights from the uploaded docs. | "Given AP Tourism Policy 4.0 and Swarna Andhra@2047, what joint opportunities exist for Vizianagaram?" |
+| NITI for States(Best Practice Portal) | Access national case studies across Agriculture, MSMEs, Manufacturing, Tourism. | Portal: shm.to/nitiforstates · Browse by sector · Filter by state · Download case study PDFs |
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+28 / 34
+
+Action Planning
+
+Workshop
+
+Your 90-Day District GVA Growth Plan
+
+You now have the framework.
+
+You have the data. You have the levers.
+
+Now — make it specific to your district.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+29 / 34
+
+Your 90-Day District GVA Growth Plan
+
+Fill this table for your district. Use data from the DDP Booklet. Be specific — vague plans don't get implemented.
+
+District: _____________ | DM / Collector: _____________ | Date: _______ | Review Date: _______
+
+| PrioritySector | GVA Rank &Growth 2024-25 | Key ProblemIdentified | Lever fromToolbox | Scheme /Policy | Monthly KPIto Track | 90-DayTarget | ResponsibleOfficer |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| PRIMARY |  |  |  |  |  |  |  |
+| SECONDARY |  |  |  |  |  |  |  |
+| TERTIARY |  |  |  |  |  |  |  |
+| OVERALL |  |  |  |  |  |  |  |
+
+Tips for a Strong 90-Day Plan:
+
+Be specific on KPIs
+
+Not 'improve tourism' — but 'increase tourist arrivals by 15% vs Q3 2024-25, measured from Tourism Dept data'.
+
+Map to a toolbox lever
+
+Every action must trace to a specific lever in the DDP Toolbox. No lever = no GVA impact.
+
+Name the scheme
+
+Which government scheme funds this? Unnamed schemes don't get budget lines. Be explicit.
+
+One responsible officer
+
+Actions with no owner don't happen. Name the DRO/DCSO/Asst. Collector who owns follow-up.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+30 / 34
+
+Your Commitment Card
+
+Fill this. Exchange with a peer officer. Review together in exactly 90 days.
+
+MY 90-DAY COMMITMENT | District: _____________
+
+My district's top priority sector:
+
+(Based on comparative advantage — DDP data)
+
+My #1 lever I will push in 90 days:
+
+(Specific lever from the DDP Toolbox)
+
+The scheme/policy I will use:
+
+(Name the GoAP/GoI programme)
+
+My measurable KPI by [date]:
+
+(Specific, quantifiable, with data source)
+
+My peer accountability officer:
+
+(Name + designation + contact)
+
+My 90-day review date:
+
+(_____________ | Fill the date now)
+
+How Peer Accountability Works
+
+1. Exchange commitment cards right now.
+
+2. Set a phone reminder for the review date.
+
+3. Day 30 check-in via WhatsApp or call.
+
+4. Day 90: bring DDP data to verify progress.
+
+5. Share learnings with Planning Department.
+
+Why This Matters
+
+▸ Districts that monitor GVA proxies monthly outperform those that wait for the annual DDP.
+
+▸ The DDP Toolbox has no value sitting on a shelf. It only works when a DM acts on it.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+31 / 34
+
+10 Things to Remember from Today
+
+1
+
+DDP is your scorecard
+
+Every administrative action either improves it or fails to. Know your district's GDDP number.
+
+2
+
+GVA is estimated from your actions
+
+Udyam registrations, electricity connections, tourist numbers — these ARE your GVA proxies.
+
+3
+
+Comparative advantage guides priority
+
+Where your sector share > AP average: that's your edge. Double down there first.
+
+4
+
+Follow 4 steps, always
+
+Identify → Understand → Strategise → Monitor. Repeat every quarter without exception.
+
+5
+
+Horticulture is AP's goldmine
+
+₹1.42L Cr — bigger than Crops and Mining combined. Rayalaseema belt is underexploited.
+
+6
+
+Manufacturing needs land + speed
+
+Vizag grew +56% in 2 years. Land bank + NSWS clearance speed are the two key levers.
+
+7
+
+Tourism multiplies across sectors
+
+1 tourist → Hotels GVA + Trade GVA + Transport GVA + Craft sector. Highest multiplier effect.
+
+8
+
+Monitor monthly, not annually
+
+Electricity data, mandi arrivals, vehicle sales — your real-time signals. Use them.
+
+9
+
+AI tools are free and powerful
+
+Perplexity + NotebookLM + ChatGPT: use them to research schemes and draft strategies today.
+
+10
+
+You are the last mile
+
+No central policy works without district execution. You are the growth engine of Andhra Pradesh.
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+32 / 34
+
+Quick Reference: Key Resources & Data Sources
+
+District Data
+
+DDP Booklet (APDES): des.ap.gov.in
+
+APCPDCL electricity data: apcpdcl.in
+
+Vahan Dashboard: vahan.parivahan.gov.in
+
+e-NAM: enam.gov.in | AgMarknet: agmarknet.gov.in
+
+DGCIS exports: ftddp.dgciskol.gov.in
+
+Scheme Dashboards
+
+PMAY-U / PMAY-G dashboards (MoHUA)
+
+JJM Dashboard: ejalshakti.gov.in
+
+MGNREGA: nreganarep.nic.in
+
+Udyam: dashboard.msme.gov.in
+
+NSWS: nsws.gov.in
+
+AP Government
+
+APIIC: apiic.in
+
+AP RERA: rera.ap.gov.in
+
+AP BOCW: apbocwwb.ap.gov.in
+
+APWRIMS: apwrims.ap.gov.in
+
+APDES: des.ap.gov.in
+
+AI & Best Practices
+
+NITI for States: shm.to/nitiforstates
+
+Perplexity: perplexity.ai
+
+ChatGPT: chatgpt.com
+
+NotebookLM: notebooklm.google.com
+
+Feedback: apsdps.plg@ap.gov.in
+
+AP DDP Toolbox · Planning Department, Government of Andhra Pradesh
+
+33 / 34
+
+Thank You
+
+Every District,
+
+a Growth Engine.
+
+Every Officer,
+
+a Strategist.
+
+This toolbox is a living document. Your field experience will make it better.
+
+Feedback:
+
+apsdps.plg@ap.gov.in
+
+DDP Booklet:
+
+des.ap.gov.in
+
+NITI for States:
+
+shm.to/nitiforstates
+
+Swarna Andhra @ 2047
+
+Vision: GSDP ₹308 Lakh Crore & Per Capita ₹55 Lakh by 2047

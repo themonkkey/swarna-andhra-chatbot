@@ -1,0 +1,6 @@
+District: Krishna — Sector: Per Capita Income (Rs.)
+
+2022-23 (TRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 5.62, Contribution to state total = 363,372.00%
+2023-24 (SRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 8.52, YoY Growth = 5.62%, Contribution to state total = 408,882.00%
+2024-25 (FRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 12.52, YoY Growth = 5.65%, Contribution to state total = 481,878.00%
+2025-26 (FAE): Value = Rs. 2.00 Cr., Rank among 28 districts = 17.85, YoY Growth = 6.03%, Contribution to state total = N/A%

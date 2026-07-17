@@ -1,0 +1,184 @@
+Endline Assessment
+
+District Level Training
+
+Swarna Andhra Vision 2047 | KPIs | GDP / GVA / GDDP
+
+Officer Profile
+
+|  |  |
+| :-: | :-: |
+| Name | Designation |
+| Department / Office | District |
+| Years of Experience | Date |
+
+Section A: GDP / GVA / GDDP
+
+|  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Statement | Strongly Disagree (1) | Disagree (2) | Neutral (3) | Agree (4) | Strongly Agree (5) |
+| 1. I clearly understand the difference between Gross Value Added (GVA) and Gross Domestic Product (GDP). | ○ | ○ | ○ | ○ | ○ |
+| 2. I understand how GVA is converted to GDP by adding net taxes on products (taxes minus subsidies). | ○ | ○ | ○ | ○ | ○ |
+| 3. I understand the difference between nominal GDP and real GDP. | ○ | ○ | ○ | ○ | ○ |
+| 4. I am familiar with the concept of base year and why it is revised periodically. | ○ | ○ | ○ | ○ | ○ |
+| 5. I understand the difference between the production, expenditure, and income approaches to estimating GDP. | ○ | ○ | ○ | ○ | ○ |
+| 6. I am aware of the difference between the bottom-up and top-down approaches in estimating District Domestic Product. | ○ | ○ | ○ | ○ | ○ |
+| 7. I can correctly classify economic activities into primary, secondary, and tertiary sectors. | ○ | ○ | ○ | ○ | ○ |
+| 8. I am clear about how the primary sector's contribution to GVA is estimated. | ○ | ○ | ○ | ○ | ○ |
+| 9. I understand the broad methodology used to estimate GVA from the secondary sector (manufacturing, construction, utilities). | ○ | ○ | ○ | ○ | ○ |
+| 10. I am familiar with how the tertiary (services) sector's contribution to GVA is estimated. | ○ | ○ | ○ | ○ | ○ |
+| 11. I have a broad understanding of the purpose of surveys like ASI and LFS in the estimation of GVA. | ○ | ○ | ○ | ○ | ○ |
+| 12. I broadly understand the method of estimating District Domestic Product and Mandal Domestic Products, including the indicators used for allocation. | ○ | ○ | ○ | ○ | ○ |
+
+Objective Questions
+
+What does GVA measure?
+
+|  |  |
+| :-: | :-: |
+| A. Total population of a district | B. Value added after deducting intermediate inputs from output |
+| C. Total government expenditure | D. Total exports of a state |
+
+Which formula correctly represents GVA?
+
+|  |  |
+| :-: | :-: |
+| A. Output + Intermediate Consumption | B. Output − Intermediate Consumption |
+| C. Taxes − Subsidies | D. Consumption + Investment |
+
+3. Agriculture, livestock, forestry, fishing and mining are part of which broad sector?
+
+|  |  |
+| :-: | :-: |
+| A. Primary sector | B. Secondary sector |
+| C. Tertiary sector | D. Financial sector |
+
+4. At constant prices, estimates generally use
+
+|  |  |
+| :-: | :-: |
+| A. Current year production with current year prices | B. Base year production with current year prices |
+| C. Current year production with base year prices or deflators | D. Only population data |
+
+5. When direct district-level GVA data is not available, district estimates are usually prepared by
+
+|  |  |
+| :-: | :-: |
+| A. Ignoring the sector | B. Apportioning state estimates using suitable district indicators |
+| C. Using only national averages | D. Taking equal share for all districts |
+
+6. Which is a key limitation in estimating district domestic product?
+
+|  |  |
+| :-: | :-: |
+| A. Too much direct district data is available | B. Districts have identical economic structures |
+| C. Many activities require proxy indicators or allocation keys | D. GVA is not sector-specific |
+
+7. For district-level banking and insurance estimates, state GVA is apportioned using
+
+|  |  |
+| :-: | :-: |
+| A. Forest area | B. Tourist arrivals |
+| C. Bank credits and deposits | D. Paddy production |
+
+8. In Mandal Domestic Product allocation, production/output indicators are considered useful because they are
+
+|  |  |
+| :-: | :-: |
+| A. Closest to direct economic activity | B. Always available from Census |
+| C. Unrelated to GVA | D. Used only for services sector |
+
+Subjective Question
+
+Explain the difference between GVA and GSDP in simple terms.
+
+Why are district estimates harder to prepare than state estimates?
+
+How is GDDP estimated when direct district data is not available?
+
+Section B: Strategies for Boosting District GVA
+
+Objective Questions
+
+1. Which of the following is the correct four-step economic engine cycle discussed in the presentation?
+
+A. Plan - Spend - Report - Close
+
+B. Identify - Understand - Strategise - Monitor
+
+C. Survey - Budget - Approve - Audit
+
+D. Collect - Compile - Publish - File
+
+2. How should a district identify its priority sectors for GVA growth?
+
+A. Select only sectors with the highest population share
+
+B. Compare district sector share with AP average and identify comparative advantage
+
+C. Choose sectors randomly to ensure balance
+
+D. Focus only on sectors that declined in the previous year
+
+3. Which indicator is most directly linked to manufacturing formalisation and MSME GVA improvement?
+
+A. Number of tourist arrivals
+
+B. Udyam registrations and industrial electricity consumption
+
+C. Forest area and rural population
+
+D. Bank deposits alone
+
+4. In the tourism and trade growth equation, GVA improves mainly through:
+
+A. Number of tourists, spend per tourist and length of stay
+
+B. Only the number of government employees
+
+C. Only agricultural production
+
+D. Only road length in the district
+
+5. Why should district officers monitor high-frequency proxy indicators instead of relying only on annual DDP publication?
+
+A. Because annual DDP is enough for all operational decisions
+
+B. Because monthly signals help identify gaps and correct course before year-end
+
+C. Because proxy indicators are unrelated to GVA
+
+D. Because monitoring should be avoided at district level
+
+6. For improving banking and insurance GVA, which set of variables should district officials review regularly?
+
+A. Credit, deposits, CD ratio, bank branches and financial inclusion
+
+B. number of tourist guides
+
+C. crop area under paddy
+
+D. number of government buildings
+
+Subjective Question
+
+1. What is meant by comparative advantage in district GVA planning?
+
+2. Why are proxy indicators important for district GVA improvement?
+
+3. Why is monthly monitoring better than waiting for the annual DDP estimate?
+
+Section C: Training Feedback
+
+|  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Statement | Strongly Disagree (1) | Disagree (2) | Neutral (3) | Agree (4) | Strongly Agree (5) |
+| The objectives of the training session were clearly explained. | ○ | ○ | ○ | ○ | ○ |
+| The training content was relevant to my role as a district official. | ○ | ○ | ○ | ○ | ○ |
+| The session helped me understand the importance of GVA/GDDP in district planning. | ○ | ○ | ○ | ○ | ○ |
+| The trainer explained the concepts in a clear and simple manner. | ○ | ○ | ○ | ○ | ○ |
+| The examples and case studies used in the session were useful and practical | ○ | ○ | ○ | ○ | ○ |
+| The training helped me identify sector-specific opportunities for improving district GVA. | ○ | ○ | ○ | ○ | ○ |
+| The training encouraged active participation and discussion among participants | ○ | ○ | ○ | ○ | ○ |
+| The duration and pace of the training session were appropriate. | ○ | ○ | ○ | ○ | ○ |
+| Overall, the training was useful for improving my understanding of district economic growth and planning. | ○ | ○ | ○ | ○ | ○ |

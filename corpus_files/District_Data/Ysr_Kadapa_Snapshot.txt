@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Ysr Kadapa (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 19.00 Cr., statewide rank 2.32
+  - Horticulture: N/A% of district GVA, Rs. 2.00 Cr., statewide rank -1.68
+  - Live stock: N/A% of district GVA, Rs. 11.00 Cr., statewide rank 9.32
+  - Forestry & Logging: N/A% of district GVA, Rs. 1.00 Cr., statewide rank -19.51
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 22.00 Cr., statewide rank 23.53
+
+Fastest-growing sectors in Ysr Kadapa (2025-26 (FAE) YoY):
+  - Horticulture: 8.06% growth, Rs. 2.00 Cr.
+  - Forestry & Logging: 7.28% growth, Rs. 1.00 Cr.
+  - Mining & Quarrying: 7.11% growth, Rs. 5.00 Cr.
+  - Electricity, Gas, Water Supply: 6.98% growth, Rs. 3.00 Cr.
+  - Manufacturing: 6.38% growth, Rs. 5.00 Cr.
+
+Best statewide ranks (sectors where Ysr Kadapa leads other districts):
+  - Forestry & Logging: rank -19.51 of 28, Rs. 1.00 Cr.
+  - Horticulture: rank -1.68 of 28, Rs. 2.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 1.53 of 28, Rs. 9.00 Cr.
+  - Agriculture: rank 2.32 of 28, Rs. 19.00 Cr.
+  - Electricity, Gas, Water Supply: rank 5.16 of 28, Rs. 3.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 4.00 Cr., growth 6.20%, rank 13.74
+  - Services Sector (aggregate): Rs. 9.00 Cr., growth 4.03%, rank 13
+  - Gross District Value Added (GDVA): Rs. 8.00 Cr., growth 4.52%, rank 9.63
+  - Product Taxes: Rs. 8.00 Cr., growth 4.52%, rank 11.35
+  - Product Subsidies: Rs. 8.00 Cr., growth 4.52%, rank -3.73
+  - Gross District Domestic Product (GDDP): Rs. 8.00 Cr., growth 4.52%, rank 9.99
+  - Net District Domestic Product (NDDP): Rs. 8.00 Cr., growth 4.46%, rank 9.75
+  - Population ('000): Rs. 2.00 Cr., growth 4.63%, rank 0.36
+  - Per Capita Income (Rs.): Rs. 12.00 Cr., growth 3.55%, rank 9.38

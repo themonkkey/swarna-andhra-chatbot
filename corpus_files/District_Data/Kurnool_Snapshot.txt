@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Kurnool (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 3.00 Cr., statewide rank -3.87
+  - Horticulture: N/A% of district GVA, Rs. 7.00 Cr., statewide rank -19.75
+  - Live stock: N/A% of district GVA, Rs. 20.00 Cr., statewide rank -0.18
+  - Forestry & Logging: N/A% of district GVA, Rs. 14.00 Cr., statewide rank 55.79
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 18.00 Cr., statewide rank 37.85
+
+Fastest-growing sectors in Kurnool (2025-26 (FAE) YoY):
+  - Agriculture: 6.75% growth, Rs. 3.00 Cr.
+  - Horticulture: 4.83% growth, Rs. 7.00 Cr.
+  - Electricity, Gas, Water Supply: 4.69% growth, Rs. 8.00 Cr.
+  - Other Services: 4.49% growth, Rs. 7.00 Cr.
+  - Construction: 4.32% growth, Rs. 10.00 Cr.
+
+Best statewide ranks (sectors where Kurnool leads other districts):
+  - Mining & Quarrying: rank -41.13 of 28, Rs. 17.00 Cr.
+  - Horticulture: rank -19.75 of 28, Rs. 7.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank -8.63 of 28, Rs. 16.00 Cr.
+  - Agriculture: rank -3.87 of 28, Rs. 3.00 Cr.
+  - Live stock: rank -0.18 of 28, Rs. 20.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 14.00 Cr., growth 2.59%, rank 5.72
+  - Services Sector (aggregate): Rs. 12.00 Cr., growth 3.40%, rank 12.1
+  - Gross District Value Added (GDVA): Rs. 15.00 Cr., growth 3.10%, rank 3.15
+  - Product Taxes: Rs. 15.00 Cr., growth 3.10%, rank 4.77
+  - Product Subsidies: Rs. 15.00 Cr., growth 3.10%, rank -9.38
+  - Gross District Domestic Product (GDDP): Rs. 15.00 Cr., growth 3.10%, rank 3.5
+  - Net District Domestic Product (NDDP): Rs. 15.00 Cr., growth 3.12%, rank 3.33
+  - Population ('000): Rs. 3.00 Cr., growth 4.58%, rank 0.33
+  - Per Capita Income (Rs.): Rs. 24.00 Cr., growth 2.51%, rank 2.98

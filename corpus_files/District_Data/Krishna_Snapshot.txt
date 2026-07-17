@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Krishna (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 4.00 Cr., statewide rank -8.32
+  - Horticulture: N/A% of district GVA, Rs. 24.00 Cr., statewide rank -10.76
+  - Live stock: N/A% of district GVA, Rs. 15.00 Cr., statewide rank 3.69
+  - Forestry & Logging: N/A% of district GVA, Rs. 23.00 Cr., statewide rank 57.69
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 1.00 Cr., statewide rank 36.25
+
+Fastest-growing sectors in Krishna (2025-26 (FAE) YoY):
+  - Fishing & Aquaculture: 23.79% growth, Rs. 1.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: 8.98% growth, Rs. 2.00 Cr.
+  - Transport by Other means & Storage: 6.96% growth, Rs. 2.00 Cr.
+  - Trade,Hotel & Restaurants: 6.23% growth, Rs. 3.00 Cr.
+  - Agriculture: 5.88% growth, Rs. 4.00 Cr.
+
+Best statewide ranks (sectors where Krishna leads other districts):
+  - Mining & Quarrying: rank -25.1 of 28, Rs. 15.00 Cr.
+  - Horticulture: rank -10.76 of 28, Rs. 24.00 Cr.
+  - Agriculture: rank -8.32 of 28, Rs. 4.00 Cr.
+  - Live stock: rank 3.69 of 28, Rs. 15.00 Cr.
+  - Electricity, Gas, Water Supply: rank 5.2 of 28, Rs. 12.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 13.00 Cr., growth 2.61%, rank 7.72
+  - Services Sector (aggregate): Rs. 6.00 Cr., growth 4.65%, rank 12.37
+  - Gross District Value Added (GDVA): Rs. 3.00 Cr., growth 5.60%, rank 17.75
+  - Product Taxes: Rs. 3.00 Cr., growth 5.60%, rank 19.61
+  - Product Subsidies: Rs. 3.00 Cr., growth 5.60%, rank 3.46
+  - Gross District Domestic Product (GDDP): Rs. 3.00 Cr., growth 5.60%, rank 18.14
+  - Net District Domestic Product (NDDP): Rs. 3.00 Cr., growth 5.73%, rank 18.26
+  - Population ('000): Rs. 18.00 Cr., growth 3.50%, rank 0.32
+  - Per Capita Income (Rs.): Rs. 2.00 Cr., growth 6.03%, rank 17.85

@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Prakasam (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 15.00 Cr., statewide rank -51.55
+  - Horticulture: N/A% of district GVA, Rs. 21.00 Cr., statewide rank 1.32
+  - Live stock: N/A% of district GVA, Rs. 7.00 Cr., statewide rank 9.13
+  - Forestry & Logging: N/A% of district GVA, Rs. 16.00 Cr., statewide rank 47.35
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 8.00 Cr., statewide rank 6.81
+
+Fastest-growing sectors in Prakasam (2025-26 (FAE) YoY):
+  - Mining & Quarrying: 6.50% growth, Rs. 6.00 Cr.
+  - Live stock: 4.77% growth, Rs. 7.00 Cr.
+  - Agriculture: 3.45% growth, Rs. 15.00 Cr.
+  - Forestry & Logging: 3.23% growth, Rs. 16.00 Cr.
+  - Real est., Ownership of Dwellings: 3.14% growth, Rs. 17.00 Cr.
+
+Best statewide ranks (sectors where Prakasam leads other districts):
+  - Agriculture: rank -51.55 of 28, Rs. 15.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank -6.01 of 28, Rs. 17.00 Cr.
+  - Horticulture: rank 1.32 of 28, Rs. 21.00 Cr.
+  - Public Admn.: rank 4.92 of 28, Rs. 22.00 Cr.
+  - Electricity, Gas, Water Supply: rank 6.43 of 28, Rs. 23.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 12.00 Cr., growth 2.69%, rank 13.95
+  - Services Sector (aggregate): Rs. 19.00 Cr., growth 2.53%, rank 13.82
+  - Gross District Value Added (GDVA): Rs. 19.00 Cr., growth 2.74%, rank 5.59
+  - Product Taxes: Rs. 19.00 Cr., growth 2.74%, rank 7.25
+  - Product Subsidies: Rs. 19.00 Cr., growth 2.74%, rank -7.31
+  - Gross District Domestic Product (GDDP): Rs. 19.00 Cr., growth 2.74%, rank 5.94
+  - Net District Domestic Product (NDDP): Rs. 19.00 Cr., growth 2.77%, rank 5.55
+  - Population ('000): Rs. 20.00 Cr., growth 3.47%, rank 0.38
+  - Per Capita Income (Rs.): Rs. 19.00 Cr., growth 2.94%, rank 5.19

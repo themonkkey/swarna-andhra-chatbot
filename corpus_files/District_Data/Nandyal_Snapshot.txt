@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Nandyal (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 1.00 Cr., statewide rank 16.44
+  - Horticulture: N/A% of district GVA, Rs. 8.00 Cr., statewide rank 9.38
+  - Live stock: N/A% of district GVA, Rs. 18.00 Cr., statewide rank 9.19
+  - Forestry & Logging: N/A% of district GVA, Rs. 3.00 Cr., statewide rank -13.66
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 16.00 Cr., statewide rank 5.69
+
+Fastest-growing sectors in Nandyal (2025-26 (FAE) YoY):
+  - Agriculture: 7.90% growth, Rs. 1.00 Cr.
+  - Forestry & Logging: 5.70% growth, Rs. 3.00 Cr.
+  - Horticulture: 4.57% growth, Rs. 8.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: 3.33% growth, Rs. 13.00 Cr.
+  - Other Services: 3.25% growth, Rs. 15.00 Cr.
+
+Best statewide ranks (sectors where Nandyal leads other districts):
+  - Forestry & Logging: rank -13.66 of 28, Rs. 3.00 Cr.
+  - Mining & Quarrying: rank -7.73 of 28, Rs. 10.00 Cr.
+  - Trade,Hotel & Restaurants: rank -2.35 of 28, Rs. 19.00 Cr.
+  - Public Admn.: rank 3.85 of 28, Rs. 16.00 Cr.
+  - Fishing & Aquaculture: rank 5.69 of 28, Rs. 16.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 18.00 Cr., growth 2.27%, rank 9.48
+  - Services Sector (aggregate): Rs. 18.00 Cr., growth 2.57%, rank 11.77
+  - Gross District Value Added (GDVA): Rs. 18.00 Cr., growth 2.75%, rank 10.56
+  - Product Taxes: Rs. 18.00 Cr., growth 2.75%, rank 12.29
+  - Product Subsidies: Rs. 18.00 Cr., growth 2.75%, rank -2.79
+  - Gross District Domestic Product (GDDP): Rs. 18.00 Cr., growth 2.75%, rank 10.92
+  - Net District Domestic Product (NDDP): Rs. 18.00 Cr., growth 2.77%, rank 10.96
+  - Population ('000): Rs. 17.00 Cr., growth 3.59%, rank 0.36
+  - Per Capita Income (Rs.): Rs. 20.00 Cr., growth 2.84%, rank 10.58

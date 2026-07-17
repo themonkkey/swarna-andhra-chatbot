@@ -1,0 +1,6 @@
+District: Chittoor — Sector: Per Capita Income (Rs.)
+
+2022-23 (TRE): Value = Rs. 17.00 Cr., Rank among 28 districts = 3.34, Contribution to state total = 195,318.00%
+2023-24 (SRE): Value = Rs. 18.00 Cr., Rank among 28 districts = -1.74, YoY Growth = 3.02%, Contribution to state total = 217,500.00%
+2024-25 (FRE): Value = Rs. 19.00 Cr., Rank among 28 districts = 11.36, YoY Growth = 3.00%, Contribution to state total = 251,986.00%
+2025-26 (FAE): Value = Rs. 18.00 Cr., Rank among 28 districts = 15.86, YoY Growth = 3.15%, Contribution to state total = N/A%

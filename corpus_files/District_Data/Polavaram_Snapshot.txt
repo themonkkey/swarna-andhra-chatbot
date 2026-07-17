@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Polavaram (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 27.00 Cr., statewide rank -12.64
+  - Horticulture: N/A% of district GVA, Rs. 27.00 Cr., statewide rank 69.28
+  - Live stock: N/A% of district GVA, Rs. 28.00 Cr., statewide rank 1.56
+  - Forestry & Logging: N/A% of district GVA, Rs. 8.00 Cr., statewide rank -38.03
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 24.00 Cr., statewide rank 11.11
+
+Fastest-growing sectors in Polavaram (2025-26 (FAE) YoY):
+  - Forestry & Logging: 4.57% growth, Rs. 8.00 Cr.
+  - Public Admn.: 1.15% growth, Rs. 28.00 Cr.
+  - Horticulture: 1.03% growth, Rs. 27.00 Cr.
+  - Electricity, Gas, Water Supply: 0.66% growth, Rs. 26.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: 0.62% growth, Rs. 28.00 Cr.
+
+Best statewide ranks (sectors where Polavaram leads other districts):
+  - Mining & Quarrying: rank -58.33 of 28, Rs. 28.00 Cr.
+  - Forestry & Logging: rank -38.03 of 28, Rs. 8.00 Cr.
+  - Agriculture: rank -12.64 of 28, Rs. 27.00 Cr.
+  - Electricity, Gas, Water Supply: rank -7.01 of 28, Rs. 26.00 Cr.
+  - Live stock: rank 1.56 of 28, Rs. 28.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 28.00 Cr., growth 0.15%, rank -11.15
+  - Services Sector (aggregate): Rs. 28.00 Cr., growth 0.34%, rank 14.67
+  - Gross District Value Added (GDVA): Rs. 28.00 Cr., growth 0.39%, rank 9.42
+  - Product Taxes: Rs. 28.00 Cr., growth 0.39%, rank 11.17
+  - Product Subsidies: Rs. 28.00 Cr., growth 0.39%, rank -4.12
+  - Gross District Domestic Product (GDDP): Rs. 28.00 Cr., growth 0.39%, rank 9.77
+  - Net District Domestic Product (NDDP): Rs. 28.00 Cr., growth 0.39%, rank 10.31
+  - Population ('000): Rs. 28.00 Cr., growth 0.71%, rank 0.53
+  - Per Capita Income (Rs.): Rs. 27.00 Cr., growth 2.06%, rank 9.93

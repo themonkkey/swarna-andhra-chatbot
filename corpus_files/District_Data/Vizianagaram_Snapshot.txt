@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Vizianagaram (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 14.00 Cr., statewide rank 14.8
+  - Horticulture: N/A% of district GVA, Rs. 18.00 Cr., statewide rank -22.34
+  - Live stock: N/A% of district GVA, Rs. 14.00 Cr., statewide rank 18.56
+  - Forestry & Logging: N/A% of district GVA, Rs. 18.00 Cr., statewide rank 47.12
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 17.00 Cr., statewide rank 106.16
+
+Fastest-growing sectors in Vizianagaram (2025-26 (FAE) YoY):
+  - Public Admn.: 3.96% growth, Rs. 10.00 Cr.
+  - Live stock: 3.83% growth, Rs. 14.00 Cr.
+  - Agriculture: 3.61% growth, Rs. 14.00 Cr.
+  - Real est., Ownership of Dwellings: 3.53% growth, Rs. 13.00 Cr.
+  - Communications: 3.48% growth, Rs. 16.00 Cr.
+
+Best statewide ranks (sectors where Vizianagaram leads other districts):
+  - Horticulture: rank -22.34 of 28, Rs. 18.00 Cr.
+  - Mining & Quarrying: rank -11.94 of 28, Rs. 13.00 Cr.
+  - Public Admn.: rank 5 of 28, Rs. 10.00 Cr.
+  - Electricity, Gas, Water Supply: rank 6.19 of 28, Rs. 18.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 7.41 of 28, Rs. 21.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 20.00 Cr., growth 2.15%, rank 7.78
+  - Services Sector (aggregate): Rs. 15.00 Cr., growth 2.96%, rank 12.56
+  - Gross District Value Added (GDVA): Rs. 22.00 Cr., growth 2.56%, rank 9.99
+  - Product Taxes: Rs. 22.00 Cr., growth 2.56%, rank 11.72
+  - Product Subsidies: Rs. 22.00 Cr., growth 2.56%, rank -3.3
+  - Gross District Domestic Product (GDDP): Rs. 22.00 Cr., growth 2.56%, rank 10.36
+  - Net District Domestic Product (NDDP): Rs. 22.00 Cr., growth 2.58%, rank 10.66
+  - Population ('000): Rs. 14.00 Cr., growth 3.89%, rank 0.34
+  - Per Capita Income (Rs.): Rs. 25.00 Cr., growth 2.44%, rank 10.28

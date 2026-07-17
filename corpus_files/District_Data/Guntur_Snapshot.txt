@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Guntur (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 11.00 Cr., statewide rank 2.37
+  - Horticulture: N/A% of district GVA, Rs. 16.00 Cr., statewide rank 8.09
+  - Live stock: N/A% of district GVA, Rs. 23.00 Cr., statewide rank 2.31
+  - Forestry & Logging: N/A% of district GVA, Rs. 27.00 Cr., statewide rank 88.61
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 15.00 Cr., statewide rank 21.39
+
+Fastest-growing sectors in Guntur (2025-26 (FAE) YoY):
+  - Mining & Quarrying: 10.69% growth, Rs. 3.00 Cr.
+  - Public Admn.: 9.02% growth, Rs. 1.00 Cr.
+  - Banking & Insurance: 7.62% growth, Rs. 3.00 Cr.
+  - Construction: 7.04% growth, Rs. 3.00 Cr.
+  - Other Services: 7.03% growth, Rs. 3.00 Cr.
+
+Best statewide ranks (sectors where Guntur leads other districts):
+  - Live stock: rank 2.31 of 28, Rs. 23.00 Cr.
+  - Agriculture: rank 2.37 of 28, Rs. 11.00 Cr.
+  - Electricity, Gas, Water Supply: rank 2.96 of 28, Rs. 10.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 6.3 of 28, Rs. 25.00 Cr.
+  - Railways: rank 6.85 of 28, Rs. 5.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 5.00 Cr., growth 5.50%, rank 19.17
+  - Services Sector (aggregate): Rs. 3.00 Cr., growth 6.47%, rank 12.78
+  - Gross District Value Added (GDVA): Rs. 7.00 Cr., growth 4.76%, rank 13.47
+  - Product Taxes: Rs. 7.00 Cr., growth 4.76%, rank 15.25
+  - Product Subsidies: Rs. 7.00 Cr., growth 4.76%, rank -0.26
+  - Gross District Domestic Product (GDDP): Rs. 7.00 Cr., growth 4.76%, rank 13.84
+  - Net District Domestic Product (NDDP): Rs. 7.00 Cr., growth 4.72%, rank 13.72
+  - Population ('000): Rs. 10.00 Cr., growth 4.22%, rank 0.35
+  - Per Capita Income (Rs.): Rs. 7.00 Cr., growth 4.13%, rank 13.33

@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+parse_district_data.py
+structured_district_data.csv

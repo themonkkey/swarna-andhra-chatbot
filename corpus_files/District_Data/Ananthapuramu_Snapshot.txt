@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Ananthapuramu (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 13.00 Cr., statewide rank 22.79
+  - Horticulture: N/A% of district GVA, Rs. 1.00 Cr., statewide rank 2.85
+  - Live stock: N/A% of district GVA, Rs. 4.00 Cr., statewide rank 0.79
+  - Forestry & Logging: N/A% of district GVA, Rs. 7.00 Cr., statewide rank 38.4
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 23.00 Cr., statewide rank 22.55
+
+Fastest-growing sectors in Ananthapuramu (2025-26 (FAE) YoY):
+  - Railways: 11.70% growth, Rs. 3.00 Cr.
+  - Horticulture: 11.63% growth, Rs. 1.00 Cr.
+  - Electricity, Gas, Water Supply: 6.44% growth, Rs. 4.00 Cr.
+  - Live stock: 5.42% growth, Rs. 4.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: 5.35% growth, Rs. 4.00 Cr.
+
+Best statewide ranks (sectors where Ananthapuramu leads other districts):
+  - Mining & Quarrying: rank -38.76 of 28, Rs. 14.00 Cr.
+  - Live stock: rank 0.79 of 28, Rs. 4.00 Cr.
+  - Horticulture: rank 2.85 of 28, Rs. 1.00 Cr.
+  - Electricity, Gas, Water Supply: rank 3.14 of 28, Rs. 4.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 3.92 of 28, Rs. 4.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 10.00 Cr., growth 3.85%, rank 5.69
+  - Services Sector (aggregate): Rs. 10.00 Cr., growth 3.83%, rank 12.65
+  - Gross District Value Added (GDVA): Rs. 9.00 Cr., growth 4.34%, rank 7.47
+  - Product Taxes: Rs. 9.00 Cr., growth 4.34%, rank 9.15
+  - Product Subsidies: Rs. 9.00 Cr., growth 4.34%, rank -5.61
+  - Gross District Domestic Product (GDDP): Rs. 9.00 Cr., growth 4.34%, rank 7.83
+  - Net District Domestic Product (NDDP): Rs. 9.00 Cr., growth 4.36%, rank 7.48
+  - Population ('000): Rs. 4.00 Cr., growth 4.52%, rank 0.33
+  - Per Capita Income (Rs.): Rs. 11.00 Cr., growth 3.56%, rank 7.11

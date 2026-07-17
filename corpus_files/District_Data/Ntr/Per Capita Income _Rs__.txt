@@ -1,0 +1,6 @@
+District: Ntr — Sector: Per Capita Income (Rs.)
+
+2022-23 (TRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 4.48, Contribution to state total = 308,873.00%
+2023-24 (SRE): Value = Rs. 3.00 Cr., Rank among 28 districts = 15.74, YoY Growth = 4.78%, Contribution to state total = 347,549.00%
+2024-25 (FRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 12.52, YoY Growth = 4.80%, Contribution to state total = 391,274.00%
+2025-26 (FAE): Value = Rs. 3.00 Cr., Rank among 28 districts = 12.58, YoY Growth = 4.90%, Contribution to state total = N/A%

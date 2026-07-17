@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: West Godavari (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 9.00 Cr., statewide rank 1.63
+  - Horticulture: N/A% of district GVA, Rs. 26.00 Cr., statewide rank 4.9
+  - Live stock: N/A% of district GVA, Rs. 21.00 Cr., statewide rank 9.44
+  - Forestry & Logging: N/A% of district GVA, Rs. 25.00 Cr., statewide rank 89.58
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 3.00 Cr., statewide rank 20.37
+
+Fastest-growing sectors in West Godavari (2025-26 (FAE) YoY):
+  - Fishing & Aquaculture: 15.57% growth, Rs. 3.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: 6.13% growth, Rs. 3.00 Cr.
+  - Agriculture: 4.68% growth, Rs. 9.00 Cr.
+  - Real est., Ownership of Dwellings: 4.27% growth, Rs. 8.00 Cr.
+  - Other Services: 4.04% growth, Rs. 10.00 Cr.
+
+Best statewide ranks (sectors where West Godavari leads other districts):
+  - Agriculture: rank 1.63 of 28, Rs. 9.00 Cr.
+  - Electricity, Gas, Water Supply: rank 2.74 of 28, Rs. 17.00 Cr.
+  - Public Admn.: rank 3.62 of 28, Rs. 20.00 Cr.
+  - Horticulture: rank 4.9 of 28, Rs. 26.00 Cr.
+  - Railways: rank 7.28 of 28, Rs. 11.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 17.00 Cr., growth 2.50%, rank 9.98
+  - Services Sector (aggregate): Rs. 11.00 Cr., growth 3.65%, rank 13.28
+  - Gross District Value Added (GDVA): Rs. 11.00 Cr., growth 4.20%, rank 14.26
+  - Product Taxes: Rs. 11.00 Cr., growth 4.20%, rank 16.04
+  - Product Subsidies: Rs. 11.00 Cr., growth 4.20%, rank 0.4
+  - Gross District Domestic Product (GDDP): Rs. 11.00 Cr., growth 4.20%, rank 14.64
+  - Net District Domestic Product (NDDP): Rs. 10.00 Cr., growth 4.28%, rank 14.82
+  - Population ('000): Rs. 15.00 Cr., growth 3.72%, rank 0.35
+  - Per Capita Income (Rs.): Rs. 6.00 Cr., growth 4.24%, rank 14.42

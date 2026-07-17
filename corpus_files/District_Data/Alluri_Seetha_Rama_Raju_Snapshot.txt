@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Alluri Seetha Rama Raju (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 25.00 Cr., statewide rank -13.76
+  - Horticulture: N/A% of district GVA, Rs. 4.00 Cr., statewide rank 24.18
+  - Live stock: N/A% of district GVA, Rs. 26.00 Cr., statewide rank -13.25
+  - Forestry & Logging: N/A% of district GVA, Rs. 9.00 Cr., statewide rank -29.79
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 26.00 Cr., statewide rank 5.63
+
+Fastest-growing sectors in Alluri Seetha Rama Raju (2025-26 (FAE) YoY):
+  - Horticulture: 6.22% growth, Rs. 4.00 Cr.
+  - Forestry & Logging: 4.55% growth, Rs. 9.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: 2.16% growth, Rs. 22.00 Cr.
+  - Public Admn.: 2.01% growth, Rs. 26.00 Cr.
+  - Live stock: 0.97% growth, Rs. 26.00 Cr.
+
+Best statewide ranks (sectors where Alluri Seetha Rama Raju leads other districts):
+  - Forestry & Logging: rank -29.79 of 28, Rs. 9.00 Cr.
+  - Agriculture: rank -13.76 of 28, Rs. 25.00 Cr.
+  - Live stock: rank -13.25 of 28, Rs. 26.00 Cr.
+  - Mining & Quarrying: rank -1.79 of 28, Rs. 26.00 Cr.
+  - Electricity, Gas, Water Supply: rank -1.01 of 28, Rs. 27.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 27.00 Cr., growth 0.18%, rank 5.29
+  - Services Sector (aggregate): Rs. 27.00 Cr., growth 0.65%, rank 10.57
+  - Gross District Value Added (GDVA): Rs. 26.00 Cr., growth 1.04%, rank 10.94
+  - Product Taxes: Rs. 26.00 Cr., growth 1.04%, rank 12.68
+  - Product Subsidies: Rs. 26.00 Cr., growth 1.04%, rank -2.73
+  - Gross District Domestic Product (GDDP): Rs. 26.00 Cr., growth 1.04%, rank 11.31
+  - Net District Domestic Product (NDDP): Rs. 26.00 Cr., growth 1.06%, rank 12.1
+  - Population ('000): Rs. 27.00 Cr., growth 1.22%, rank 0.31
+  - Per Capita Income (Rs.): Rs. 16.00 Cr., growth 3.22%, rank 11.72

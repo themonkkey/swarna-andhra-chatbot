@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Bapatla (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 2.00 Cr., statewide rank 31.58
+  - Horticulture: N/A% of district GVA, Rs. 23.00 Cr., statewide rank 42.51
+  - Live stock: N/A% of district GVA, Rs. 22.00 Cr., statewide rank 7.14
+  - Forestry & Logging: N/A% of district GVA, Rs. 26.00 Cr., statewide rank 64.76
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 4.00 Cr., statewide rank 24.03
+
+Fastest-growing sectors in Bapatla (2025-26 (FAE) YoY):
+  - Fishing & Aquaculture: 9.19% growth, Rs. 4.00 Cr.
+  - Agriculture: 7.60% growth, Rs. 2.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: 4.66% growth, Rs. 6.00 Cr.
+  - Live stock: 2.48% growth, Rs. 22.00 Cr.
+  - Communications: 2.45% growth, Rs. 23.00 Cr.
+
+Best statewide ranks (sectors where Bapatla leads other districts):
+  - Public Admn.: rank 3.2 of 28, Rs. 23.00 Cr.
+  - Live stock: rank 7.14 of 28, Rs. 22.00 Cr.
+  - Manufacturing: rank 8.1 of 28, Rs. 22.00 Cr.
+  - Railways: rank 8.22 of 28, Rs. 19.00 Cr.
+  - Electricity, Gas, Water Supply: rank 8.99 of 28, Rs. 24.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 23.00 Cr., growth 1.41%, rank 13.43
+  - Services Sector (aggregate): Rs. 24.00 Cr., growth 1.75%, rank 12.35
+  - Gross District Value Added (GDVA): Rs. 21.00 Cr., growth 2.64%, rank 18.79
+  - Product Taxes: Rs. 21.00 Cr., growth 2.64%, rank 20.67
+  - Product Subsidies: Rs. 21.00 Cr., growth 2.64%, rank 4.46
+  - Gross District Domestic Product (GDDP): Rs. 21.00 Cr., growth 2.64%, rank 19.19
+  - Net District Domestic Product (NDDP): Rs. 21.00 Cr., growth 2.70%, rank 19.16
+  - Population ('000): Rs. 24.00 Cr., growth 2.60%, rank 0.29
+  - Per Capita Income (Rs.): Rs. 8.00 Cr., growth 3.82%, rank 18.75

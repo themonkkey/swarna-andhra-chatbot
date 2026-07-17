@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Anakapalle (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 23.00 Cr., statewide rank 15.34
+  - Horticulture: N/A% of district GVA, Rs. 22.00 Cr., statewide rank 0.57
+  - Live stock: N/A% of district GVA, Rs. 16.00 Cr., statewide rank 13.53
+  - Forestry & Logging: N/A% of district GVA, Rs. 17.00 Cr., statewide rank 12.68
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 12.00 Cr., statewide rank 6.94
+
+Fastest-growing sectors in Anakapalle (2025-26 (FAE) YoY):
+  - Manufacturing: 12.70% growth, Rs. 3.00 Cr.
+  - Electricity, Gas, Water Supply: 5.89% growth, Rs. 6.00 Cr.
+  - Mining & Quarrying: 4.65% growth, Rs. 7.00 Cr.
+  - Live stock: 3.40% growth, Rs. 16.00 Cr.
+  - Forestry & Logging: 3.01% growth, Rs. 17.00 Cr.
+
+Best statewide ranks (sectors where Anakapalle leads other districts):
+  - Horticulture: rank 0.57 of 28, Rs. 22.00 Cr.
+  - Electricity, Gas, Water Supply: rank 1.24 of 28, Rs. 6.00 Cr.
+  - Public Admn.: rank 2.37 of 28, Rs. 24.00 Cr.
+  - Fishing & Aquaculture: rank 6.94 of 28, Rs. 12.00 Cr.
+  - Railways: rank 9.23 of 28, Rs. 21.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 3.00 Cr., growth 7.59%, rank 14.19
+  - Services Sector (aggregate): Rs. 21.00 Cr., growth 2.09%, rank 13.45
+  - Gross District Value Added (GDVA): Rs. 14.00 Cr., growth 3.41%, rank 13.01
+  - Product Taxes: Rs. 14.00 Cr., growth 3.41%, rank 14.8
+  - Product Subsidies: Rs. 14.00 Cr., growth 3.41%, rank -0.73
+  - Gross District Domestic Product (GDDP): Rs. 14.00 Cr., growth 3.41%, rank 13.39
+  - Net District Domestic Product (NDDP): Rs. 14.00 Cr., growth 3.23%, rank 13.79
+  - Population ('000): Rs. 19.00 Cr., growth 3.48%, rank 0.32
+  - Per Capita Income (Rs.): Rs. 15.00 Cr., growth 3.42%, rank 13.4

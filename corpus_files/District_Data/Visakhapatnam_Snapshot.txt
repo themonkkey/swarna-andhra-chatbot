@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Visakhapatnam (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 28.00 Cr., statewide rank -17.58
+  - Horticulture: N/A% of district GVA, Rs. 28.00 Cr., statewide rank 33.65
+  - Live stock: N/A% of district GVA, Rs. 27.00 Cr., statewide rank 25.99
+  - Forestry & Logging: N/A% of district GVA, Rs. 28.00 Cr., statewide rank 38.89
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 11.00 Cr., statewide rank 7.67
+
+Fastest-growing sectors in Visakhapatnam (2025-26 (FAE) YoY):
+  - Trade,Hotel & Restaurants: 32.29% growth, Rs. 1.00 Cr.
+  - Manufacturing: 21.15% growth, Rs. 1.00 Cr.
+  - Railways: 14.52% growth, Rs. 2.00 Cr.
+  - Banking & Insurance: 11.84% growth, Rs. 2.00 Cr.
+  - Transport by Other means & Storage: 11.30% growth, Rs. 1.00 Cr.
+
+Best statewide ranks (sectors where Visakhapatnam leads other districts):
+  - Mining & Quarrying: rank -82.96 of 28, Rs. 27.00 Cr.
+  - Agriculture: rank -17.58 of 28, Rs. 28.00 Cr.
+  - Public Admn.: rank 4.23 of 28, Rs. 6.00 Cr.
+  - Railways: rank 7.38 of 28, Rs. 2.00 Cr.
+  - Fishing & Aquaculture: rank 7.67 of 28, Rs. 11.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 1.00 Cr., growth 14.16%, rank 9.6
+  - Services Sector (aggregate): Rs. 1.00 Cr., growth 12.70%, rank 11.99
+  - Gross District Value Added (GDVA): Rs. 1.00 Cr., growth 9.14%, rank 11.27
+  - Product Taxes: Rs. 1.00 Cr., growth 9.14%, rank 13.02
+  - Product Subsidies: Rs. 1.00 Cr., growth 9.14%, rank -2.23
+  - Gross District Domestic Product (GDDP): Rs. 1.00 Cr., growth 9.14%, rank 11.64
+  - Net District Domestic Product (NDDP): Rs. 1.00 Cr., growth 8.84%, rank 11.84
+  - Population ('000): Rs. 13.00 Cr., growth 3.95%, rank 0.33
+  - Per Capita Income (Rs.): Rs. 1.00 Cr., growth 8.25%, rank 11.46

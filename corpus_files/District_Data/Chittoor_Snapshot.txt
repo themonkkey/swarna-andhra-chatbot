@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Chittoor (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 24.00 Cr., statewide rank -17.15
+  - Horticulture: N/A% of district GVA, Rs. 9.00 Cr., statewide rank 0.21
+  - Live stock: N/A% of district GVA, Rs. 5.00 Cr., statewide rank 14.36
+  - Forestry & Logging: N/A% of district GVA, Rs. 13.00 Cr., statewide rank -2.88
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 28.00 Cr., statewide rank -40.54
+
+Fastest-growing sectors in Chittoor (2025-26 (FAE) YoY):
+  - Mining & Quarrying: 9.17% growth, Rs. 4.00 Cr.
+  - Live stock: 5.42% growth, Rs. 5.00 Cr.
+  - Horticulture: 4.40% growth, Rs. 9.00 Cr.
+  - Forestry & Logging: 3.60% growth, Rs. 13.00 Cr.
+  - Public Admn.: 3.18% growth, Rs. 15.00 Cr.
+
+Best statewide ranks (sectors where Chittoor leads other districts):
+  - Fishing & Aquaculture: rank -40.54 of 28, Rs. 28.00 Cr.
+  - Agriculture: rank -17.15 of 28, Rs. 24.00 Cr.
+  - Forestry & Logging: rank -2.88 of 28, Rs. 13.00 Cr.
+  - Electricity, Gas, Water Supply: rank -0.67 of 28, Rs. 14.00 Cr.
+  - Horticulture: rank 0.21 of 28, Rs. 9.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 15.00 Cr., growth 2.54%, rank 41.73
+  - Services Sector (aggregate): Rs. 17.00 Cr., growth 2.69%, rank 13.34
+  - Gross District Value Added (GDVA): Rs. 17.00 Cr., growth 2.80%, rank 15.7
+  - Product Taxes: Rs. 17.00 Cr., growth 2.80%, rank 17.54
+  - Product Subsidies: Rs. 17.00 Cr., growth 2.80%, rank 1.66
+  - Gross District Domestic Product (GDDP): Rs. 17.00 Cr., growth 2.80%, rank 16.09
+  - Net District Domestic Product (NDDP): Rs. 17.00 Cr., growth 2.84%, rank 16.25
+  - Population ('000): Rs. 21.00 Cr., growth 3.31%, rank 0.34
+  - Per Capita Income (Rs.): Rs. 18.00 Cr., growth 3.15%, rank 15.86

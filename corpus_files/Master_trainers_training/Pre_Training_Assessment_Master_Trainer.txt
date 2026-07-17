@@ -1,0 +1,50 @@
+Government of Andhra Pradesh
+
+Pre Training ASSESSMENT
+
+Swarna Andhra Vision 2047 | KPIs | GDP / GVA / GDDP
+
+Profile
+
+|  |  |
+| :-: | :-: |
+| Name | Designation |
+| Department / Office | District |
+| Constituency | Mandal |
+| Years of Experience | Date |
+
+Conceptual Understanding on Estimation of GDP/GSDP/GDDP etc
+
+| Statement | StronglyDisagree(1) | Disagree(2) | Neutral(3) | Agree(4) | StronglyAgree(5) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  I clearly understand the difference between Gross Value Added (GVA) and Gross Domestic Product (GDP). | ○ | ○ | ○ | ○ | ○ |
+|  I understand how GVA is converted to GDP by adding net taxes on products (taxes minus subsidies). | ○ | ○ | ○ | ○ | ○ |
+| I understand difference between nominal and real GDP | ○ | ○ | ○ | ○ | ○ |
+|  I am familiar with the concept of base year and why it is revised periodically. | ○ | ○ | ○ | ○ | ○ |
+| I understand the difference between the production approach, expenditure and the income approach to estimating GDP  | ○ | ○ | ○ | ○ | ○ |
+| I am aware of difference between bottomed and top down approach in estimating District Domestic Product | ○ | ○ | ○ | ○ | ○ |
+| I can correctly classify economic activities into primary, secondary, and tertiary sectors. | ○ | ○ | ○ | ○ | ○ |
+|  I understand which activities (e.g., agriculture, mining, manufacturing, services) fall under each of the three sectors. | ○ | ○ | ○ | ○ | ○ |
+|  I am clear about how the primary sector's contribution to GVA is estimated. | ○ | ○ | ○ | ○ | ○ |
+|  I understand the broad methodology used to estimate GVA from the secondary sector (manufacturing, construction, utilities). | ○ | ○ | ○ | ○ | ○ |
+| I am familiar with how the tertiary (services) sector's contribution to GVA is estimated. | ○ | ○ | ○ | ○ | ○ |
+| I have broad understanding of purpose of surveys like ASI, LFS in estimation of GVA  | ○ | ○ | ○ | ○ | ○ |
+| I broadly understand method of estimating District Domestic Product and Mandal Domestic Products especially indicators used for allocation | ○ | ○ | ○ | ○ | ○ |
+|  I understand how GVA is converted to GDP by adding net taxes on products (taxes minus subsidies). | ○ | ○ | ○ | ○ | ○ |
+|  I understand the difference between nominal growth and real growth in domestic product estimates. | ○ | ○ | ○ | ○ | ○ |
+|  I clearly understand the difference between Gross Value Added (GVA) and Gross Domestic Product (GDP). | ○ | ○ | ○ | ○ | ○ |
+
+Understanding on HCM Vision of Swarnandhra 2047 and KPIs
+
+| Statement | StronglyDisagree | Disagree | Neutral | Agree | StronglyAgree |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| I have a clear understanding of how the Swarna Andhra @2047 mission and the ten Padi Sutralu connect to the targets my district is expected to deliver. | ○ | ○ | ○ | ○ | ○ |
+| I understand how the three strategic themes, the twelve sectors, and the two enablers (governance and financing) | ○ | ○ | ○ | ○ | ○ |
+| I understand how the P4 model encourages citizens to become active partners in development, not just beneficiaries | ○ | ○ | ○ | ○ | ○ |
+| I understand why two mandals with different endowments (should pursue different strategies rather than a uniform plan | ○ | ○ | ○ | ○ | ○ |
+| I clearly understand the overall purpose and vision behind Swarna Andhra 2047 and how KPIs support it. | ○ | ○ | ○ | ○ | ○ |
+| I understand my own role and responsibilities in tracking, reporting, and improving KPIs in my jurisdiction. | ○ | ○ | ○ | ○ | ○ |
+| I can identify which KPIs are most relevant to my department and how my work influences them. | ○ | ○ | ○ | ○ | ○ |
+| I understand how progress on these KPIs is monitored, reviewed, and used for decision making | ○ | ○ | ○ | ○ | ○ |
+| I feel equipped to use KPI data to make decisions and prioritize actions, rather than just reporting numbers. | ○ | ○ | ○ | ○ | ○ |
+| I am confident I can explain the relevance of these KPIs to my team and motivate them around the 2047 vision. | ○ | ○ | ○ | ○ | ○ |

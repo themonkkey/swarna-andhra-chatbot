@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Kakinada (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 10.00 Cr., statewide rank 0.04
+  - Horticulture: N/A% of district GVA, Rs. 19.00 Cr., statewide rank -3.74
+  - Live stock: N/A% of district GVA, Rs. 10.00 Cr., statewide rank 19.61
+  - Forestry & Logging: N/A% of district GVA, Rs. 21.00 Cr., statewide rank 42.21
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 7.00 Cr., statewide rank 25.46
+
+Fastest-growing sectors in Kakinada (2025-26 (FAE) YoY):
+  - Mining & Quarrying: 10.69% growth, Rs. 2.00 Cr.
+  - Manufacturing: 4.88% growth, Rs. 6.00 Cr.
+  - Fishing & Aquaculture: 4.86% growth, Rs. 7.00 Cr.
+  - Construction: 4.77% growth, Rs. 7.00 Cr.
+  - Communications: 4.68% growth, Rs. 7.00 Cr.
+
+Best statewide ranks (sectors where Kakinada leads other districts):
+  - Horticulture: rank -3.74 of 28, Rs. 19.00 Cr.
+  - Agriculture: rank 0.04 of 28, Rs. 10.00 Cr.
+  - Mining & Quarrying: rank 2.37 of 28, Rs. 2.00 Cr.
+  - Public Admn.: rank 4.54 of 28, Rs. 9.00 Cr.
+  - Trade,Hotel & Restaurants: rank 8.34 of 28, Rs. 6.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 8.00 Cr., growth 5.04%, rank 9.1
+  - Services Sector (aggregate): Rs. 8.00 Cr., growth 4.19%, rank 12.31
+  - Gross District Value Added (GDVA): Rs. 10.00 Cr., growth 4.27%, rank 12.21
+  - Product Taxes: Rs. 10.00 Cr., growth 4.27%, rank 13.99
+  - Product Subsidies: Rs. 10.00 Cr., growth 4.27%, rank -1.44
+  - Gross District Domestic Product (GDDP): Rs. 10.00 Cr., growth 4.27%, rank 12.58
+  - Net District Domestic Product (NDDP): Rs. 11.00 Cr., growth 4.25%, rank 12.89
+  - Population ('000): Rs. 9.00 Cr., growth 4.22%, rank 0.35
+  - Per Capita Income (Rs.): Rs. 9.00 Cr., growth 3.71%, rank 12.5

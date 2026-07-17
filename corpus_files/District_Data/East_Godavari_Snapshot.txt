@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: East Godavari (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 5.00 Cr., statewide rank 5.4
+  - Horticulture: N/A% of district GVA, Rs. 10.00 Cr., statewide rank -9.43
+  - Live stock: N/A% of district GVA, Rs. 2.00 Cr., statewide rank 16.56
+  - Forestry & Logging: N/A% of district GVA, Rs. 20.00 Cr., statewide rank 73.23
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 10.00 Cr., statewide rank 10.96
+
+Fastest-growing sectors in East Godavari (2025-26 (FAE) YoY):
+  - Live stock: 6.19% growth, Rs. 2.00 Cr.
+  - Agriculture: 5.82% growth, Rs. 5.00 Cr.
+  - Real est., Ownership of Dwellings: 5.26% growth, Rs. 4.00 Cr.
+  - Communications: 4.62% growth, Rs. 8.00 Cr.
+  - Construction: 4.53% growth, Rs. 9.00 Cr.
+
+Best statewide ranks (sectors where East Godavari leads other districts):
+  - Mining & Quarrying: rank -50.95 of 28, Rs. 22.00 Cr.
+  - Horticulture: rank -9.43 of 28, Rs. 10.00 Cr.
+  - Public Admn.: rank 4.34 of 28, Rs. 11.00 Cr.
+  - Agriculture: rank 5.4 of 28, Rs. 5.00 Cr.
+  - Electricity, Gas, Water Supply: rank 5.48 of 28, Rs. 16.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 11.00 Cr., growth 3.19%, rank 8.63
+  - Services Sector (aggregate): Rs. 7.00 Cr., growth 4.23%, rank 13.56
+  - Gross District Value Added (GDVA): Rs. 12.00 Cr., growth 4.00%, rank 10
+  - Product Taxes: Rs. 12.00 Cr., growth 4.00%, rank 11.73
+  - Product Subsidies: Rs. 12.00 Cr., growth 4.00%, rank -3.32
+  - Gross District Domestic Product (GDDP): Rs. 12.00 Cr., growth 4.00%, rank 10.36
+  - Net District Domestic Product (NDDP): Rs. 12.00 Cr., growth 4.04%, rank 11.34
+  - Population ('000): Rs. 8.00 Cr., growth 4.23%, rank 0.35
+  - Per Capita Income (Rs.): Rs. 14.00 Cr., growth 3.52%, rank 10.96

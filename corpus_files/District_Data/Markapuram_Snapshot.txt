@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Markapuram (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 20.00 Cr., statewide rank -13.8
+  - Horticulture: N/A% of district GVA, Rs. 14.00 Cr., statewide rank -5.52
+  - Live stock: N/A% of district GVA, Rs. 13.00 Cr., statewide rank 9.05
+  - Forestry & Logging: N/A% of district GVA, Rs. 2.00 Cr., statewide rank -23.39
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 21.00 Cr., statewide rank -21.11
+
+Fastest-growing sectors in Markapuram (2025-26 (FAE) YoY):
+  - Forestry & Logging: 6.47% growth, Rs. 2.00 Cr.
+  - Live stock: 3.94% growth, Rs. 13.00 Cr.
+  - Horticulture: 2.89% growth, Rs. 14.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: 2.44% growth, Rs. 20.00 Cr.
+  - Agriculture: 2.28% growth, Rs. 20.00 Cr.
+
+Best statewide ranks (sectors where Markapuram leads other districts):
+  - Mining & Quarrying: rank -77.86 of 28, Rs. 24.00 Cr.
+  - Forestry & Logging: rank -23.39 of 28, Rs. 2.00 Cr.
+  - Fishing & Aquaculture: rank -21.11 of 28, Rs. 21.00 Cr.
+  - Agriculture: rank -13.8 of 28, Rs. 20.00 Cr.
+  - Horticulture: rank -5.52 of 28, Rs. 14.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 25.00 Cr., growth 0.83%, rank 2.51
+  - Services Sector (aggregate): Rs. 25.00 Cr., growth 1.48%, rank 12.68
+  - Gross District Value Added (GDVA): Rs. 25.00 Cr., growth 1.65%, rank 4.41
+  - Product Taxes: Rs. 25.00 Cr., growth 1.65%, rank 6.06
+  - Product Subsidies: Rs. 25.00 Cr., growth 1.64%, rank -8.35
+  - Gross District Domestic Product (GDDP): Rs. 25.00 Cr., growth 1.65%, rank 4.75
+  - Net District Domestic Product (NDDP): Rs. 25.00 Cr., growth 1.70%, rank 4.42
+  - Population ('000): Rs. 25.00 Cr., growth 2.30%, rank 0.32
+  - Per Capita Income (Rs.): Rs. 21.00 Cr., growth 2.71%, rank 4.06

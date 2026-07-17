@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Palnadu (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 6.00 Cr., statewide rank 22.27
+  - Horticulture: N/A% of district GVA, Rs. 11.00 Cr., statewide rank 13.91
+  - Live stock: N/A% of district GVA, Rs. 9.00 Cr., statewide rank 2.5
+  - Forestry & Logging: N/A% of district GVA, Rs. 11.00 Cr., statewide rank 4.36
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 13.00 Cr., statewide rank 20.67
+
+Fastest-growing sectors in Palnadu (2025-26 (FAE) YoY):
+  - Agriculture: 5.77% growth, Rs. 6.00 Cr.
+  - Live stock: 4.36% growth, Rs. 9.00 Cr.
+  - Forestry & Logging: 4.18% growth, Rs. 11.00 Cr.
+  - Horticulture: 3.96% growth, Rs. 11.00 Cr.
+  - Communications: 3.68% growth, Rs. 13.00 Cr.
+
+Best statewide ranks (sectors where Palnadu leads other districts):
+  - Mining & Quarrying: rank -72.86 of 28, Rs. 19.00 Cr.
+  - Live stock: rank 2.5 of 28, Rs. 9.00 Cr.
+  - Public Admn.: rank 4.17 of 28, Rs. 17.00 Cr.
+  - Forestry & Logging: rank 4.36 of 28, Rs. 11.00 Cr.
+  - Railways: rank 8.4 of 28, Rs. 17.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 21.00 Cr., growth 1.93%, rank -6.1
+  - Services Sector (aggregate): Rs. 16.00 Cr., growth 2.76%, rank 13.77
+  - Gross District Value Added (GDVA): Rs. 16.00 Cr., growth 2.81%, rank 8.74
+  - Product Taxes: Rs. 16.00 Cr., growth 2.81%, rank 10.46
+  - Product Subsidies: Rs. 16.00 Cr., growth 2.81%, rank -4.38
+  - Gross District Domestic Product (GDDP): Rs. 16.00 Cr., growth 2.81%, rank 9.11
+  - Net District Domestic Product (NDDP): Rs. 16.00 Cr., growth 2.87%, rank 9.25
+  - Population ('000): Rs. 11.00 Cr., growth 4.12%, rank 0.36
+  - Per Capita Income (Rs.): Rs. 23.00 Cr., growth 2.57%, rank 8.88

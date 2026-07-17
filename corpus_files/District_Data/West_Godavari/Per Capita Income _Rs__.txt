@@ -1,0 +1,6 @@
+District: West Godavari — Sector: Per Capita Income (Rs.)
+
+2022-23 (TRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 4, Contribution to state total = 264,653.00%
+2023-24 (SRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 11.15, YoY Growth = 4.10%, Contribution to state total = 295,993.00%
+2024-25 (FRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 11.84, YoY Growth = 4.09%, Contribution to state total = 338,683.00%
+2025-26 (FAE): Value = Rs. 6.00 Cr., Rank among 28 districts = 14.42, YoY Growth = 4.24%, Contribution to state total = N/A%

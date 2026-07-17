@@ -1,0 +1,399 @@
+# index.html
+
+Paddy + Fish Integrated Farming Case Studies
+
+Case study deck for district & mandal officials
+
+Paddy + Fish
+
+Integrated Farming
+
+Successful models from India and China, and a practical implementation roadmap for paddy-growing districts of Andhra Pradesh
+
+Capacity Building Session
+
+Focus: dual productivity, farmer income, nutrition, sustainability and mandal-level execution
+
+Visual generated for training use; data sources on relevant slides.
+
+1
+
+STRATEGIC CONTEXT
+
+Why paddy + fish integration matters for Andhra Pradesh
+
+Paddy base already exists
+
+West Godavari, East Godavari and Krishna are among the most important rice-producing districts of Andhra Pradesh and India.
+
+Need to raise net income
+
+Rice monoculture often faces cost, price and climate risks. Fish adds a second output from the same field and water.
+
+AP has fisheries capability
+
+Coastal and delta districts already have farmers, markets and departments familiar with fish seed, stocking and marketing.
+
+Policy fit for AP
+
+Supports district GVA growth through allied-sector income.
+
+Works well with natural farming, water-efficiency and nutrition goals.
+
+Creates a field-level demonstration model that officers can scale through RBKs and mandal teams.
+
+Dual output
+
+Rice + fish from same plot
+
+Lower input
+
+Less weeding / pest pressure
+
+Higher resilience
+
+Diversified farmer income
+
+Sources: AP Seeds paddy crop note; CGIAR, 2023; TNAU fishery integration note.
+
+Rice–Fish Integrated Farming | Capacity Building for AP Officers
+
+2
+
+BASIC CONCEPT
+
+The model: one paddy field, two harvests
+
+How the symbiosis works
+
+Fish help rice
+
+Fish manure fertilizes soil; fish movement aerates water and softens soil; fish eat larvae, weeds and insects.
+
+Rice helps fish
+
+Rice canopy provides shade; the flooded field gives habitat; plankton and organic matter support fish growth.
+
+Field modification
+
+Raised bunds, fish refuge trench/pond, screened inlet/outlet, controlled water depth and safe harvest channel.
+
+Management shift
+
+Rice calendar must align with stocking; pesticide use must be avoided or carefully controlled.
+
+Core lesson: this is not "fish added to paddy"; it is a planned field system requiring water control, species choice and farmer training.
+
+Sources: FAO GIAHS Qingtian Rice-Fish Culture; UNDP/NITI Assam rice-fish case.
+
+Rice–Fish Integrated Farming | Capacity Building for AP Officers
+
+3
+
+SUCCESSFUL INDIAN PILOT
+
+India case study 1: Climate-resilient rice–fish farming in Assam
+
+Project scale
+
+431 ha
+
+water bodies covered
+
+11
+
+districts
+
+867
+
+beneficiaries
+
+Implemented by the Fishery Department, Assam during 2018–19 to 2020–21 as a climate-resilient livelihood model.
+
+1
+
+Field/trench prep
+
+2
+
+Liming & stocking
+
+3
+
+Feed & health
+
+4
+
+Harvest & market
+
+Reported outcomes
+
+Paddy yield increased by 10%–25%.
+
+Average rice production reported around 7 tonnes/ha/year.
+
+Fish production reported nearly 2 tonnes/ha/crop.
+
+Reduced weeding labour and improved local fish availability.
+
+Learning for AP officials
+
+Start with technically suitable fields and invest in handholding. The model succeeds when fisheries and agriculture staff work together through a common mandal plan.
+
+Source: UNDP SDG Knowledge Hub / NITI for States, "Climate Resilient Rice–Fish Farming in Assam".
+
+Rice–Fish Integrated Farming | Capacity Building for AP Officers
+
+4
+
+INDIGENOUS MODEL
+
+India case study 2: Apatani paddy-cum-fish farming, Arunachal Pradesh
+
+Why this model is important
+
+Widely practiced in the Apatani plateau and described by the state fisheries department as profitable and sustainable.
+
+Generates two crops — paddy and fish — from the same cultivable area.
+
+Uses low-lying fields, raised bunds, irrigation channels and suitable carp species.
+
+2–3 ft
+
+recommended bund height in government note
+
+Common / Amur carp
+
+common species in model
+
+Transferable lesson
+
+Rice–fish integration works best when water channels, community rules and farmer skills are designed together — not as isolated input distribution.
+
+Source: Directorate of Fisheries, Government of Arunachal Pradesh, "Paddy-cum-fish-culture".
+
+Rice–Fish Integrated Farming | Capacity Building for AP Officers
+
+5
+
+GLOBAL HERITAGE MODEL
+
+China case study: Qingtian Rice–Fish Culture System
+
+1,300+ yrs
+
+traditional system in Qingtian
+
+2005
+
+FAO GIAHS recognition
+
+Eco-brand
+
+rice + fish + tourism
+
+What makes it successful
+
+Fish fertilize rice, disturb water, soften soil, and eat larvae and weeds.
+
+Rice gives fish shade, food and habitat.
+
+Lower-cost inputs reduce use of chemical fertilizers, pesticides and herbicides.
+
+Heritage branding supports higher-value products and rural revitalization.
+
+Learning for AP: protect ecology + build product identity. This can become a "safe rice + local fish" brand, not just a production technique.
+
+Sources: FAO GIAHS Qingtian Rice-Fish Culture; Frontiers in Sustainable Food Systems, 2024.
+
+Rice–Fish Integrated Farming | Capacity Building for AP Officers
+
+6
+
+SUCCESS FACTORS
+
+What the India and China cases have in common
+
+Right site
+
+Low-lying, water-retentive fields with controlled inlet/outlet.
+
+Field design
+
+Strong bunds, trenches/refuge pond, screened flow points and harvest channel.
+
+Species choice
+
+Carp or locally suited species matched to water depth, salinity and crop calendar.
+
+Input discipline
+
+Avoid harmful pesticides; shift to natural/safer pest management.
+
+Technical handholding
+
+Regular visits by agriculture + fisheries teams during first crop cycle.
+
+Market linkage
+
+Farmer groups, aggregators, fish markets and cold chain for better returns.
+
+Officer takeaway: pilots should be selected for technical feasibility first, then scaled through farmer confidence and demonstrated profitability.
+
+Sources synthesized from Assam case, Arunachal Pradesh fisheries note and FAO Qingtian GIAHS documentation.
+
+Rice–Fish Integrated Farming | Capacity Building for AP Officers
+
+7
+
+WHERE TO APPLY
+
+Relevance for paddy-growing districts of Andhra Pradesh
+
+Prioritise districts/mandals with:
+
+Contiguous paddy area and assured water retention.
+
+Existing canal or tank-based irrigation with manageable drainage.
+
+Farmer interest in natural farming / lower chemical input practices.
+
+Access to fish seed, local markets and fisheries extension.
+
+Low-lying paddy patches where waterlogging is common.
+
+Potential AP focus areas
+
+Delta paddy belts
+
+Krishna, East/West Godavari and adjoining delta mandals can test field-refuge models.
+
+High paddy districts
+
+ANGRAU paddy outlook identifies West Godavari, Krishna, Srikakulam and Kakinada as major paddy-growing districts.
+
+APCNF alignment
+
+Integrated model can reduce chemical dependence and support biodiversity if field protocols are followed.
+
+Nutrition & income
+
+Freshwater fish availability improves household protein while rice yield is protected or improved.
+
+Do not universalise. Start with feasibility screening and demonstration mandals before district-wide scale-up.
+
+Sources: AP Seeds; ANGRAU Paddy Outlook 2023–24; CGIAR 2023 note on IRFS in West Godavari.
+
+Rice–Fish Integrated Farming | Capacity Building for AP Officers
+
+8
+
+ROLE OF DISTRICT OFFICERS
+
+District-level implementation model
+
+6-step district execution pathway
+
+1
+
+Map suitable fields
+
+2
+
+Select demo clusters
+
+3
+
+Converge schemes
+
+4
+
+Train farmers
+
+5
+
+Monitor crop cycle
+
+6
+
+Aggregate & market
+
+1. Feasibility mapping
+
+Use paddy area, irrigation, water depth, drainage and pesticide-use pattern to shortlist mandals.
+
+2. Demonstration clusters
+
+Start with 5–10 fields per mandal through volunteer farmers, FPOs or natural farming groups.
+
+3. Convergence
+
+Pool agriculture, fisheries, RBK, MGNREGS, PMMSY/NFSM and local training resources.
+
+4. Market planning
+
+Tie up local fish vendors, ice boxes, collection points and rice branding before harvest.
+
+Sources: Implementation logic adapted from Assam and Qingtian cases; scheme convergence to be validated by state departments.
+
+Rice–Fish Integrated Farming | Capacity Building for AP Officers
+
+9
+
+WHAT OFFICERS SHOULD TRACK
+
+Monitoring framework and takeaways
+
+Simple KPI dashboard
+
+Productivity
+
+Paddy yield, fish yield, survival rate
+
+Income
+
+Net income/acre vs paddy-only field
+
+Input use
+
+Fertilizer, pesticide and weeding labour
+
+Water
+
+Retention days, depth, drainage events
+
+Adoption
+
+Farmers trained, pilots completed, replication demand
+
+Market
+
+Fish price, buyer linkage, aggregation volume
+
+Three takeaways for AP officials
+
+1. Start small, but design properly
+
+Pilot only in technically suitable fields with water control and farmer consent.
+
+2. Converge agriculture and fisheries teams
+
+Joint field visits are essential during design, stocking and harvest.
+
+3. Show income evidence
+
+Compare with paddy-only plots; scale only when pilots show net returns and risk control.
+
+Final message: rice–fish farming is a district productivity strategy, not just a farm technique.
+
+Key sources: Assam UNDP/NITI case; Arunachal Pradesh Fisheries note; FAO Qingtian GIAHS; Frontiers 2024; AP Seeds; ANGRAU Paddy Outlook; CGIAR.
+
+Rice–Fish Integrated Farming | Capacity Building for AP Officers
+
+10
+
+Key sources: Assam UNDP/NITI case; Arunachal Pradesh Fisheries note; FAO Qingtian GIAHS; Frontiers 2024; AP Seeds; ANGRAU Paddy Outlook; CGIAR.
+
+THANK YOU
+
+11

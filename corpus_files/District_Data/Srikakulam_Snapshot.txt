@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Srikakulam (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 12.00 Cr., statewide rank 0.45
+  - Horticulture: N/A% of district GVA, Rs. 25.00 Cr., statewide rank -14.57
+  - Live stock: N/A% of district GVA, Rs. 17.00 Cr., statewide rank 2.31
+  - Forestry & Logging: N/A% of district GVA, Rs. 15.00 Cr., statewide rank 38.04
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 9.00 Cr., statewide rank 13.76
+
+Fastest-growing sectors in Srikakulam (2025-26 (FAE) YoY):
+  - Agriculture: 3.93% growth, Rs. 12.00 Cr.
+  - Other Services: 3.82% growth, Rs. 12.00 Cr.
+  - Public Admn.: 3.63% growth, Rs. 13.00 Cr.
+  - Communications: 3.61% growth, Rs. 14.00 Cr.
+  - Forestry & Logging: 3.41% growth, Rs. 15.00 Cr.
+
+Best statewide ranks (sectors where Srikakulam leads other districts):
+  - Horticulture: rank -14.57 of 28, Rs. 25.00 Cr.
+  - Agriculture: rank 0.45 of 28, Rs. 12.00 Cr.
+  - Live stock: rank 2.31 of 28, Rs. 17.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 2.48 of 28, Rs. 19.00 Cr.
+  - Public Admn.: rank 5.03 of 28, Rs. 13.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 19.00 Cr., growth 2.26%, rank 16.74
+  - Services Sector (aggregate): Rs. 13.00 Cr., growth 3.18%, rank 13.05
+  - Gross District Value Added (GDVA): Rs. 20.00 Cr., growth 2.73%, rank 10.3
+  - Product Taxes: Rs. 20.00 Cr., growth 2.73%, rank 12.04
+  - Product Subsidies: Rs. 20.00 Cr., growth 2.73%, rank -3.11
+  - Gross District Domestic Product (GDDP): Rs. 20.00 Cr., growth 2.73%, rank 10.67
+  - Net District Domestic Product (NDDP): Rs. 20.00 Cr., growth 2.74%, rank 10.32
+  - Population ('000): Rs. 7.00 Cr., growth 4.42%, rank 0.34
+  - Per Capita Income (Rs.): Rs. 26.00 Cr., growth 2.28%, rank 9.94

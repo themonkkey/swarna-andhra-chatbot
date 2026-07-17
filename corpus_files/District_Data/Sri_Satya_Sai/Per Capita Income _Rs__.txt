@@ -1,0 +1,6 @@
+District: Sri Satya Sai — Sector: Per Capita Income (Rs.)
+
+2022-23 (TRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 3.62, Contribution to state total = 242,745.00%
+2023-24 (SRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 12.59, YoY Growth = 3.76%, Contribution to state total = 268,022.00%
+2024-25 (FRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 10.41, YoY Growth = 3.70%, Contribution to state total = 281,672.00%
+2025-26 (FAE): Value = Rs. 13.00 Cr., Rank among 28 districts = 5.09, YoY Growth = 3.53%, Contribution to state total = N/A%

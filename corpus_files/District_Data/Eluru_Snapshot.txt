@@ -1,0 +1,33 @@
+District Economic Profile Snapshot: Eluru (latest year: 2025-26 (FAE))
+
+Top sectors by contribution to district GVA (comparative advantage):
+  - Agriculture: N/A% of district GVA, Rs. 8.00 Cr., statewide rank -1.53
+  - Horticulture: N/A% of district GVA, Rs. 5.00 Cr., statewide rank -19.1
+  - Live stock: N/A% of district GVA, Rs. 1.00 Cr., statewide rank 10.76
+  - Forestry & Logging: N/A% of district GVA, Rs. 10.00 Cr., statewide rank 6.7
+  - Fishing & Aquaculture: N/A% of district GVA, Rs. 2.00 Cr., statewide rank 13.82
+
+Fastest-growing sectors in Eluru (2025-26 (FAE) YoY):
+  - Fishing & Aquaculture: 20.45% growth, Rs. 2.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: 9.91% growth, Rs. 1.00 Cr.
+  - Live stock: 6.43% growth, Rs. 1.00 Cr.
+  - Agriculture: 5.37% growth, Rs. 8.00 Cr.
+  - Horticulture: 5.12% growth, Rs. 5.00 Cr.
+
+Best statewide ranks (sectors where Eluru leads other districts):
+  - Mining & Quarrying: rank -90.26 of 28, Rs. 25.00 Cr.
+  - Horticulture: rank -19.1 of 28, Rs. 5.00 Cr.
+  - Agriculture: rank -1.53 of 28, Rs. 8.00 Cr.
+  - Public Admn.: rank 5.44 of 28, Rs. 14.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 6.27 of 28, Rs. 1.00 Cr.
+
+Aggregate figures:
+  - Industry Sector (aggregate): Rs. 22.00 Cr., growth 1.83%, rank 1.69
+  - Services Sector (aggregate): Rs. 14.00 Cr., growth 3.01%, rank 13.29
+  - Gross District Value Added (GDVA): Rs. 5.00 Cr., growth 5.02%, rank 7.57
+  - Product Taxes: Rs. 5.00 Cr., growth 5.02%, rank 9.26
+  - Product Subsidies: Rs. 5.00 Cr., growth 5.02%, rank -5.49
+  - Gross District Domestic Product (GDDP): Rs. 5.00 Cr., growth 5.02%, rank 7.93
+  - Net District Domestic Product (NDDP): Rs. 5.00 Cr., growth 5.18%, rank 8.35
+  - Population ('000): Rs. 12.00 Cr., growth 4.05%, rank 0.37
+  - Per Capita Income (Rs.): Rs. 4.00 Cr., growth 4.72%, rank 7.98
