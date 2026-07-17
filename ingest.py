@@ -1,9 +1,10 @@
-"""Extract text from the PIF training corpus with page/slide-level indexing.
+"""Build TF-IDF index over the PIF training corpus with adaptive chunking.
 
-Each chunk = one slide (pptx) or one page (pdf), so retrieval can cite an exact
-location instead of an arbitrary character window. Long pages are sub-split
-(with overlap) but keep their page number, so citation stays precise.
-Docx templates have no native page concept — indexed as a single unit per file.
+corpus_files/
+  methodology/     official PDFs — paragraph chunks 800 chars + neighbor expansion at retrieval
+  training/        training decks — paragraph chunks 1200 chars, slide as unit
+  case_studies/    case study decks — 600 char chunks, boilerplate-stripped, keyword-tagged
+  district_data/   per-district-sector .txt files — one file = one chunk (already small)
 """
 import os
 import pickle
@@ -17,10 +18,14 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 CORPUS_DIR = os.path.join(os.path.dirname(__file__), "corpus_files")
 INDEX_PATH = os.path.join(os.path.dirname(__file__), "index.pkl")
 
-# TF-IDF only matches literal tokens, so it misses queries phrased with synonyms the
-# source text doesn't use (e.g. "fisheries" when the deck says "shrimp"/"aquaculture").
-# Tag known files with their sector synonyms so every chunk of that file carries the
-# extra tokens needed for recall, without pulling in a full embedding model.
+CHUNK_SIZES = {
+    "methodology":   800,
+    "training":     1200,
+    "case_studies":  600,
+    "district_data": 99999,  # whole file = one chunk
+}
+OVERLAP = 150
+
 CASE_STUDY_TAGS = {
     "Srikakulam_Blue_Economy.txt": "fisheries aquaculture shrimp fish marine coastal blue economy",
     "Nellore_Shrimp_Processing.txt": "fisheries aquaculture shrimp seafood processing export",
@@ -38,9 +43,19 @@ CASE_STUDY_TAGS = {
     "Tiruppur_Case_Study_Updated.txt": "textiles knitwear garments manufacturing export cluster zero liquid discharge",
 }
 
-# Only pages longer than this get sub-split (with overlap); most slides/pages fit in one chunk.
-MAX_PAGE_CHARS = 1200
-SUB_CHUNK_OVERLAP = 150
+BOILERPLATE_PATTERNS = [
+    re.compile(r"^CASE STUDY\s*\|.*$", re.IGNORECASE | re.MULTILINE),
+    re.compile(r".*Training deck for District.*Mandal Level Officials.*$", re.IGNORECASE | re.MULTILINE),
+    re.compile(r"^Editable PowerPoint\s*\|.*slides.*$", re.IGNORECASE | re.MULTILINE),
+    re.compile(r"^Source:.*$", re.IGNORECASE | re.MULTILINE),
+    re.compile(r".*\|\s*Case study for AP officials.*$", re.IGNORECASE | re.MULTILINE),
+]
+
+
+def strip_boilerplate(text):
+    for pat in BOILERPLATE_PATTERNS:
+        text = pat.sub("", text)
+    return text
 
 
 def extract_docx_units(path):
@@ -82,8 +97,6 @@ def extract_pdf_units(path):
 
 
 def extract_txt_units(path):
-    # Fallback for files whose original binary wouldn't parse — no native page
-    # structure preserved, so indexed as a single unit.
     with open(path, "r", encoding="utf-8", errors="ignore") as f:
         return [{"page": None, "text": f.read()}]
 
@@ -104,39 +117,19 @@ def extract_units(path):
     return []
 
 
-# Recurring deck boilerplate that repeats on nearly every slide of the case-study decks —
-# left in, it spams the "case study" bigram and drowns out the actual topical content in
-# TF-IDF scoring (a query like "fisheries case study" then matches whichever deck repeats
-# this boilerplate most, not whichever deck is actually about fisheries).
-BOILERPLATE_PATTERNS = [
-    re.compile(r"^CASE STUDY\s*\|.*$", re.IGNORECASE | re.MULTILINE),
-    re.compile(r".*Training deck for District.*Mandal Level Officials.*$", re.IGNORECASE | re.MULTILINE),
-    re.compile(r"^Editable PowerPoint\s*\|.*slides.*$", re.IGNORECASE | re.MULTILINE),
-    re.compile(r"^Source:.*$", re.IGNORECASE | re.MULTILINE),
-    re.compile(r".*\|\s*Case study for AP officials.*$", re.IGNORECASE | re.MULTILINE),
-]
-
-
-def strip_boilerplate(text):
-    for pat in BOILERPLATE_PATTERNS:
-        text = pat.sub("", text)
-    return text
-
-
-def sub_split(text, page, source):
-    """Split an overlong page/slide at paragraph boundaries, keeping the same page label."""
+def sub_split(text, page, source, max_chars):
+    """Split at paragraph boundaries, keeping the same page label."""
     text = re.sub(r"\n{3,}", "\n\n", text).strip()
     if not text:
         return []
-    if len(text) <= MAX_PAGE_CHARS:
+    if len(text) <= max_chars:
         return [{"source": source, "page": page, "text": text}]
     paragraphs = text.split("\n\n")
     chunks, current = [], ""
     for para in paragraphs:
-        if len(current) + len(para) > MAX_PAGE_CHARS and current:
+        if len(current) + len(para) > max_chars and current:
             chunks.append({"source": source, "page": page, "text": current.strip()})
-            # carry overlap from end of previous chunk into next
-            current = current[-SUB_CHUNK_OVERLAP:] + "\n\n" + para
+            current = current[-OVERLAP:] + "\n\n" + para
         else:
             current = (current + "\n\n" + para).strip()
     if current.strip():
@@ -144,9 +137,12 @@ def sub_split(text, page, source):
     return chunks
 
 
-def main():
-    all_chunks = []
-    for root, _, files in os.walk(CORPUS_DIR):
+def process_folder(folder_name, folder_path, all_chunks):
+    max_chars = CHUNK_SIZES.get(folder_name, 1200)
+    is_case_studies = folder_name == "case_studies"
+    is_district = folder_name == "district_data"
+
+    for root, _, files in os.walk(folder_path):
         for fname in sorted(files):
             if fname.startswith("."):
                 continue
@@ -155,25 +151,39 @@ def main():
                 continue
             path = os.path.join(root, fname)
             rel = os.path.relpath(path, CORPUS_DIR)
-            print(f"Extracting: {rel}")
+
             units = extract_units(path)
             file_chunks = []
-            tags = CASE_STUDY_TAGS.get(fname)
-            is_case_study = "Some_case_studies" in rel or "Some case studies" in rel
+            tags = CASE_STUDY_TAGS.get(fname) if is_case_studies else None
+
             for u in units:
-                unit_text = strip_boilerplate(u["text"]) if is_case_study else u["text"]
-                for chunk in sub_split(unit_text, u["page"], rel):
+                text = strip_boilerplate(u["text"]) if is_case_studies else u["text"]
+                for chunk in sub_split(text, u["page"], rel, max_chars):
                     if tags:
-                        # Repeat so tag terms carry enough TF-IDF weight to compete with
-                        # the surrounding jargon-heavy slide text, not just appear once.
                         tag_block = " ".join([tags] * 4)
                         chunk["text"] = f"Keywords: {tag_block}\n\n{chunk['text']}"
+                    # district chunks get their folder as metadata for filtering
+                    chunk["folder"] = folder_name
                     file_chunks.append(chunk)
-            print(f"  -> {len(units)} pages/slides -> {len(file_chunks)} chunks")
+
+            print(f"  {rel}: {len(units)} units → {len(file_chunks)} chunks")
             all_chunks.extend(file_chunks)
 
+
+def main():
+    all_chunks = []
+    folders = ["methodology", "training", "case_studies", "district_data"]
+
+    for folder in folders:
+        path = os.path.join(CORPUS_DIR, folder)
+        if not os.path.isdir(path):
+            print(f"Skipping {folder} (not found)")
+            continue
+        print(f"\n[{folder.upper()}] max_chars={CHUNK_SIZES[folder]}")
+        process_folder(folder, path, all_chunks)
+
     if not all_chunks:
-        print("No chunks extracted — check CORPUS_DIR path and file downloads.")
+        print("No chunks extracted.")
         return
 
     texts = [c["text"] for c in all_chunks]
@@ -183,7 +193,13 @@ def main():
     with open(INDEX_PATH, "wb") as f:
         pickle.dump({"chunks": all_chunks, "vectorizer": vectorizer, "matrix": matrix}, f)
 
-    print(f"\nIndexed {len(all_chunks)} chunks (page/slide-level) from corpus into {INDEX_PATH}")
+    by_folder = {}
+    for c in all_chunks:
+        by_folder[c["folder"]] = by_folder.get(c["folder"], 0) + 1
+    print(f"\nTotal: {len(all_chunks)} chunks")
+    for k, v in by_folder.items():
+        print(f"  {k}: {v}")
+    print(f"Index saved → {INDEX_PATH}")
 
 
 if __name__ == "__main__":

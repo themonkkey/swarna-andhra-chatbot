@@ -92,8 +92,8 @@ def retrieve(query, index):
             continue
         add_chunk(i, float(sims[i]))
         c = index["chunks"][i]
-        # expand neighbors only for page-indexed sources (PDFs/pptx), not flat txt files
-        if c.get("page") is not None:
+        # neighbor expansion only for methodology PDFs — training/case_study slides are self-contained
+        if c.get("page") is not None and c.get("folder") == "methodology":
             for delta in (-1, +1):
                 neighbor_key = (c["source"], c["page"] + delta)
                 if neighbor_key in page_index:
