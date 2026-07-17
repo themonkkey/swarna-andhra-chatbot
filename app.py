@@ -38,8 +38,8 @@ If the context doesn't fully answer the question, you may supplement with genera
 knowledge — but say explicitly which part of your answer is from the PIF corpus and which part is \
 general knowledge/not verified against official data.
 
-If asked for district-level GSDP/DDP numeric data that is not in the context, say plainly that the \
-structured district dataset hasn't been loaded into this prototype yet, rather than guessing numbers.
+If asked for district-level GSDP/DDP numeric data that is not in the context, say plainly that you \
+don't have that specific figure rather than guessing numbers.
 """
 
 
@@ -165,7 +165,11 @@ if user_input:
     with st.chat_message("user"):
         st.markdown(user_input)
 
-    hits = retrieve(user_input, index)
+    expanded = user_input
+    low = user_input.lower()
+    if any(w in low for w in ["gdp", "gddp", "economy", "economic", "income", "nddp", "per capita"]):
+        expanded = user_input + " GDDP district domestic product snapshot"
+    hits = retrieve(expanded, index)
     context_block = build_context_block(hits)
 
     llm_messages = [
