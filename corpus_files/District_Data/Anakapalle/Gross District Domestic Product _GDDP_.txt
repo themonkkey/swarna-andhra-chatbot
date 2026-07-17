@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 3.48, Contribution to state total = 48,529.00%
-2023-24 (SRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 6.47, YoY Growth = 3.41%, Contribution to state total = 53,010.00%
-2024-25 (FRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 9.23, YoY Growth = 3.33%, Contribution to state total = 60,107.00%
-2025-26 (FAE): Value = Rs. 14.00 Cr., Rank among 28 districts = 13.39, YoY Growth = 3.41%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 45,577.52 Cr., Rank among 28 districts = 15, Contribution to state total = 3.48%
+2023-24 (SRE): Value = Rs. 48,529.00 Cr., Rank among 28 districts = 14, YoY Growth = 6.47%, Contribution to state total = 3.41%
+2024-25 (FRE): Value = Rs. 53,010.00 Cr., Rank among 28 districts = 14, YoY Growth = 9.23%, Contribution to state total = 3.33%
+2025-26 (FAE): Value = Rs. 60,107.00 Cr., Rank among 28 districts = 14, YoY Growth = 13.39%, Contribution to state total = 3.41%

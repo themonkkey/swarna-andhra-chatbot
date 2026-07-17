@@ -1,6 +1,6 @@
 District: Markapuram — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 22.00 Cr., Rank among 28 districts = 0.51, Contribution to state total = 42.00%
-2023-24 (SRE): Value = Rs. 22.00 Cr., Rank among 28 districts = 10.53, YoY Growth = 0.49%, Contribution to state total = 45.07%
-2024-25 (FRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 7.14, YoY Growth = 0.49%, Contribution to state total = 49.00%
-2025-26 (FAE): Value = Rs. 23.00 Cr., Rank among 28 districts = 8.89, YoY Growth = 0.49%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 38.06 Cr., Rank among 28 districts = 22, Contribution to state total = 0.51%
+2023-24 (SRE): Value = Rs. 42.00 Cr., Rank among 28 districts = 22, YoY Growth = 10.53%, Contribution to state total = 0.49%
+2024-25 (FRE): Value = Rs. 45.07 Cr., Rank among 28 districts = 23, YoY Growth = 7.14%, Contribution to state total = 0.49%
+2025-26 (FAE): Value = Rs. 49.00 Cr., Rank among 28 districts = 23, YoY Growth = 8.89%, Contribution to state total = 0.49%

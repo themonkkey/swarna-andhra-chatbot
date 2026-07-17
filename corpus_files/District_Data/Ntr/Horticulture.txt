@@ -1,6 +1,6 @@
 District: Ntr — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 2.69, Contribution to state total = 4,463.41%
-2023-24 (SRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 37.53, YoY Growth = 3.55%, Contribution to state total = 3,994.00%
-2024-25 (FRE): Value = Rs. 14.00 Cr., Rank among 28 districts = -10.51, YoY Growth = 2.81%, Contribution to state total = 3,978.25%
-2025-26 (FAE): Value = Rs. 15.00 Cr., Rank among 28 districts = -0.4, YoY Growth = 2.79%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 3,245.04 Cr., Rank among 28 districts = 14, Contribution to state total = 2.69%
+2023-24 (SRE): Value = Rs. 4,463.41 Cr., Rank among 28 districts = 12, YoY Growth = 37.53%, Contribution to state total = 3.55%
+2024-25 (FRE): Value = Rs. 3,994.00 Cr., Rank among 28 districts = 14, YoY Growth = -10.51%, Contribution to state total = 2.81%
+2025-26 (FAE): Value = Rs. 3,978.25 Cr., Rank among 28 districts = 15, YoY Growth = -0.40%, Contribution to state total = 2.79%

@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 3.95, Contribution to state total = 194,701.00%
-2023-24 (SRE): Value = Rs. 19.00 Cr., Rank among 28 districts = -17.18, YoY Growth = 3.01%, Contribution to state total = 223,693.00%
-2024-25 (FRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 14.89, YoY Growth = 3.09%, Contribution to state total = 235,304.00%
-2025-26 (FAE): Value = Rs. 19.00 Cr., Rank among 28 districts = 5.19, YoY Growth = 2.94%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 235,083.00 Cr., Rank among 28 districts = 7, Contribution to state total = 3.95%
+2023-24 (SRE): Value = Rs. 194,701.00 Cr., Rank among 28 districts = 19, YoY Growth = -17.18%, Contribution to state total = 3.01%
+2024-25 (FRE): Value = Rs. 223,693.00 Cr., Rank among 28 districts = 18, YoY Growth = 14.89%, Contribution to state total = 3.09%
+2025-26 (FAE): Value = Rs. 235,304.00 Cr., Rank among 28 districts = 19, YoY Growth = 5.19%, Contribution to state total = 2.94%

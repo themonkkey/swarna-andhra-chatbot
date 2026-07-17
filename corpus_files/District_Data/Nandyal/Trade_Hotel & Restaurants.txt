@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 0.94, Contribution to state total = 1,202.00%
-2023-24 (SRE): Value = Rs. 19.00 Cr., Rank among 28 districts = 42.59, YoY Growth = 1.25%, Contribution to state total = 1,362.00%
-2024-25 (FRE): Value = Rs. 19.00 Cr., Rank among 28 districts = 13.31, YoY Growth = 1.25%, Contribution to state total = 1,330.42%
-2025-26 (FAE): Value = Rs. 19.00 Cr., Rank among 28 districts = -2.35, YoY Growth = 1.08%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 842.92 Cr., Rank among 28 districts = 20, Contribution to state total = 0.94%
+2023-24 (SRE): Value = Rs. 1,202.00 Cr., Rank among 28 districts = 19, YoY Growth = 42.59%, Contribution to state total = 1.25%
+2024-25 (FRE): Value = Rs. 1,362.00 Cr., Rank among 28 districts = 19, YoY Growth = 13.31%, Contribution to state total = 1.25%
+2025-26 (FAE): Value = Rs. 1,330.42 Cr., Rank among 28 districts = 19, YoY Growth = -2.35%, Contribution to state total = 1.08%

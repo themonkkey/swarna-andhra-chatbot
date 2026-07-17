@@ -1,6 +1,6 @@
 District: Eluru — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 5.53, Contribution to state total = 6,149.47%
-2023-24 (SRE): Value = Rs. 6.00 Cr., Rank among 28 districts = -7.84, YoY Growth = 4.89%, Contribution to state total = 9,033.00%
-2024-25 (FRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 46.9, YoY Growth = 6.36%, Contribution to state total = 7,308.46%
-2025-26 (FAE): Value = Rs. 5.00 Cr., Rank among 28 districts = -19.1, YoY Growth = 5.12%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 6,671.77 Cr., Rank among 28 districts = 5, Contribution to state total = 5.53%
+2023-24 (SRE): Value = Rs. 6,149.47 Cr., Rank among 28 districts = 6, YoY Growth = -7.84%, Contribution to state total = 4.89%
+2024-25 (FRE): Value = Rs. 9,033.00 Cr., Rank among 28 districts = 4, YoY Growth = 46.90%, Contribution to state total = 6.36%
+2025-26 (FAE): Value = Rs. 7,308.46 Cr., Rank among 28 districts = 5, YoY Growth = -19.10%, Contribution to state total = 5.12%

@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Ananthapuramu (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 13.00 Cr., statewide rank 22.79
-  - Horticulture: N/A% of district GVA, Rs. 1.00 Cr., statewide rank 2.85
-  - Live stock: N/A% of district GVA, Rs. 4.00 Cr., statewide rank 0.79
-  - Forestry & Logging: N/A% of district GVA, Rs. 7.00 Cr., statewide rank 38.4
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 23.00 Cr., statewide rank 22.55
+  - Railways: 11.70% of district GVA, Rs. 1,172.00 Cr., statewide rank 3
+  - Horticulture: 11.63% of district GVA, Rs. 16,588.13 Cr., statewide rank 1
+  - Electricity, Gas, Water Supply: 6.44% of district GVA, Rs. 2,855.87 Cr., statewide rank 4
+  - Live stock: 5.42% of district GVA, Rs. 9,554.00 Cr., statewide rank 4
+  - AGRICULTURE & ALLIED SECTOR: 5.35% of district GVA, Rs. 28,886.49 Cr., statewide rank 4
 
 Fastest-growing sectors in Ananthapuramu (2025-26 (FAE) YoY):
-  - Railways: 11.70% growth, Rs. 3.00 Cr.
-  - Horticulture: 11.63% growth, Rs. 1.00 Cr.
-  - Electricity, Gas, Water Supply: 6.44% growth, Rs. 4.00 Cr.
-  - Live stock: 5.42% growth, Rs. 4.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: 5.35% growth, Rs. 4.00 Cr.
+  - Forestry & Logging: 38.40% growth, Rs. 518.62 Cr.
+  - Agriculture: 22.79% growth, Rs. 2,100.96 Cr.
+  - Fishing & Aquaculture: 22.55% growth, Rs. 124.52 Cr.
+  - Communications: 17.02% growth, Rs. 1,451.00 Cr.
+  - Banking & Insurance: 15.16% growth, Rs. 2,970.00 Cr.
 
 Best statewide ranks (sectors where Ananthapuramu leads other districts):
-  - Mining & Quarrying: rank -38.76 of 28, Rs. 14.00 Cr.
-  - Live stock: rank 0.79 of 28, Rs. 4.00 Cr.
-  - Horticulture: rank 2.85 of 28, Rs. 1.00 Cr.
-  - Electricity, Gas, Water Supply: rank 3.14 of 28, Rs. 4.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: rank 3.92 of 28, Rs. 4.00 Cr.
+  - Horticulture: rank 1 of 28, Rs. 16,588.13 Cr.
+  - Railways: rank 3 of 28, Rs. 1,172.00 Cr.
+  - Live stock: rank 4 of 28, Rs. 9,554.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 4 of 28, Rs. 28,886.49 Cr.
+  - Electricity, Gas, Water Supply: rank 4 of 28, Rs. 2,855.87 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 10.00 Cr., growth 3.85%, rank 5.69
-  - Services Sector (aggregate): Rs. 10.00 Cr., growth 3.83%, rank 12.65
-  - Gross District Value Added (GDVA): Rs. 9.00 Cr., growth 4.34%, rank 7.47
-  - Product Taxes: Rs. 9.00 Cr., growth 4.34%, rank 9.15
-  - Product Subsidies: Rs. 9.00 Cr., growth 4.34%, rank -5.61
-  - Gross District Domestic Product (GDDP): Rs. 9.00 Cr., growth 4.34%, rank 7.83
-  - Net District Domestic Product (NDDP): Rs. 9.00 Cr., growth 4.36%, rank 7.48
-  - Population ('000): Rs. 4.00 Cr., growth 4.52%, rank 0.33
-  - Per Capita Income (Rs.): Rs. 11.00 Cr., growth 3.56%, rank 7.11
+  - Industry Sector (aggregate): Rs. 14,808.00 Cr., growth 5.69%, rank 10
+  - Services Sector (aggregate): Rs. 26,851.18 Cr., growth 12.65%, rank 10
+  - Gross District Value Added (GDVA): Rs. 70,545.74 Cr., growth 7.47%, rank 9
+  - Product Taxes: Rs. 7,023.09 Cr., growth 9.15%, rank 9
+  - Product Subsidies: Rs. 1,043.18 Cr., growth -5.61%, rank 9
+  - Gross District Domestic Product (GDDP): Rs. 76,526.00 Cr., growth 7.83%, rank 9
+  - Net District Domestic Product (NDDP): Rs. 68,920.36 Cr., growth 7.48%, rank 9
+  - Population ('000): Rs. 2,424.40 Cr., growth 0.33%, rank 4
+  - Per Capita Income (Rs.): Rs. 284,277.00 Cr., growth 7.11%, rank 11

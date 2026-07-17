@@ -1,6 +1,6 @@
 District: Sri Satya Sai — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 3.68, Contribution to state total = 1,017.45%
-2023-24 (SRE): Value = Rs. 13.00 Cr., Rank among 28 districts = -31.38, YoY Growth = 3.76%, Contribution to state total = 923.00%
-2024-25 (FRE): Value = Rs. 13.00 Cr., Rank among 28 districts = -9.24, YoY Growth = 3.73%, Contribution to state total = 859.47%
-2025-26 (FAE): Value = Rs. 13.00 Cr., Rank among 28 districts = -6.93, YoY Growth = 3.58%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,482.00 Cr., Rank among 28 districts = 14, Contribution to state total = 3.68%
+2023-24 (SRE): Value = Rs. 1,017.45 Cr., Rank among 28 districts = 13, YoY Growth = -31.38%, Contribution to state total = 3.76%
+2024-25 (FRE): Value = Rs. 923.00 Cr., Rank among 28 districts = 13, YoY Growth = -9.24%, Contribution to state total = 3.73%
+2025-26 (FAE): Value = Rs. 859.47 Cr., Rank among 28 districts = 13, YoY Growth = -6.93%, Contribution to state total = 3.58%

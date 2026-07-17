@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 17.00 Cr., Rank among 28 districts = 3.02, Contribution to state total = 793.08%
-2023-24 (SRE): Value = Rs. 16.00 Cr., Rank among 28 districts = -34.79, YoY Growth = 2.93%, Contribution to state total = 707.00%
-2024-25 (FRE): Value = Rs. 17.00 Cr., Rank among 28 districts = -10.84, YoY Growth = 2.85%, Contribution to state total = 676.02%
-2025-26 (FAE): Value = Rs. 16.00 Cr., Rank among 28 districts = -4.38, YoY Growth = 2.81%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,216.00 Cr., Rank among 28 districts = 17, Contribution to state total = 3.02%
+2023-24 (SRE): Value = Rs. 793.08 Cr., Rank among 28 districts = 16, YoY Growth = -34.79%, Contribution to state total = 2.93%
+2024-25 (FRE): Value = Rs. 707.00 Cr., Rank among 28 districts = 17, YoY Growth = -10.84%, Contribution to state total = 2.85%
+2025-26 (FAE): Value = Rs. 676.02 Cr., Rank among 28 districts = 16, YoY Growth = -4.38%, Contribution to state total = 2.81%

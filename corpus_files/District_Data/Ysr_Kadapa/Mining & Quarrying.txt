@@ -1,6 +1,6 @@
 District: Ysr Kadapa — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 3.28, Contribution to state total = 1,711.86%
-2023-24 (SRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 33.85, YoY Growth = 5.78%, Contribution to state total = 1,518.41%
-2024-25 (FRE): Value = Rs. 7.00 Cr., Rank among 28 districts = -11.33, YoY Growth = 4.68%, Contribution to state total = 2,414.00%
-2025-26 (FAE): Value = Rs. 5.00 Cr., Rank among 28 districts = 59.03, YoY Growth = 7.11%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,279.23 Cr., Rank among 28 districts = 6, Contribution to state total = 3.28%
+2023-24 (SRE): Value = Rs. 1,711.86 Cr., Rank among 28 districts = 5, YoY Growth = 33.85%, Contribution to state total = 5.78%
+2024-25 (FRE): Value = Rs. 1,518.41 Cr., Rank among 28 districts = 7, YoY Growth = -11.33%, Contribution to state total = 4.68%
+2025-26 (FAE): Value = Rs. 2,414.00 Cr., Rank among 28 districts = 5, YoY Growth = 59.03%, Contribution to state total = 7.11%

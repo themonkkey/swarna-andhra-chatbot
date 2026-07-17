@@ -1,6 +1,6 @@
 District: Eluru — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 17.00 Cr., Rank among 28 districts = 1.51, Contribution to state total = 2,683.00%
-2023-24 (SRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 40.84, YoY Growth = 1.78%, Contribution to state total = 2,888.37%
-2024-25 (FRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 7.64, YoY Growth = 1.79%, Contribution to state total = 3,156.99%
-2025-26 (FAE): Value = Rs. 16.00 Cr., Rank among 28 districts = 9.31, YoY Growth = 1.79%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,905.49 Cr., Rank among 28 districts = 17, Contribution to state total = 1.51%
+2023-24 (SRE): Value = Rs. 2,683.00 Cr., Rank among 28 districts = 16, YoY Growth = 40.84%, Contribution to state total = 1.78%
+2024-25 (FRE): Value = Rs. 2,888.37 Cr., Rank among 28 districts = 16, YoY Growth = 7.64%, Contribution to state total = 1.79%
+2025-26 (FAE): Value = Rs. 3,156.99 Cr., Rank among 28 districts = 16, YoY Growth = 9.31%, Contribution to state total = 1.79%

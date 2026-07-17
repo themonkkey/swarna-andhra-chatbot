@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Sps Nellore (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 7.00 Cr., statewide rank 40.37
-  - Horticulture: N/A% of district GVA, Rs. 17.00 Cr., statewide rank -6.82
-  - Live stock: N/A% of district GVA, Rs. 6.00 Cr., statewide rank 8.65
-  - Forestry & Logging: N/A% of district GVA, Rs. 6.00 Cr., statewide rank 0
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 5.00 Cr., statewide rank 13.22
+  - Electricity, Gas, Water Supply: 21.29% of district GVA, Rs. 9,440.85 Cr., statewide rank 1
+  - Fishing & Aquaculture: 6.66% of district GVA, Rs. 10,184.38 Cr., statewide rank 5
+  - Transport by Other means & Storage: 6.27% of district GVA, Rs. 6,752.39 Cr., statewide rank 3
+  - Railways: 5.70% of district GVA, Rs. 571.00 Cr., statewide rank 4
+  - Agriculture: 5.43% of district GVA, Rs. 3,118.71 Cr., statewide rank 7
 
 Fastest-growing sectors in Sps Nellore (2025-26 (FAE) YoY):
-  - Electricity, Gas, Water Supply: 21.29% growth, Rs. 1.00 Cr.
-  - Fishing & Aquaculture: 6.66% growth, Rs. 5.00 Cr.
-  - Transport by Other means & Storage: 6.27% growth, Rs. 3.00 Cr.
-  - Railways: 5.70% growth, Rs. 4.00 Cr.
-  - Agriculture: 5.43% growth, Rs. 7.00 Cr.
+  - Agriculture: 40.37% growth, Rs. 3,118.71 Cr.
+  - Banking & Insurance: 21.89% growth, Rs. 4,003.00 Cr.
+  - Communications: 16.87% growth, Rs. 1,642.00 Cr.
+  - Other Services: 14.59% growth, Rs. 6,791.98 Cr.
+  - Real est., Ownership of Dwellings: 13.63% growth, Rs. 6,943.73 Cr.
 
 Best statewide ranks (sectors where Sps Nellore leads other districts):
-  - Mining & Quarrying: rank -36.03 of 28, Rs. 20.00 Cr.
-  - Horticulture: rank -6.82 of 28, Rs. 17.00 Cr.
-  - Public Admn.: rank 3.25 of 28, Rs. 4.00 Cr.
-  - Electricity, Gas, Water Supply: rank 3.41 of 28, Rs. 1.00 Cr.
-  - Railways: rank 7.53 of 28, Rs. 4.00 Cr.
+  - Electricity, Gas, Water Supply: rank 1 of 28, Rs. 9,440.85 Cr.
+  - Transport by Other means & Storage: rank 3 of 28, Rs. 6,752.39 Cr.
+  - Railways: rank 4 of 28, Rs. 571.00 Cr.
+  - Public Admn.: rank 4 of 28, Rs. 3,054.38 Cr.
+  - Fishing & Aquaculture: rank 5 of 28, Rs. 10,184.38 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 7.00 Cr., growth 5.05%, rank 5.95
-  - Services Sector (aggregate): Rs. 5.00 Cr., growth 4.71%, rank 12.87
-  - Gross District Value Added (GDVA): Rs. 6.00 Cr., growth 4.86%, rank 10.41
-  - Product Taxes: Rs. 6.00 Cr., growth 4.86%, rank 12.15
-  - Product Subsidies: Rs. 6.00 Cr., growth 4.85%, rank -3
-  - Gross District Domestic Product (GDDP): Rs. 6.00 Cr., growth 4.86%, rank 10.78
-  - Net District Domestic Product (NDDP): Rs. 6.00 Cr., growth 4.81%, rank 10.98
-  - Population ('000): Rs. 1.00 Cr., growth 4.88%, rank 0.35
-  - Per Capita Income (Rs.): Rs. 10.00 Cr., growth 3.64%, rank 10.6
+  - Industry Sector (aggregate): Rs. 19,426.00 Cr., growth 5.95%, rank 7
+  - Services Sector (aggregate): Rs. 32,974.39 Cr., growth 12.87%, rank 5
+  - Gross District Value Added (GDVA): Rs. 78,879.44 Cr., growth 10.41%, rank 6
+  - Product Taxes: Rs. 7,852.74 Cr., growth 12.15%, rank 6
+  - Product Subsidies: Rs. 1,166.41 Cr., growth -3.00%, rank 6
+  - Gross District Domestic Product (GDDP): Rs. 85,566.00 Cr., growth 10.78%, rank 6
+  - Net District Domestic Product (NDDP): Rs. 75,996.95 Cr., growth 10.98%, rank 6
+  - Population ('000): Rs. 2,614.56 Cr., growth 0.35%, rank 1
+  - Per Capita Income (Rs.): Rs. 290,668.00 Cr., growth 10.60%, rank 10

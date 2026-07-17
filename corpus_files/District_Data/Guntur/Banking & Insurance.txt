@@ -1,6 +1,6 @@
 District: Guntur — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 3.00 Cr., Rank among 28 districts = 7.6, Contribution to state total = 4,942.26%
-2023-24 (SRE): Value = Rs. 3.00 Cr., Rank among 28 districts = 10.46, YoY Growth = 7.62%, Contribution to state total = 5,655.95%
-2024-25 (FRE): Value = Rs. 3.00 Cr., Rank among 28 districts = 14.45, YoY Growth = 7.61%, Contribution to state total = 6,541.00%
-2025-26 (FAE): Value = Rs. 3.00 Cr., Rank among 28 districts = 15.65, YoY Growth = 7.62%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 4,473.82 Cr., Rank among 28 districts = 3, Contribution to state total = 7.60%
+2023-24 (SRE): Value = Rs. 4,942.26 Cr., Rank among 28 districts = 3, YoY Growth = 10.46%, Contribution to state total = 7.62%
+2024-25 (FRE): Value = Rs. 5,655.95 Cr., Rank among 28 districts = 3, YoY Growth = 14.45%, Contribution to state total = 7.61%
+2025-26 (FAE): Value = Rs. 6,541.00 Cr., Rank among 28 districts = 3, YoY Growth = 15.65%, Contribution to state total = 7.62%

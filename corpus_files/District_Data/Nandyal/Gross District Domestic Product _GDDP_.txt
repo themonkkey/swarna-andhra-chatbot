@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 2.7, Contribution to state total = 39,185.00%
-2023-24 (SRE): Value = Rs. 19.00 Cr., Rank among 28 districts = 11.08, YoY Growth = 2.75%, Contribution to state total = 43,694.00%
-2024-25 (FRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 11.51, YoY Growth = 2.75%, Contribution to state total = 48,466.00%
-2025-26 (FAE): Value = Rs. 18.00 Cr., Rank among 28 districts = 10.92, YoY Growth = 2.75%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 35,276.17 Cr., Rank among 28 districts = 20, Contribution to state total = 2.70%
+2023-24 (SRE): Value = Rs. 39,185.00 Cr., Rank among 28 districts = 19, YoY Growth = 11.08%, Contribution to state total = 2.75%
+2024-25 (FRE): Value = Rs. 43,694.00 Cr., Rank among 28 districts = 18, YoY Growth = 11.51%, Contribution to state total = 2.75%
+2025-26 (FAE): Value = Rs. 48,466.00 Cr., Rank among 28 districts = 18, YoY Growth = 10.92%, Contribution to state total = 2.75%

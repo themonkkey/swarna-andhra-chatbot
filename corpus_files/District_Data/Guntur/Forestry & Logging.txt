@@ -1,6 +1,6 @@
 District: Guntur — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 0.83, Contribution to state total = 77.00%
-2023-24 (SRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 2.67, YoY Growth = 0.79%, Contribution to state total = 79.05%
-2024-25 (FRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 2.6, YoY Growth = 0.79%, Contribution to state total = 148.57%
-2025-26 (FAE): Value = Rs. 27.00 Cr., Rank among 28 districts = 88.61, YoY Growth = 1.44%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 74.96 Cr., Rank among 28 districts = 27, Contribution to state total = 0.83%
+2023-24 (SRE): Value = Rs. 77.00 Cr., Rank among 28 districts = 27, YoY Growth = 2.67%, Contribution to state total = 0.79%
+2024-25 (FRE): Value = Rs. 79.05 Cr., Rank among 28 districts = 27, YoY Growth = 2.60%, Contribution to state total = 0.79%
+2025-26 (FAE): Value = Rs. 148.57 Cr., Rank among 28 districts = 27, YoY Growth = 88.61%, Contribution to state total = 1.44%

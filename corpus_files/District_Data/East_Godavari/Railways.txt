@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 3.56, Contribution to state total = 290.00%
-2023-24 (SRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 9.43, YoY Growth = 3.40%, Contribution to state total = 313.59%
-2024-25 (FRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 8.28, YoY Growth = 3.40%, Contribution to state total = 339.00%
-2025-26 (FAE): Value = Rs. 7.00 Cr., Rank among 28 districts = 7.96, YoY Growth = 3.38%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 264.78 Cr., Rank among 28 districts = 8, Contribution to state total = 3.56%
+2023-24 (SRE): Value = Rs. 290.00 Cr., Rank among 28 districts = 8, YoY Growth = 9.43%, Contribution to state total = 3.40%
+2024-25 (FRE): Value = Rs. 313.59 Cr., Rank among 28 districts = 7, YoY Growth = 8.28%, Contribution to state total = 3.40%
+2025-26 (FAE): Value = Rs. 339.00 Cr., Rank among 28 districts = 7, YoY Growth = 7.96%, Contribution to state total = 3.38%

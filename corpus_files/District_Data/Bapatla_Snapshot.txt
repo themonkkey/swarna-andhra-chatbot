@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Bapatla (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 2.00 Cr., statewide rank 31.58
-  - Horticulture: N/A% of district GVA, Rs. 23.00 Cr., statewide rank 42.51
-  - Live stock: N/A% of district GVA, Rs. 22.00 Cr., statewide rank 7.14
-  - Forestry & Logging: N/A% of district GVA, Rs. 26.00 Cr., statewide rank 64.76
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 4.00 Cr., statewide rank 24.03
+  - Fishing & Aquaculture: 9.19% of district GVA, Rs. 14,053.90 Cr., statewide rank 4
+  - Agriculture: 7.60% of district GVA, Rs. 4,361.70 Cr., statewide rank 2
+  - AGRICULTURE & ALLIED SECTOR: 4.66% of district GVA, Rs. 25,154.55 Cr., statewide rank 6
+  - Live stock: 2.48% of district GVA, Rs. 4,367.00 Cr., statewide rank 22
+  - Communications: 2.45% of district GVA, Rs. 821.00 Cr., statewide rank 23
 
 Fastest-growing sectors in Bapatla (2025-26 (FAE) YoY):
-  - Fishing & Aquaculture: 9.19% growth, Rs. 4.00 Cr.
-  - Agriculture: 7.60% growth, Rs. 2.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: 4.66% growth, Rs. 6.00 Cr.
-  - Live stock: 2.48% growth, Rs. 22.00 Cr.
-  - Communications: 2.45% growth, Rs. 23.00 Cr.
+  - Forestry & Logging: 64.76% growth, Rs. 173.06 Cr.
+  - Mining & Quarrying: 45.97% growth, Rs. 543.00 Cr.
+  - Horticulture: 42.51% growth, Rs. 2,198.73 Cr.
+  - Agriculture: 31.58% growth, Rs. 4,361.70 Cr.
+  - Fishing & Aquaculture: 24.03% growth, Rs. 14,053.90 Cr.
 
 Best statewide ranks (sectors where Bapatla leads other districts):
-  - Public Admn.: rank 3.2 of 28, Rs. 23.00 Cr.
-  - Live stock: rank 7.14 of 28, Rs. 22.00 Cr.
-  - Manufacturing: rank 8.1 of 28, Rs. 22.00 Cr.
-  - Railways: rank 8.22 of 28, Rs. 19.00 Cr.
-  - Electricity, Gas, Water Supply: rank 8.99 of 28, Rs. 24.00 Cr.
+  - Agriculture: rank 2 of 28, Rs. 4,361.70 Cr.
+  - Fishing & Aquaculture: rank 4 of 28, Rs. 14,053.90 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 6 of 28, Rs. 25,154.55 Cr.
+  - Mining & Quarrying: rank 15 of 28, Rs. 543.00 Cr.
+  - Railways: rank 19 of 28, Rs. 79.00 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 23.00 Cr., growth 1.41%, rank 13.43
-  - Services Sector (aggregate): Rs. 24.00 Cr., growth 1.75%, rank 12.35
-  - Gross District Value Added (GDVA): Rs. 21.00 Cr., growth 2.64%, rank 18.79
-  - Product Taxes: Rs. 21.00 Cr., growth 2.64%, rank 20.67
-  - Product Subsidies: Rs. 21.00 Cr., growth 2.64%, rank 4.46
-  - Gross District Domestic Product (GDDP): Rs. 21.00 Cr., growth 2.64%, rank 19.19
-  - Net District Domestic Product (NDDP): Rs. 21.00 Cr., growth 2.70%, rank 19.16
-  - Population ('000): Rs. 24.00 Cr., growth 2.60%, rank 0.29
-  - Per Capita Income (Rs.): Rs. 8.00 Cr., growth 3.82%, rank 18.75
+  - Industry Sector (aggregate): Rs. 5,414.00 Cr., growth 13.43%, rank 23
+  - Services Sector (aggregate): Rs. 12,241.90 Cr., growth 12.35%, rank 24
+  - Gross District Value Added (GDVA): Rs. 42,810.72 Cr., growth 18.79%, rank 21
+  - Product Taxes: Rs. 4,261.96 Cr., growth 20.67%, rank 21
+  - Product Subsidies: Rs. 633.05 Cr., growth 4.46%, rank 21
+  - Gross District Domestic Product (GDDP): Rs. 46,440.00 Cr., growth 19.19%, rank 21
+  - Net District Domestic Product (NDDP): Rs. 42,632.85 Cr., growth 19.16%, rank 21
+  - Population ('000): Rs. 1,396.47 Cr., growth 0.29%, rank 24
+  - Per Capita Income (Rs.): Rs. 305,289.00 Cr., growth 18.75%, rank 8

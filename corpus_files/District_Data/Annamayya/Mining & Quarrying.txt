@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 4.1, Contribution to state total = 1,989.52%
-2023-24 (SRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 24.37, YoY Growth = 6.72%, Contribution to state total = 1,767.31%
-2024-25 (FRE): Value = Rs. 4.00 Cr., Rank among 28 districts = -11.21, YoY Growth = 5.45%, Contribution to state total = 450.00%
-2025-26 (FAE): Value = Rs. 18.00 Cr., Rank among 28 districts = -74.53, YoY Growth = 1.33%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,599.91 Cr., Rank among 28 districts = 5, Contribution to state total = 4.10%
+2023-24 (SRE): Value = Rs. 1,989.52 Cr., Rank among 28 districts = 4, YoY Growth = 24.37%, Contribution to state total = 6.72%
+2024-25 (FRE): Value = Rs. 1,767.31 Cr., Rank among 28 districts = 4, YoY Growth = -11.21%, Contribution to state total = 5.45%
+2025-26 (FAE): Value = Rs. 450.00 Cr., Rank among 28 districts = 18, YoY Growth = -74.53%, Contribution to state total = 1.33%

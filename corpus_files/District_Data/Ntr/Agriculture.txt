@@ -1,6 +1,6 @@
 District: Ntr — Sector: Agriculture
 
-2022-23 (TRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 2.8, Contribution to state total = 1,118.71%
-2023-24 (SRE): Value = Rs. 19.00 Cr., Rank among 28 districts = -19.26, YoY Growth = 2.42%, Contribution to state total = 1,345.00%
-2024-25 (FRE): Value = Rs. 19.00 Cr., Rank among 28 districts = 20.2, YoY Growth = 2.43%, Contribution to state total = 1,752.17%
-2025-26 (FAE): Value = Rs. 16.00 Cr., Rank among 28 districts = 30.26, YoY Growth = 3.05%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,386.00 Cr., Rank among 28 districts = 16, Contribution to state total = 2.80%
+2023-24 (SRE): Value = Rs. 1,118.71 Cr., Rank among 28 districts = 19, YoY Growth = -19.26%, Contribution to state total = 2.42%
+2024-25 (FRE): Value = Rs. 1,345.00 Cr., Rank among 28 districts = 19, YoY Growth = 20.20%, Contribution to state total = 2.43%
+2025-26 (FAE): Value = Rs. 1,752.17 Cr., Rank among 28 districts = 16, YoY Growth = 30.26%, Contribution to state total = 3.05%

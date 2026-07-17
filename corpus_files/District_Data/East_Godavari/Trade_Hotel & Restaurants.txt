@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 4.23, Contribution to state total = 4,257.00%
-2023-24 (SRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 12.8, YoY Growth = 4.42%, Contribution to state total = 4,428.00%
-2024-25 (FRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 4.02, YoY Growth = 4.06%, Contribution to state total = 4,963.33%
-2025-26 (FAE): Value = Rs. 7.00 Cr., Rank among 28 districts = 12.08, YoY Growth = 4.05%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 3,773.70 Cr., Rank among 28 districts = 7, Contribution to state total = 4.23%
+2023-24 (SRE): Value = Rs. 4,257.00 Cr., Rank among 28 districts = 6, YoY Growth = 12.80%, Contribution to state total = 4.42%
+2024-25 (FRE): Value = Rs. 4,428.00 Cr., Rank among 28 districts = 7, YoY Growth = 4.02%, Contribution to state total = 4.06%
+2025-26 (FAE): Value = Rs. 4,963.33 Cr., Rank among 28 districts = 7, YoY Growth = 12.08%, Contribution to state total = 4.05%

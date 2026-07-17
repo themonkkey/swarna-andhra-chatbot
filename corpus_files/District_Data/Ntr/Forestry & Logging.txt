@@ -1,6 +1,6 @@
 District: Ntr — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 1.78, Contribution to state total = 173.00%
-2023-24 (SRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 7.45, YoY Growth = 1.77%, Contribution to state total = 180.68%
-2024-25 (FRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 4.62, YoY Growth = 1.81%, Contribution to state total = 214.22%
-2025-26 (FAE): Value = Rs. 22.00 Cr., Rank among 28 districts = 18.23, YoY Growth = 2.07%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 160.66 Cr., Rank among 28 districts = 20, Contribution to state total = 1.78%
+2023-24 (SRE): Value = Rs. 173.00 Cr., Rank among 28 districts = 20, YoY Growth = 7.45%, Contribution to state total = 1.77%
+2024-25 (FRE): Value = Rs. 180.68 Cr., Rank among 28 districts = 20, YoY Growth = 4.62%, Contribution to state total = 1.81%
+2025-26 (FAE): Value = Rs. 214.22 Cr., Rank among 28 districts = 22, YoY Growth = 18.23%, Contribution to state total = 2.07%

@@ -1,6 +1,6 @@
 District: Dr.B.R.Ambedkar Konaseema — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 24.00 Cr., Rank among 28 districts = 1.62, Contribution to state total = 2,642.00%
-2023-24 (SRE): Value = Rs. 24.00 Cr., Rank among 28 districts = 11.57, YoY Growth = 1.71%, Contribution to state total = 1,969.27%
-2024-25 (FRE): Value = Rs. 25.00 Cr., Rank among 28 districts = -25.47, YoY Growth = 1.20%, Contribution to state total = 2,004.00%
-2025-26 (FAE): Value = Rs. 24.00 Cr., Rank among 28 districts = 1.78, YoY Growth = 1.14%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,368.37 Cr., Rank among 28 districts = 24, Contribution to state total = 1.62%
+2023-24 (SRE): Value = Rs. 2,642.00 Cr., Rank among 28 districts = 24, YoY Growth = 11.57%, Contribution to state total = 1.71%
+2024-25 (FRE): Value = Rs. 1,969.27 Cr., Rank among 28 districts = 25, YoY Growth = -25.47%, Contribution to state total = 1.20%
+2025-26 (FAE): Value = Rs. 2,004.00 Cr., Rank among 28 districts = 24, YoY Growth = 1.78%, Contribution to state total = 1.14%

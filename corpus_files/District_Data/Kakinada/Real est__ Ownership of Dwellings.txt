@@ -1,6 +1,6 @@
 District: Kakinada — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 4.39, Contribution to state total = 4,743.54%
-2023-24 (SRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 7.62, YoY Growth = 4.40%, Contribution to state total = 5,367.77%
-2024-25 (FRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 13.15, YoY Growth = 4.41%, Contribution to state total = 6,088.80%
-2025-26 (FAE): Value = Rs. 7.00 Cr., Rank among 28 districts = 13.43, YoY Growth = 4.41%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 4,407.77 Cr., Rank among 28 districts = 7, Contribution to state total = 4.39%
+2023-24 (SRE): Value = Rs. 4,743.54 Cr., Rank among 28 districts = 7, YoY Growth = 7.62%, Contribution to state total = 4.40%
+2024-25 (FRE): Value = Rs. 5,367.77 Cr., Rank among 28 districts = 7, YoY Growth = 13.15%, Contribution to state total = 4.41%
+2025-26 (FAE): Value = Rs. 6,088.80 Cr., Rank among 28 districts = 7, YoY Growth = 13.43%, Contribution to state total = 4.41%

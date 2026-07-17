@@ -1,6 +1,6 @@
 District: West Godavari — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 3.77, Contribution to state total = 902.00%
-2023-24 (SRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 11.91, YoY Growth = 3.77%, Contribution to state total = 1,077.38%
-2024-25 (FRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 19.4, YoY Growth = 3.76%, Contribution to state total = 1,264.00%
-2025-26 (FAE): Value = Rs. 11.00 Cr., Rank among 28 districts = 17.36, YoY Growth = 3.77%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 805.70 Cr., Rank among 28 districts = 11, Contribution to state total = 3.77%
+2023-24 (SRE): Value = Rs. 902.00 Cr., Rank among 28 districts = 11, YoY Growth = 11.91%, Contribution to state total = 3.77%
+2024-25 (FRE): Value = Rs. 1,077.38 Cr., Rank among 28 districts = 11, YoY Growth = 19.40%, Contribution to state total = 3.76%
+2025-26 (FAE): Value = Rs. 1,264.00 Cr., Rank among 28 districts = 11, YoY Growth = 17.36%, Contribution to state total = 3.77%

@@ -1,6 +1,6 @@
 District: Kakinada — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 4.7, Contribution to state total = 1,123.00%
-2023-24 (SRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 11.52, YoY Growth = 4.70%, Contribution to state total = 1,337.79%
-2024-25 (FRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 19.15, YoY Growth = 4.67%, Contribution to state total = 1,570.00%
-2025-26 (FAE): Value = Rs. 7.00 Cr., Rank among 28 districts = 17.34, YoY Growth = 4.68%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,006.84 Cr., Rank among 28 districts = 7, Contribution to state total = 4.70%
+2023-24 (SRE): Value = Rs. 1,123.00 Cr., Rank among 28 districts = 7, YoY Growth = 11.52%, Contribution to state total = 4.70%
+2024-25 (FRE): Value = Rs. 1,337.79 Cr., Rank among 28 districts = 7, YoY Growth = 19.15%, Contribution to state total = 4.67%
+2025-26 (FAE): Value = Rs. 1,570.00 Cr., Rank among 28 districts = 7, YoY Growth = 17.34%, Contribution to state total = 4.68%

@@ -1,6 +1,6 @@
 District: Eluru — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 3.19, Contribution to state total = 2,053.97%
-2023-24 (SRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 9.49, YoY Growth = 3.17%, Contribution to state total = 2,361.11%
-2024-25 (FRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 14.95, YoY Growth = 3.18%, Contribution to state total = 2,718.00%
-2025-26 (FAE): Value = Rs. 12.00 Cr., Rank among 28 districts = 15.12, YoY Growth = 3.17%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,875.98 Cr., Rank among 28 districts = 13, Contribution to state total = 3.19%
+2023-24 (SRE): Value = Rs. 2,053.97 Cr., Rank among 28 districts = 12, YoY Growth = 9.49%, Contribution to state total = 3.17%
+2024-25 (FRE): Value = Rs. 2,361.11 Cr., Rank among 28 districts = 12, YoY Growth = 14.95%, Contribution to state total = 3.18%
+2025-26 (FAE): Value = Rs. 2,718.00 Cr., Rank among 28 districts = 12, YoY Growth = 15.12%, Contribution to state total = 3.17%

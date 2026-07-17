@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Sri Satya Sai (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 22.00 Cr., statewide rank 12.65
-  - Horticulture: N/A% of district GVA, Rs. 3.00 Cr., statewide rank 4.77
-  - Live stock: N/A% of district GVA, Rs. 3.00 Cr., statewide rank -5.79
-  - Forestry & Logging: N/A% of district GVA, Rs. 5.00 Cr., statewide rank 25.85
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 25.00 Cr., statewide rank 41.56
+  - Horticulture: 8.01% of district GVA, Rs. 11,418.05 Cr., statewide rank 3
+  - Manufacturing: 6.51% of district GVA, Rs. 11,476.85 Cr., statewide rank 4
+  - Live stock: 5.64% of district GVA, Rs. 9,932.00 Cr., statewide rank 3
+  - Forestry & Logging: 5.38% of district GVA, Rs. 555.11 Cr., statewide rank 5
+  - Electricity, Gas, Water Supply: 5.22% of district GVA, Rs. 2,314.53 Cr., statewide rank 7
 
 Fastest-growing sectors in Sri Satya Sai (2025-26 (FAE) YoY):
-  - Horticulture: 8.01% growth, Rs. 3.00 Cr.
-  - Manufacturing: 6.51% growth, Rs. 4.00 Cr.
-  - Live stock: 5.64% growth, Rs. 3.00 Cr.
-  - Forestry & Logging: 5.38% growth, Rs. 5.00 Cr.
-  - Electricity, Gas, Water Supply: 5.22% growth, Rs. 7.00 Cr.
+  - Fishing & Aquaculture: 41.56% growth, Rs. 108.96 Cr.
+  - Forestry & Logging: 25.85% growth, Rs. 555.11 Cr.
+  - Communications: 16.97% growth, Rs. 1,020.00 Cr.
+  - Banking & Insurance: 15.70% growth, Rs. 1,747.00 Cr.
+  - Real est., Ownership of Dwellings: 13.85% growth, Rs. 4,323.95 Cr.
 
 Best statewide ranks (sectors where Sri Satya Sai leads other districts):
-  - Mining & Quarrying: rank -53.45 of 28, Rs. 21.00 Cr.
-  - Live stock: rank -5.79 of 28, Rs. 3.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: rank 0.8 of 28, Rs. 7.00 Cr.
-  - Electricity, Gas, Water Supply: rank 2.57 of 28, Rs. 7.00 Cr.
-  - Public Admn.: rank 3.59 of 28, Rs. 21.00 Cr.
+  - Horticulture: rank 3 of 28, Rs. 11,418.05 Cr.
+  - Live stock: rank 3 of 28, Rs. 9,932.00 Cr.
+  - Manufacturing: rank 4 of 28, Rs. 11,476.85 Cr.
+  - Forestry & Logging: rank 5 of 28, Rs. 555.11 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 7 of 28, Rs. 23,145.24 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 9.00 Cr., growth 4.56%, rank 7.13
-  - Services Sector (aggregate): Rs. 20.00 Cr., growth 2.49%, rank 12.58
-  - Gross District Value Added (GDVA): Rs. 13.00 Cr., growth 3.58%, rank 6.02
-  - Product Taxes: Rs. 13.00 Cr., growth 3.58%, rank 7.69
-  - Product Subsidies: Rs. 13.00 Cr., growth 3.58%, rank -6.93
-  - Gross District Domestic Product (GDDP): Rs. 13.00 Cr., growth 3.58%, rank 6.37
-  - Net District Domestic Product (NDDP): Rs. 13.00 Cr., growth 3.55%, rank 5.45
-  - Population ('000): Rs. 16.00 Cr., growth 3.71%, rank 0.35
-  - Per Capita Income (Rs.): Rs. 13.00 Cr., growth 3.53%, rank 5.09
+  - Industry Sector (aggregate): Rs. 17,528.00 Cr., growth 7.13%, rank 9
+  - Services Sector (aggregate): Rs. 17,449.15 Cr., growth 12.58%, rank 20
+  - Gross District Value Added (GDVA): Rs. 58,122.02 Cr., growth 6.02%, rank 13
+  - Product Taxes: Rs. 5,786.26 Cr., growth 7.69%, rank 13
+  - Product Subsidies: Rs. 859.47 Cr., growth -6.93%, rank 13
+  - Gross District Domestic Product (GDDP): Rs. 63,049.00 Cr., growth 6.37%, rank 13
+  - Net District Domestic Product (NDDP): Rs. 56,068.02 Cr., growth 5.45%, rank 13
+  - Population ('000): Rs. 1,990.54 Cr., growth 0.35%, rank 16
+  - Per Capita Income (Rs.): Rs. 281,672.00 Cr., growth 5.09%, rank 13

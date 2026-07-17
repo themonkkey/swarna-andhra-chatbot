@@ -1,6 +1,6 @@
 District: Guntur — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 2.72, Contribution to state total = 1,186.32%
-2023-24 (SRE): Value = Rs. 10.00 Cr., Rank among 28 districts = 41.36, YoY Growth = 3.02%, Contribution to state total = 1,352.75%
-2024-25 (FRE): Value = Rs. 10.00 Cr., Rank among 28 districts = 14.08, YoY Growth = 3.20%, Contribution to state total = 1,392.59%
-2025-26 (FAE): Value = Rs. 10.00 Cr., Rank among 28 districts = 2.96, YoY Growth = 3.14%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 839.00 Cr., Rank among 28 districts = 11, Contribution to state total = 2.72%
+2023-24 (SRE): Value = Rs. 1,186.32 Cr., Rank among 28 districts = 10, YoY Growth = 41.36%, Contribution to state total = 3.02%
+2024-25 (FRE): Value = Rs. 1,352.75 Cr., Rank among 28 districts = 10, YoY Growth = 14.08%, Contribution to state total = 3.20%
+2025-26 (FAE): Value = Rs. 1,392.59 Cr., Rank among 28 districts = 10, YoY Growth = 2.96%, Contribution to state total = 3.14%

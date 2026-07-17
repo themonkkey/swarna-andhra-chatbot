@@ -1,6 +1,6 @@
 District: Krishna — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 1.1, Contribution to state total = 62.00%
-2023-24 (SRE): Value = Rs. 20.00 Cr., Rank among 28 districts = -24.39, YoY Growth = 0.73%, Contribution to state total = 76.24%
-2024-25 (FRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 22.58, YoY Growth = 0.82%, Contribution to state total = 82.00%
-2025-26 (FAE): Value = Rs. 18.00 Cr., Rank among 28 districts = 7.89, YoY Growth = 0.82%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 82.29 Cr., Rank among 28 districts = 18, Contribution to state total = 1.10%
+2023-24 (SRE): Value = Rs. 62.00 Cr., Rank among 28 districts = 20, YoY Growth = -24.39%, Contribution to state total = 0.73%
+2024-25 (FRE): Value = Rs. 76.24 Cr., Rank among 28 districts = 18, YoY Growth = 22.58%, Contribution to state total = 0.82%
+2025-26 (FAE): Value = Rs. 82.00 Cr., Rank among 28 districts = 18, YoY Growth = 7.89%, Contribution to state total = 0.82%

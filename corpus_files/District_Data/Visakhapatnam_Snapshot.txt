@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Visakhapatnam (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 28.00 Cr., statewide rank -17.58
-  - Horticulture: N/A% of district GVA, Rs. 28.00 Cr., statewide rank 33.65
-  - Live stock: N/A% of district GVA, Rs. 27.00 Cr., statewide rank 25.99
-  - Forestry & Logging: N/A% of district GVA, Rs. 28.00 Cr., statewide rank 38.89
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 11.00 Cr., statewide rank 7.67
+  - Trade,Hotel & Restaurants: 32.29% of district GVA, Rs. 39,583.73 Cr., statewide rank 1
+  - Manufacturing: 21.15% of district GVA, Rs. 37,266.58 Cr., statewide rank 1
+  - Railways: 14.52% of district GVA, Rs. 1,455.00 Cr., statewide rank 2
+  - Banking & Insurance: 11.84% of district GVA, Rs. 10,155.00 Cr., statewide rank 2
+  - Transport by Other means & Storage: 11.30% of district GVA, Rs. 12,157.57 Cr., statewide rank 1
 
 Fastest-growing sectors in Visakhapatnam (2025-26 (FAE) YoY):
-  - Trade,Hotel & Restaurants: 32.29% growth, Rs. 1.00 Cr.
-  - Manufacturing: 21.15% growth, Rs. 1.00 Cr.
-  - Railways: 14.52% growth, Rs. 2.00 Cr.
-  - Banking & Insurance: 11.84% growth, Rs. 2.00 Cr.
-  - Transport by Other means & Storage: 11.30% growth, Rs. 1.00 Cr.
+  - Forestry & Logging: 38.89% growth, Rs. 99.96 Cr.
+  - Horticulture: 33.65% growth, Rs. 996.82 Cr.
+  - Live stock: 25.99% growth, Rs. 1,527.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: 17.40% growth, Rs. 5,014.19 Cr.
+  - Communications: 17.27% growth, Rs. 2,526.00 Cr.
 
 Best statewide ranks (sectors where Visakhapatnam leads other districts):
-  - Mining & Quarrying: rank -82.96 of 28, Rs. 27.00 Cr.
-  - Agriculture: rank -17.58 of 28, Rs. 28.00 Cr.
-  - Public Admn.: rank 4.23 of 28, Rs. 6.00 Cr.
-  - Railways: rank 7.38 of 28, Rs. 2.00 Cr.
-  - Fishing & Aquaculture: rank 7.67 of 28, Rs. 11.00 Cr.
+  - Manufacturing: rank 1 of 28, Rs. 37,266.58 Cr.
+  - Construction: rank 1 of 28, Rs. 14,434.93 Cr.
+  - Trade,Hotel & Restaurants: rank 1 of 28, Rs. 39,583.73 Cr.
+  - Transport by Other means & Storage: rank 1 of 28, Rs. 12,157.57 Cr.
+  - Communications: rank 1 of 28, Rs. 2,526.00 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 1.00 Cr., growth 14.16%, rank 9.6
-  - Services Sector (aggregate): Rs. 1.00 Cr., growth 12.70%, rank 11.99
-  - Gross District Value Added (GDVA): Rs. 1.00 Cr., growth 9.14%, rank 11.27
-  - Product Taxes: Rs. 1.00 Cr., growth 9.14%, rank 13.02
-  - Product Subsidies: Rs. 1.00 Cr., growth 9.14%, rank -2.23
-  - Gross District Domestic Product (GDDP): Rs. 1.00 Cr., growth 9.14%, rank 11.64
-  - Net District Domestic Product (NDDP): Rs. 1.00 Cr., growth 8.84%, rank 11.84
-  - Population ('000): Rs. 13.00 Cr., growth 3.95%, rank 0.33
-  - Per Capita Income (Rs.): Rs. 1.00 Cr., growth 8.25%, rank 11.46
+  - Industry Sector (aggregate): Rs. 54,442.00 Cr., growth 9.60%, rank 1
+  - Services Sector (aggregate): Rs. 88,971.44 Cr., growth 11.99%, rank 1
+  - Gross District Value Added (GDVA): Rs. 148,427.28 Cr., growth 11.27%, rank 1
+  - Product Taxes: Rs. 14,776.48 Cr., growth 13.02%, rank 1
+  - Product Subsidies: Rs. 2,194.83 Cr., growth -2.23%, rank 1
+  - Gross District Domestic Product (GDDP): Rs. 161,009.00 Cr., growth 11.64%, rank 1
+  - Net District Domestic Product (NDDP): Rs. 139,688.13 Cr., growth 11.84%, rank 1
+  - Population ('000): Rs. 2,119.81 Cr., growth 0.33%, rank 13
+  - Per Capita Income (Rs.): Rs. 658,964.00 Cr., growth 11.46%, rank 1

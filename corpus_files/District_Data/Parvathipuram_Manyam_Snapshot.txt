@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Parvathipuram Manyam (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 21.00 Cr., statewide rank 14.16
-  - Horticulture: N/A% of district GVA, Rs. 20.00 Cr., statewide rank -4.27
-  - Live stock: N/A% of district GVA, Rs. 25.00 Cr., statewide rank -1.56
-  - Forestry & Logging: N/A% of district GVA, Rs. 19.00 Cr., statewide rank -6.14
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 20.00 Cr., statewide rank -9.93
+  - Forestry & Logging: 2.52% of district GVA, Rs. 260.05 Cr., statewide rank 19
+  - Agriculture: 2.08% of district GVA, Rs. 1,192.85 Cr., statewide rank 21
+  - Public Admn.: 2.06% of district GVA, Rs. 1,233.81 Cr., statewide rank 25
+  - Horticulture: 2.03% of district GVA, Rs. 2,891.95 Cr., statewide rank 20
+  - Communications: 1.43% of district GVA, Rs. 480.00 Cr., statewide rank 26
 
 Fastest-growing sectors in Parvathipuram Manyam (2025-26 (FAE) YoY):
-  - Forestry & Logging: 2.52% growth, Rs. 19.00 Cr.
-  - Agriculture: 2.08% growth, Rs. 21.00 Cr.
-  - Public Admn.: 2.06% growth, Rs. 25.00 Cr.
-  - Horticulture: 2.03% growth, Rs. 20.00 Cr.
-  - Communications: 1.43% growth, Rs. 26.00 Cr.
+  - Trade,Hotel & Restaurants: 27.69% growth, Rs. 1,244.96 Cr.
+  - Banking & Insurance: 18.12% growth, Rs. 554.00 Cr.
+  - Communications: 16.50% growth, Rs. 480.00 Cr.
+  - Agriculture: 14.16% growth, Rs. 1,192.85 Cr.
+  - Real est., Ownership of Dwellings: 14.06% growth, Rs. 1,711.68 Cr.
 
 Best statewide ranks (sectors where Parvathipuram Manyam leads other districts):
-  - Mining & Quarrying: rank -25.32 of 28, Rs. 23.00 Cr.
-  - Fishing & Aquaculture: rank -9.93 of 28, Rs. 20.00 Cr.
-  - Forestry & Logging: rank -6.14 of 28, Rs. 19.00 Cr.
-  - Horticulture: rank -4.27 of 28, Rs. 20.00 Cr.
-  - Live stock: rank -1.56 of 28, Rs. 25.00 Cr.
+  - Forestry & Logging: rank 19 of 28, Rs. 260.05 Cr.
+  - Horticulture: rank 20 of 28, Rs. 2,891.95 Cr.
+  - Fishing & Aquaculture: rank 20 of 28, Rs. 271.70 Cr.
+  - Trade,Hotel & Restaurants: rank 20 of 28, Rs. 1,244.96 Cr.
+  - Agriculture: rank 21 of 28, Rs. 1,192.85 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 26.00 Cr., growth 0.44%, rank 7.56
-  - Services Sector (aggregate): Rs. 26.00 Cr., growth 1.11%, rank 14.51
-  - Gross District Value Added (GDVA): Rs. 27.00 Cr., growth 0.98%, rank 7.04
-  - Product Taxes: Rs. 27.00 Cr., growth 0.98%, rank 8.72
-  - Product Subsidies: Rs. 27.00 Cr., growth 0.98%, rank -6
-  - Gross District Domestic Product (GDDP): Rs. 27.00 Cr., growth 0.98%, rank 7.39
-  - Net District Domestic Product (NDDP): Rs. 27.00 Cr., growth 0.99%, rank 7.79
-  - Population ('000): Rs. 26.00 Cr., growth 1.87%, rank 0.3
-  - Per Capita Income (Rs.): Rs. 28.00 Cr., growth 1.96%, rank 7.42
+  - Industry Sector (aggregate): Rs. 1,693.00 Cr., growth 7.56%, rank 26
+  - Services Sector (aggregate): Rs. 7,772.75 Cr., growth 14.51%, rank 26
+  - Gross District Value Added (GDVA): Rs. 15,913.53 Cr., growth 7.04%, rank 27
+  - Product Taxes: Rs. 1,584.25 Cr., growth 8.72%, rank 27
+  - Product Subsidies: Rs. 235.32 Cr., growth -6.00%, rank 27
+  - Gross District Domestic Product (GDDP): Rs. 17,262.00 Cr., growth 7.39%, rank 27
+  - Net District Domestic Product (NDDP): Rs. 15,703.53 Cr., growth 7.79%, rank 27
+  - Population ('000): Rs. 1,001.02 Cr., growth 0.30%, rank 26
+  - Per Capita Income (Rs.): Rs. 156,875.00 Cr., growth 7.42%, rank 28

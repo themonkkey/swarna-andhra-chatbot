@@ -1,6 +1,6 @@
 District: Bapatla — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 25.00 Cr., Rank among 28 districts = 0.42, Contribution to state total = 242.00%
-2023-24 (SRE): Value = Rs. 26.00 Cr., Rank among 28 districts = -34.77, YoY Growth = 0.25%, Contribution to state total = 440.00%
-2024-25 (FRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 81.82, YoY Growth = 0.40%, Contribution to state total = 486.61%
-2025-26 (FAE): Value = Rs. 26.00 Cr., Rank among 28 districts = 10.68, YoY Growth = 0.40%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 371.24 Cr., Rank among 28 districts = 25, Contribution to state total = 0.42%
+2023-24 (SRE): Value = Rs. 242.00 Cr., Rank among 28 districts = 26, YoY Growth = -34.77%, Contribution to state total = 0.25%
+2024-25 (FRE): Value = Rs. 440.00 Cr., Rank among 28 districts = 26, YoY Growth = 81.82%, Contribution to state total = 0.40%
+2025-26 (FAE): Value = Rs. 486.61 Cr., Rank among 28 districts = 26, YoY Growth = 10.68%, Contribution to state total = 0.40%

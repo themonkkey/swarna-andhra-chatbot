@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Net District Domestic Product (NDDP)
 
-2022-23 (TRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 3.49, Contribution to state total = 41,564.08%
-2023-24 (SRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 2.2, YoY Growth = 3.26%, Contribution to state total = 47,688.65%
-2024-25 (FRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 14.74, YoY Growth = 3.35%, Contribution to state total = 49,277.94%
-2025-26 (FAE): Value = Rs. 15.00 Cr., Rank among 28 districts = 3.33, YoY Growth = 3.12%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 40,668.96 Cr., Rank among 28 districts = 15, Contribution to state total = 3.49%
+2023-24 (SRE): Value = Rs. 41,564.08 Cr., Rank among 28 districts = 14, YoY Growth = 2.20%, Contribution to state total = 3.26%
+2024-25 (FRE): Value = Rs. 47,688.65 Cr., Rank among 28 districts = 14, YoY Growth = 14.74%, Contribution to state total = 3.35%
+2025-26 (FAE): Value = Rs. 49,277.94 Cr., Rank among 28 districts = 15, YoY Growth = 3.33%, Contribution to state total = 3.12%

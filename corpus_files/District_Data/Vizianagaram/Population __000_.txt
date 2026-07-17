@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Population ('000)
 
-2022-23 (TRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 3.89, Contribution to state total = 2,074.00%
-2023-24 (SRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 0.34, YoY Growth = 3.89%, Contribution to state total = 2,081.57%
-2024-25 (FRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 0.39, YoY Growth = 3.90%, Contribution to state total = 2,088.73%
-2025-26 (FAE): Value = Rs. 14.00 Cr., Rank among 28 districts = 0.34, YoY Growth = 3.89%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,067.00 Cr., Rank among 28 districts = 14, Contribution to state total = 3.89%
+2023-24 (SRE): Value = Rs. 2,074.00 Cr., Rank among 28 districts = 14, YoY Growth = 0.34%, Contribution to state total = 3.89%
+2024-25 (FRE): Value = Rs. 2,081.57 Cr., Rank among 28 districts = 14, YoY Growth = 0.39%, Contribution to state total = 3.90%
+2025-26 (FAE): Value = Rs. 2,088.73 Cr., Rank among 28 districts = 14, YoY Growth = 0.34%, Contribution to state total = 3.89%

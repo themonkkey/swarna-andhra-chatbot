@@ -1,6 +1,6 @@
 District: Alluri Seetha Rama Raju — Sector: Transport by Other means & Storage
 
-2022-23 (TRE): Value = Rs. 28.00 Cr., Rank among 28 districts = 0.27, Contribution to state total = 224.37%
-2023-24 (SRE): Value = Rs. 28.00 Cr., Rank among 28 districts = 11.44, YoY Growth = 0.27%, Contribution to state total = 266.25%
-2024-25 (FRE): Value = Rs. 28.00 Cr., Rank among 28 districts = 18.75, YoY Growth = 0.28%, Contribution to state total = 299.54%
-2025-26 (FAE): Value = Rs. 28.00 Cr., Rank among 28 districts = 12.78, YoY Growth = 0.28%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 200.87 Cr., Rank among 28 districts = 28, Contribution to state total = 0.27%
+2023-24 (SRE): Value = Rs. 224.37 Cr., Rank among 28 districts = 28, YoY Growth = 11.44%, Contribution to state total = 0.27%
+2024-25 (FRE): Value = Rs. 266.25 Cr., Rank among 28 districts = 28, YoY Growth = 18.75%, Contribution to state total = 0.28%
+2025-26 (FAE): Value = Rs. 299.54 Cr., Rank among 28 districts = 28, YoY Growth = 12.78%, Contribution to state total = 0.28%

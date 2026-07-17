@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 2.31, Contribution to state total = 214.00%
-2023-24 (SRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 2.39, YoY Growth = 2.19%, Contribution to state total = 226.10%
-2024-25 (FRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 5.61, YoY Growth = 2.26%, Contribution to state total = 332.95%
-2025-26 (FAE): Value = Rs. 16.00 Cr., Rank among 28 districts = 47.35, YoY Growth = 3.23%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 208.84 Cr., Rank among 28 districts = 18, Contribution to state total = 2.31%
+2023-24 (SRE): Value = Rs. 214.00 Cr., Rank among 28 districts = 18, YoY Growth = 2.39%, Contribution to state total = 2.19%
+2024-25 (FRE): Value = Rs. 226.10 Cr., Rank among 28 districts = 18, YoY Growth = 5.61%, Contribution to state total = 2.26%
+2025-26 (FAE): Value = Rs. 332.95 Cr., Rank among 28 districts = 16, YoY Growth = 47.35%, Contribution to state total = 3.23%

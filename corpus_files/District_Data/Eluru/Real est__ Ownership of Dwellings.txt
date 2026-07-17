@@ -1,6 +1,6 @@
 District: Eluru — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 3.77, Contribution to state total = 4,023.97%
-2023-24 (SRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 6.37, YoY Growth = 3.73%, Contribution to state total = 4,479.12%
-2024-25 (FRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 11.31, YoY Growth = 3.68%, Contribution to state total = 5,120.32%
-2025-26 (FAE): Value = Rs. 12.00 Cr., Rank among 28 districts = 14.31, YoY Growth = 3.70%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 3,782.65 Cr., Rank among 28 districts = 12, Contribution to state total = 3.77%
+2023-24 (SRE): Value = Rs. 4,023.97 Cr., Rank among 28 districts = 12, YoY Growth = 6.37%, Contribution to state total = 3.73%
+2024-25 (FRE): Value = Rs. 4,479.12 Cr., Rank among 28 districts = 12, YoY Growth = 11.31%, Contribution to state total = 3.68%
+2025-26 (FAE): Value = Rs. 5,120.32 Cr., Rank among 28 districts = 12, YoY Growth = 14.31%, Contribution to state total = 3.70%

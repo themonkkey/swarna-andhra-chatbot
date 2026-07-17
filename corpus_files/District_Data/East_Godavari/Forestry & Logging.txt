@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 1.32, Contribution to state total = 123.00%
-2023-24 (SRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 3.36, YoY Growth = 1.26%, Contribution to state total = 126.85%
-2024-25 (FRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 3.25, YoY Growth = 1.27%, Contribution to state total = 220.13%
-2025-26 (FAE): Value = Rs. 20.00 Cr., Rank among 28 districts = 73.23, YoY Growth = 2.13%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 118.97 Cr., Rank among 28 districts = 23, Contribution to state total = 1.32%
+2023-24 (SRE): Value = Rs. 123.00 Cr., Rank among 28 districts = 23, YoY Growth = 3.36%, Contribution to state total = 1.26%
+2024-25 (FRE): Value = Rs. 126.85 Cr., Rank among 28 districts = 23, YoY Growth = 3.25%, Contribution to state total = 1.27%
+2025-26 (FAE): Value = Rs. 220.13 Cr., Rank among 28 districts = 20, YoY Growth = 73.23%, Contribution to state total = 2.13%

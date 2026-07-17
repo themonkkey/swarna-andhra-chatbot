@@ -1,6 +1,6 @@
 District: Ysr Kadapa — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 2.03, Contribution to state total = 9,630.00%
-2023-24 (SRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 275.73, YoY Growth = 6.38%, Contribution to state total = 10,236.85%
-2024-25 (FRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 6.3, YoY Growth = 6.35%, Contribution to state total = 11,232.44%
-2025-26 (FAE): Value = Rs. 5.00 Cr., Rank among 28 districts = 9.72, YoY Growth = 6.38%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,563.30 Cr., Rank among 28 districts = 13, Contribution to state total = 2.03%
+2023-24 (SRE): Value = Rs. 9,630.00 Cr., Rank among 28 districts = 5, YoY Growth = 275.73%, Contribution to state total = 6.38%
+2024-25 (FRE): Value = Rs. 10,236.85 Cr., Rank among 28 districts = 5, YoY Growth = 6.30%, Contribution to state total = 6.35%
+2025-26 (FAE): Value = Rs. 11,232.44 Cr., Rank among 28 districts = 5, YoY Growth = 9.72%, Contribution to state total = 6.38%

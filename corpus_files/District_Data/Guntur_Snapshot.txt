@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Guntur (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 11.00 Cr., statewide rank 2.37
-  - Horticulture: N/A% of district GVA, Rs. 16.00 Cr., statewide rank 8.09
-  - Live stock: N/A% of district GVA, Rs. 23.00 Cr., statewide rank 2.31
-  - Forestry & Logging: N/A% of district GVA, Rs. 27.00 Cr., statewide rank 88.61
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 15.00 Cr., statewide rank 21.39
+  - Mining & Quarrying: 10.69% of district GVA, Rs. 3,629.00 Cr., statewide rank 3
+  - Public Admn.: 9.02% of district GVA, Rs. 5,405.36 Cr., statewide rank 1
+  - Banking & Insurance: 7.62% of district GVA, Rs. 6,541.00 Cr., statewide rank 3
+  - Construction: 7.04% of district GVA, Rs. 9,150.31 Cr., statewide rank 3
+  - Other Services: 7.03% of district GVA, Rs. 10,056.00 Cr., statewide rank 3
 
 Fastest-growing sectors in Guntur (2025-26 (FAE) YoY):
-  - Mining & Quarrying: 10.69% growth, Rs. 3.00 Cr.
-  - Public Admn.: 9.02% growth, Rs. 1.00 Cr.
-  - Banking & Insurance: 7.62% growth, Rs. 3.00 Cr.
-  - Construction: 7.04% growth, Rs. 3.00 Cr.
-  - Other Services: 7.03% growth, Rs. 3.00 Cr.
+  - Mining & Quarrying: 90.60% growth, Rs. 3,629.00 Cr.
+  - Forestry & Logging: 88.61% growth, Rs. 148.57 Cr.
+  - Fishing & Aquaculture: 21.39% growth, Rs. 976.14 Cr.
+  - Communications: 17.57% growth, Rs. 1,914.00 Cr.
+  - Banking & Insurance: 15.65% growth, Rs. 6,541.00 Cr.
 
 Best statewide ranks (sectors where Guntur leads other districts):
-  - Live stock: rank 2.31 of 28, Rs. 23.00 Cr.
-  - Agriculture: rank 2.37 of 28, Rs. 11.00 Cr.
-  - Electricity, Gas, Water Supply: rank 2.96 of 28, Rs. 10.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: rank 6.3 of 28, Rs. 25.00 Cr.
-  - Railways: rank 6.85 of 28, Rs. 5.00 Cr.
+  - Public Admn.: rank 1 of 28, Rs. 5,405.36 Cr.
+  - Mining & Quarrying: rank 3 of 28, Rs. 3,629.00 Cr.
+  - Construction: rank 3 of 28, Rs. 9,150.31 Cr.
+  - Communications: rank 3 of 28, Rs. 1,914.00 Cr.
+  - Banking & Insurance: rank 3 of 28, Rs. 6,541.00 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 5.00 Cr., growth 5.50%, rank 19.17
-  - Services Sector (aggregate): Rs. 3.00 Cr., growth 6.47%, rank 12.78
-  - Gross District Value Added (GDVA): Rs. 7.00 Cr., growth 4.76%, rank 13.47
-  - Product Taxes: Rs. 7.00 Cr., growth 4.76%, rank 15.25
-  - Product Subsidies: Rs. 7.00 Cr., growth 4.76%, rank -0.26
-  - Gross District Domestic Product (GDDP): Rs. 7.00 Cr., growth 4.76%, rank 13.84
-  - Net District Domestic Product (NDDP): Rs. 7.00 Cr., growth 4.72%, rank 13.72
-  - Population ('000): Rs. 10.00 Cr., growth 4.22%, rank 0.35
-  - Per Capita Income (Rs.): Rs. 7.00 Cr., growth 4.13%, rank 13.33
+  - Industry Sector (aggregate): Rs. 21,153.00 Cr., growth 19.17%, rank 5
+  - Services Sector (aggregate): Rs. 45,343.71 Cr., growth 12.78%, rank 3
+  - Gross District Value Added (GDVA): Rs. 77,354.31 Cr., growth 13.47%, rank 7
+  - Product Taxes: Rs. 7,700.90 Cr., growth 15.25%, rank 7
+  - Product Subsidies: Rs. 1,143.86 Cr., growth -0.26%, rank 7
+  - Gross District Domestic Product (GDDP): Rs. 83,911.00 Cr., growth 13.84%, rank 7
+  - Net District Domestic Product (NDDP): Rs. 74,576.61 Cr., growth 13.72%, rank 7
+  - Population ('000): Rs. 2,262.10 Cr., growth 0.35%, rank 10
+  - Per Capita Income (Rs.): Rs. 329,678.00 Cr., growth 13.33%, rank 7

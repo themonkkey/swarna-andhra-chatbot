@@ -1,6 +1,6 @@
 District: Parvathipuram Manyam — Sector: Net District Domestic Product (NDDP)
 
-2022-23 (TRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 1.11, Contribution to state total = 12,807.85%
-2023-24 (SRE): Value = Rs. 26.00 Cr., Rank among 28 districts = -0.93, YoY Growth = 1.00%, Contribution to state total = 14,568.73%
-2024-25 (FRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 13.75, YoY Growth = 1.02%, Contribution to state total = 15,703.53%
-2025-26 (FAE): Value = Rs. 27.00 Cr., Rank among 28 districts = 7.79, YoY Growth = 0.99%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 12,927.56 Cr., Rank among 28 districts = 26, Contribution to state total = 1.11%
+2023-24 (SRE): Value = Rs. 12,807.85 Cr., Rank among 28 districts = 26, YoY Growth = -0.93%, Contribution to state total = 1.00%
+2024-25 (FRE): Value = Rs. 14,568.73 Cr., Rank among 28 districts = 27, YoY Growth = 13.75%, Contribution to state total = 1.02%
+2025-26 (FAE): Value = Rs. 15,703.53 Cr., Rank among 28 districts = 27, YoY Growth = 7.79%, Contribution to state total = 0.99%

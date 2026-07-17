@@ -1,6 +1,6 @@
 District: Bapatla — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 8.47, Contribution to state total = 9,069.15%
-2023-24 (SRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 0.7, YoY Growth = 8.12%, Contribution to state total = 11,331.45%
-2024-25 (FRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 24.94, YoY Growth = 8.82%, Contribution to state total = 14,053.90%
-2025-26 (FAE): Value = Rs. 4.00 Cr., Rank among 28 districts = 24.03, YoY Growth = 9.19%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 9,006.05 Cr., Rank among 28 districts = 4, Contribution to state total = 8.47%
+2023-24 (SRE): Value = Rs. 9,069.15 Cr., Rank among 28 districts = 4, YoY Growth = 0.70%, Contribution to state total = 8.12%
+2024-25 (FRE): Value = Rs. 11,331.45 Cr., Rank among 28 districts = 4, YoY Growth = 24.94%, Contribution to state total = 8.82%
+2025-26 (FAE): Value = Rs. 14,053.90 Cr., Rank among 28 districts = 4, YoY Growth = 24.03%, Contribution to state total = 9.19%

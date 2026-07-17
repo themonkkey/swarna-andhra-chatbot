@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: East Godavari (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 5.00 Cr., statewide rank 5.4
-  - Horticulture: N/A% of district GVA, Rs. 10.00 Cr., statewide rank -9.43
-  - Live stock: N/A% of district GVA, Rs. 2.00 Cr., statewide rank 16.56
-  - Forestry & Logging: N/A% of district GVA, Rs. 20.00 Cr., statewide rank 73.23
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 10.00 Cr., statewide rank 10.96
+  - Live stock: 6.19% of district GVA, Rs. 10,912.00 Cr., statewide rank 2
+  - Agriculture: 5.82% of district GVA, Rs. 3,340.03 Cr., statewide rank 5
+  - Real est., Ownership of Dwellings: 5.26% of district GVA, Rs. 7,265.94 Cr., statewide rank 4
+  - Communications: 4.62% of district GVA, Rs. 1,550.00 Cr., statewide rank 8
+  - Construction: 4.53% of district GVA, Rs. 5,884.34 Cr., statewide rank 9
 
 Fastest-growing sectors in East Godavari (2025-26 (FAE) YoY):
-  - Live stock: 6.19% growth, Rs. 2.00 Cr.
-  - Agriculture: 5.82% growth, Rs. 5.00 Cr.
-  - Real est., Ownership of Dwellings: 5.26% growth, Rs. 4.00 Cr.
-  - Communications: 4.62% growth, Rs. 8.00 Cr.
-  - Construction: 4.53% growth, Rs. 9.00 Cr.
+  - Forestry & Logging: 73.23% growth, Rs. 220.13 Cr.
+  - Communications: 17.16% growth, Rs. 1,550.00 Cr.
+  - Other Services: 16.69% growth, Rs. 5,594.44 Cr.
+  - Banking & Insurance: 16.57% growth, Rs. 3,370.00 Cr.
+  - Live stock: 16.56% growth, Rs. 10,912.00 Cr.
 
 Best statewide ranks (sectors where East Godavari leads other districts):
-  - Mining & Quarrying: rank -50.95 of 28, Rs. 22.00 Cr.
-  - Horticulture: rank -9.43 of 28, Rs. 10.00 Cr.
-  - Public Admn.: rank 4.34 of 28, Rs. 11.00 Cr.
-  - Agriculture: rank 5.4 of 28, Rs. 5.00 Cr.
-  - Electricity, Gas, Water Supply: rank 5.48 of 28, Rs. 16.00 Cr.
+  - Live stock: rank 2 of 28, Rs. 10,912.00 Cr.
+  - Real est., Ownership of Dwellings: rank 4 of 28, Rs. 7,265.94 Cr.
+  - Agriculture: rank 5 of 28, Rs. 3,340.03 Cr.
+  - Trade,Hotel & Restaurants: rank 7 of 28, Rs. 4,963.33 Cr.
+  - Railways: rank 7 of 28, Rs. 339.00 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 11.00 Cr., growth 3.19%, rank 8.63
-  - Services Sector (aggregate): Rs. 7.00 Cr., growth 4.23%, rank 13.56
-  - Gross District Value Added (GDVA): Rs. 12.00 Cr., growth 4.00%, rank 10
-  - Product Taxes: Rs. 12.00 Cr., growth 4.00%, rank 11.73
-  - Product Subsidies: Rs. 12.00 Cr., growth 4.00%, rank -3.32
-  - Gross District Domestic Product (GDDP): Rs. 12.00 Cr., growth 4.00%, rank 10.36
-  - Net District Domestic Product (NDDP): Rs. 12.00 Cr., growth 4.04%, rank 11.34
-  - Population ('000): Rs. 8.00 Cr., growth 4.23%, rank 0.35
-  - Per Capita Income (Rs.): Rs. 14.00 Cr., growth 3.52%, rank 10.96
+  - Industry Sector (aggregate): Rs. 12,277.00 Cr., growth 8.63%, rank 11
+  - Services Sector (aggregate): Rs. 29,620.17 Cr., growth 13.56%, rank 7
+  - Gross District Value Added (GDVA): Rs. 64,977.22 Cr., growth 10.00%, rank 12
+  - Product Taxes: Rs. 6,468.72 Cr., growth 11.73%, rank 12
+  - Product Subsidies: Rs. 960.84 Cr., growth -3.32%, rank 12
+  - Gross District Domestic Product (GDDP): Rs. 70,485.00 Cr., growth 10.36%, rank 12
+  - Net District Domestic Product (NDDP): Rs. 63,872.94 Cr., growth 11.34%, rank 12
+  - Population ('000): Rs. 2,269.89 Cr., growth 0.35%, rank 8
+  - Per Capita Income (Rs.): Rs. 281,392.00 Cr., growth 10.96%, rank 14

@@ -1,6 +1,6 @@
 District: Krishna — Sector: AGRICULTURE & ALLIED SECTOR
 
-2022-23 (TRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 7.79, Contribution to state total = 35,172.09%
-2023-24 (SRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 4.55, YoY Growth = 7.85%, Contribution to state total = 39,031.94%
-2024-25 (FRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 10.97, YoY Growth = 7.80%, Contribution to state total = 48,454.75%
-2025-26 (FAE): Value = Rs. 2.00 Cr., Rank among 28 districts = 24.14, YoY Growth = 8.98%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 33,640.96 Cr., Rank among 28 districts = 2, Contribution to state total = 7.79%
+2023-24 (SRE): Value = Rs. 35,172.09 Cr., Rank among 28 districts = 2, YoY Growth = 4.55%, Contribution to state total = 7.85%
+2024-25 (FRE): Value = Rs. 39,031.94 Cr., Rank among 28 districts = 2, YoY Growth = 10.97%, Contribution to state total = 7.80%
+2025-26 (FAE): Value = Rs. 48,454.75 Cr., Rank among 28 districts = 2, YoY Growth = 24.14%, Contribution to state total = 8.98%

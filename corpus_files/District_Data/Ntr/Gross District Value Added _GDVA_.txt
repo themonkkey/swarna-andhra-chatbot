@@ -1,6 +1,6 @@
 District: Ntr — Sector: Gross District Value Added (GDVA)
 
-2022-23 (TRE): Value = Rs. 3.00 Cr., Rank among 28 districts = 5.44, Contribution to state total = 76,547.00%
-2023-24 (SRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 14.84, YoY Growth = 5.80%, Contribution to state total = 86,120.45%
-2024-25 (FRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 12.51, YoY Growth = 5.85%, Contribution to state total = 96,919.69%
-2025-26 (FAE): Value = Rs. 2.00 Cr., Rank among 28 districts = 12.54, YoY Growth = 5.97%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 66,654.00 Cr., Rank among 28 districts = 3, Contribution to state total = 5.44%
+2023-24 (SRE): Value = Rs. 76,547.00 Cr., Rank among 28 districts = 2, YoY Growth = 14.84%, Contribution to state total = 5.80%
+2024-25 (FRE): Value = Rs. 86,120.45 Cr., Rank among 28 districts = 2, YoY Growth = 12.51%, Contribution to state total = 5.85%
+2025-26 (FAE): Value = Rs. 96,919.69 Cr., Rank among 28 districts = 2, YoY Growth = 12.54%, Contribution to state total = 5.97%

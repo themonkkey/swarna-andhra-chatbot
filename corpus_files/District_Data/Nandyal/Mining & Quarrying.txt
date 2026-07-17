@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 3.11, Contribution to state total = 1,402.30%
-2023-24 (SRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 15.39, YoY Growth = 4.73%, Contribution to state total = 1,151.38%
-2024-25 (FRE): Value = Rs. 11.00 Cr., Rank among 28 districts = -17.9, YoY Growth = 3.55%, Contribution to state total = 1,062.00%
-2025-26 (FAE): Value = Rs. 10.00 Cr., Rank among 28 districts = -7.73, YoY Growth = 3.13%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,215.44 Cr., Rank among 28 districts = 8, Contribution to state total = 3.11%
+2023-24 (SRE): Value = Rs. 1,402.30 Cr., Rank among 28 districts = 7, YoY Growth = 15.39%, Contribution to state total = 4.73%
+2024-25 (FRE): Value = Rs. 1,151.38 Cr., Rank among 28 districts = 11, YoY Growth = -17.90%, Contribution to state total = 3.55%
+2025-26 (FAE): Value = Rs. 1,062.00 Cr., Rank among 28 districts = 10, YoY Growth = -7.73%, Contribution to state total = 3.13%

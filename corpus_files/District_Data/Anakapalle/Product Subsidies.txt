@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 3.49, Contribution to state total = 922.95%
-2023-24 (SRE): Value = Rs. 14.00 Cr., Rank among 28 districts = -34.17, YoY Growth = 3.41%, Contribution to state total = 825.00%
-2024-25 (FRE): Value = Rs. 14.00 Cr., Rank among 28 districts = -10.62, YoY Growth = 3.33%, Contribution to state total = 819.37%
-2025-26 (FAE): Value = Rs. 14.00 Cr., Rank among 28 districts = -0.73, YoY Growth = 3.41%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,402.00 Cr., Rank among 28 districts = 15, Contribution to state total = 3.49%
+2023-24 (SRE): Value = Rs. 922.95 Cr., Rank among 28 districts = 14, YoY Growth = -34.17%, Contribution to state total = 3.41%
+2024-25 (FRE): Value = Rs. 825.00 Cr., Rank among 28 districts = 14, YoY Growth = -10.62%, Contribution to state total = 3.33%
+2025-26 (FAE): Value = Rs. 819.37 Cr., Rank among 28 districts = 14, YoY Growth = -0.73%, Contribution to state total = 3.41%

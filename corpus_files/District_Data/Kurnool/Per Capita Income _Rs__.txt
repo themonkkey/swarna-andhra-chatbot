@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 2.81, Contribution to state total = 170,304.00%
-2023-24 (SRE): Value = Rs. 24.00 Cr., Rank among 28 districts = 1.85, YoY Growth = 2.64%, Contribution to state total = 194,723.00%
-2024-25 (FRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 14.34, YoY Growth = 2.69%, Contribution to state total = 200,522.00%
-2025-26 (FAE): Value = Rs. 24.00 Cr., Rank among 28 districts = 2.98, YoY Growth = 2.51%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 167,214.00 Cr., Rank among 28 districts = 20, Contribution to state total = 2.81%
+2023-24 (SRE): Value = Rs. 170,304.00 Cr., Rank among 28 districts = 24, YoY Growth = 1.85%, Contribution to state total = 2.64%
+2024-25 (FRE): Value = Rs. 194,723.00 Cr., Rank among 28 districts = 23, YoY Growth = 14.34%, Contribution to state total = 2.69%
+2025-26 (FAE): Value = Rs. 200,522.00 Cr., Rank among 28 districts = 24, YoY Growth = 2.98%, Contribution to state total = 2.51%

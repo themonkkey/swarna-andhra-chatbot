@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 2.52, Contribution to state total = 720.86%
-2023-24 (SRE): Value = Rs. 13.00 Cr., Rank among 28 districts = -26.73, YoY Growth = 2.43%, Contribution to state total = 794.08%
-2024-25 (FRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 10.12, YoY Growth = 2.45%, Contribution to state total = 3,113.00%
-2025-26 (FAE): Value = Rs. 4.00 Cr., Rank among 28 districts = 292.07, YoY Growth = 9.17%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 984.41 Cr., Rank among 28 districts = 9, Contribution to state total = 2.52%
+2023-24 (SRE): Value = Rs. 720.86 Cr., Rank among 28 districts = 13, YoY Growth = -26.73%, Contribution to state total = 2.43%
+2024-25 (FRE): Value = Rs. 794.08 Cr., Rank among 28 districts = 15, YoY Growth = 10.12%, Contribution to state total = 2.45%
+2025-26 (FAE): Value = Rs. 3,113.00 Cr., Rank among 28 districts = 4, YoY Growth = 292.07%, Contribution to state total = 9.17%

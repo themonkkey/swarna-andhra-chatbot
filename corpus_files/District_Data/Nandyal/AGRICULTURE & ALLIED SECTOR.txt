@@ -1,6 +1,6 @@
 District: Nandyal — Sector: AGRICULTURE & ALLIED SECTOR
 
-2022-23 (TRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 3.2, Contribution to state total = 14,393.07%
-2023-24 (SRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 4.19, YoY Growth = 3.21%, Contribution to state total = 16,344.71%
-2024-25 (FRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 13.56, YoY Growth = 3.27%, Contribution to state total = 17,958.91%
-2025-26 (FAE): Value = Rs. 13.00 Cr., Rank among 28 districts = 9.87, YoY Growth = 3.33%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 13,813.92 Cr., Rank among 28 districts = 14, Contribution to state total = 3.20%
+2023-24 (SRE): Value = Rs. 14,393.07 Cr., Rank among 28 districts = 14, YoY Growth = 4.19%, Contribution to state total = 3.21%
+2024-25 (FRE): Value = Rs. 16,344.71 Cr., Rank among 28 districts = 15, YoY Growth = 13.56%, Contribution to state total = 3.27%
+2025-26 (FAE): Value = Rs. 17,958.91 Cr., Rank among 28 districts = 13, YoY Growth = 9.87%, Contribution to state total = 3.33%

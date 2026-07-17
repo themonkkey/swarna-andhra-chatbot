@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 4.26, Contribution to state total = 6,782.00%
-2023-24 (SRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 8.88, YoY Growth = 4.39%, Contribution to state total = 7,494.01%
-2024-25 (FRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 10.5, YoY Growth = 4.55%, Contribution to state total = 7,681.00%
-2025-26 (FAE): Value = Rs. 9.00 Cr., Rank among 28 districts = 2.5, YoY Growth = 4.36%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 6,228.93 Cr., Rank among 28 districts = 9, Contribution to state total = 4.26%
+2023-24 (SRE): Value = Rs. 6,782.00 Cr., Rank among 28 districts = 8, YoY Growth = 8.88%, Contribution to state total = 4.39%
+2024-25 (FRE): Value = Rs. 7,494.01 Cr., Rank among 28 districts = 9, YoY Growth = 10.50%, Contribution to state total = 4.55%
+2025-26 (FAE): Value = Rs. 7,681.00 Cr., Rank among 28 districts = 9, YoY Growth = 2.50%, Contribution to state total = 4.36%

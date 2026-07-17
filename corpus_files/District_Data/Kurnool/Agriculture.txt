@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Agriculture
 
-2022-23 (TRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 7.51, Contribution to state total = 2,115.49%
-2023-24 (SRE): Value = Rs. 9.00 Cr., Rank among 28 districts = -43.04, YoY Growth = 4.57%, Contribution to state total = 4,028.00%
-2024-25 (FRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 90.45, YoY Growth = 7.29%, Contribution to state total = 3,872.04%
-2025-26 (FAE): Value = Rs. 3.00 Cr., Rank among 28 districts = -3.87, YoY Growth = 6.75%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 3,713.00 Cr., Rank among 28 districts = 1, Contribution to state total = 7.51%
+2023-24 (SRE): Value = Rs. 2,115.49 Cr., Rank among 28 districts = 9, YoY Growth = -43.04%, Contribution to state total = 4.57%
+2024-25 (FRE): Value = Rs. 4,028.00 Cr., Rank among 28 districts = 2, YoY Growth = 90.45%, Contribution to state total = 7.29%
+2025-26 (FAE): Value = Rs. 3,872.04 Cr., Rank among 28 districts = 3, YoY Growth = -3.87%, Contribution to state total = 6.75%

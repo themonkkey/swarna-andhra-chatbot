@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 22.00 Cr., Rank among 28 districts = 2.62, Contribution to state total = 3,419.00%
-2023-24 (SRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 6.88, YoY Growth = 2.61%, Contribution to state total = 3,711.27%
-2024-25 (FRE): Value = Rs. 22.00 Cr., Rank among 28 districts = 8.54, YoY Growth = 2.57%, Contribution to state total = 4,146.33%
-2025-26 (FAE): Value = Rs. 22.00 Cr., Rank among 28 districts = 11.72, YoY Growth = 2.56%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 3,199.00 Cr., Rank among 28 districts = 22, Contribution to state total = 2.62%
+2023-24 (SRE): Value = Rs. 3,419.00 Cr., Rank among 28 districts = 21, YoY Growth = 6.88%, Contribution to state total = 2.61%
+2024-25 (FRE): Value = Rs. 3,711.27 Cr., Rank among 28 districts = 22, YoY Growth = 8.54%, Contribution to state total = 2.57%
+2025-26 (FAE): Value = Rs. 4,146.33 Cr., Rank among 28 districts = 22, YoY Growth = 11.72%, Contribution to state total = 2.56%

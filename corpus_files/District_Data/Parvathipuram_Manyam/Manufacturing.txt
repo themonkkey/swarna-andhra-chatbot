@@ -1,6 +1,6 @@
 District: Parvathipuram Manyam — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 0.09, Contribution to state total = 52.00%
-2023-24 (SRE): Value = Rs. 26.00 Cr., Rank among 28 districts = -54.78, YoY Growth = 0.03%, Contribution to state total = 58.11%
-2024-25 (FRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 11.54, YoY Growth = 0.04%, Contribution to state total = 62.95%
-2025-26 (FAE): Value = Rs. 26.00 Cr., Rank among 28 districts = 8.62, YoY Growth = 0.04%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 114.61 Cr., Rank among 28 districts = 26, Contribution to state total = 0.09%
+2023-24 (SRE): Value = Rs. 52.00 Cr., Rank among 28 districts = 26, YoY Growth = -54.78%, Contribution to state total = 0.03%
+2024-25 (FRE): Value = Rs. 58.11 Cr., Rank among 28 districts = 26, YoY Growth = 11.54%, Contribution to state total = 0.04%
+2025-26 (FAE): Value = Rs. 62.95 Cr., Rank among 28 districts = 26, YoY Growth = 8.62%, Contribution to state total = 0.04%

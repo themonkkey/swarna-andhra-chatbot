@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 25.00 Cr., Rank among 28 districts = 0.24, Contribution to state total = 20.00%
-2023-24 (SRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 11.11, YoY Growth = 0.23%, Contribution to state total = 22.54%
-2024-25 (FRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 15, YoY Growth = 0.25%, Contribution to state total = 24.00%
-2025-26 (FAE): Value = Rs. 26.00 Cr., Rank among 28 districts = 4.35, YoY Growth = 0.24%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 18.04 Cr., Rank among 28 districts = 25, Contribution to state total = 0.24%
+2023-24 (SRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 26, YoY Growth = 11.11%, Contribution to state total = 0.23%
+2024-25 (FRE): Value = Rs. 22.54 Cr., Rank among 28 districts = 26, YoY Growth = 15.00%, Contribution to state total = 0.25%
+2025-26 (FAE): Value = Rs. 24.00 Cr., Rank among 28 districts = 26, YoY Growth = 4.35%, Contribution to state total = 0.24%

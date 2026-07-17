@@ -1,6 +1,6 @@
 District: West Godavari — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 0.42, Contribution to state total = 1,076.79%
-2023-24 (SRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 112.85, YoY Growth = 0.86%, Contribution to state total = 1,530.00%
-2024-25 (FRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 42.06, YoY Growth = 1.08%, Contribution to state total = 1,605.02%
-2025-26 (FAE): Value = Rs. 26.00 Cr., Rank among 28 districts = 4.9, YoY Growth = 1.13%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 506.37 Cr., Rank among 28 districts = 27, Contribution to state total = 0.42%
+2023-24 (SRE): Value = Rs. 1,076.79 Cr., Rank among 28 districts = 26, YoY Growth = 112.85%, Contribution to state total = 0.86%
+2024-25 (FRE): Value = Rs. 1,530.00 Cr., Rank among 28 districts = 26, YoY Growth = 42.06%, Contribution to state total = 1.08%
+2025-26 (FAE): Value = Rs. 1,605.02 Cr., Rank among 28 districts = 26, YoY Growth = 4.90%, Contribution to state total = 1.13%

@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Chittoor (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 24.00 Cr., statewide rank -17.15
-  - Horticulture: N/A% of district GVA, Rs. 9.00 Cr., statewide rank 0.21
-  - Live stock: N/A% of district GVA, Rs. 5.00 Cr., statewide rank 14.36
-  - Forestry & Logging: N/A% of district GVA, Rs. 13.00 Cr., statewide rank -2.88
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 28.00 Cr., statewide rank -40.54
+  - Mining & Quarrying: 9.17% of district GVA, Rs. 3,113.00 Cr., statewide rank 4
+  - Live stock: 5.42% of district GVA, Rs. 9,549.00 Cr., statewide rank 5
+  - Horticulture: 4.40% of district GVA, Rs. 6,273.82 Cr., statewide rank 9
+  - Forestry & Logging: 3.60% of district GVA, Rs. 371.30 Cr., statewide rank 13
+  - Public Admn.: 3.18% of district GVA, Rs. 1,902.86 Cr., statewide rank 15
 
 Fastest-growing sectors in Chittoor (2025-26 (FAE) YoY):
-  - Mining & Quarrying: 9.17% growth, Rs. 4.00 Cr.
-  - Live stock: 5.42% growth, Rs. 5.00 Cr.
-  - Horticulture: 4.40% growth, Rs. 9.00 Cr.
-  - Forestry & Logging: 3.60% growth, Rs. 13.00 Cr.
-  - Public Admn.: 3.18% growth, Rs. 15.00 Cr.
+  - Mining & Quarrying: 292.07% growth, Rs. 3,113.00 Cr.
+  - Trade,Hotel & Restaurants: 16.39% growth, Rs. 2,903.62 Cr.
+  - Communications: 16.34% growth, Rs. 904.00 Cr.
+  - Other Services: 14.95% growth, Rs. 4,368.01 Cr.
+  - Live stock: 14.36% growth, Rs. 9,549.00 Cr.
 
 Best statewide ranks (sectors where Chittoor leads other districts):
-  - Fishing & Aquaculture: rank -40.54 of 28, Rs. 28.00 Cr.
-  - Agriculture: rank -17.15 of 28, Rs. 24.00 Cr.
-  - Forestry & Logging: rank -2.88 of 28, Rs. 13.00 Cr.
-  - Electricity, Gas, Water Supply: rank -0.67 of 28, Rs. 14.00 Cr.
-  - Horticulture: rank 0.21 of 28, Rs. 9.00 Cr.
+  - Mining & Quarrying: rank 4 of 28, Rs. 3,113.00 Cr.
+  - Live stock: rank 5 of 28, Rs. 9,549.00 Cr.
+  - Horticulture: rank 9 of 28, Rs. 6,273.82 Cr.
+  - Trade,Hotel & Restaurants: rank 11 of 28, Rs. 2,903.62 Cr.
+  - Forestry & Logging: rank 13 of 28, Rs. 371.30 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 15.00 Cr., growth 2.54%, rank 41.73
-  - Services Sector (aggregate): Rs. 17.00 Cr., growth 2.69%, rank 13.34
-  - Gross District Value Added (GDVA): Rs. 17.00 Cr., growth 2.80%, rank 15.7
-  - Product Taxes: Rs. 17.00 Cr., growth 2.80%, rank 17.54
-  - Product Subsidies: Rs. 17.00 Cr., growth 2.80%, rank 1.66
-  - Gross District Domestic Product (GDDP): Rs. 17.00 Cr., growth 2.80%, rank 16.09
-  - Net District Domestic Product (NDDP): Rs. 17.00 Cr., growth 2.84%, rank 16.25
-  - Population ('000): Rs. 21.00 Cr., growth 3.31%, rank 0.34
-  - Per Capita Income (Rs.): Rs. 18.00 Cr., growth 3.15%, rank 15.86
+  - Industry Sector (aggregate): Rs. 9,775.00 Cr., growth 41.73%, rank 15
+  - Services Sector (aggregate): Rs. 18,871.67 Cr., growth 13.34%, rank 17
+  - Gross District Value Added (GDVA): Rs. 45,438.06 Cr., growth 15.70%, rank 17
+  - Product Taxes: Rs. 4,523.52 Cr., growth 17.54%, rank 17
+  - Product Subsidies: Rs. 671.90 Cr., growth 1.66%, rank 17
+  - Gross District Domestic Product (GDDP): Rs. 49,290.00 Cr., growth 16.09%, rank 17
+  - Net District Domestic Product (NDDP): Rs. 44,793.64 Cr., growth 16.25%, rank 17
+  - Population ('000): Rs. 1,777.62 Cr., growth 0.34%, rank 21
+  - Per Capita Income (Rs.): Rs. 251,986.00 Cr., growth 15.86%, rank 18

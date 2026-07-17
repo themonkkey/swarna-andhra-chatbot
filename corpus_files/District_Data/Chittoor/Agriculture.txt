@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Agriculture
 
-2022-23 (TRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 1.78, Contribution to state total = 652.73%
-2023-24 (SRE): Value = Rs. 23.00 Cr., Rank among 28 districts = -25.96, YoY Growth = 1.41%, Contribution to state total = 694.00%
-2024-25 (FRE): Value = Rs. 24.00 Cr., Rank among 28 districts = 6.28, YoY Growth = 1.26%, Contribution to state total = 575.47%
-2025-26 (FAE): Value = Rs. 24.00 Cr., Rank among 28 districts = -17.15, YoY Growth = 1.00%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 882.00 Cr., Rank among 28 districts = 23, Contribution to state total = 1.78%
+2023-24 (SRE): Value = Rs. 652.73 Cr., Rank among 28 districts = 23, YoY Growth = -25.96%, Contribution to state total = 1.41%
+2024-25 (FRE): Value = Rs. 694.00 Cr., Rank among 28 districts = 24, YoY Growth = 6.28%, Contribution to state total = 1.26%
+2025-26 (FAE): Value = Rs. 575.47 Cr., Rank among 28 districts = 24, YoY Growth = -17.15%, Contribution to state total = 1.00%

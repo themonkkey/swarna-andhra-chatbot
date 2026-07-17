@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 4.04, Contribution to state total = 4,352.37%
-2023-24 (SRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 7.32, YoY Growth = 4.03%, Contribution to state total = 4,934.20%
-2024-25 (FRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 13.37, YoY Growth = 4.05%, Contribution to state total = 5,585.13%
-2025-26 (FAE): Value = Rs. 11.00 Cr., Rank among 28 districts = 13.19, YoY Growth = 4.04%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 4,054.92 Cr., Rank among 28 districts = 11, Contribution to state total = 4.04%
+2023-24 (SRE): Value = Rs. 4,352.37 Cr., Rank among 28 districts = 11, YoY Growth = 7.32%, Contribution to state total = 4.03%
+2024-25 (FRE): Value = Rs. 4,934.20 Cr., Rank among 28 districts = 11, YoY Growth = 13.37%, Contribution to state total = 4.05%
+2025-26 (FAE): Value = Rs. 5,585.13 Cr., Rank among 28 districts = 11, YoY Growth = 13.19%, Contribution to state total = 4.04%

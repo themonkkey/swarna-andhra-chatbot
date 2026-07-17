@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 4.8, Contribution to state total = 5,207.15%
-2023-24 (SRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 7.98, YoY Growth = 4.83%, Contribution to state total = 5,896.00%
-2024-25 (FRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 13.23, YoY Growth = 4.84%, Contribution to state total = 6,685.90%
-2025-26 (FAE): Value = Rs. 6.00 Cr., Rank among 28 districts = 13.4, YoY Growth = 4.84%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 4,822.38 Cr., Rank among 28 districts = 6, Contribution to state total = 4.80%
+2023-24 (SRE): Value = Rs. 5,207.15 Cr., Rank among 28 districts = 6, YoY Growth = 7.98%, Contribution to state total = 4.83%
+2024-25 (FRE): Value = Rs. 5,896.00 Cr., Rank among 28 districts = 6, YoY Growth = 13.23%, Contribution to state total = 4.84%
+2025-26 (FAE): Value = Rs. 6,685.90 Cr., Rank among 28 districts = 6, YoY Growth = 13.40%, Contribution to state total = 4.84%

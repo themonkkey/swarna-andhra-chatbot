@@ -1,6 +1,6 @@
 District: Alluri Seetha Rama Raju — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 10.00 Cr., Rank among 28 districts = 3.73, Contribution to state total = 4,623.76%
-2023-24 (SRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 2.71, YoY Growth = 3.67%, Contribution to state total = 7,147.00%
-2024-25 (FRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 54.56, YoY Growth = 5.03%, Contribution to state total = 8,875.16%
-2025-26 (FAE): Value = Rs. 4.00 Cr., Rank among 28 districts = 24.18, YoY Growth = 6.22%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 4,502.07 Cr., Rank among 28 districts = 10, Contribution to state total = 3.73%
+2023-24 (SRE): Value = Rs. 4,623.76 Cr., Rank among 28 districts = 9, YoY Growth = 2.71%, Contribution to state total = 3.67%
+2024-25 (FRE): Value = Rs. 7,147.00 Cr., Rank among 28 districts = 6, YoY Growth = 54.56%, Contribution to state total = 5.03%
+2025-26 (FAE): Value = Rs. 8,875.16 Cr., Rank among 28 districts = 4, YoY Growth = 24.18%, Contribution to state total = 6.22%

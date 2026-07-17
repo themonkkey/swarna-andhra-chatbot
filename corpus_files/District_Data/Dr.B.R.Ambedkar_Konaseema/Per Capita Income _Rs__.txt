@@ -1,6 +1,6 @@
 District: Dr.B.R.Ambedkar Konaseema — Sector: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 3.39, Contribution to state total = 214,505.00%
-2023-24 (SRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 6.22, YoY Growth = 3.32%, Contribution to state total = 240,985.00%
-2024-25 (FRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 12.34, YoY Growth = 3.33%, Contribution to state total = 256,740.00%
-2025-26 (FAE): Value = Rs. 17.00 Cr., Rank among 28 districts = 6.54, YoY Growth = 3.21%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 201,938.00 Cr., Rank among 28 districts = 16, Contribution to state total = 3.39%
+2023-24 (SRE): Value = Rs. 214,505.00 Cr., Rank among 28 districts = 16, YoY Growth = 6.22%, Contribution to state total = 3.32%
+2024-25 (FRE): Value = Rs. 240,985.00 Cr., Rank among 28 districts = 15, YoY Growth = 12.34%, Contribution to state total = 3.33%
+2025-26 (FAE): Value = Rs. 256,740.00 Cr., Rank among 28 districts = 17, YoY Growth = 6.54%, Contribution to state total = 3.21%

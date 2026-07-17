@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Polavaram (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 27.00 Cr., statewide rank -12.64
-  - Horticulture: N/A% of district GVA, Rs. 27.00 Cr., statewide rank 69.28
-  - Live stock: N/A% of district GVA, Rs. 28.00 Cr., statewide rank 1.56
-  - Forestry & Logging: N/A% of district GVA, Rs. 8.00 Cr., statewide rank -38.03
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 24.00 Cr., statewide rank 11.11
+  - Forestry & Logging: 4.57% of district GVA, Rs. 471.09 Cr., statewide rank 8
+  - Public Admn.: 1.15% of district GVA, Rs. 690.77 Cr., statewide rank 28
+  - Horticulture: 1.03% of district GVA, Rs. 1,466.42 Cr., statewide rank 27
+  - Electricity, Gas, Water Supply: 0.66% of district GVA, Rs. 291.68 Cr., statewide rank 26
+  - AGRICULTURE & ALLIED SECTOR: 0.62% of district GVA, Rs. 3,331.08 Cr., statewide rank 28
 
 Fastest-growing sectors in Polavaram (2025-26 (FAE) YoY):
-  - Forestry & Logging: 4.57% growth, Rs. 8.00 Cr.
-  - Public Admn.: 1.15% growth, Rs. 28.00 Cr.
-  - Horticulture: 1.03% growth, Rs. 27.00 Cr.
-  - Electricity, Gas, Water Supply: 0.66% growth, Rs. 26.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: 0.62% growth, Rs. 28.00 Cr.
+  - Horticulture: 69.28% growth, Rs. 1,466.42 Cr.
+  - Trade,Hotel & Restaurants: 58.54% growth, Rs. 260.05 Cr.
+  - Manufacturing: 20.00% growth, Rs. 5.57 Cr.
+  - Communications: 15.82% growth, Rs. 183.00 Cr.
+  - Real est., Ownership of Dwellings: 15.32% growth, Rs. 542.19 Cr.
 
 Best statewide ranks (sectors where Polavaram leads other districts):
-  - Mining & Quarrying: rank -58.33 of 28, Rs. 28.00 Cr.
-  - Forestry & Logging: rank -38.03 of 28, Rs. 8.00 Cr.
-  - Agriculture: rank -12.64 of 28, Rs. 27.00 Cr.
-  - Electricity, Gas, Water Supply: rank -7.01 of 28, Rs. 26.00 Cr.
-  - Live stock: rank 1.56 of 28, Rs. 28.00 Cr.
+  - Forestry & Logging: rank 8 of 28, Rs. 471.09 Cr.
+  - Fishing & Aquaculture: rank 24 of 28, Rs. 110.45 Cr.
+  - Electricity, Gas, Water Supply: rank 26 of 28, Rs. 291.68 Cr.
+  - Agriculture: rank 27 of 28, Rs. 242.24 Cr.
+  - Horticulture: rank 27 of 28, Rs. 1,466.42 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 28.00 Cr., growth 0.15%, rank -11.15
-  - Services Sector (aggregate): Rs. 28.00 Cr., growth 0.34%, rank 14.67
-  - Gross District Value Added (GDVA): Rs. 28.00 Cr., growth 0.39%, rank 9.42
-  - Product Taxes: Rs. 28.00 Cr., growth 0.39%, rank 11.17
-  - Product Subsidies: Rs. 28.00 Cr., growth 0.39%, rank -4.12
-  - Gross District Domestic Product (GDDP): Rs. 28.00 Cr., growth 0.39%, rank 9.77
-  - Net District Domestic Product (NDDP): Rs. 28.00 Cr., growth 0.39%, rank 10.31
-  - Population ('000): Rs. 28.00 Cr., growth 0.71%, rank 0.53
-  - Per Capita Income (Rs.): Rs. 27.00 Cr., growth 2.06%, rank 9.93
+  - Industry Sector (aggregate): Rs. 558.00 Cr., growth -11.15%, rank 28
+  - Services Sector (aggregate): Rs. 2,408.29 Cr., growth 14.67%, rank 28
+  - Gross District Value Added (GDVA): Rs. 6,297.59 Cr., growth 9.42%, rank 28
+  - Product Taxes: Rs. 626.95 Cr., growth 11.17%, rank 28
+  - Product Subsidies: Rs. 93.12 Cr., growth -4.12%, rank 28
+  - Gross District Domestic Product (GDDP): Rs. 6,831.00 Cr., growth 9.77%, rank 28
+  - Net District Domestic Product (NDDP): Rs. 6,225.89 Cr., growth 10.31%, rank 28
+  - Population ('000): Rs. 378.53 Cr., growth 0.53%, rank 28
+  - Per Capita Income (Rs.): Rs. 164,475.00 Cr., growth 9.93%, rank 27

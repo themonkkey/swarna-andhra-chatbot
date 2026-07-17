@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Net District Domestic Product (NDDP)
 
-2022-23 (TRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 3.71, Contribution to state total = 35,962.83%
-2023-24 (SRE): Value = Rs. 18.00 Cr., Rank among 28 districts = -16.89, YoY Growth = 2.82%, Contribution to state total = 41,461.40%
-2024-25 (FRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 15.29, YoY Growth = 2.91%, Contribution to state total = 43,763.68%
-2025-26 (FAE): Value = Rs. 19.00 Cr., Rank among 28 districts = 5.55, YoY Growth = 2.77%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 43,271.63 Cr., Rank among 28 districts = 13, Contribution to state total = 3.71%
+2023-24 (SRE): Value = Rs. 35,962.83 Cr., Rank among 28 districts = 18, YoY Growth = -16.89%, Contribution to state total = 2.82%
+2024-25 (FRE): Value = Rs. 41,461.40 Cr., Rank among 28 districts = 16, YoY Growth = 15.29%, Contribution to state total = 2.91%
+2025-26 (FAE): Value = Rs. 43,763.68 Cr., Rank among 28 districts = 19, YoY Growth = 5.55%, Contribution to state total = 2.77%

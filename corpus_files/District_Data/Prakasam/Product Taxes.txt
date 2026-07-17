@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 3.73, Contribution to state total = 3,657.00%
-2023-24 (SRE): Value = Rs. 18.00 Cr., Rank among 28 districts = -19.61, YoY Growth = 2.79%, Contribution to state total = 4,138.54%
-2024-25 (FRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 13.18, YoY Growth = 2.87%, Contribution to state total = 4,438.60%
-2025-26 (FAE): Value = Rs. 19.00 Cr., Rank among 28 districts = 7.25, YoY Growth = 2.74%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 4,549.00 Cr., Rank among 28 districts = 13, Contribution to state total = 3.73%
+2023-24 (SRE): Value = Rs. 3,657.00 Cr., Rank among 28 districts = 18, YoY Growth = -19.61%, Contribution to state total = 2.79%
+2024-25 (FRE): Value = Rs. 4,138.54 Cr., Rank among 28 districts = 16, YoY Growth = 13.18%, Contribution to state total = 2.87%
+2025-26 (FAE): Value = Rs. 4,438.60 Cr., Rank among 28 districts = 19, YoY Growth = 7.25%, Contribution to state total = 2.74%

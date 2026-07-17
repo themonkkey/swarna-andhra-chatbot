@@ -1,6 +1,6 @@
 District: Sps Nellore — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 10.00 Cr., Rank among 28 districts = 2.61, Contribution to state total = 2,284.00%
-2023-24 (SRE): Value = Rs. 10.00 Cr., Rank among 28 districts = -1.89, YoY Growth = 2.37%, Contribution to state total = 2,915.00%
-2024-25 (FRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 27.63, YoY Growth = 2.67%, Contribution to state total = 3,216.14%
-2025-26 (FAE): Value = Rs. 9.00 Cr., Rank among 28 districts = 10.33, YoY Growth = 2.62%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,327.97 Cr., Rank among 28 districts = 10, Contribution to state total = 2.61%
+2023-24 (SRE): Value = Rs. 2,284.00 Cr., Rank among 28 districts = 10, YoY Growth = -1.89%, Contribution to state total = 2.37%
+2024-25 (FRE): Value = Rs. 2,915.00 Cr., Rank among 28 districts = 9, YoY Growth = 27.63%, Contribution to state total = 2.67%
+2025-26 (FAE): Value = Rs. 3,216.14 Cr., Rank among 28 districts = 9, YoY Growth = 10.33%, Contribution to state total = 2.62%

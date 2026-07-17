@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 2.61, Contribution to state total = 248.00%
-2023-24 (SRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 5.08, YoY Growth = 2.54%, Contribution to state total = 254.57%
-2024-25 (FRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 2.82, YoY Growth = 2.55%, Contribution to state total = 352.31%
-2025-26 (FAE): Value = Rs. 15.00 Cr., Rank among 28 districts = 38.04, YoY Growth = 3.41%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 235.63 Cr., Rank among 28 districts = 16, Contribution to state total = 2.61%
+2023-24 (SRE): Value = Rs. 248.00 Cr., Rank among 28 districts = 16, YoY Growth = 5.08%, Contribution to state total = 2.54%
+2024-25 (FRE): Value = Rs. 254.57 Cr., Rank among 28 districts = 16, YoY Growth = 2.82%, Contribution to state total = 2.55%
+2025-26 (FAE): Value = Rs. 352.31 Cr., Rank among 28 districts = 15, YoY Growth = 38.04%, Contribution to state total = 3.41%

@@ -1,6 +1,6 @@
 District: Ntr — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 1.41, Contribution to state total = 1,200.06%
-2023-24 (SRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 118.18, YoY Growth = 4.05%, Contribution to state total = 1,176.31%
-2024-25 (FRE): Value = Rs. 10.00 Cr., Rank among 28 districts = -2, YoY Growth = 3.63%, Contribution to state total = 1,081.00%
-2025-26 (FAE): Value = Rs. 9.00 Cr., Rank among 28 districts = -8.08, YoY Growth = 3.18%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 550.08 Cr., Rank among 28 districts = 12, Contribution to state total = 1.41%
+2023-24 (SRE): Value = Rs. 1,200.06 Cr., Rank among 28 districts = 8, YoY Growth = 118.18%, Contribution to state total = 4.05%
+2024-25 (FRE): Value = Rs. 1,176.31 Cr., Rank among 28 districts = 10, YoY Growth = -2.00%, Contribution to state total = 3.63%
+2025-26 (FAE): Value = Rs. 1,081.00 Cr., Rank among 28 districts = 9, YoY Growth = -8.08%, Contribution to state total = 3.18%

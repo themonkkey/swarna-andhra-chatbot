@@ -1,6 +1,6 @@
 District: Markapuram — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 0.14, Contribution to state total = 165.74%
-2023-24 (SRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 13.7, YoY Growth = 0.15%, Contribution to state total = 179.86%
-2024-25 (FRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 8.43, YoY Growth = 0.14%, Contribution to state total = 142.37%
-2025-26 (FAE): Value = Rs. 21.00 Cr., Rank among 28 districts = -21.11, YoY Growth = 0.09%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 145.53 Cr., Rank among 28 districts = 21, Contribution to state total = 0.14%
+2023-24 (SRE): Value = Rs. 165.74 Cr., Rank among 28 districts = 21, YoY Growth = 13.70%, Contribution to state total = 0.15%
+2024-25 (FRE): Value = Rs. 179.86 Cr., Rank among 28 districts = 21, YoY Growth = 8.43%, Contribution to state total = 0.14%
+2025-26 (FAE): Value = Rs. 142.37 Cr., Rank among 28 districts = 21, YoY Growth = -21.11%, Contribution to state total = 0.09%

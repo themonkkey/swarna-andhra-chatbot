@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Transport by Other means & Storage
 
-2022-23 (TRE): Value = Rs. 22.00 Cr., Rank among 28 districts = 2.01, Contribution to state total = 1,651.14%
-2023-24 (SRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 8.69, YoY Growth = 1.97%, Contribution to state total = 1,912.13%
-2024-25 (FRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 15.81, YoY Growth = 1.99%, Contribution to state total = 2,148.29%
-2025-26 (FAE): Value = Rs. 23.00 Cr., Rank among 28 districts = 12.34, YoY Growth = 2.00%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,519.21 Cr., Rank among 28 districts = 22, Contribution to state total = 2.01%
+2023-24 (SRE): Value = Rs. 1,651.14 Cr., Rank among 28 districts = 23, YoY Growth = 8.69%, Contribution to state total = 1.97%
+2024-25 (FRE): Value = Rs. 1,912.13 Cr., Rank among 28 districts = 23, YoY Growth = 15.81%, Contribution to state total = 1.99%
+2025-26 (FAE): Value = Rs. 2,148.29 Cr., Rank among 28 districts = 23, YoY Growth = 12.34%, Contribution to state total = 2.00%

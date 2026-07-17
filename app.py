@@ -18,6 +18,47 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 INDEX_PATH = os.path.join(os.path.dirname(__file__), "index.pkl")
 
+# Recognizable district-name aliases for direct lookup — TF-IDF alone under-ranks a district
+# snapshot against generic methodology docs when the query only has one distinctive term
+# (e.g. "gdp of kakinada" loses to docs repeating "GDP"/"district" many times).
+DISTRICT_ALIASES = {
+    "alluri seetha rama raju": "Alluri_Seetha_Rama_Raju", "asr": "Alluri_Seetha_Rama_Raju",
+    "anakapalle": "Anakapalle", "anakapalli": "Anakapalle",
+    "ananthapuramu": "Ananthapuramu", "anantapur": "Ananthapuramu",
+    "annamayya": "Annamayya",
+    "bapatla": "Bapatla",
+    "chittoor": "Chittoor",
+    "konaseema": "Dr.B.R.Ambedkar_Konaseema", "ambedkar konaseema": "Dr.B.R.Ambedkar_Konaseema",
+    "east godavari": "East_Godavari", "kakinada": "Kakinada",
+    "eluru": "Eluru",
+    "guntur": "Guntur",
+    "krishna": "Krishna",
+    "kurnool": "Kurnool",
+    "markapuram": "Markapuram",
+    "nandyal": "Nandyal",
+    "ntr": "Ntr",
+    "palnadu": "Palnadu",
+    "parvathipuram manyam": "Parvathipuram_Manyam", "parvathipuram": "Parvathipuram_Manyam",
+    "polavaram": "Polavaram",
+    "prakasam": "Prakasam",
+    "nellore": "Sps_Nellore", "sps nellore": "Sps_Nellore",
+    "sri satya sai": "Sri_Satya_Sai", "satya sai": "Sri_Satya_Sai",
+    "srikakulam": "Srikakulam",
+    "tirupati": "Tirupati",
+    "visakhapatnam": "Visakhapatnam", "vizag": "Visakhapatnam",
+    "vizianagaram": "Vizianagaram",
+    "west godavari": "West_Godavari",
+    "ysr kadapa": "Ysr_Kadapa", "kadapa": "Ysr_Kadapa",
+}
+
+
+def detect_district(query):
+    low = query.lower()
+    for alias, folder in DISTRICT_ALIASES.items():
+        if alias in low:
+            return folder
+    return None
+
 SYSTEM_PROMPT = """You are an assistant for Pahlé India Foundation's Swarna Andhra capacity-building \
 programme, which trains Andhra Pradesh district/constituency/mandal officials on GDP/GSDP/GDDP \
 estimation and sector-wise GVA improvement.
@@ -55,7 +96,7 @@ def _label(source, page):
     return f"{source} (slide/page {page})" if page else source
 
 
-def retrieve(query, index):
+def retrieve(query, index, district_folder=None):
     if index is None:
         return []
     qvec = index["vectorizer"].transform([query])
@@ -86,6 +127,19 @@ def retrieve(query, index):
     for j, c in enumerate(index["chunks"]):
         if c.get("page") is not None:
             page_index[(c["source"], c["page"])] = j
+
+    # a detected district name is a stronger signal than TF-IDF score — force its snapshot
+    # and sector files in first so they aren't drowned out by generic methodology docs.
+    if district_folder:
+        sector_prefix = f"district_data/{district_folder}/"
+        snapshot_name = f"district_data/{district_folder}_Snapshot.txt"
+        forced = [
+            (j, c) for j, c in enumerate(index["chunks"])
+            if c["source"].startswith(sector_prefix) or c["source"] == snapshot_name
+        ]
+        forced.sort(key=lambda jc: 0 if "Snapshot" in jc[1]["source"] else 1)
+        for j, c in forced[:6]:
+            add_chunk(j, 1.0)
 
     for i in top_idx:
         if sims[i] <= 0:
@@ -165,11 +219,8 @@ if user_input:
     with st.chat_message("user"):
         st.markdown(user_input)
 
-    expanded = user_input
-    low = user_input.lower()
-    if any(w in low for w in ["gdp", "gddp", "economy", "economic", "income", "nddp", "per capita"]):
-        expanded = user_input + " GDDP district domestic product snapshot"
-    hits = retrieve(expanded, index)
+    district_folder = detect_district(user_input)
+    hits = retrieve(user_input, index, district_folder=district_folder)
     context_block = build_context_block(hits)
 
     llm_messages = [

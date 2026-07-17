@@ -1,6 +1,6 @@
 District: Sps Nellore — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 6.39, Contribution to state total = 510.00%
-2023-24 (SRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 7.14, YoY Growth = 5.98%, Contribution to state total = 531.04%
-2024-25 (FRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 4.12, YoY Growth = 5.76%, Contribution to state total = 571.00%
-2025-26 (FAE): Value = Rs. 4.00 Cr., Rank among 28 districts = 7.53, YoY Growth = 5.70%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 475.57 Cr., Rank among 28 districts = 4, Contribution to state total = 6.39%
+2023-24 (SRE): Value = Rs. 510.00 Cr., Rank among 28 districts = 4, YoY Growth = 7.14%, Contribution to state total = 5.98%
+2024-25 (FRE): Value = Rs. 531.04 Cr., Rank among 28 districts = 4, YoY Growth = 4.12%, Contribution to state total = 5.76%
+2025-26 (FAE): Value = Rs. 571.00 Cr., Rank among 28 districts = 4, YoY Growth = 7.53%, Contribution to state total = 5.70%

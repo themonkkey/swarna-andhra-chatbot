@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Transport by Other means & Storage
 
-2022-23 (TRE): Value = Rs. 19.00 Cr., Rank among 28 districts = 2.8, Contribution to state total = 2,261.58%
-2023-24 (SRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 6.75, YoY Growth = 2.70%, Contribution to state total = 2,629.86%
-2024-25 (FRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 16.27, YoY Growth = 2.74%, Contribution to state total = 2,963.55%
-2025-26 (FAE): Value = Rs. 20.00 Cr., Rank among 28 districts = 12.7, YoY Growth = 2.75%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,118.97 Cr., Rank among 28 districts = 19, Contribution to state total = 2.80%
+2023-24 (SRE): Value = Rs. 2,261.58 Cr., Rank among 28 districts = 20, YoY Growth = 6.75%, Contribution to state total = 2.70%
+2024-25 (FRE): Value = Rs. 2,629.86 Cr., Rank among 28 districts = 20, YoY Growth = 16.27%, Contribution to state total = 2.74%
+2025-26 (FAE): Value = Rs. 2,963.55 Cr., Rank among 28 districts = 20, YoY Growth = 12.70%, Contribution to state total = 2.75%

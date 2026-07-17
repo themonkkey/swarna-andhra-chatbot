@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 1.16, Contribution to state total = 324.69%
-2023-24 (SRE): Value = Rs. 22.00 Cr., Rank among 28 districts = -28.1, YoY Growth = 1.10%, Contribution to state total = 256.43%
-2024-25 (FRE): Value = Rs. 25.00 Cr., Rank among 28 districts = -21.23, YoY Growth = 0.79%, Contribution to state total = 1,578.00%
-2025-26 (FAE): Value = Rs. 7.00 Cr., Rank among 28 districts = 516.41, YoY Growth = 4.65%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 451.71 Cr., Rank among 28 districts = 16, Contribution to state total = 1.16%
+2023-24 (SRE): Value = Rs. 324.69 Cr., Rank among 28 districts = 22, YoY Growth = -28.10%, Contribution to state total = 1.10%
+2024-25 (FRE): Value = Rs. 256.43 Cr., Rank among 28 districts = 25, YoY Growth = -21.23%, Contribution to state total = 0.79%
+2025-26 (FAE): Value = Rs. 1,578.00 Cr., Rank among 28 districts = 7, YoY Growth = 516.41%, Contribution to state total = 4.65%

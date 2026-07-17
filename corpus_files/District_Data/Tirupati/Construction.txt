@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Construction
 
-2022-23 (TRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 5.17, Contribution to state total = 5,378.00%
-2023-24 (SRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 6.56, YoY Growth = 5.20%, Contribution to state total = 5,969.59%
-2024-25 (FRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 11.01, YoY Growth = 5.19%, Contribution to state total = 6,762.98%
-2025-26 (FAE): Value = Rs. 5.00 Cr., Rank among 28 districts = 13.28, YoY Growth = 5.20%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 5,047.31 Cr., Rank among 28 districts = 5, Contribution to state total = 5.17%
+2023-24 (SRE): Value = Rs. 5,378.00 Cr., Rank among 28 districts = 5, YoY Growth = 6.56%, Contribution to state total = 5.20%
+2024-25 (FRE): Value = Rs. 5,969.59 Cr., Rank among 28 districts = 5, YoY Growth = 11.01%, Contribution to state total = 5.19%
+2025-26 (FAE): Value = Rs. 6,762.98 Cr., Rank among 28 districts = 5, YoY Growth = 13.28%, Contribution to state total = 5.20%

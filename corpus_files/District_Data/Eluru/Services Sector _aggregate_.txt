@@ -1,6 +1,6 @@
 District: Eluru — Sector: Services Sector (aggregate)
 
-2022-23 (TRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 3.04, Contribution to state total = 16,602.00%
-2023-24 (SRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 9.09, YoY Growth = 3.03%, Contribution to state total = 18,590.61%
-2024-25 (FRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 11.98, YoY Growth = 3.00%, Contribution to state total = 21,061.05%
-2025-26 (FAE): Value = Rs. 14.00 Cr., Rank among 28 districts = 13.29, YoY Growth = 3.01%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 15,218.98 Cr., Rank among 28 districts = 14, Contribution to state total = 3.04%
+2023-24 (SRE): Value = Rs. 16,602.00 Cr., Rank among 28 districts = 15, YoY Growth = 9.09%, Contribution to state total = 3.03%
+2024-25 (FRE): Value = Rs. 18,590.61 Cr., Rank among 28 districts = 14, YoY Growth = 11.98%, Contribution to state total = 3.00%
+2025-26 (FAE): Value = Rs. 21,061.05 Cr., Rank among 28 districts = 14, YoY Growth = 13.29%, Contribution to state total = 3.01%

@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Alluri Seetha Rama Raju (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 25.00 Cr., statewide rank -13.76
-  - Horticulture: N/A% of district GVA, Rs. 4.00 Cr., statewide rank 24.18
-  - Live stock: N/A% of district GVA, Rs. 26.00 Cr., statewide rank -13.25
-  - Forestry & Logging: N/A% of district GVA, Rs. 9.00 Cr., statewide rank -29.79
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 26.00 Cr., statewide rank 5.63
+  - Horticulture: 6.22% of district GVA, Rs. 8,875.16 Cr., statewide rank 4
+  - Forestry & Logging: 4.55% of district GVA, Rs. 469.26 Cr., statewide rank 9
+  - AGRICULTURE & ALLIED SECTOR: 2.16% of district GVA, Rs. 11,630.49 Cr., statewide rank 22
+  - Public Admn.: 2.01% of district GVA, Rs. 1,203.45 Cr., statewide rank 26
+  - Live stock: 0.97% of district GVA, Rs. 1,716.00 Cr., statewide rank 26
 
 Fastest-growing sectors in Alluri Seetha Rama Raju (2025-26 (FAE) YoY):
-  - Horticulture: 6.22% growth, Rs. 4.00 Cr.
-  - Forestry & Logging: 4.55% growth, Rs. 9.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: 2.16% growth, Rs. 22.00 Cr.
-  - Public Admn.: 2.01% growth, Rs. 26.00 Cr.
-  - Live stock: 0.97% growth, Rs. 26.00 Cr.
+  - Horticulture: 24.18% growth, Rs. 8,875.16 Cr.
+  - Communications: 16.59% growth, Rs. 260.00 Cr.
+  - Banking & Insurance: 15.32% growth, Rs. 128.00 Cr.
+  - Real est., Ownership of Dwellings: 14.95% growth, Rs. 883.90 Cr.
+  - Transport by Other means & Storage: 12.78% growth, Rs. 299.54 Cr.
 
 Best statewide ranks (sectors where Alluri Seetha Rama Raju leads other districts):
-  - Forestry & Logging: rank -29.79 of 28, Rs. 9.00 Cr.
-  - Agriculture: rank -13.76 of 28, Rs. 25.00 Cr.
-  - Live stock: rank -13.25 of 28, Rs. 26.00 Cr.
-  - Mining & Quarrying: rank -1.79 of 28, Rs. 26.00 Cr.
-  - Electricity, Gas, Water Supply: rank -1.01 of 28, Rs. 27.00 Cr.
+  - Horticulture: rank 4 of 28, Rs. 8,875.16 Cr.
+  - Forestry & Logging: rank 9 of 28, Rs. 469.26 Cr.
+  - Railways: rank 20 of 28, Rs. 74.00 Cr.
+  - Trade,Hotel & Restaurants: rank 21 of 28, Rs. 1,111.82 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 22 of 28, Rs. 11,630.49 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 27.00 Cr., growth 0.18%, rank 5.29
-  - Services Sector (aggregate): Rs. 27.00 Cr., growth 0.65%, rank 10.57
-  - Gross District Value Added (GDVA): Rs. 26.00 Cr., growth 1.04%, rank 10.94
-  - Product Taxes: Rs. 26.00 Cr., growth 1.04%, rank 12.68
-  - Product Subsidies: Rs. 26.00 Cr., growth 1.04%, rank -2.73
-  - Gross District Domestic Product (GDDP): Rs. 26.00 Cr., growth 1.04%, rank 11.31
-  - Net District Domestic Product (NDDP): Rs. 26.00 Cr., growth 1.06%, rank 12.1
-  - Population ('000): Rs. 27.00 Cr., growth 1.22%, rank 0.31
-  - Per Capita Income (Rs.): Rs. 16.00 Cr., growth 3.22%, rank 11.72
+  - Industry Sector (aggregate): Rs. 677.00 Cr., growth 5.29%, rank 27
+  - Services Sector (aggregate): Rs. 4,562.06 Cr., growth 10.57%, rank 27
+  - Gross District Value Added (GDVA): Rs. 16,869.77 Cr., growth 10.94%, rank 26
+  - Product Taxes: Rs. 1,679.45 Cr., growth 12.68%, rank 26
+  - Product Subsidies: Rs. 249.46 Cr., growth -2.73%, rank 26
+  - Gross District Domestic Product (GDDP): Rs. 18,300.00 Cr., growth 11.31%, rank 26
+  - Net District Domestic Product (NDDP): Rs. 16,820.54 Cr., growth 12.10%, rank 26
+  - Population ('000): Rs. 653.45 Cr., growth 0.31%, rank 27
+  - Per Capita Income (Rs.): Rs. 257,411.00 Cr., growth 11.72%, rank 16

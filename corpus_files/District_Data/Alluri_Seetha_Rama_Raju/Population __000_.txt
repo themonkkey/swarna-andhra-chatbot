@@ -1,6 +1,6 @@
 District: Alluri Seetha Rama Raju — Sector: Population ('000)
 
-2022-23 (TRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 1.22, Contribution to state total = 649.00%
-2023-24 (SRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 0.31, YoY Growth = 1.22%, Contribution to state total = 651.21%
-2024-25 (FRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 0.31, YoY Growth = 1.22%, Contribution to state total = 653.45%
-2025-26 (FAE): Value = Rs. 27.00 Cr., Rank among 28 districts = 0.31, YoY Growth = 1.22%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 647.00 Cr., Rank among 28 districts = 27, Contribution to state total = 1.22%
+2023-24 (SRE): Value = Rs. 649.00 Cr., Rank among 28 districts = 27, YoY Growth = 0.31%, Contribution to state total = 1.22%
+2024-25 (FRE): Value = Rs. 651.21 Cr., Rank among 28 districts = 27, YoY Growth = 0.31%, Contribution to state total = 1.22%
+2025-26 (FAE): Value = Rs. 653.45 Cr., Rank among 28 districts = 27, YoY Growth = 0.31%, Contribution to state total = 1.22%

@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 2.71, Contribution to state total = 2,920.02%
-2023-24 (SRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 7.43, YoY Growth = 2.71%, Contribution to state total = 3,285.14%
-2024-25 (FRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 12.5, YoY Growth = 2.70%, Contribution to state total = 3,737.48%
-2025-26 (FAE): Value = Rs. 20.00 Cr., Rank among 28 districts = 13.76, YoY Growth = 2.70%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,718.26 Cr., Rank among 28 districts = 20, Contribution to state total = 2.71%
+2023-24 (SRE): Value = Rs. 2,920.02 Cr., Rank among 28 districts = 20, YoY Growth = 7.43%, Contribution to state total = 2.71%
+2024-25 (FRE): Value = Rs. 3,285.14 Cr., Rank among 28 districts = 20, YoY Growth = 12.50%, Contribution to state total = 2.70%
+2025-26 (FAE): Value = Rs. 3,737.48 Cr., Rank among 28 districts = 20, YoY Growth = 13.76%, Contribution to state total = 2.70%

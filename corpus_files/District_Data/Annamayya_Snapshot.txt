@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Annamayya (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 26.00 Cr., statewide rank -45.12
-  - Horticulture: N/A% of district GVA, Rs. 12.00 Cr., statewide rank -11.99
-  - Live stock: N/A% of district GVA, Rs. 8.00 Cr., statewide rank -3.51
-  - Forestry & Logging: N/A% of district GVA, Rs. 12.00 Cr., statewide rank 10.53
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 27.00 Cr., statewide rank -52.24
+  - Live stock: 4.57% of district GVA, Rs. 8,050.00 Cr., statewide rank 8
+  - Forestry & Logging: 3.66% of district GVA, Rs. 378.11 Cr., statewide rank 12
+  - Horticulture: 3.41% of district GVA, Rs. 4,858.02 Cr., statewide rank 12
+  - Public Admn.: 2.73% of district GVA, Rs. 1,638.49 Cr., statewide rank 18
+  - Real est., Ownership of Dwellings: 2.70% of district GVA, Rs. 3,737.48 Cr., statewide rank 20
 
 Fastest-growing sectors in Annamayya (2025-26 (FAE) YoY):
-  - Live stock: 4.57% growth, Rs. 8.00 Cr.
-  - Forestry & Logging: 3.66% growth, Rs. 12.00 Cr.
-  - Horticulture: 3.41% growth, Rs. 12.00 Cr.
-  - Public Admn.: 2.73% growth, Rs. 18.00 Cr.
-  - Real est., Ownership of Dwellings: 2.70% growth, Rs. 20.00 Cr.
+  - Banking & Insurance: 17.22% growth, Rs. 1,477.00 Cr.
+  - Communications: 16.56% growth, Rs. 873.00 Cr.
+  - Real est., Ownership of Dwellings: 13.76% growth, Rs. 3,737.48 Cr.
+  - Other Services: 13.70% growth, Rs. 3,593.43 Cr.
+  - Construction: 12.85% growth, Rs. 3,239.68 Cr.
 
 Best statewide ranks (sectors where Annamayya leads other districts):
-  - Mining & Quarrying: rank -74.53 of 28, Rs. 18.00 Cr.
-  - Fishing & Aquaculture: rank -52.24 of 28, Rs. 27.00 Cr.
-  - Agriculture: rank -45.12 of 28, Rs. 26.00 Cr.
-  - Horticulture: rank -11.99 of 28, Rs. 12.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: rank -8.44 of 28, Rs. 18.00 Cr.
+  - Live stock: rank 8 of 28, Rs. 8,050.00 Cr.
+  - Horticulture: rank 12 of 28, Rs. 4,858.02 Cr.
+  - Forestry & Logging: rank 12 of 28, Rs. 378.11 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 18 of 28, Rs. 13,695.68 Cr.
+  - Mining & Quarrying: rank 18 of 28, Rs. 450.00 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 24.00 Cr., growth 1.35%, rank -14.48
-  - Services Sector (aggregate): Rs. 23.00 Cr., growth 2.00%, rank 12.69
-  - Gross District Value Added (GDVA): Rs. 24.00 Cr., growth 2.02%, rank -1.68
-  - Product Taxes: Rs. 24.00 Cr., growth 2.02%, rank -0.15
-  - Product Subsidies: Rs. 24.00 Cr., growth 2.02%, rank -13.68
-  - Gross District Domestic Product (GDDP): Rs. 24.00 Cr., growth 2.02%, rank -1.35
-  - Net District Domestic Product (NDDP): Rs. 24.00 Cr., growth 2.08%, rank -1.47
-  - Population ('000): Rs. 23.00 Cr., growth 2.87%, rank 0.33
-  - Per Capita Income (Rs.): Rs. 22.00 Cr., growth 2.67%, rank -1.8
+  - Industry Sector (aggregate): Rs. 5,174.00 Cr., growth -14.48%, rank 24
+  - Services Sector (aggregate): Rs. 14,021.68 Cr., growth 12.69%, rank 23
+  - Gross District Value Added (GDVA): Rs. 32,891.39 Cr., growth -1.68%, rank 24
+  - Product Taxes: Rs. 3,274.46 Cr., growth -0.15%, rank 24
+  - Product Subsidies: Rs. 486.37 Cr., growth -13.68%, rank 24
+  - Gross District Domestic Product (GDDP): Rs. 35,679.00 Cr., growth -1.35%, rank 24
+  - Net District Domestic Product (NDDP): Rs. 32,774.82 Cr., growth -1.47%, rank 24
+  - Population ('000): Rs. 1,538.96 Cr., growth 0.33%, rank 23
+  - Per Capita Income (Rs.): Rs. 212,967.00 Cr., growth -1.80%, rank 22

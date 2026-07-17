@@ -1,6 +1,6 @@
 District: Alluri Seetha Rama Raju — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 1.02, Contribution to state total = 1,750.00%
-2023-24 (SRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 17.37, YoY Growth = 1.13%, Contribution to state total = 1,977.95%
-2024-25 (FRE): Value = Rs. 24.00 Cr., Rank among 28 districts = 13.03, YoY Growth = 1.20%, Contribution to state total = 1,716.00%
-2025-26 (FAE): Value = Rs. 26.00 Cr., Rank among 28 districts = -13.25, YoY Growth = 0.97%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,491.46 Cr., Rank among 28 districts = 26, Contribution to state total = 1.02%
+2023-24 (SRE): Value = Rs. 1,750.00 Cr., Rank among 28 districts = 26, YoY Growth = 17.37%, Contribution to state total = 1.13%
+2024-25 (FRE): Value = Rs. 1,977.95 Cr., Rank among 28 districts = 24, YoY Growth = 13.03%, Contribution to state total = 1.20%
+2025-26 (FAE): Value = Rs. 1,716.00 Cr., Rank among 28 districts = 26, YoY Growth = -13.25%, Contribution to state total = 0.97%

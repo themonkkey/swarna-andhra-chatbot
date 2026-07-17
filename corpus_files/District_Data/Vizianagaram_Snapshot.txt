@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Vizianagaram (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 14.00 Cr., statewide rank 14.8
-  - Horticulture: N/A% of district GVA, Rs. 18.00 Cr., statewide rank -22.34
-  - Live stock: N/A% of district GVA, Rs. 14.00 Cr., statewide rank 18.56
-  - Forestry & Logging: N/A% of district GVA, Rs. 18.00 Cr., statewide rank 47.12
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 17.00 Cr., statewide rank 106.16
+  - Public Admn.: 3.96% of district GVA, Rs. 2,374.29 Cr., statewide rank 10
+  - Live stock: 3.83% of district GVA, Rs. 6,752.00 Cr., statewide rank 14
+  - Agriculture: 3.61% of district GVA, Rs. 2,071.07 Cr., statewide rank 14
+  - Real est., Ownership of Dwellings: 3.53% of district GVA, Rs. 4,883.34 Cr., statewide rank 13
+  - Communications: 3.48% of district GVA, Rs. 1,165.00 Cr., statewide rank 16
 
 Fastest-growing sectors in Vizianagaram (2025-26 (FAE) YoY):
-  - Public Admn.: 3.96% growth, Rs. 10.00 Cr.
-  - Live stock: 3.83% growth, Rs. 14.00 Cr.
-  - Agriculture: 3.61% growth, Rs. 14.00 Cr.
-  - Real est., Ownership of Dwellings: 3.53% growth, Rs. 13.00 Cr.
-  - Communications: 3.48% growth, Rs. 16.00 Cr.
+  - Fishing & Aquaculture: 106.16% growth, Rs. 602.44 Cr.
+  - Forestry & Logging: 47.12% growth, Rs. 280.78 Cr.
+  - Live stock: 18.56% growth, Rs. 6,752.00 Cr.
+  - Communications: 17.32% growth, Rs. 1,165.00 Cr.
+  - Banking & Insurance: 16.16% growth, Rs. 1,905.00 Cr.
 
 Best statewide ranks (sectors where Vizianagaram leads other districts):
-  - Horticulture: rank -22.34 of 28, Rs. 18.00 Cr.
-  - Mining & Quarrying: rank -11.94 of 28, Rs. 13.00 Cr.
-  - Public Admn.: rank 5 of 28, Rs. 10.00 Cr.
-  - Electricity, Gas, Water Supply: rank 6.19 of 28, Rs. 18.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: rank 7.41 of 28, Rs. 21.00 Cr.
+  - Railways: rank 8 of 28, Rs. 313.00 Cr.
+  - Public Admn.: rank 10 of 28, Rs. 2,374.29 Cr.
+  - Mining & Quarrying: rank 13 of 28, Rs. 892.00 Cr.
+  - Real est., Ownership of Dwellings: rank 13 of 28, Rs. 4,883.34 Cr.
+  - Agriculture: rank 14 of 28, Rs. 2,071.07 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 20.00 Cr., growth 2.15%, rank 7.78
-  - Services Sector (aggregate): Rs. 15.00 Cr., growth 2.96%, rank 12.56
-  - Gross District Value Added (GDVA): Rs. 22.00 Cr., growth 2.56%, rank 9.99
-  - Product Taxes: Rs. 22.00 Cr., growth 2.56%, rank 11.72
-  - Product Subsidies: Rs. 22.00 Cr., growth 2.56%, rank -3.3
-  - Gross District Domestic Product (GDDP): Rs. 22.00 Cr., growth 2.56%, rank 10.36
-  - Net District Domestic Product (NDDP): Rs. 22.00 Cr., growth 2.58%, rank 10.66
-  - Population ('000): Rs. 14.00 Cr., growth 3.89%, rank 0.34
-  - Per Capita Income (Rs.): Rs. 25.00 Cr., growth 2.44%, rank 10.28
+  - Industry Sector (aggregate): Rs. 8,269.00 Cr., growth 7.78%, rank 20
+  - Services Sector (aggregate): Rs. 20,715.78 Cr., growth 12.56%, rank 15
+  - Gross District Value Added (GDVA): Rs. 41,649.23 Cr., growth 9.99%, rank 22
+  - Product Taxes: Rs. 4,146.33 Cr., growth 11.72%, rank 22
+  - Product Subsidies: Rs. 615.88 Cr., growth -3.30%, rank 22
+  - Gross District Domestic Product (GDDP): Rs. 45,180.00 Cr., growth 10.36%, rank 22
+  - Net District Domestic Product (NDDP): Rs. 40,750.81 Cr., growth 10.66%, rank 22
+  - Population ('000): Rs. 2,088.73 Cr., growth 0.34%, rank 14
+  - Per Capita Income (Rs.): Rs. 195,098.00 Cr., growth 10.28%, rank 25

@@ -1,6 +1,6 @@
 District: Dr.B.R.Ambedkar Konaseema — Sector: Transport by Other means & Storage
 
-2022-23 (TRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 1.9, Contribution to state total = 1,574.56%
-2023-24 (SRE): Value = Rs. 24.00 Cr., Rank among 28 districts = 9.83, YoY Growth = 1.88%, Contribution to state total = 1,817.73%
-2024-25 (FRE): Value = Rs. 24.00 Cr., Rank among 28 districts = 15.43, YoY Growth = 1.89%, Contribution to state total = 2,045.29%
-2025-26 (FAE): Value = Rs. 24.00 Cr., Rank among 28 districts = 12.49, YoY Growth = 1.90%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,434.49 Cr., Rank among 28 districts = 23, Contribution to state total = 1.90%
+2023-24 (SRE): Value = Rs. 1,574.56 Cr., Rank among 28 districts = 24, YoY Growth = 9.83%, Contribution to state total = 1.88%
+2024-25 (FRE): Value = Rs. 1,817.73 Cr., Rank among 28 districts = 24, YoY Growth = 15.43%, Contribution to state total = 1.89%
+2025-26 (FAE): Value = Rs. 2,045.29 Cr., Rank among 28 districts = 24, YoY Growth = 12.49%, Contribution to state total = 1.90%

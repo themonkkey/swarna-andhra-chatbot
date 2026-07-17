@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 2.61, Contribution to state total = 2,737.12%
-2023-24 (SRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 4.27, YoY Growth = 2.54%, Contribution to state total = 3,045.19%
-2024-25 (FRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 11.25, YoY Growth = 2.50%, Contribution to state total = 3,470.04%
-2025-26 (FAE): Value = Rs. 21.00 Cr., Rank among 28 districts = 13.96, YoY Growth = 2.51%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,624.53 Cr., Rank among 28 districts = 21, Contribution to state total = 2.61%
+2023-24 (SRE): Value = Rs. 2,737.12 Cr., Rank among 28 districts = 21, YoY Growth = 4.27%, Contribution to state total = 2.54%
+2024-25 (FRE): Value = Rs. 3,045.19 Cr., Rank among 28 districts = 21, YoY Growth = 11.25%, Contribution to state total = 2.50%
+2025-26 (FAE): Value = Rs. 3,470.04 Cr., Rank among 28 districts = 21, YoY Growth = 13.96%, Contribution to state total = 2.51%

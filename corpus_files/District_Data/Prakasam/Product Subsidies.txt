@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 3.73, Contribution to state total = 755.68%
-2023-24 (SRE): Value = Rs. 18.00 Cr., Rank among 28 districts = -49.6, YoY Growth = 2.79%, Contribution to state total = 711.00%
-2024-25 (FRE): Value = Rs. 16.00 Cr., Rank among 28 districts = -5.95, YoY Growth = 2.87%, Contribution to state total = 659.29%
-2025-26 (FAE): Value = Rs. 19.00 Cr., Rank among 28 districts = -7.31, YoY Growth = 2.74%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,500.00 Cr., Rank among 28 districts = 13, Contribution to state total = 3.73%
+2023-24 (SRE): Value = Rs. 755.68 Cr., Rank among 28 districts = 18, YoY Growth = -49.60%, Contribution to state total = 2.79%
+2024-25 (FRE): Value = Rs. 711.00 Cr., Rank among 28 districts = 16, YoY Growth = -5.95%, Contribution to state total = 2.87%
+2025-26 (FAE): Value = Rs. 659.29 Cr., Rank among 28 districts = 19, YoY Growth = -7.31%, Contribution to state total = 2.74%

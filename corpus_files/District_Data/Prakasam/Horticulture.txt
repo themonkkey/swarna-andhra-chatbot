@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 2.11, Contribution to state total = 3,431.96%
-2023-24 (SRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 34.8, YoY Growth = 2.73%, Contribution to state total = 2,569.00%
-2024-25 (FRE): Value = Rs. 21.00 Cr., Rank among 28 districts = -25.15, YoY Growth = 1.81%, Contribution to state total = 2,603.00%
-2025-26 (FAE): Value = Rs. 21.00 Cr., Rank among 28 districts = 1.32, YoY Growth = 1.83%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,546.41 Cr., Rank among 28 districts = 20, Contribution to state total = 2.11%
+2023-24 (SRE): Value = Rs. 3,431.96 Cr., Rank among 28 districts = 16, YoY Growth = 34.80%, Contribution to state total = 2.73%
+2024-25 (FRE): Value = Rs. 2,569.00 Cr., Rank among 28 districts = 21, YoY Growth = -25.15%, Contribution to state total = 1.81%
+2025-26 (FAE): Value = Rs. 2,603.00 Cr., Rank among 28 districts = 21, YoY Growth = 1.32%, Contribution to state total = 1.83%

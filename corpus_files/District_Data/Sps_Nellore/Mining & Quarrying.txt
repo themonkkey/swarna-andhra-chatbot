@@ -1,6 +1,6 @@
 District: Sps Nellore — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 22.00 Cr., Rank among 28 districts = 0.44, Contribution to state total = 465.85%
-2023-24 (SRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 169.36, YoY Growth = 1.57%, Contribution to state total = 605.40%
-2024-25 (FRE): Value = Rs. 17.00 Cr., Rank among 28 districts = 29.83, YoY Growth = 1.87%, Contribution to state total = 387.00%
-2025-26 (FAE): Value = Rs. 20.00 Cr., Rank among 28 districts = -36.03, YoY Growth = 1.14%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 172.66 Cr., Rank among 28 districts = 22, Contribution to state total = 0.44%
+2023-24 (SRE): Value = Rs. 465.85 Cr., Rank among 28 districts = 20, YoY Growth = 169.36%, Contribution to state total = 1.57%
+2024-25 (FRE): Value = Rs. 605.40 Cr., Rank among 28 districts = 17, YoY Growth = 29.83%, Contribution to state total = 1.87%
+2025-26 (FAE): Value = Rs. 387.00 Cr., Rank among 28 districts = 20, YoY Growth = -36.03%, Contribution to state total = 1.14%

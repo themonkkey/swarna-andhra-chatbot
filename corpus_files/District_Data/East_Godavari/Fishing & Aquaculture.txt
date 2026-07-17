@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 1.63, Contribution to state total = 1,555.99%
-2023-24 (SRE): Value = Rs. 13.00 Cr., Rank among 28 districts = -10.32, YoY Growth = 1.39%, Contribution to state total = 2,115.74%
-2024-25 (FRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 35.99, YoY Growth = 1.65%, Contribution to state total = 2,348.09%
-2025-26 (FAE): Value = Rs. 10.00 Cr., Rank among 28 districts = 10.96, YoY Growth = 1.53%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,735.47 Cr., Rank among 28 districts = 12, Contribution to state total = 1.63%
+2023-24 (SRE): Value = Rs. 1,555.99 Cr., Rank among 28 districts = 13, YoY Growth = -10.32%, Contribution to state total = 1.39%
+2024-25 (FRE): Value = Rs. 2,115.74 Cr., Rank among 28 districts = 12, YoY Growth = 35.99%, Contribution to state total = 1.65%
+2025-26 (FAE): Value = Rs. 2,348.09 Cr., Rank among 28 districts = 10, YoY Growth = 10.96%, Contribution to state total = 1.53%

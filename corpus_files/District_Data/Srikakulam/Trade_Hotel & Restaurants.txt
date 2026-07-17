@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 2.92, Contribution to state total = 2,770.00%
-2023-24 (SRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 6.46, YoY Growth = 2.88%, Contribution to state total = 2,602.00%
-2024-25 (FRE): Value = Rs. 10.00 Cr., Rank among 28 districts = -6.06, YoY Growth = 2.39%, Contribution to state total = 2,990.53%
-2025-26 (FAE): Value = Rs. 10.00 Cr., Rank among 28 districts = 14.95, YoY Growth = 2.44%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,602.39 Cr., Rank among 28 districts = 9, Contribution to state total = 2.92%
+2023-24 (SRE): Value = Rs. 2,770.00 Cr., Rank among 28 districts = 9, YoY Growth = 6.46%, Contribution to state total = 2.88%
+2024-25 (FRE): Value = Rs. 2,602.00 Cr., Rank among 28 districts = 10, YoY Growth = -6.06%, Contribution to state total = 2.39%
+2025-26 (FAE): Value = Rs. 2,990.53 Cr., Rank among 28 districts = 10, YoY Growth = 14.95%, Contribution to state total = 2.44%

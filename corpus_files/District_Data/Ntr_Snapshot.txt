@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Ntr (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 16.00 Cr., statewide rank 30.26
-  - Horticulture: N/A% of district GVA, Rs. 15.00 Cr., statewide rank -0.4
-  - Live stock: N/A% of district GVA, Rs. 19.00 Cr., statewide rank 6.76
-  - Forestry & Logging: N/A% of district GVA, Rs. 22.00 Cr., statewide rank 18.23
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 19.00 Cr., statewide rank 5.82
+  - Railways: 31.26% of district GVA, Rs. 3,133.00 Cr., statewide rank 1
+  - Trade,Hotel & Restaurants: 13.95% of district GVA, Rs. 17,101.85 Cr., statewide rank 2
+  - Banking & Insurance: 13.82% of district GVA, Rs. 11,861.00 Cr., statewide rank 1
+  - Electricity, Gas, Water Supply: 8.94% of district GVA, Rs. 3,964.41 Cr., statewide rank 2
+  - Construction: 8.77% of district GVA, Rs. 11,405.87 Cr., statewide rank 2
 
 Fastest-growing sectors in Ntr (2025-26 (FAE) YoY):
-  - Railways: 31.26% growth, Rs. 1.00 Cr.
-  - Trade,Hotel & Restaurants: 13.95% growth, Rs. 2.00 Cr.
-  - Banking & Insurance: 13.82% growth, Rs. 1.00 Cr.
-  - Electricity, Gas, Water Supply: 8.94% growth, Rs. 2.00 Cr.
-  - Construction: 8.77% growth, Rs. 2.00 Cr.
+  - Agriculture: 30.26% growth, Rs. 1,752.17 Cr.
+  - Forestry & Logging: 18.23% growth, Rs. 214.22 Cr.
+  - Communications: 17.33% growth, Rs. 2,248.00 Cr.
+  - Trade,Hotel & Restaurants: 16.91% growth, Rs. 17,101.85 Cr.
+  - Other Services: 16.42% growth, Rs. 11,720.33 Cr.
 
 Best statewide ranks (sectors where Ntr leads other districts):
-  - Mining & Quarrying: rank -8.08 of 28, Rs. 9.00 Cr.
-  - Horticulture: rank -0.4 of 28, Rs. 15.00 Cr.
-  - Electricity, Gas, Water Supply: rank 3.66 of 28, Rs. 2.00 Cr.
-  - Public Admn.: rank 5.64 of 28, Rs. 3.00 Cr.
-  - Fishing & Aquaculture: rank 5.82 of 28, Rs. 19.00 Cr.
+  - Railways: rank 1 of 28, Rs. 3,133.00 Cr.
+  - Banking & Insurance: rank 1 of 28, Rs. 11,861.00 Cr.
+  - Real est., Ownership of Dwellings: rank 1 of 28, Rs. 11,450.79 Cr.
+  - Other Services: rank 1 of 28, Rs. 11,720.33 Cr.
+  - Electricity, Gas, Water Supply: rank 2 of 28, Rs. 3,964.41 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 6.00 Cr., growth 5.24%, rank 9.58
-  - Services Sector (aggregate): Rs. 2.00 Cr., growth 9.32%, rank 14.49
-  - Gross District Value Added (GDVA): Rs. 2.00 Cr., growth 5.97%, rank 12.54
-  - Product Taxes: Rs. 2.00 Cr., growth 5.97%, rank 14.31
-  - Product Subsidies: Rs. 2.00 Cr., growth 5.97%, rank -1.1
-  - Gross District Domestic Product (GDDP): Rs. 2.00 Cr., growth 5.97%, rank 12.91
-  - Net District Domestic Product (NDDP): Rs. 2.00 Cr., growth 5.95%, rank 12.97
-  - Population ('000): Rs. 6.00 Cr., growth 4.47%, rank 0.33
-  - Per Capita Income (Rs.): Rs. 3.00 Cr., growth 4.90%, rank 12.58
+  - Industry Sector (aggregate): Rs. 20,157.00 Cr., growth 9.58%, rank 6
+  - Services Sector (aggregate): Rs. 65,291.71 Cr., growth 14.49%, rank 2
+  - Gross District Value Added (GDVA): Rs. 96,919.69 Cr., growth 12.54%, rank 2
+  - Product Taxes: Rs. 9,648.71 Cr., growth 14.31%, rank 2
+  - Product Subsidies: Rs. 1,433.18 Cr., growth -1.10%, rank 2
+  - Gross District Domestic Product (GDDP): Rs. 105,135.00 Cr., growth 12.91%, rank 2
+  - Net District Domestic Product (NDDP): Rs. 93,907.58 Cr., growth 12.97%, rank 2
+  - Population ('000): Rs. 2,400.05 Cr., growth 0.33%, rank 6
+  - Per Capita Income (Rs.): Rs. 391,274.00 Cr., growth 12.58%, rank 3

@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 2.21, Contribution to state total = 2,930.00%
-2023-24 (SRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 4.79, YoY Growth = 1.94%, Contribution to state total = 3,138.82%
-2024-25 (FRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 7.13, YoY Growth = 1.95%, Contribution to state total = 3,436.00%
-2025-26 (FAE): Value = Rs. 13.00 Cr., Rank among 28 districts = 9.46, YoY Growth = 1.95%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,795.90 Cr., Rank among 28 districts = 12, Contribution to state total = 2.21%
+2023-24 (SRE): Value = Rs. 2,930.00 Cr., Rank among 28 districts = 13, YoY Growth = 4.79%, Contribution to state total = 1.94%
+2024-25 (FRE): Value = Rs. 3,138.82 Cr., Rank among 28 districts = 13, YoY Growth = 7.13%, Contribution to state total = 1.95%
+2025-26 (FAE): Value = Rs. 3,436.00 Cr., Rank among 28 districts = 13, YoY Growth = 9.46%, Contribution to state total = 1.95%

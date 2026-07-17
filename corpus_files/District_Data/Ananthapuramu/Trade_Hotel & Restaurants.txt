@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 2.47, Contribution to state total = 2,080.00%
-2023-24 (SRE): Value = Rs. 12.00 Cr., Rank among 28 districts = -5.8, YoY Growth = 2.16%, Contribution to state total = 2,375.00%
-2024-25 (FRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 14.18, YoY Growth = 2.18%, Contribution to state total = 2,665.68%
-2025-26 (FAE): Value = Rs. 12.00 Cr., Rank among 28 districts = 12.25, YoY Growth = 2.17%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,208.07 Cr., Rank among 28 districts = 11, Contribution to state total = 2.47%
+2023-24 (SRE): Value = Rs. 2,080.00 Cr., Rank among 28 districts = 12, YoY Growth = -5.80%, Contribution to state total = 2.16%
+2024-25 (FRE): Value = Rs. 2,375.00 Cr., Rank among 28 districts = 13, YoY Growth = 14.18%, Contribution to state total = 2.18%
+2025-26 (FAE): Value = Rs. 2,665.68 Cr., Rank among 28 districts = 12, YoY Growth = 12.25%, Contribution to state total = 2.17%

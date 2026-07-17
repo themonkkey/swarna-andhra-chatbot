@@ -1,6 +1,6 @@
 District: Dr.B.R.Ambedkar Konaseema — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 2.67, Contribution to state total = 705.04%
-2023-24 (SRE): Value = Rs. 22.00 Cr., Rank among 28 districts = -34.42, YoY Growth = 2.60%, Contribution to state total = 652.00%
-2024-25 (FRE): Value = Rs. 21.00 Cr., Rank among 28 districts = -7.52, YoY Growth = 2.63%, Contribution to state total = 610.64%
-2025-26 (FAE): Value = Rs. 23.00 Cr., Rank among 28 districts = -6.29, YoY Growth = 2.54%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,075.00 Cr., Rank among 28 districts = 21, Contribution to state total = 2.67%
+2023-24 (SRE): Value = Rs. 705.04 Cr., Rank among 28 districts = 22, YoY Growth = -34.42%, Contribution to state total = 2.60%
+2024-25 (FRE): Value = Rs. 652.00 Cr., Rank among 28 districts = 21, YoY Growth = -7.52%, Contribution to state total = 2.63%
+2025-26 (FAE): Value = Rs. 610.64 Cr., Rank among 28 districts = 23, YoY Growth = -6.29%, Contribution to state total = 2.54%

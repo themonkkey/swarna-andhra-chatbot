@@ -1,6 +1,6 @@
 District: West Godavari — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 3.87, Contribution to state total = 2,545.78%
-2023-24 (SRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 11.62, YoY Growth = 3.93%, Contribution to state total = 2,898.34%
-2024-25 (FRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 13.83, YoY Growth = 3.90%, Contribution to state total = 3,369.00%
-2025-26 (FAE): Value = Rs. 8.00 Cr., Rank among 28 districts = 16.25, YoY Growth = 3.93%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,280.60 Cr., Rank among 28 districts = 7, Contribution to state total = 3.87%
+2023-24 (SRE): Value = Rs. 2,545.78 Cr., Rank among 28 districts = 8, YoY Growth = 11.62%, Contribution to state total = 3.93%
+2024-25 (FRE): Value = Rs. 2,898.34 Cr., Rank among 28 districts = 7, YoY Growth = 13.83%, Contribution to state total = 3.90%
+2025-26 (FAE): Value = Rs. 3,369.00 Cr., Rank among 28 districts = 8, YoY Growth = 16.25%, Contribution to state total = 3.93%

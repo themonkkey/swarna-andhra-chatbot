@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 6.01, Contribution to state total = 2,518.66%
-2023-24 (SRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 35.8, YoY Growth = 6.42%, Contribution to state total = 2,422.58%
-2024-25 (FRE): Value = Rs. 6.00 Cr., Rank among 28 districts = -3.81, YoY Growth = 5.73%, Contribution to state total = 2,693.67%
-2025-26 (FAE): Value = Rs. 5.00 Cr., Rank among 28 districts = 11.18, YoY Growth = 6.08%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,855.00 Cr., Rank among 28 districts = 7, Contribution to state total = 6.01%
+2023-24 (SRE): Value = Rs. 2,518.66 Cr., Rank among 28 districts = 6, YoY Growth = 35.80%, Contribution to state total = 6.42%
+2024-25 (FRE): Value = Rs. 2,422.58 Cr., Rank among 28 districts = 6, YoY Growth = -3.81%, Contribution to state total = 5.73%
+2025-26 (FAE): Value = Rs. 2,693.67 Cr., Rank among 28 districts = 5, YoY Growth = 11.18%, Contribution to state total = 6.08%

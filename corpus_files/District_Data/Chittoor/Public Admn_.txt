@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Public Admn.
 
-2022-23 (TRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 3.21, Contribution to state total = 1,707.00%
-2023-24 (SRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 5.31, YoY Growth = 3.20%, Contribution to state total = 1,821.45%
-2024-25 (FRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 6.68, YoY Growth = 3.18%, Contribution to state total = 1,902.86%
-2025-26 (FAE): Value = Rs. 15.00 Cr., Rank among 28 districts = 4.5, YoY Growth = 3.18%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,621.26 Cr., Rank among 28 districts = 15, Contribution to state total = 3.21%
+2023-24 (SRE): Value = Rs. 1,707.00 Cr., Rank among 28 districts = 15, YoY Growth = 5.31%, Contribution to state total = 3.20%
+2024-25 (FRE): Value = Rs. 1,821.45 Cr., Rank among 28 districts = 15, YoY Growth = 6.68%, Contribution to state total = 3.18%
+2025-26 (FAE): Value = Rs. 1,902.86 Cr., Rank among 28 districts = 15, YoY Growth = 4.50%, Contribution to state total = 3.18%

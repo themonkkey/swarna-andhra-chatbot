@@ -1,6 +1,6 @@
 District: Dr.B.R.Ambedkar Konaseema — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 5.47, Contribution to state total = 6,689.27%
-2023-24 (SRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 15.15, YoY Growth = 5.99%, Contribution to state total = 8,732.32%
-2024-25 (FRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 30.54, YoY Growth = 6.80%, Contribution to state total = 8,780.72%
-2025-26 (FAE): Value = Rs. 6.00 Cr., Rank among 28 districts = 0.56, YoY Growth = 5.74%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 5,808.83 Cr., Rank among 28 districts = 6, Contribution to state total = 5.47%
+2023-24 (SRE): Value = Rs. 6,689.27 Cr., Rank among 28 districts = 6, YoY Growth = 15.15%, Contribution to state total = 5.99%
+2024-25 (FRE): Value = Rs. 8,732.32 Cr., Rank among 28 districts = 6, YoY Growth = 30.54%, Contribution to state total = 6.80%
+2025-26 (FAE): Value = Rs. 8,780.72 Cr., Rank among 28 districts = 6, YoY Growth = 0.56%, Contribution to state total = 5.74%

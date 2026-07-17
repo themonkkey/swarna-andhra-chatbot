@@ -1,6 +1,6 @@
 District: Krishna — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 3.00 Cr., Rank among 28 districts = 5.59, Contribution to state total = 5,882.00%
-2023-24 (SRE): Value = Rs. 3.00 Cr., Rank among 28 districts = 17.88, YoY Growth = 6.11%, Contribution to state total = 6,679.00%
-2024-25 (FRE): Value = Rs. 3.00 Cr., Rank among 28 districts = 13.55, YoY Growth = 6.13%, Contribution to state total = 7,633.28%
-2025-26 (FAE): Value = Rs. 3.00 Cr., Rank among 28 districts = 14.28, YoY Growth = 6.23%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 4,990.23 Cr., Rank among 28 districts = 3, Contribution to state total = 5.59%
+2023-24 (SRE): Value = Rs. 5,882.00 Cr., Rank among 28 districts = 3, YoY Growth = 17.88%, Contribution to state total = 6.11%
+2024-25 (FRE): Value = Rs. 6,679.00 Cr., Rank among 28 districts = 3, YoY Growth = 13.55%, Contribution to state total = 6.13%
+2025-26 (FAE): Value = Rs. 7,633.28 Cr., Rank among 28 districts = 3, YoY Growth = 14.28%, Contribution to state total = 6.23%

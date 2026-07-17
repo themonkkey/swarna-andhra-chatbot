@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Kakinada (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 10.00 Cr., statewide rank 0.04
-  - Horticulture: N/A% of district GVA, Rs. 19.00 Cr., statewide rank -3.74
-  - Live stock: N/A% of district GVA, Rs. 10.00 Cr., statewide rank 19.61
-  - Forestry & Logging: N/A% of district GVA, Rs. 21.00 Cr., statewide rank 42.21
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 7.00 Cr., statewide rank 25.46
+  - Mining & Quarrying: 10.69% of district GVA, Rs. 3,630.00 Cr., statewide rank 2
+  - Manufacturing: 4.88% of district GVA, Rs. 8,596.80 Cr., statewide rank 6
+  - Fishing & Aquaculture: 4.86% of district GVA, Rs. 7,435.38 Cr., statewide rank 7
+  - Construction: 4.77% of district GVA, Rs. 6,204.98 Cr., statewide rank 7
+  - Communications: 4.68% of district GVA, Rs. 1,570.00 Cr., statewide rank 7
 
 Fastest-growing sectors in Kakinada (2025-26 (FAE) YoY):
-  - Mining & Quarrying: 10.69% growth, Rs. 2.00 Cr.
-  - Manufacturing: 4.88% growth, Rs. 6.00 Cr.
-  - Fishing & Aquaculture: 4.86% growth, Rs. 7.00 Cr.
-  - Construction: 4.77% growth, Rs. 7.00 Cr.
-  - Communications: 4.68% growth, Rs. 7.00 Cr.
+  - Forestry & Logging: 42.21% growth, Rs. 219.23 Cr.
+  - Fishing & Aquaculture: 25.46% growth, Rs. 7,435.38 Cr.
+  - Live stock: 19.61% growth, Rs. 7,638.00 Cr.
+  - Communications: 17.34% growth, Rs. 1,570.00 Cr.
+  - Banking & Insurance: 16.10% growth, Rs. 3,302.00 Cr.
 
 Best statewide ranks (sectors where Kakinada leads other districts):
-  - Horticulture: rank -3.74 of 28, Rs. 19.00 Cr.
-  - Agriculture: rank 0.04 of 28, Rs. 10.00 Cr.
-  - Mining & Quarrying: rank 2.37 of 28, Rs. 2.00 Cr.
-  - Public Admn.: rank 4.54 of 28, Rs. 9.00 Cr.
-  - Trade,Hotel & Restaurants: rank 8.34 of 28, Rs. 6.00 Cr.
+  - Mining & Quarrying: rank 2 of 28, Rs. 3,630.00 Cr.
+  - Manufacturing: rank 6 of 28, Rs. 8,596.80 Cr.
+  - Trade,Hotel & Restaurants: rank 6 of 28, Rs. 5,103.20 Cr.
+  - Fishing & Aquaculture: rank 7 of 28, Rs. 7,435.38 Cr.
+  - Construction: rank 7 of 28, Rs. 6,204.98 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 8.00 Cr., growth 5.04%, rank 9.1
-  - Services Sector (aggregate): Rs. 8.00 Cr., growth 4.19%, rank 12.31
-  - Gross District Value Added (GDVA): Rs. 10.00 Cr., growth 4.27%, rank 12.21
-  - Product Taxes: Rs. 10.00 Cr., growth 4.27%, rank 13.99
-  - Product Subsidies: Rs. 10.00 Cr., growth 4.27%, rank -1.44
-  - Gross District Domestic Product (GDDP): Rs. 10.00 Cr., growth 4.27%, rank 12.58
-  - Net District Domestic Product (NDDP): Rs. 11.00 Cr., growth 4.25%, rank 12.89
-  - Population ('000): Rs. 9.00 Cr., growth 4.22%, rank 0.35
-  - Per Capita Income (Rs.): Rs. 9.00 Cr., growth 3.71%, rank 12.5
+  - Industry Sector (aggregate): Rs. 19,359.00 Cr., growth 9.10%, rank 8
+  - Services Sector (aggregate): Rs. 29,379.49 Cr., growth 12.31%, rank 8
+  - Gross District Value Added (GDVA): Rs. 69,341.15 Cr., growth 12.21%, rank 10
+  - Product Taxes: Rs. 6,903.16 Cr., growth 13.99%, rank 10
+  - Product Subsidies: Rs. 1,025.37 Cr., growth -1.44%, rank 10
+  - Gross District Domestic Product (GDDP): Rs. 75,219.00 Cr., growth 12.58%, rank 10
+  - Net District Domestic Product (NDDP): Rs. 67,191.88 Cr., growth 12.89%, rank 11
+  - Population ('000): Rs. 2,263.51 Cr., growth 0.35%, rank 9
+  - Per Capita Income (Rs.): Rs. 296,848.00 Cr., growth 12.50%, rank 9

@@ -1,6 +1,6 @@
 District: Ntr — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 14, Contribution to state total = 8,961.48%
-2023-24 (SRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 8.67, YoY Growth = 13.82%, Contribution to state total = 10,340.14%
-2024-25 (FRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 15.39, YoY Growth = 13.91%, Contribution to state total = 11,861.00%
-2025-26 (FAE): Value = Rs. 1.00 Cr., Rank among 28 districts = 14.71, YoY Growth = 13.82%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 8,246.09 Cr., Rank among 28 districts = 1, Contribution to state total = 14.00%
+2023-24 (SRE): Value = Rs. 8,961.48 Cr., Rank among 28 districts = 1, YoY Growth = 8.67%, Contribution to state total = 13.82%
+2024-25 (FRE): Value = Rs. 10,340.14 Cr., Rank among 28 districts = 1, YoY Growth = 15.39%, Contribution to state total = 13.91%
+2025-26 (FAE): Value = Rs. 11,861.00 Cr., Rank among 28 districts = 1, YoY Growth = 14.71%, Contribution to state total = 13.82%

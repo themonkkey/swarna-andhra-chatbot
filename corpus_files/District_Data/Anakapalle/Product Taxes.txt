@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 3.48, Contribution to state total = 4,467.00%
-2023-24 (SRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 5.11, YoY Growth = 3.41%, Contribution to state total = 4,805.44%
-2024-25 (FRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 7.57, YoY Growth = 3.33%, Contribution to state total = 5,516.30%
-2025-26 (FAE): Value = Rs. 14.00 Cr., Rank among 28 districts = 14.8, YoY Growth = 3.41%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 4,250.00 Cr., Rank among 28 districts = 15, Contribution to state total = 3.48%
+2023-24 (SRE): Value = Rs. 4,467.00 Cr., Rank among 28 districts = 14, YoY Growth = 5.11%, Contribution to state total = 3.41%
+2024-25 (FRE): Value = Rs. 4,805.44 Cr., Rank among 28 districts = 14, YoY Growth = 7.57%, Contribution to state total = 3.33%
+2025-26 (FAE): Value = Rs. 5,516.30 Cr., Rank among 28 districts = 14, YoY Growth = 14.80%, Contribution to state total = 3.41%

@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Markapuram (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 20.00 Cr., statewide rank -13.8
-  - Horticulture: N/A% of district GVA, Rs. 14.00 Cr., statewide rank -5.52
-  - Live stock: N/A% of district GVA, Rs. 13.00 Cr., statewide rank 9.05
-  - Forestry & Logging: N/A% of district GVA, Rs. 2.00 Cr., statewide rank -23.39
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 21.00 Cr., statewide rank -21.11
+  - Forestry & Logging: 6.47% of district GVA, Rs. 668.28 Cr., statewide rank 2
+  - Live stock: 3.94% of district GVA, Rs. 6,944.00 Cr., statewide rank 13
+  - Horticulture: 2.89% of district GVA, Rs. 4,123.60 Cr., statewide rank 14
+  - AGRICULTURE & ALLIED SECTOR: 2.44% of district GVA, Rs. 13,184.57 Cr., statewide rank 20
+  - Agriculture: 2.28% of district GVA, Rs. 1,305.94 Cr., statewide rank 20
 
 Fastest-growing sectors in Markapuram (2025-26 (FAE) YoY):
-  - Forestry & Logging: 6.47% growth, Rs. 2.00 Cr.
-  - Live stock: 3.94% growth, Rs. 13.00 Cr.
-  - Horticulture: 2.89% growth, Rs. 14.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: 2.44% growth, Rs. 20.00 Cr.
-  - Agriculture: 2.28% growth, Rs. 20.00 Cr.
+  - Banking & Insurance: 17.41% growth, Rs. 1,079.00 Cr.
+  - Communications: 17.35% growth, Rs. 602.00 Cr.
+  - Real est., Ownership of Dwellings: 14.30% growth, Rs. 2,950.29 Cr.
+  - Other Services: 12.52% growth, Rs. 2,254.98 Cr.
+  - Transport by Other means & Storage: 12.43% growth, Rs. 2,161.17 Cr.
 
 Best statewide ranks (sectors where Markapuram leads other districts):
-  - Mining & Quarrying: rank -77.86 of 28, Rs. 24.00 Cr.
-  - Forestry & Logging: rank -23.39 of 28, Rs. 2.00 Cr.
-  - Fishing & Aquaculture: rank -21.11 of 28, Rs. 21.00 Cr.
-  - Agriculture: rank -13.8 of 28, Rs. 20.00 Cr.
-  - Horticulture: rank -5.52 of 28, Rs. 14.00 Cr.
+  - Forestry & Logging: rank 2 of 28, Rs. 668.28 Cr.
+  - Live stock: rank 13 of 28, Rs. 6,944.00 Cr.
+  - Horticulture: rank 14 of 28, Rs. 4,123.60 Cr.
+  - Agriculture: rank 20 of 28, Rs. 1,305.94 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 20 of 28, Rs. 13,184.57 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 25.00 Cr., growth 0.83%, rank 2.51
-  - Services Sector (aggregate): Rs. 25.00 Cr., growth 1.48%, rank 12.68
-  - Gross District Value Added (GDVA): Rs. 25.00 Cr., growth 1.65%, rank 4.41
-  - Product Taxes: Rs. 25.00 Cr., growth 1.65%, rank 6.06
-  - Product Subsidies: Rs. 25.00 Cr., growth 1.64%, rank -8.35
-  - Gross District Domestic Product (GDDP): Rs. 25.00 Cr., growth 1.65%, rank 4.75
-  - Net District Domestic Product (NDDP): Rs. 25.00 Cr., growth 1.70%, rank 4.42
-  - Population ('000): Rs. 25.00 Cr., growth 2.30%, rank 0.32
-  - Per Capita Income (Rs.): Rs. 21.00 Cr., growth 2.71%, rank 4.06
+  - Industry Sector (aggregate): Rs. 3,188.00 Cr., growth 2.51%, rank 25
+  - Services Sector (aggregate): Rs. 10,354.91 Cr., growth 12.68%, rank 25
+  - Gross District Value Added (GDVA): Rs. 26,727.91 Cr., growth 4.41%, rank 25
+  - Product Taxes: Rs. 2,660.86 Cr., growth 6.06%, rank 25
+  - Product Subsidies: Rs. 395.23 Cr., growth -8.35%, rank 25
+  - Gross District Domestic Product (GDDP): Rs. 28,994.00 Cr., growth 4.75%, rank 25
+  - Net District Domestic Product (NDDP): Rs. 26,774.49 Cr., growth 4.42%, rank 25
+  - Population ('000): Rs. 1,235.74 Cr., growth 0.32%, rank 25
+  - Per Capita Income (Rs.): Rs. 216,667.00 Cr., growth 4.06%, rank 21

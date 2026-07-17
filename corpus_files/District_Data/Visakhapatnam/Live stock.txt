@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 0.87, Contribution to state total = 1,191.00%
-2023-24 (SRE): Value = Rs. 27.00 Cr., Rank among 28 districts = -6.66, YoY Growth = 0.77%, Contribution to state total = 1,211.87%
-2024-25 (FRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 1.76, YoY Growth = 0.74%, Contribution to state total = 1,527.00%
-2025-26 (FAE): Value = Rs. 27.00 Cr., Rank among 28 districts = 25.99, YoY Growth = 0.87%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,275.68 Cr., Rank among 28 districts = 27, Contribution to state total = 0.87%
+2023-24 (SRE): Value = Rs. 1,191.00 Cr., Rank among 28 districts = 27, YoY Growth = -6.66%, Contribution to state total = 0.77%
+2024-25 (FRE): Value = Rs. 1,211.87 Cr., Rank among 28 districts = 27, YoY Growth = 1.76%, Contribution to state total = 0.74%
+2025-26 (FAE): Value = Rs. 1,527.00 Cr., Rank among 28 districts = 27, YoY Growth = 25.99%, Contribution to state total = 0.87%

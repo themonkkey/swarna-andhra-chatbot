@@ -1,6 +1,6 @@
 District: Krishna — Sector: Services Sector (aggregate)
 
-2022-23 (TRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 4.55, Contribution to state total = 25,119.00%
-2023-24 (SRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 10.29, YoY Growth = 4.58%, Contribution to state total = 28,972.78%
-2024-25 (FRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 15.34, YoY Growth = 4.67%, Contribution to state total = 32,557.20%
-2025-26 (FAE): Value = Rs. 6.00 Cr., Rank among 28 districts = 12.37, YoY Growth = 4.65%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 22,775.07 Cr., Rank among 28 districts = 6, Contribution to state total = 4.55%
+2023-24 (SRE): Value = Rs. 25,119.00 Cr., Rank among 28 districts = 6, YoY Growth = 10.29%, Contribution to state total = 4.58%
+2024-25 (FRE): Value = Rs. 28,972.78 Cr., Rank among 28 districts = 6, YoY Growth = 15.34%, Contribution to state total = 4.67%
+2025-26 (FAE): Value = Rs. 32,557.20 Cr., Rank among 28 districts = 6, YoY Growth = 12.37%, Contribution to state total = 4.65%

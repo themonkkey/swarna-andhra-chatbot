@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 4.49, Contribution to state total = 64,712.00%
-2023-24 (SRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 10.1, YoY Growth = 4.54%, Contribution to state total = 70,972.00%
-2024-25 (FRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 9.67, YoY Growth = 4.46%, Contribution to state total = 76,526.00%
-2025-26 (FAE): Value = Rs. 9.00 Cr., Rank among 28 districts = 7.83, YoY Growth = 4.34%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 58,774.55 Cr., Rank among 28 districts = 7, Contribution to state total = 4.49%
+2023-24 (SRE): Value = Rs. 64,712.00 Cr., Rank among 28 districts = 9, YoY Growth = 10.10%, Contribution to state total = 4.54%
+2024-25 (FRE): Value = Rs. 70,972.00 Cr., Rank among 28 districts = 9, YoY Growth = 9.67%, Contribution to state total = 4.46%
+2025-26 (FAE): Value = Rs. 76,526.00 Cr., Rank among 28 districts = 9, YoY Growth = 7.83%, Contribution to state total = 4.34%

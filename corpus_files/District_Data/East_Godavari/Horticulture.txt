@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 3.68, Contribution to state total = 5,050.65%
-2023-24 (SRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 13.86, YoY Growth = 4.01%, Contribution to state total = 6,912.00%
-2024-25 (FRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 36.84, YoY Growth = 4.87%, Contribution to state total = 6,259.84%
-2025-26 (FAE): Value = Rs. 10.00 Cr., Rank among 28 districts = -9.43, YoY Growth = 4.39%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 4,435.56 Cr., Rank among 28 districts = 11, Contribution to state total = 3.68%
+2023-24 (SRE): Value = Rs. 5,050.65 Cr., Rank among 28 districts = 8, YoY Growth = 13.86%, Contribution to state total = 4.01%
+2024-25 (FRE): Value = Rs. 6,912.00 Cr., Rank among 28 districts = 7, YoY Growth = 36.84%, Contribution to state total = 4.87%
+2025-26 (FAE): Value = Rs. 6,259.84 Cr., Rank among 28 districts = 10, YoY Growth = -9.43%, Contribution to state total = 4.39%

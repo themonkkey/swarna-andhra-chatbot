@@ -1,6 +1,6 @@
 District: Alluri Seetha Rama Raju — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 0.88, Contribution to state total = 244.74%
-2023-24 (SRE): Value = Rs. 27.00 Cr., Rank among 28 districts = -30.99, YoY Growth = 0.90%, Contribution to state total = 256.00%
-2024-25 (FRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 4.49, YoY Growth = 1.03%, Contribution to state total = 249.46%
-2025-26 (FAE): Value = Rs. 26.00 Cr., Rank among 28 districts = -2.73, YoY Growth = 1.04%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 355.00 Cr., Rank among 28 districts = 27, Contribution to state total = 0.88%
+2023-24 (SRE): Value = Rs. 244.74 Cr., Rank among 28 districts = 27, YoY Growth = -30.99%, Contribution to state total = 0.90%
+2024-25 (FRE): Value = Rs. 256.00 Cr., Rank among 28 districts = 26, YoY Growth = 4.49%, Contribution to state total = 1.03%
+2025-26 (FAE): Value = Rs. 249.46 Cr., Rank among 28 districts = 26, YoY Growth = -2.73%, Contribution to state total = 1.04%

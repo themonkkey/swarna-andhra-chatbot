@@ -1,6 +1,6 @@
 District: Polavaram — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 0.07, Contribution to state total = 83.67%
-2023-24 (SRE): Value = Rs. 25.00 Cr., Rank among 28 districts = 20, YoY Growth = 0.08%, Contribution to state total = 99.49%
-2024-25 (FRE): Value = Rs. 24.00 Cr., Rank among 28 districts = 17.86, YoY Growth = 0.08%, Contribution to state total = 110.45%
-2025-26 (FAE): Value = Rs. 24.00 Cr., Rank among 28 districts = 11.11, YoY Growth = 0.07%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 69.57 Cr., Rank among 28 districts = 27, Contribution to state total = 0.07%
+2023-24 (SRE): Value = Rs. 83.67 Cr., Rank among 28 districts = 25, YoY Growth = 20.00%, Contribution to state total = 0.08%
+2024-25 (FRE): Value = Rs. 99.49 Cr., Rank among 28 districts = 24, YoY Growth = 17.86%, Contribution to state total = 0.08%
+2025-26 (FAE): Value = Rs. 110.45 Cr., Rank among 28 districts = 24, YoY Growth = 11.11%, Contribution to state total = 0.07%

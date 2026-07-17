@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 2.76, Contribution to state total = 4,487.00%
-2023-24 (SRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 10.95, YoY Growth = 2.90%, Contribution to state total = 5,037.78%
-2024-25 (FRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 12.28, YoY Growth = 3.06%, Contribution to state total = 5,501.00%
-2025-26 (FAE): Value = Rs. 18.00 Cr., Rank among 28 districts = 9.19, YoY Growth = 3.12%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 4,044.40 Cr., Rank among 28 districts = 18, Contribution to state total = 2.76%
+2023-24 (SRE): Value = Rs. 4,487.00 Cr., Rank among 28 districts = 18, YoY Growth = 10.95%, Contribution to state total = 2.90%
+2024-25 (FRE): Value = Rs. 5,037.78 Cr., Rank among 28 districts = 18, YoY Growth = 12.28%, Contribution to state total = 3.06%
+2025-26 (FAE): Value = Rs. 5,501.00 Cr., Rank among 28 districts = 18, YoY Growth = 9.19%, Contribution to state total = 3.12%

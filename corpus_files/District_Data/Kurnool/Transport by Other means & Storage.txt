@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Transport by Other means & Storage
 
-2022-23 (TRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 4.34, Contribution to state total = 3,535.11%
-2023-24 (SRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 7.87, YoY Growth = 4.22%, Contribution to state total = 4,034.41%
-2024-25 (FRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 14.12, YoY Growth = 4.20%, Contribution to state total = 4,550.71%
-2025-26 (FAE): Value = Rs. 8.00 Cr., Rank among 28 districts = 12.82, YoY Growth = 4.23%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 3,277.41 Cr., Rank among 28 districts = 8, Contribution to state total = 4.34%
+2023-24 (SRE): Value = Rs. 3,535.11 Cr., Rank among 28 districts = 8, YoY Growth = 7.87%, Contribution to state total = 4.22%
+2024-25 (FRE): Value = Rs. 4,034.41 Cr., Rank among 28 districts = 8, YoY Growth = 14.12%, Contribution to state total = 4.20%
+2025-26 (FAE): Value = Rs. 4,550.71 Cr., Rank among 28 districts = 8, YoY Growth = 12.82%, Contribution to state total = 4.23%

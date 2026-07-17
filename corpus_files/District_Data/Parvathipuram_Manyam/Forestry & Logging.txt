@@ -1,6 +1,6 @@
 District: Parvathipuram Manyam — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 2.77, Contribution to state total = 272.00%
-2023-24 (SRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 8.8, YoY Growth = 2.79%, Contribution to state total = 277.38%
-2024-25 (FRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 1.84, YoY Growth = 2.77%, Contribution to state total = 260.05%
-2025-26 (FAE): Value = Rs. 19.00 Cr., Rank among 28 districts = -6.14, YoY Growth = 2.52%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 250.02 Cr., Rank among 28 districts = 14, Contribution to state total = 2.77%
+2023-24 (SRE): Value = Rs. 272.00 Cr., Rank among 28 districts = 14, YoY Growth = 8.80%, Contribution to state total = 2.79%
+2024-25 (FRE): Value = Rs. 277.38 Cr., Rank among 28 districts = 14, YoY Growth = 1.84%, Contribution to state total = 2.77%
+2025-26 (FAE): Value = Rs. 260.05 Cr., Rank among 28 districts = 19, YoY Growth = -6.14%, Contribution to state total = 2.52%

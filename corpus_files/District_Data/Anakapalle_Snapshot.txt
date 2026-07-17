@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Anakapalle (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 23.00 Cr., statewide rank 15.34
-  - Horticulture: N/A% of district GVA, Rs. 22.00 Cr., statewide rank 0.57
-  - Live stock: N/A% of district GVA, Rs. 16.00 Cr., statewide rank 13.53
-  - Forestry & Logging: N/A% of district GVA, Rs. 17.00 Cr., statewide rank 12.68
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 12.00 Cr., statewide rank 6.94
+  - Manufacturing: 12.70% of district GVA, Rs. 22,373.38 Cr., statewide rank 3
+  - Electricity, Gas, Water Supply: 5.89% of district GVA, Rs. 2,610.32 Cr., statewide rank 6
+  - Mining & Quarrying: 4.65% of district GVA, Rs. 1,578.00 Cr., statewide rank 7
+  - Live stock: 3.40% of district GVA, Rs. 5,992.00 Cr., statewide rank 16
+  - Forestry & Logging: 3.01% of district GVA, Rs. 311.03 Cr., statewide rank 17
 
 Fastest-growing sectors in Anakapalle (2025-26 (FAE) YoY):
-  - Manufacturing: 12.70% growth, Rs. 3.00 Cr.
-  - Electricity, Gas, Water Supply: 5.89% growth, Rs. 6.00 Cr.
-  - Mining & Quarrying: 4.65% growth, Rs. 7.00 Cr.
-  - Live stock: 3.40% growth, Rs. 16.00 Cr.
-  - Forestry & Logging: 3.01% growth, Rs. 17.00 Cr.
+  - Mining & Quarrying: 516.41% growth, Rs. 1,578.00 Cr.
+  - Banking & Insurance: 17.37% growth, Rs. 1,507.00 Cr.
+  - Communications: 17.14% growth, Rs. 957.00 Cr.
+  - Trade,Hotel & Restaurants: 15.36% growth, Rs. 825.80 Cr.
+  - Agriculture: 15.34% growth, Rs. 940.27 Cr.
 
 Best statewide ranks (sectors where Anakapalle leads other districts):
-  - Horticulture: rank 0.57 of 28, Rs. 22.00 Cr.
-  - Electricity, Gas, Water Supply: rank 1.24 of 28, Rs. 6.00 Cr.
-  - Public Admn.: rank 2.37 of 28, Rs. 24.00 Cr.
-  - Fishing & Aquaculture: rank 6.94 of 28, Rs. 12.00 Cr.
-  - Railways: rank 9.23 of 28, Rs. 21.00 Cr.
+  - Manufacturing: rank 3 of 28, Rs. 22,373.38 Cr.
+  - Electricity, Gas, Water Supply: rank 6 of 28, Rs. 2,610.32 Cr.
+  - Mining & Quarrying: rank 7 of 28, Rs. 1,578.00 Cr.
+  - Fishing & Aquaculture: rank 12 of 28, Rs. 2,080.18 Cr.
+  - Live stock: rank 16 of 28, Rs. 5,992.00 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 3.00 Cr., growth 7.59%, rank 14.19
-  - Services Sector (aggregate): Rs. 21.00 Cr., growth 2.09%, rank 13.45
-  - Gross District Value Added (GDVA): Rs. 14.00 Cr., growth 3.41%, rank 13.01
-  - Product Taxes: Rs. 14.00 Cr., growth 3.41%, rank 14.8
-  - Product Subsidies: Rs. 14.00 Cr., growth 3.41%, rank -0.73
-  - Gross District Domestic Product (GDDP): Rs. 14.00 Cr., growth 3.41%, rank 13.39
-  - Net District Domestic Product (NDDP): Rs. 14.00 Cr., growth 3.23%, rank 13.79
-  - Population ('000): Rs. 19.00 Cr., growth 3.48%, rank 0.32
-  - Per Capita Income (Rs.): Rs. 15.00 Cr., growth 3.42%, rank 13.4
+  - Industry Sector (aggregate): Rs. 29,166.00 Cr., growth 14.19%, rank 3
+  - Services Sector (aggregate): Rs. 14,621.33 Cr., growth 13.45%, rank 21
+  - Gross District Value Added (GDVA): Rs. 55,410.37 Cr., growth 13.01%, rank 14
+  - Product Taxes: Rs. 5,516.30 Cr., growth 14.80%, rank 14
+  - Product Subsidies: Rs. 819.37 Cr., growth -0.73%, rank 14
+  - Gross District Domestic Product (GDDP): Rs. 60,107.00 Cr., growth 13.39%, rank 14
+  - Net District Domestic Product (NDDP): Rs. 51,030.99 Cr., growth 13.79%, rank 14
+  - Population ('000): Rs. 1,868.25 Cr., growth 0.32%, rank 19
+  - Per Capita Income (Rs.): Rs. 273,149.00 Cr., growth 13.40%, rank 15

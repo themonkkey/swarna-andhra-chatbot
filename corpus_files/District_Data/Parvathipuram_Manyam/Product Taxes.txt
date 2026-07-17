@@ -1,6 +1,6 @@
 District: Parvathipuram Manyam — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 1.09, Contribution to state total = 1,296.00%
-2023-24 (SRE): Value = Rs. 26.00 Cr., Rank among 28 districts = -2.26, YoY Growth = 0.99%, Contribution to state total = 1,457.12%
-2024-25 (FRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 12.42, YoY Growth = 1.01%, Contribution to state total = 1,584.25%
-2025-26 (FAE): Value = Rs. 27.00 Cr., Rank among 28 districts = 8.72, YoY Growth = 0.98%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,326.00 Cr., Rank among 28 districts = 26, Contribution to state total = 1.09%
+2023-24 (SRE): Value = Rs. 1,296.00 Cr., Rank among 28 districts = 26, YoY Growth = -2.26%, Contribution to state total = 0.99%
+2024-25 (FRE): Value = Rs. 1,457.12 Cr., Rank among 28 districts = 27, YoY Growth = 12.42%, Contribution to state total = 1.01%
+2025-26 (FAE): Value = Rs. 1,584.25 Cr., Rank among 28 districts = 27, YoY Growth = 8.72%, Contribution to state total = 0.98%

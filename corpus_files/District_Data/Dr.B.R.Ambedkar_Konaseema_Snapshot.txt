@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Dr.B.R.Ambedkar Konaseema (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 18.00 Cr., statewide rank 7.82
-  - Horticulture: N/A% of district GVA, Rs. 13.00 Cr., statewide rank 23.04
-  - Live stock: N/A% of district GVA, Rs. 24.00 Cr., statewide rank 1.78
-  - Forestry & Logging: N/A% of district GVA, Rs. 24.00 Cr., statewide rank 85
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 6.00 Cr., statewide rank 0.56
+  - Mining & Quarrying: 19.46% of district GVA, Rs. 6,609.00 Cr., statewide rank 1
+  - Fishing & Aquaculture: 5.74% of district GVA, Rs. 8,780.72 Cr., statewide rank 6
+  - Horticulture: 3.27% of district GVA, Rs. 4,656.56 Cr., statewide rank 13
+  - AGRICULTURE & ALLIED SECTOR: 3.17% of district GVA, Rs. 17,101.42 Cr., statewide rank 14
+  - Public Admn.: 2.68% of district GVA, Rs. 1,605.86 Cr., statewide rank 19
 
 Fastest-growing sectors in Dr.B.R.Ambedkar Konaseema (2025-26 (FAE) YoY):
-  - Mining & Quarrying: 19.46% growth, Rs. 1.00 Cr.
-  - Fishing & Aquaculture: 5.74% growth, Rs. 6.00 Cr.
-  - Horticulture: 3.27% growth, Rs. 13.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: 3.17% growth, Rs. 14.00 Cr.
-  - Public Admn.: 2.68% growth, Rs. 19.00 Cr.
+  - Forestry & Logging: 85.00% growth, Rs. 184.71 Cr.
+  - Horticulture: 23.04% growth, Rs. 4,656.56 Cr.
+  - Communications: 17.03% growth, Rs. 742.00 Cr.
+  - Trade,Hotel & Restaurants: 15.22% growth, Rs. 2,241.22 Cr.
+  - Banking & Insurance: 14.75% growth, Rs. 1,828.00 Cr.
 
 Best statewide ranks (sectors where Dr.B.R.Ambedkar Konaseema leads other districts):
-  - Mining & Quarrying: rank -7.23 of 28, Rs. 1.00 Cr.
-  - Fishing & Aquaculture: rank 0.56 of 28, Rs. 6.00 Cr.
-  - Live stock: rank 1.78 of 28, Rs. 24.00 Cr.
-  - Public Admn.: rank 2.49 of 28, Rs. 19.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: rank 7.19 of 28, Rs. 14.00 Cr.
+  - Mining & Quarrying: rank 1 of 28, Rs. 6,609.00 Cr.
+  - Fishing & Aquaculture: rank 6 of 28, Rs. 8,780.72 Cr.
+  - Horticulture: rank 13 of 28, Rs. 4,656.56 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 14 of 28, Rs. 17,101.42 Cr.
+  - Trade,Hotel & Restaurants: rank 14 of 28, Rs. 2,241.22 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 16.00 Cr., growth 2.53%, rank -2.47
-  - Services Sector (aggregate): Rs. 22.00 Cr., growth 2.07%, rank 12.82
-  - Gross District Value Added (GDVA): Rs. 23.00 Cr., growth 2.54%, rank 6.57
-  - Product Taxes: Rs. 23.00 Cr., growth 2.54%, rank 8.24
-  - Product Subsidies: Rs. 23.00 Cr., growth 2.54%, rank -6.29
-  - Gross District Domestic Product (GDDP): Rs. 23.00 Cr., growth 2.54%, rank 6.92
-  - Net District Domestic Product (NDDP): Rs. 23.00 Cr., growth 2.56%, rank 6.91
-  - Population ('000): Rs. 22.00 Cr., growth 2.93%, rank 0.32
-  - Per Capita Income (Rs.): Rs. 17.00 Cr., growth 3.21%, rank 6.54
+  - Industry Sector (aggregate): Rs. 9,721.00 Cr., growth -2.47%, rank 16
+  - Services Sector (aggregate): Rs. 14,472.09 Cr., growth 12.82%, rank 22
+  - Gross District Value Added (GDVA): Rs. 41,294.79 Cr., growth 6.57%, rank 23
+  - Product Taxes: Rs. 4,111.05 Cr., growth 8.24%, rank 23
+  - Product Subsidies: Rs. 610.64 Cr., growth -6.29%, rank 23
+  - Gross District Domestic Product (GDDP): Rs. 44,795.00 Cr., growth 6.92%, rank 23
+  - Net District Domestic Product (NDDP): Rs. 40,359.53 Cr., growth 6.91%, rank 23
+  - Population ('000): Rs. 1,572.00 Cr., growth 0.32%, rank 22
+  - Per Capita Income (Rs.): Rs. 256,740.00 Cr., growth 6.54%, rank 17

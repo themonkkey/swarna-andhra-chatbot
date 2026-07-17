@@ -1,6 +1,6 @@
 District: Polavaram — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 28.00 Cr., Rank among 28 districts = 0.49, Contribution to state total = 760.00%
-2023-24 (SRE): Value = Rs. 28.00 Cr., Rank among 28 districts = 6.44, YoY Growth = 0.49%, Contribution to state total = 1,025.43%
-2024-25 (FRE): Value = Rs. 28.00 Cr., Rank among 28 districts = 34.87, YoY Growth = 0.62%, Contribution to state total = 1,041.00%
-2025-26 (FAE): Value = Rs. 28.00 Cr., Rank among 28 districts = 1.56, YoY Growth = 0.59%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 713.88 Cr., Rank among 28 districts = 28, Contribution to state total = 0.49%
+2023-24 (SRE): Value = Rs. 760.00 Cr., Rank among 28 districts = 28, YoY Growth = 6.44%, Contribution to state total = 0.49%
+2024-25 (FRE): Value = Rs. 1,025.43 Cr., Rank among 28 districts = 28, YoY Growth = 34.87%, Contribution to state total = 0.62%
+2025-26 (FAE): Value = Rs. 1,041.00 Cr., Rank among 28 districts = 28, YoY Growth = 1.56%, Contribution to state total = 0.59%

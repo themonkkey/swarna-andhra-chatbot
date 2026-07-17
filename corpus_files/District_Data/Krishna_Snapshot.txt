@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Krishna (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 4.00 Cr., statewide rank -8.32
-  - Horticulture: N/A% of district GVA, Rs. 24.00 Cr., statewide rank -10.76
-  - Live stock: N/A% of district GVA, Rs. 15.00 Cr., statewide rank 3.69
-  - Forestry & Logging: N/A% of district GVA, Rs. 23.00 Cr., statewide rank 57.69
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 1.00 Cr., statewide rank 36.25
+  - Fishing & Aquaculture: 23.79% of district GVA, Rs. 36,393.31 Cr., statewide rank 1
+  - AGRICULTURE & ALLIED SECTOR: 8.98% of district GVA, Rs. 48,454.75 Cr., statewide rank 2
+  - Transport by Other means & Storage: 6.96% of district GVA, Rs. 7,489.94 Cr., statewide rank 2
+  - Trade,Hotel & Restaurants: 6.23% of district GVA, Rs. 7,633.28 Cr., statewide rank 3
+  - Agriculture: 5.88% of district GVA, Rs. 3,374.48 Cr., statewide rank 4
 
 Fastest-growing sectors in Krishna (2025-26 (FAE) YoY):
-  - Fishing & Aquaculture: 23.79% growth, Rs. 1.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: 8.98% growth, Rs. 2.00 Cr.
-  - Transport by Other means & Storage: 6.96% growth, Rs. 2.00 Cr.
-  - Trade,Hotel & Restaurants: 6.23% growth, Rs. 3.00 Cr.
-  - Agriculture: 5.88% growth, Rs. 4.00 Cr.
+  - Forestry & Logging: 57.69% growth, Rs. 205.01 Cr.
+  - Fishing & Aquaculture: 36.25% growth, Rs. 36,393.31 Cr.
+  - AGRICULTURE & ALLIED SECTOR: 24.14% growth, Rs. 48,454.75 Cr.
+  - Communications: 16.88% growth, Rs. 1,253.00 Cr.
+  - Other Services: 15.35% growth, Rs. 4,531.58 Cr.
 
 Best statewide ranks (sectors where Krishna leads other districts):
-  - Mining & Quarrying: rank -25.1 of 28, Rs. 15.00 Cr.
-  - Horticulture: rank -10.76 of 28, Rs. 24.00 Cr.
-  - Agriculture: rank -8.32 of 28, Rs. 4.00 Cr.
-  - Live stock: rank 3.69 of 28, Rs. 15.00 Cr.
-  - Electricity, Gas, Water Supply: rank 5.2 of 28, Rs. 12.00 Cr.
+  - Fishing & Aquaculture: rank 1 of 28, Rs. 36,393.31 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 2 of 28, Rs. 48,454.75 Cr.
+  - Transport by Other means & Storage: rank 2 of 28, Rs. 7,489.94 Cr.
+  - Trade,Hotel & Restaurants: rank 3 of 28, Rs. 7,633.28 Cr.
+  - Agriculture: rank 4 of 28, Rs. 3,374.48 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 13.00 Cr., growth 2.61%, rank 7.72
-  - Services Sector (aggregate): Rs. 6.00 Cr., growth 4.65%, rank 12.37
-  - Gross District Value Added (GDVA): Rs. 3.00 Cr., growth 5.60%, rank 17.75
-  - Product Taxes: Rs. 3.00 Cr., growth 5.60%, rank 19.61
-  - Product Subsidies: Rs. 3.00 Cr., growth 5.60%, rank 3.46
-  - Gross District Domestic Product (GDDP): Rs. 3.00 Cr., growth 5.60%, rank 18.14
-  - Net District Domestic Product (NDDP): Rs. 3.00 Cr., growth 5.73%, rank 18.26
-  - Population ('000): Rs. 18.00 Cr., growth 3.50%, rank 0.32
-  - Per Capita Income (Rs.): Rs. 2.00 Cr., growth 6.03%, rank 17.85
+  - Industry Sector (aggregate): Rs. 10,035.00 Cr., growth 7.72%, rank 13
+  - Services Sector (aggregate): Rs. 32,557.20 Cr., growth 12.37%, rank 6
+  - Gross District Value Added (GDVA): Rs. 91,046.51 Cr., growth 17.75%, rank 3
+  - Product Taxes: Rs. 9,064.01 Cr., growth 19.61%, rank 3
+  - Product Subsidies: Rs. 1,346.33 Cr., growth 3.46%, rank 3
+  - Gross District Domestic Product (GDDP): Rs. 98,764.00 Cr., growth 18.14%, rank 3
+  - Net District Domestic Product (NDDP): Rs. 90,448.09 Cr., growth 18.26%, rank 3
+  - Population ('000): Rs. 1,876.99 Cr., growth 0.32%, rank 18
+  - Per Capita Income (Rs.): Rs. 481,878.00 Cr., growth 17.85%, rank 2

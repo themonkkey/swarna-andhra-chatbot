@@ -1,6 +1,6 @@
 District: Krishna — Sector: Net District Domestic Product (NDDP)
 
-2022-23 (TRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 5.33, Contribution to state total = 67,735.27%
-2023-24 (SRE): Value = Rs. 3.00 Cr., Rank among 28 districts = 8.9, YoY Growth = 5.31%, Contribution to state total = 76,483.54%
-2024-25 (FRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 12.92, YoY Growth = 5.37%, Contribution to state total = 90,448.09%
-2025-26 (FAE): Value = Rs. 3.00 Cr., Rank among 28 districts = 18.26, YoY Growth = 5.73%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 62,201.06 Cr., Rank among 28 districts = 4, Contribution to state total = 5.33%
+2023-24 (SRE): Value = Rs. 67,735.27 Cr., Rank among 28 districts = 3, YoY Growth = 8.90%, Contribution to state total = 5.31%
+2024-25 (FRE): Value = Rs. 76,483.54 Cr., Rank among 28 districts = 4, YoY Growth = 12.92%, Contribution to state total = 5.37%
+2025-26 (FAE): Value = Rs. 90,448.09 Cr., Rank among 28 districts = 3, YoY Growth = 18.26%, Contribution to state total = 5.73%

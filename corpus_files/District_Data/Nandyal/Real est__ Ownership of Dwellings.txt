@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 19.00 Cr., Rank among 28 districts = 2.87, Contribution to state total = 3,010.80%
-2023-24 (SRE): Value = Rs. 19.00 Cr., Rank among 28 districts = 4.48, YoY Growth = 2.79%, Contribution to state total = 3,368.46%
-2024-25 (FRE): Value = Rs. 19.00 Cr., Rank among 28 districts = 11.86, YoY Growth = 2.77%, Contribution to state total = 3,818.26%
-2025-26 (FAE): Value = Rs. 19.00 Cr., Rank among 28 districts = 13.36, YoY Growth = 2.76%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,882.37 Cr., Rank among 28 districts = 19, Contribution to state total = 2.87%
+2023-24 (SRE): Value = Rs. 3,010.80 Cr., Rank among 28 districts = 19, YoY Growth = 4.48%, Contribution to state total = 2.79%
+2024-25 (FRE): Value = Rs. 3,368.46 Cr., Rank among 28 districts = 19, YoY Growth = 11.86%, Contribution to state total = 2.77%
+2025-26 (FAE): Value = Rs. 3,818.26 Cr., Rank among 28 districts = 19, YoY Growth = 13.36%, Contribution to state total = 2.76%

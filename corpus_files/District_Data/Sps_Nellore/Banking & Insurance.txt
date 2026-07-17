@@ -1,6 +1,6 @@
 District: Sps Nellore — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 4.17, Contribution to state total = 3,024.56%
-2023-24 (SRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 23.12, YoY Growth = 4.67%, Contribution to state total = 3,284.18%
-2024-25 (FRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 8.56, YoY Growth = 4.42%, Contribution to state total = 4,003.00%
-2025-26 (FAE): Value = Rs. 5.00 Cr., Rank among 28 districts = 21.89, YoY Growth = 4.67%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,457.15 Cr., Rank among 28 districts = 6, Contribution to state total = 4.17%
+2023-24 (SRE): Value = Rs. 3,024.56 Cr., Rank among 28 districts = 5, YoY Growth = 23.12%, Contribution to state total = 4.67%
+2024-25 (FRE): Value = Rs. 3,284.18 Cr., Rank among 28 districts = 6, YoY Growth = 8.56%, Contribution to state total = 4.42%
+2025-26 (FAE): Value = Rs. 4,003.00 Cr., Rank among 28 districts = 5, YoY Growth = 21.89%, Contribution to state total = 4.67%

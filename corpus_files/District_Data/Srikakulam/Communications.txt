@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 3.62, Contribution to state total = 868.00%
-2023-24 (SRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 12, YoY Growth = 3.63%, Contribution to state total = 1,033.75%
-2024-25 (FRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 19.12, YoY Growth = 3.61%, Contribution to state total = 1,210.00%
-2025-26 (FAE): Value = Rs. 14.00 Cr., Rank among 28 districts = 17.02, YoY Growth = 3.61%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 775.00 Cr., Rank among 28 districts = 14, Contribution to state total = 3.62%
+2023-24 (SRE): Value = Rs. 868.00 Cr., Rank among 28 districts = 14, YoY Growth = 12.00%, Contribution to state total = 3.63%
+2024-25 (FRE): Value = Rs. 1,033.75 Cr., Rank among 28 districts = 14, YoY Growth = 19.12%, Contribution to state total = 3.61%
+2025-26 (FAE): Value = Rs. 1,210.00 Cr., Rank among 28 districts = 14, YoY Growth = 17.02%, Contribution to state total = 3.61%

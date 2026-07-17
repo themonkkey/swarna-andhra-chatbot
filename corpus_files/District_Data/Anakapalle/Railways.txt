@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 0.59, Contribution to state total = 60.00%
-2023-24 (SRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 36.36, YoY Growth = 0.70%, Contribution to state total = 65.12%
-2024-25 (FRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 8.33, YoY Growth = 0.70%, Contribution to state total = 71.00%
-2025-26 (FAE): Value = Rs. 21.00 Cr., Rank among 28 districts = 9.23, YoY Growth = 0.71%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 44.23 Cr., Rank among 28 districts = 21, Contribution to state total = 0.59%
+2023-24 (SRE): Value = Rs. 60.00 Cr., Rank among 28 districts = 21, YoY Growth = 36.36%, Contribution to state total = 0.70%
+2024-25 (FRE): Value = Rs. 65.12 Cr., Rank among 28 districts = 21, YoY Growth = 8.33%, Contribution to state total = 0.70%
+2025-26 (FAE): Value = Rs. 71.00 Cr., Rank among 28 districts = 21, YoY Growth = 9.23%, Contribution to state total = 0.71%

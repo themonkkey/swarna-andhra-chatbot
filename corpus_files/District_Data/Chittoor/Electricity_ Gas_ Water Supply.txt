@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 2.29, Contribution to state total = 805.36%
-2023-24 (SRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 13.7, YoY Growth = 2.05%, Contribution to state total = 894.09%
-2024-25 (FRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 11.06, YoY Growth = 2.11%, Contribution to state total = 888.38%
-2025-26 (FAE): Value = Rs. 14.00 Cr., Rank among 28 districts = -0.67, YoY Growth = 2.00%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 708.00 Cr., Rank among 28 districts = 12, Contribution to state total = 2.29%
+2023-24 (SRE): Value = Rs. 805.36 Cr., Rank among 28 districts = 13, YoY Growth = 13.70%, Contribution to state total = 2.05%
+2024-25 (FRE): Value = Rs. 894.09 Cr., Rank among 28 districts = 12, YoY Growth = 11.06%, Contribution to state total = 2.11%
+2025-26 (FAE): Value = Rs. 888.38 Cr., Rank among 28 districts = 14, YoY Growth = -0.67%, Contribution to state total = 2.00%

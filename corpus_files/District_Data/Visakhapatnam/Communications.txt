@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 7.52, Contribution to state total = 1,804.00%
-2023-24 (SRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 12.12, YoY Growth = 7.54%, Contribution to state total = 2,153.93%
-2024-25 (FRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 19.4, YoY Growth = 7.52%, Contribution to state total = 2,526.00%
-2025-26 (FAE): Value = Rs. 1.00 Cr., Rank among 28 districts = 17.27, YoY Growth = 7.54%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,608.82 Cr., Rank among 28 districts = 1, Contribution to state total = 7.52%
+2023-24 (SRE): Value = Rs. 1,804.00 Cr., Rank among 28 districts = 1, YoY Growth = 12.12%, Contribution to state total = 7.54%
+2024-25 (FRE): Value = Rs. 2,153.93 Cr., Rank among 28 districts = 1, YoY Growth = 19.40%, Contribution to state total = 7.52%
+2025-26 (FAE): Value = Rs. 2,526.00 Cr., Rank among 28 districts = 1, YoY Growth = 17.27%, Contribution to state total = 7.54%

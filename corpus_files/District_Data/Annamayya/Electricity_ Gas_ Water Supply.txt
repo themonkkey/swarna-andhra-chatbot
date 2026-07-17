@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 2.2, Contribution to state total = 683.87%
-2023-24 (SRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 0.44, YoY Growth = 1.74%, Contribution to state total = 625.28%
-2024-25 (FRE): Value = Rs. 21.00 Cr., Rank among 28 districts = -8.63, YoY Growth = 1.48%, Contribution to state total = 632.97%
-2025-26 (FAE): Value = Rs. 21.00 Cr., Rank among 28 districts = 1.28, YoY Growth = 1.43%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 681.00 Cr., Rank among 28 districts = 13, Contribution to state total = 2.20%
+2023-24 (SRE): Value = Rs. 683.87 Cr., Rank among 28 districts = 20, YoY Growth = 0.44%, Contribution to state total = 1.74%
+2024-25 (FRE): Value = Rs. 625.28 Cr., Rank among 28 districts = 21, YoY Growth = -8.63%, Contribution to state total = 1.48%
+2025-26 (FAE): Value = Rs. 632.97 Cr., Rank among 28 districts = 21, YoY Growth = 1.28%, Contribution to state total = 1.43%

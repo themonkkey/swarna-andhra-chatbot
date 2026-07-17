@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 16.00 Cr., Rank among 28 districts = 1.88, Contribution to state total = 775.50%
-2023-24 (SRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 33.33, YoY Growth = 1.98%, Contribution to state total = 784.29%
-2024-25 (FRE): Value = Rs. 17.00 Cr., Rank among 28 districts = 1.03, YoY Growth = 1.85%, Contribution to state total = 826.65%
-2025-26 (FAE): Value = Rs. 16.00 Cr., Rank among 28 districts = 5.48, YoY Growth = 1.87%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 582.00 Cr., Rank among 28 districts = 16, Contribution to state total = 1.88%
+2023-24 (SRE): Value = Rs. 775.50 Cr., Rank among 28 districts = 14, YoY Growth = 33.33%, Contribution to state total = 1.98%
+2024-25 (FRE): Value = Rs. 784.29 Cr., Rank among 28 districts = 17, YoY Growth = 1.03%, Contribution to state total = 1.85%
+2025-26 (FAE): Value = Rs. 826.65 Cr., Rank among 28 districts = 16, YoY Growth = 5.48%, Contribution to state total = 1.87%

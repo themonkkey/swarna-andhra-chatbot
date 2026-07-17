@@ -1,6 +1,6 @@
 District: Markapuram — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 0.17, Contribution to state total = 125.00%
-2023-24 (SRE): Value = Rs. 27.00 Cr., Rank among 28 districts = -19.35, YoY Growth = 0.13%, Contribution to state total = 190.00%
-2024-25 (FRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 52, YoY Growth = 0.17%, Contribution to state total = 209.52%
-2025-26 (FAE): Value = Rs. 28.00 Cr., Rank among 28 districts = 10.53, YoY Growth = 0.17%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 155.41 Cr., Rank among 28 districts = 27, Contribution to state total = 0.17%
+2023-24 (SRE): Value = Rs. 125.00 Cr., Rank among 28 districts = 27, YoY Growth = -19.35%, Contribution to state total = 0.13%
+2024-25 (FRE): Value = Rs. 190.00 Cr., Rank among 28 districts = 27, YoY Growth = 52.00%, Contribution to state total = 0.17%
+2025-26 (FAE): Value = Rs. 209.52 Cr., Rank among 28 districts = 28, YoY Growth = 10.53%, Contribution to state total = 0.17%

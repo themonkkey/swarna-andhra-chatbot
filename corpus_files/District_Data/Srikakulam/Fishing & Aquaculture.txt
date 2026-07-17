@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 2.44, Contribution to state total = 2,789.56%
-2023-24 (SRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 7.6, YoY Growth = 2.50%, Contribution to state total = 2,753.59%
-2024-25 (FRE): Value = Rs. 9.00 Cr., Rank among 28 districts = -1.29, YoY Growth = 2.14%, Contribution to state total = 3,133.27%
-2025-26 (FAE): Value = Rs. 9.00 Cr., Rank among 28 districts = 13.76, YoY Growth = 2.05%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,592.76 Cr., Rank among 28 districts = 8, Contribution to state total = 2.44%
+2023-24 (SRE): Value = Rs. 2,789.56 Cr., Rank among 28 districts = 8, YoY Growth = 7.60%, Contribution to state total = 2.50%
+2024-25 (FRE): Value = Rs. 2,753.59 Cr., Rank among 28 districts = 9, YoY Growth = -1.29%, Contribution to state total = 2.14%
+2025-26 (FAE): Value = Rs. 3,133.27 Cr., Rank among 28 districts = 9, YoY Growth = 13.76%, Contribution to state total = 2.05%

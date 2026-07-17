@@ -1,6 +1,6 @@
 District: Parvathipuram Manyam — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 1.29, Contribution to state total = 1,351.54%
-2023-24 (SRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 4.08, YoY Growth = 1.25%, Contribution to state total = 1,501.33%
-2024-25 (FRE): Value = Rs. 26.00 Cr., Rank among 28 districts = 11.02, YoY Growth = 1.23%, Contribution to state total = 1,711.68%
-2025-26 (FAE): Value = Rs. 26.00 Cr., Rank among 28 districts = 14.06, YoY Growth = 1.24%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,298.83 Cr., Rank among 28 districts = 26, Contribution to state total = 1.29%
+2023-24 (SRE): Value = Rs. 1,351.54 Cr., Rank among 28 districts = 26, YoY Growth = 4.08%, Contribution to state total = 1.25%
+2024-25 (FRE): Value = Rs. 1,501.33 Cr., Rank among 28 districts = 26, YoY Growth = 11.02%, Contribution to state total = 1.23%
+2025-26 (FAE): Value = Rs. 1,711.68 Cr., Rank among 28 districts = 26, YoY Growth = 14.06%, Contribution to state total = 1.24%

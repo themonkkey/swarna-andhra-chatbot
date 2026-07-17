@@ -1,6 +1,6 @@
 District: Eluru — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 1.49, Contribution to state total = 708.11%
-2023-24 (SRE): Value = Rs. 19.00 Cr., Rank among 28 districts = 53.58, YoY Growth = 1.80%, Contribution to state total = 647.40%
-2024-25 (FRE): Value = Rs. 20.00 Cr., Rank among 28 districts = -8.62, YoY Growth = 1.53%, Contribution to state total = 691.98%
-2025-26 (FAE): Value = Rs. 20.00 Cr., Rank among 28 districts = 6.96, YoY Growth = 1.56%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 461.00 Cr., Rank among 28 districts = 21, Contribution to state total = 1.49%
+2023-24 (SRE): Value = Rs. 708.11 Cr., Rank among 28 districts = 19, YoY Growth = 53.58%, Contribution to state total = 1.80%
+2024-25 (FRE): Value = Rs. 647.40 Cr., Rank among 28 districts = 20, YoY Growth = -8.62%, Contribution to state total = 1.53%
+2025-26 (FAE): Value = Rs. 691.98 Cr., Rank among 28 districts = 20, YoY Growth = 6.96%, Contribution to state total = 1.56%

@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 17.43, Contribution to state total = 32,725.00%
-2023-24 (SRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 48.61, YoY Growth = 21.67%, Contribution to state total = 34,342.94%
-2024-25 (FRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 4.94, YoY Growth = 21.29%, Contribution to state total = 37,266.58%
-2025-26 (FAE): Value = Rs. 1.00 Cr., Rank among 28 districts = 8.51, YoY Growth = 21.15%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 22,021.41 Cr., Rank among 28 districts = 2, Contribution to state total = 17.43%
+2023-24 (SRE): Value = Rs. 32,725.00 Cr., Rank among 28 districts = 1, YoY Growth = 48.61%, Contribution to state total = 21.67%
+2024-25 (FRE): Value = Rs. 34,342.94 Cr., Rank among 28 districts = 1, YoY Growth = 4.94%, Contribution to state total = 21.29%
+2025-26 (FAE): Value = Rs. 37,266.58 Cr., Rank among 28 districts = 1, YoY Growth = 8.51%, Contribution to state total = 21.15%

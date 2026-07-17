@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 4.23, Contribution to state total = 1,121.27%
-2023-24 (SRE): Value = Rs. 11.00 Cr., Rank among 28 districts = -34.1, YoY Growth = 4.14%, Contribution to state total = 994.00%
-2024-25 (FRE): Value = Rs. 12.00 Cr., Rank among 28 districts = -11.33, YoY Growth = 4.01%, Contribution to state total = 960.84%
-2025-26 (FAE): Value = Rs. 12.00 Cr., Rank among 28 districts = -3.32, YoY Growth = 4.00%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,701.00 Cr., Rank among 28 districts = 9, Contribution to state total = 4.23%
+2023-24 (SRE): Value = Rs. 1,121.27 Cr., Rank among 28 districts = 11, YoY Growth = -34.10%, Contribution to state total = 4.14%
+2024-25 (FRE): Value = Rs. 994.00 Cr., Rank among 28 districts = 12, YoY Growth = -11.33%, Contribution to state total = 4.01%
+2025-26 (FAE): Value = Rs. 960.84 Cr., Rank among 28 districts = 12, YoY Growth = -3.32%, Contribution to state total = 4.00%

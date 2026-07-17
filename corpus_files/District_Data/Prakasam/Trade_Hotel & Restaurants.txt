@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 0.76, Contribution to state total = 747.00%
-2023-24 (SRE): Value = Rs. 22.00 Cr., Rank among 28 districts = 10.34, YoY Growth = 0.78%, Contribution to state total = 897.00%
-2024-25 (FRE): Value = Rs. 22.00 Cr., Rank among 28 districts = 20.08, YoY Growth = 0.82%, Contribution to state total = 993.73%
-2025-26 (FAE): Value = Rs. 22.00 Cr., Rank among 28 districts = 10.81, YoY Growth = 0.81%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 676.79 Cr., Rank among 28 districts = 23, Contribution to state total = 0.76%
+2023-24 (SRE): Value = Rs. 747.00 Cr., Rank among 28 districts = 22, YoY Growth = 10.34%, Contribution to state total = 0.78%
+2024-25 (FRE): Value = Rs. 897.00 Cr., Rank among 28 districts = 22, YoY Growth = 20.08%, Contribution to state total = 0.82%
+2025-26 (FAE): Value = Rs. 993.73 Cr., Rank among 28 districts = 22, YoY Growth = 10.81%, Contribution to state total = 0.81%

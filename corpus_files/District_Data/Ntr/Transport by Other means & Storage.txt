@@ -1,6 +1,6 @@
 District: Ntr — Sector: Transport by Other means & Storage
 
-2022-23 (TRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 4.53, Contribution to state total = 3,708.56%
-2023-24 (SRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 8.29, YoY Growth = 4.43%, Contribution to state total = 4,191.88%
-2024-25 (FRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 13.02, YoY Growth = 4.37%, Contribution to state total = 4,703.04%
-2025-26 (FAE): Value = Rs. 7.00 Cr., Rank among 28 districts = 12.19, YoY Growth = 4.37%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 3,424.58 Cr., Rank among 28 districts = 6, Contribution to state total = 4.53%
+2023-24 (SRE): Value = Rs. 3,708.56 Cr., Rank among 28 districts = 7, YoY Growth = 8.29%, Contribution to state total = 4.43%
+2024-25 (FRE): Value = Rs. 4,191.88 Cr., Rank among 28 districts = 7, YoY Growth = 13.02%, Contribution to state total = 4.37%
+2025-26 (FAE): Value = Rs. 4,703.04 Cr., Rank among 28 districts = 7, YoY Growth = 12.19%, Contribution to state total = 4.37%

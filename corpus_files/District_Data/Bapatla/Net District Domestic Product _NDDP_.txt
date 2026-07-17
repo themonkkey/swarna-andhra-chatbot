@@ -1,6 +1,6 @@
 District: Bapatla — Sector: Net District Domestic Product (NDDP)
 
-2022-23 (TRE): Value = Rs. 22.00 Cr., Rank among 28 districts = 2.67, Contribution to state total = 32,341.78%
-2023-24 (SRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 3.75, YoY Growth = 2.54%, Contribution to state total = 35,778.08%
-2024-25 (FRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 10.62, YoY Growth = 2.51%, Contribution to state total = 42,632.85%
-2025-26 (FAE): Value = Rs. 21.00 Cr., Rank among 28 districts = 19.16, YoY Growth = 2.70%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 31,173.59 Cr., Rank among 28 districts = 22, Contribution to state total = 2.67%
+2023-24 (SRE): Value = Rs. 32,341.78 Cr., Rank among 28 districts = 23, YoY Growth = 3.75%, Contribution to state total = 2.54%
+2024-25 (FRE): Value = Rs. 35,778.08 Cr., Rank among 28 districts = 23, YoY Growth = 10.62%, Contribution to state total = 2.51%
+2025-26 (FAE): Value = Rs. 42,632.85 Cr., Rank among 28 districts = 21, YoY Growth = 19.16%, Contribution to state total = 2.70%

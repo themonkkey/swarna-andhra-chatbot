@@ -1,6 +1,6 @@
 District: Sri Satya Sai — Sector: Transport by Other means & Storage
 
-2022-23 (TRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 2.16, Contribution to state total = 1,782.61%
-2023-24 (SRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 8.99, YoY Growth = 2.13%, Contribution to state total = 2,039.26%
-2024-25 (FRE): Value = Rs. 21.00 Cr., Rank among 28 districts = 14.36, YoY Growth = 2.12%, Contribution to state total = 2,291.71%
-2025-26 (FAE): Value = Rs. 21.00 Cr., Rank among 28 districts = 12.41, YoY Growth = 2.13%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,636.47 Cr., Rank among 28 districts = 21, Contribution to state total = 2.16%
+2023-24 (SRE): Value = Rs. 1,782.61 Cr., Rank among 28 districts = 21, YoY Growth = 8.99%, Contribution to state total = 2.13%
+2024-25 (FRE): Value = Rs. 2,039.26 Cr., Rank among 28 districts = 21, YoY Growth = 14.36%, Contribution to state total = 2.12%
+2025-26 (FAE): Value = Rs. 2,291.71 Cr., Rank among 28 districts = 21, YoY Growth = 12.41%, Contribution to state total = 2.13%

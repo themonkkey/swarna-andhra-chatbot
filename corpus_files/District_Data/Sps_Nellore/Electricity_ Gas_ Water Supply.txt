@@ -1,6 +1,6 @@
 District: Sps Nellore — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 19.3, Contribution to state total = 7,294.36%
-2023-24 (SRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 22.36, YoY Growth = 18.58%, Contribution to state total = 9,129.53%
-2024-25 (FRE): Value = Rs. 1.00 Cr., Rank among 28 districts = 25.17, YoY Growth = 21.57%, Contribution to state total = 9,440.85%
-2025-26 (FAE): Value = Rs. 1.00 Cr., Rank among 28 districts = 3.41, YoY Growth = 21.29%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 5,961.00 Cr., Rank among 28 districts = 1, Contribution to state total = 19.30%
+2023-24 (SRE): Value = Rs. 7,294.36 Cr., Rank among 28 districts = 1, YoY Growth = 22.36%, Contribution to state total = 18.58%
+2024-25 (FRE): Value = Rs. 9,129.53 Cr., Rank among 28 districts = 1, YoY Growth = 25.17%, Contribution to state total = 21.57%
+2025-26 (FAE): Value = Rs. 9,440.85 Cr., Rank among 28 districts = 1, YoY Growth = 3.41%, Contribution to state total = 21.29%

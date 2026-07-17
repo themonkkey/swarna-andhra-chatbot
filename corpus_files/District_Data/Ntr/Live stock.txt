@@ -1,6 +1,6 @@
 District: Ntr — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 22.00 Cr., Rank among 28 districts = 2.4, Contribution to state total = 4,041.00%
-2023-24 (SRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 15.33, YoY Growth = 2.61%, Contribution to state total = 4,819.32%
-2024-25 (FRE): Value = Rs. 20.00 Cr., Rank among 28 districts = 19.25, YoY Growth = 2.93%, Contribution to state total = 5,145.00%
-2025-26 (FAE): Value = Rs. 19.00 Cr., Rank among 28 districts = 6.76, YoY Growth = 2.92%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 3,503.83 Cr., Rank among 28 districts = 22, Contribution to state total = 2.40%
+2023-24 (SRE): Value = Rs. 4,041.00 Cr., Rank among 28 districts = 20, YoY Growth = 15.33%, Contribution to state total = 2.61%
+2024-25 (FRE): Value = Rs. 4,819.32 Cr., Rank among 28 districts = 20, YoY Growth = 19.25%, Contribution to state total = 2.93%
+2025-26 (FAE): Value = Rs. 5,145.00 Cr., Rank among 28 districts = 19, YoY Growth = 6.76%, Contribution to state total = 2.92%

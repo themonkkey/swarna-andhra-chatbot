@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 4.23, Contribution to state total = 5,426.00%
-2023-24 (SRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 5.24, YoY Growth = 4.14%, Contribution to state total = 5,789.51%
-2024-25 (FRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 6.71, YoY Growth = 4.01%, Contribution to state total = 6,468.72%
-2025-26 (FAE): Value = Rs. 12.00 Cr., Rank among 28 districts = 11.73, YoY Growth = 4.00%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 5,156.00 Cr., Rank among 28 districts = 9, Contribution to state total = 4.23%
+2023-24 (SRE): Value = Rs. 5,426.00 Cr., Rank among 28 districts = 11, YoY Growth = 5.24%, Contribution to state total = 4.14%
+2024-25 (FRE): Value = Rs. 5,789.51 Cr., Rank among 28 districts = 12, YoY Growth = 6.71%, Contribution to state total = 4.01%
+2025-26 (FAE): Value = Rs. 6,468.72 Cr., Rank among 28 districts = 12, YoY Growth = 11.73%, Contribution to state total = 4.00%

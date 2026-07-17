@@ -1,6 +1,6 @@
 District: Sri Satya Sai — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 17.00 Cr., Rank among 28 districts = 3.17, Contribution to state total = 3,390.40%
-2023-24 (SRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 6.44, YoY Growth = 3.14%, Contribution to state total = 3,798.14%
-2024-25 (FRE): Value = Rs. 17.00 Cr., Rank among 28 districts = 12.04, YoY Growth = 3.12%, Contribution to state total = 4,323.95%
-2025-26 (FAE): Value = Rs. 18.00 Cr., Rank among 28 districts = 13.85, YoY Growth = 3.13%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 3,185.39 Cr., Rank among 28 districts = 17, Contribution to state total = 3.17%
+2023-24 (SRE): Value = Rs. 3,390.40 Cr., Rank among 28 districts = 18, YoY Growth = 6.44%, Contribution to state total = 3.14%
+2024-25 (FRE): Value = Rs. 3,798.14 Cr., Rank among 28 districts = 17, YoY Growth = 12.04%, Contribution to state total = 3.12%
+2025-26 (FAE): Value = Rs. 4,323.95 Cr., Rank among 28 districts = 18, YoY Growth = 13.85%, Contribution to state total = 3.13%

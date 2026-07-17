@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Tirupati (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 17.00 Cr., statewide rank 39.88
-  - Horticulture: N/A% of district GVA, Rs. 6.00 Cr., statewide rank 14.62
-  - Live stock: N/A% of district GVA, Rs. 12.00 Cr., statewide rank 10.31
-  - Forestry & Logging: N/A% of district GVA, Rs. 4.00 Cr., statewide rank -13.77
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 14.00 Cr., statewide rank -26.54
+  - Manufacturing: 15.16% of district GVA, Rs. 26,711.71 Cr., statewide rank 2
+  - Banking & Insurance: 6.15% of district GVA, Rs. 5,273.00 Cr., statewide rank 4
+  - Other Services: 5.97% of district GVA, Rs. 8,545.18 Cr., statewide rank 4
+  - Forestry & Logging: 5.52% of district GVA, Rs. 569.86 Cr., statewide rank 4
+  - Public Admn.: 5.24% of district GVA, Rs. 3,140.40 Cr., statewide rank 2
 
 Fastest-growing sectors in Tirupati (2025-26 (FAE) YoY):
-  - Manufacturing: 15.16% growth, Rs. 2.00 Cr.
-  - Banking & Insurance: 6.15% growth, Rs. 4.00 Cr.
-  - Other Services: 5.97% growth, Rs. 4.00 Cr.
-  - Forestry & Logging: 5.52% growth, Rs. 4.00 Cr.
-  - Public Admn.: 5.24% growth, Rs. 2.00 Cr.
+  - Agriculture: 39.88% growth, Rs. 1,658.96 Cr.
+  - Banking & Insurance: 18.73% growth, Rs. 5,273.00 Cr.
+  - Communications: 16.94% growth, Rs. 1,643.00 Cr.
+  - Horticulture: 14.62% growth, Rs. 7,127.55 Cr.
+  - Other Services: 14.34% growth, Rs. 8,545.18 Cr.
 
 Best statewide ranks (sectors where Tirupati leads other districts):
-  - Fishing & Aquaculture: rank -26.54 of 28, Rs. 14.00 Cr.
-  - Forestry & Logging: rank -13.77 of 28, Rs. 4.00 Cr.
-  - Mining & Quarrying: rank -10.27 of 28, Rs. 12.00 Cr.
-  - Public Admn.: rank 3.7 of 28, Rs. 2.00 Cr.
-  - Electricity, Gas, Water Supply: rank 7.13 of 28, Rs. 9.00 Cr.
+  - Manufacturing: rank 2 of 28, Rs. 26,711.71 Cr.
+  - Public Admn.: rank 2 of 28, Rs. 3,140.40 Cr.
+  - Forestry & Logging: rank 4 of 28, Rs. 569.86 Cr.
+  - Communications: rank 4 of 28, Rs. 1,643.00 Cr.
+  - Banking & Insurance: rank 4 of 28, Rs. 5,273.00 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 2.00 Cr., growth 9.38%, rank 9.71
-  - Services Sector (aggregate): Rs. 4.00 Cr., growth 5.18%, rank 13.55
-  - Gross District Value Added (GDVA): Rs. 4.00 Cr., growth 5.59%, rank 10.86
-  - Product Taxes: Rs. 4.00 Cr., growth 5.59%, rank 12.61
-  - Product Subsidies: Rs. 4.00 Cr., growth 5.60%, rank -2.61
-  - Gross District Domestic Product (GDDP): Rs. 4.00 Cr., growth 5.59%, rank 11.23
-  - Net District Domestic Product (NDDP): Rs. 4.00 Cr., growth 5.42%, rank 11.34
-  - Population ('000): Rs. 4.00 Cr., growth 4.52%, rank 0.37
-  - Per Capita Income (Rs.): Rs. 5.00 Cr., growth 4.42%, rank 10.96
+  - Industry Sector (aggregate): Rs. 36,051.00 Cr., growth 9.71%, rank 2
+  - Services Sector (aggregate): Rs. 36,270.52 Cr., growth 13.55%, rank 4
+  - Gross District Value Added (GDVA): Rs. 90,888.13 Cr., growth 10.86%, rank 4
+  - Product Taxes: Rs. 9,048.25 Cr., growth 12.61%, rank 4
+  - Product Subsidies: Rs. 1,343.99 Cr., growth -2.61%, rank 4
+  - Gross District Domestic Product (GDDP): Rs. 98,592.00 Cr., growth 11.23%, rank 4
+  - Net District Domestic Product (NDDP): Rs. 85,673.44 Cr., growth 11.34%, rank 4
+  - Population ('000): Rs. 2,423.51 Cr., growth 0.37%, rank 4
+  - Per Capita Income (Rs.): Rs. 353,510.00 Cr., growth 10.96%, rank 5

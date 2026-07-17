@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Other Services
 
-2022-23 (TRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 3.01, Contribution to state total = 3,278.41%
-2023-24 (SRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 11.69, YoY Growth = 2.98%, Contribution to state total = 3,658.11%
-2024-25 (FRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 11.59, YoY Growth = 2.94%, Contribution to state total = 4,261.19%
-2025-26 (FAE): Value = Rs. 18.00 Cr., Rank among 28 districts = 16.48, YoY Growth = 2.98%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,934.58 Cr., Rank among 28 districts = 18, Contribution to state total = 3.01%
+2023-24 (SRE): Value = Rs. 3,278.41 Cr., Rank among 28 districts = 18, YoY Growth = 11.69%, Contribution to state total = 2.98%
+2024-25 (FRE): Value = Rs. 3,658.11 Cr., Rank among 28 districts = 18, YoY Growth = 11.59%, Contribution to state total = 2.94%
+2025-26 (FAE): Value = Rs. 4,261.19 Cr., Rank among 28 districts = 18, YoY Growth = 16.48%, Contribution to state total = 2.98%

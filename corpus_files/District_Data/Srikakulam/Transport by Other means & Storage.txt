@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Transport by Other means & Storage
 
-2022-23 (TRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 3.45, Contribution to state total = 2,841.28%
-2023-24 (SRE): Value = Rs. 12.00 Cr., Rank among 28 districts = 8.98, YoY Growth = 3.39%, Contribution to state total = 3,256.72%
-2024-25 (FRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 14.64, YoY Growth = 3.39%, Contribution to state total = 3,666.14%
-2025-26 (FAE): Value = Rs. 13.00 Cr., Rank among 28 districts = 12.56, YoY Growth = 3.41%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,607.30 Cr., Rank among 28 districts = 12, Contribution to state total = 3.45%
+2023-24 (SRE): Value = Rs. 2,841.28 Cr., Rank among 28 districts = 12, YoY Growth = 8.98%, Contribution to state total = 3.39%
+2024-25 (FRE): Value = Rs. 3,256.72 Cr., Rank among 28 districts = 13, YoY Growth = 14.64%, Contribution to state total = 3.39%
+2025-26 (FAE): Value = Rs. 3,666.14 Cr., Rank among 28 districts = 13, YoY Growth = 12.56%, Contribution to state total = 3.41%

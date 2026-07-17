@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 1.55, Contribution to state total = 1,693.47%
-2023-24 (SRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 2.54, YoY Growth = 1.52%, Contribution to state total = 1,944.53%
-2024-25 (FRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 14.88, YoY Growth = 1.51%, Contribution to state total = 2,080.18%
-2025-26 (FAE): Value = Rs. 12.00 Cr., Rank among 28 districts = 6.94, YoY Growth = 1.36%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,651.20 Cr., Rank among 28 districts = 13, Contribution to state total = 1.55%
+2023-24 (SRE): Value = Rs. 1,693.47 Cr., Rank among 28 districts = 11, YoY Growth = 2.54%, Contribution to state total = 1.52%
+2024-25 (FRE): Value = Rs. 1,944.53 Cr., Rank among 28 districts = 13, YoY Growth = 14.88%, Contribution to state total = 1.51%
+2025-26 (FAE): Value = Rs. 2,080.18 Cr., Rank among 28 districts = 12, YoY Growth = 6.94%, Contribution to state total = 1.36%

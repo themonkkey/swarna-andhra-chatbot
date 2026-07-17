@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Public Admn.
 
-2022-23 (TRE): Value = Rs. 10.00 Cr., Rank among 28 districts = 3.92, Contribution to state total = 2,033.00%
-2023-24 (SRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 2.52, YoY Growth = 3.81%, Contribution to state total = 2,163.57%
-2024-25 (FRE): Value = Rs. 11.00 Cr., Rank among 28 districts = 6.44, YoY Growth = 3.78%, Contribution to state total = 2,258.08%
-2025-26 (FAE): Value = Rs. 11.00 Cr., Rank among 28 districts = 4.34, YoY Growth = 3.77%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 1,983.38 Cr., Rank among 28 districts = 10, Contribution to state total = 3.92%
+2023-24 (SRE): Value = Rs. 2,033.00 Cr., Rank among 28 districts = 11, YoY Growth = 2.52%, Contribution to state total = 3.81%
+2024-25 (FRE): Value = Rs. 2,163.57 Cr., Rank among 28 districts = 11, YoY Growth = 6.44%, Contribution to state total = 3.78%
+2025-26 (FAE): Value = Rs. 2,258.08 Cr., Rank among 28 districts = 11, YoY Growth = 4.34%, Contribution to state total = 3.77%

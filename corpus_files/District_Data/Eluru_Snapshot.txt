@@ -1,33 +1,33 @@
 District Economic Profile Snapshot: Eluru (latest year: 2025-26 (FAE))
 
 Top sectors by contribution to district GVA (comparative advantage):
-  - Agriculture: N/A% of district GVA, Rs. 8.00 Cr., statewide rank -1.53
-  - Horticulture: N/A% of district GVA, Rs. 5.00 Cr., statewide rank -19.1
-  - Live stock: N/A% of district GVA, Rs. 1.00 Cr., statewide rank 10.76
-  - Forestry & Logging: N/A% of district GVA, Rs. 10.00 Cr., statewide rank 6.7
-  - Fishing & Aquaculture: N/A% of district GVA, Rs. 2.00 Cr., statewide rank 13.82
+  - Fishing & Aquaculture: 20.45% of district GVA, Rs. 31,287.74 Cr., statewide rank 2
+  - AGRICULTURE & ALLIED SECTOR: 9.91% of district GVA, Rs. 53,448.34 Cr., statewide rank 1
+  - Live stock: 6.43% of district GVA, Rs. 11,326.00 Cr., statewide rank 1
+  - Agriculture: 5.37% of district GVA, Rs. 3,080.35 Cr., statewide rank 8
+  - Horticulture: 5.12% of district GVA, Rs. 7,308.46 Cr., statewide rank 5
 
 Fastest-growing sectors in Eluru (2025-26 (FAE) YoY):
-  - Fishing & Aquaculture: 20.45% growth, Rs. 2.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: 9.91% growth, Rs. 1.00 Cr.
-  - Live stock: 6.43% growth, Rs. 1.00 Cr.
-  - Agriculture: 5.37% growth, Rs. 8.00 Cr.
-  - Horticulture: 5.12% growth, Rs. 5.00 Cr.
+  - Communications: 16.70% growth, Rs. 1,167.00 Cr.
+  - Other Services: 15.16% growth, Rs. 4,078.98 Cr.
+  - Banking & Insurance: 15.12% growth, Rs. 2,718.00 Cr.
+  - Real est., Ownership of Dwellings: 14.31% growth, Rs. 5,120.32 Cr.
+  - Fishing & Aquaculture: 13.82% growth, Rs. 31,287.74 Cr.
 
 Best statewide ranks (sectors where Eluru leads other districts):
-  - Mining & Quarrying: rank -90.26 of 28, Rs. 25.00 Cr.
-  - Horticulture: rank -19.1 of 28, Rs. 5.00 Cr.
-  - Agriculture: rank -1.53 of 28, Rs. 8.00 Cr.
-  - Public Admn.: rank 5.44 of 28, Rs. 14.00 Cr.
-  - AGRICULTURE & ALLIED SECTOR: rank 6.27 of 28, Rs. 1.00 Cr.
+  - Live stock: rank 1 of 28, Rs. 11,326.00 Cr.
+  - AGRICULTURE & ALLIED SECTOR: rank 1 of 28, Rs. 53,448.34 Cr.
+  - Fishing & Aquaculture: rank 2 of 28, Rs. 31,287.74 Cr.
+  - Horticulture: rank 5 of 28, Rs. 7,308.46 Cr.
+  - Agriculture: rank 8 of 28, Rs. 3,080.35 Cr.
 
 Aggregate figures:
-  - Industry Sector (aggregate): Rs. 22.00 Cr., growth 1.83%, rank 1.69
-  - Services Sector (aggregate): Rs. 14.00 Cr., growth 3.01%, rank 13.29
-  - Gross District Value Added (GDVA): Rs. 5.00 Cr., growth 5.02%, rank 7.57
-  - Product Taxes: Rs. 5.00 Cr., growth 5.02%, rank 9.26
-  - Product Subsidies: Rs. 5.00 Cr., growth 5.02%, rank -5.49
-  - Gross District Domestic Product (GDDP): Rs. 5.00 Cr., growth 5.02%, rank 7.93
-  - Net District Domestic Product (NDDP): Rs. 5.00 Cr., growth 5.18%, rank 8.35
-  - Population ('000): Rs. 12.00 Cr., growth 4.05%, rank 0.37
-  - Per Capita Income (Rs.): Rs. 4.00 Cr., growth 4.72%, rank 7.98
+  - Industry Sector (aggregate): Rs. 7,049.00 Cr., growth 1.69%, rank 22
+  - Services Sector (aggregate): Rs. 21,061.05 Cr., growth 13.29%, rank 14
+  - Gross District Value Added (GDVA): Rs. 81,558.81 Cr., growth 7.57%, rank 5
+  - Product Taxes: Rs. 8,119.48 Cr., growth 9.26%, rank 5
+  - Product Subsidies: Rs. 1,206.03 Cr., growth -5.49%, rank 5
+  - Gross District Domestic Product (GDDP): Rs. 88,472.00 Cr., growth 7.93%, rank 5
+  - Net District Domestic Product (NDDP): Rs. 81,837.80 Cr., growth 8.35%, rank 5
+  - Population ('000): Rs. 2,170.81 Cr., growth 0.37%, rank 12
+  - Per Capita Income (Rs.): Rs. 376,992.00 Cr., growth 7.98%, rank 4

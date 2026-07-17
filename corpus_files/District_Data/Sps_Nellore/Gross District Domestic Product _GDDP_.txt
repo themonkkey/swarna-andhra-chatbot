@@ -1,6 +1,6 @@
 District: Sps Nellore — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 4.79, Contribution to state total = 68,618.00%
-2023-24 (SRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 9.52, YoY Growth = 4.82%, Contribution to state total = 77,239.00%
-2024-25 (FRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 12.56, YoY Growth = 4.85%, Contribution to state total = 85,566.00%
-2025-26 (FAE): Value = Rs. 6.00 Cr., Rank among 28 districts = 10.78, YoY Growth = 4.86%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 62,650.52 Cr., Rank among 28 districts = 6, Contribution to state total = 4.79%
+2023-24 (SRE): Value = Rs. 68,618.00 Cr., Rank among 28 districts = 6, YoY Growth = 9.52%, Contribution to state total = 4.82%
+2024-25 (FRE): Value = Rs. 77,239.00 Cr., Rank among 28 districts = 6, YoY Growth = 12.56%, Contribution to state total = 4.85%
+2025-26 (FAE): Value = Rs. 85,566.00 Cr., Rank among 28 districts = 6, YoY Growth = 10.78%, Contribution to state total = 4.86%

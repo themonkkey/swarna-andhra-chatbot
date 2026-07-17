@@ -1,6 +1,6 @@
 District: Kakinada — Sector: Gross District Value Added (GDVA)
 
-2022-23 (TRE): Value = Rs. 10.00 Cr., Rank among 28 districts = 4.15, Contribution to state total = 54,820.00%
-2023-24 (SRE): Value = Rs. 10.00 Cr., Rank among 28 districts = 7.82, YoY Growth = 4.15%, Contribution to state total = 61,794.65%
-2024-25 (FRE): Value = Rs. 10.00 Cr., Rank among 28 districts = 12.72, YoY Growth = 4.20%, Contribution to state total = 69,341.15%
-2025-26 (FAE): Value = Rs. 10.00 Cr., Rank among 28 districts = 12.21, YoY Growth = 4.27%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 50,842.00 Cr., Rank among 28 districts = 10, Contribution to state total = 4.15%
+2023-24 (SRE): Value = Rs. 54,820.00 Cr., Rank among 28 districts = 10, YoY Growth = 7.82%, Contribution to state total = 4.15%
+2024-25 (FRE): Value = Rs. 61,794.65 Cr., Rank among 28 districts = 10, YoY Growth = 12.72%, Contribution to state total = 4.20%
+2025-26 (FAE): Value = Rs. 69,341.15 Cr., Rank among 28 districts = 10, YoY Growth = 12.21%, Contribution to state total = 4.27%

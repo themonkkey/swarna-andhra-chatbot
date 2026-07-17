@@ -1,6 +1,6 @@
 District: Bapatla — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 2.43, Contribution to state total = 582.00%
-2023-24 (SRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 11.71, YoY Growth = 2.43%, Contribution to state total = 699.30%
-2024-25 (FRE): Value = Rs. 23.00 Cr., Rank among 28 districts = 20.1, YoY Growth = 2.44%, Contribution to state total = 821.00%
-2025-26 (FAE): Value = Rs. 23.00 Cr., Rank among 28 districts = 17.45, YoY Growth = 2.45%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 521.02 Cr., Rank among 28 districts = 23, Contribution to state total = 2.43%
+2023-24 (SRE): Value = Rs. 582.00 Cr., Rank among 28 districts = 23, YoY Growth = 11.71%, Contribution to state total = 2.43%
+2024-25 (FRE): Value = Rs. 699.30 Cr., Rank among 28 districts = 23, YoY Growth = 20.10%, Contribution to state total = 2.44%
+2025-26 (FAE): Value = Rs. 821.00 Cr., Rank among 28 districts = 23, YoY Growth = 17.45%, Contribution to state total = 2.45%

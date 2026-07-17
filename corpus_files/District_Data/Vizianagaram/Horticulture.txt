@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 19.00 Cr., Rank among 28 districts = 2.27, Contribution to state total = 3,131.58%
-2023-24 (SRE): Value = Rs. 17.00 Cr., Rank among 28 districts = 14.64, YoY Growth = 2.49%, Contribution to state total = 3,810.00%
-2024-25 (FRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 21.65, YoY Growth = 2.68%, Contribution to state total = 2,958.69%
-2025-26 (FAE): Value = Rs. 18.00 Cr., Rank among 28 districts = -22.34, YoY Growth = 2.08%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,731.70 Cr., Rank among 28 districts = 19, Contribution to state total = 2.27%
+2023-24 (SRE): Value = Rs. 3,131.58 Cr., Rank among 28 districts = 17, YoY Growth = 14.64%, Contribution to state total = 2.49%
+2024-25 (FRE): Value = Rs. 3,810.00 Cr., Rank among 28 districts = 15, YoY Growth = 21.65%, Contribution to state total = 2.68%
+2025-26 (FAE): Value = Rs. 2,958.69 Cr., Rank among 28 districts = 18, YoY Growth = -22.34%, Contribution to state total = 2.08%

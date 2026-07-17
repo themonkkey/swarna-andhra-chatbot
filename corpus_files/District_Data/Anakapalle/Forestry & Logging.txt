@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 2.76, Contribution to state total = 265.00%
-2023-24 (SRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 6.43, YoY Growth = 2.71%, Contribution to state total = 275.69%
-2024-25 (FRE): Value = Rs. 15.00 Cr., Rank among 28 districts = 4.15, YoY Growth = 2.76%, Contribution to state total = 311.03%
-2025-26 (FAE): Value = Rs. 17.00 Cr., Rank among 28 districts = 12.68, YoY Growth = 3.01%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 248.51 Cr., Rank among 28 districts = 15, Contribution to state total = 2.76%
+2023-24 (SRE): Value = Rs. 265.00 Cr., Rank among 28 districts = 15, YoY Growth = 6.43%, Contribution to state total = 2.71%
+2024-25 (FRE): Value = Rs. 275.69 Cr., Rank among 28 districts = 15, YoY Growth = 4.15%, Contribution to state total = 2.76%
+2025-26 (FAE): Value = Rs. 311.03 Cr., Rank among 28 districts = 17, YoY Growth = 12.68%, Contribution to state total = 3.01%

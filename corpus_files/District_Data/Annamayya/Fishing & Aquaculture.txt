@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 25.00 Cr., Rank among 28 districts = 0.1, Contribution to state total = 50.85%
-2023-24 (SRE): Value = Rs. 28.00 Cr., Rank among 28 districts = -52.78, YoY Growth = 0.05%, Contribution to state total = 66.90%
-2024-25 (FRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 31.37, YoY Growth = 0.05%, Contribution to state total = 31.77%
-2025-26 (FAE): Value = Rs. 27.00 Cr., Rank among 28 districts = -52.24, YoY Growth = 0.02%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 107.56 Cr., Rank among 28 districts = 25, Contribution to state total = 0.10%
+2023-24 (SRE): Value = Rs. 50.85 Cr., Rank among 28 districts = 28, YoY Growth = -52.78%, Contribution to state total = 0.05%
+2024-25 (FRE): Value = Rs. 66.90 Cr., Rank among 28 districts = 27, YoY Growth = 31.37%, Contribution to state total = 0.05%
+2025-26 (FAE): Value = Rs. 31.77 Cr., Rank among 28 districts = 27, YoY Growth = -52.24%, Contribution to state total = 0.02%

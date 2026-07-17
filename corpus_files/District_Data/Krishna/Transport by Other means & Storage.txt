@@ -1,6 +1,6 @@
 District: Krishna — Sector: Transport by Other means & Storage
 
-2022-23 (TRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 6.61, Contribution to state total = 5,680.41%
-2023-24 (SRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 13.71, YoY Growth = 6.79%, Contribution to state total = 6,658.00%
-2024-25 (FRE): Value = Rs. 2.00 Cr., Rank among 28 districts = 17.22, YoY Growth = 6.94%, Contribution to state total = 7,489.94%
-2025-26 (FAE): Value = Rs. 2.00 Cr., Rank among 28 districts = 12.5, YoY Growth = 6.96%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 4,995.17 Cr., Rank among 28 districts = 2, Contribution to state total = 6.61%
+2023-24 (SRE): Value = Rs. 5,680.41 Cr., Rank among 28 districts = 2, YoY Growth = 13.71%, Contribution to state total = 6.79%
+2024-25 (FRE): Value = Rs. 6,658.00 Cr., Rank among 28 districts = 2, YoY Growth = 17.22%, Contribution to state total = 6.94%
+2025-26 (FAE): Value = Rs. 7,489.94 Cr., Rank among 28 districts = 2, YoY Growth = 12.50%, Contribution to state total = 6.96%

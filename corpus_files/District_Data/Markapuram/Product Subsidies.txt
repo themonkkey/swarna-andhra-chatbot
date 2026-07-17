@@ -1,6 +1,6 @@
 District: Markapuram — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 25.00 Cr., Rank among 28 districts = 1.61, Contribution to state total = 453.70%
-2023-24 (SRE): Value = Rs. 25.00 Cr., Rank among 28 districts = -29.94, YoY Growth = 1.68%, Contribution to state total = 431.00%
-2024-25 (FRE): Value = Rs. 25.00 Cr., Rank among 28 districts = -5.07, YoY Growth = 1.74%, Contribution to state total = 395.23%
-2025-26 (FAE): Value = Rs. 25.00 Cr., Rank among 28 districts = -8.35, YoY Growth = 1.64%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 648.00 Cr., Rank among 28 districts = 25, Contribution to state total = 1.61%
+2023-24 (SRE): Value = Rs. 453.70 Cr., Rank among 28 districts = 25, YoY Growth = -29.94%, Contribution to state total = 1.68%
+2024-25 (FRE): Value = Rs. 431.00 Cr., Rank among 28 districts = 25, YoY Growth = -5.07%, Contribution to state total = 1.74%
+2025-26 (FAE): Value = Rs. 395.23 Cr., Rank among 28 districts = 25, YoY Growth = -8.35%, Contribution to state total = 1.64%

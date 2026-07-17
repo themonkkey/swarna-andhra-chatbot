@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Public Admn.
 
-2022-23 (TRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 4.3, Contribution to state total = 2,257.00%
-2023-24 (SRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 3.82, YoY Growth = 4.23%, Contribution to state total = 2,427.46%
-2024-25 (FRE): Value = Rs. 8.00 Cr., Rank among 28 districts = 7.53, YoY Growth = 4.24%, Contribution to state total = 2,542.37%
-2025-26 (FAE): Value = Rs. 8.00 Cr., Rank among 28 districts = 4.74, YoY Growth = 4.24%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,174.36 Cr., Rank among 28 districts = 8, Contribution to state total = 4.30%
+2023-24 (SRE): Value = Rs. 2,257.00 Cr., Rank among 28 districts = 8, YoY Growth = 3.82%, Contribution to state total = 4.23%
+2024-25 (FRE): Value = Rs. 2,427.46 Cr., Rank among 28 districts = 8, YoY Growth = 7.53%, Contribution to state total = 4.24%
+2025-26 (FAE): Value = Rs. 2,542.37 Cr., Rank among 28 districts = 8, YoY Growth = 4.74%, Contribution to state total = 4.24%

@@ -1,6 +1,6 @@
 District: Alluri Seetha Rama Raju — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 6.52, Contribution to state total = 652.00%
-2023-24 (SRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 10.7, YoY Growth = 6.68%, Contribution to state total = 667.56%
-2024-25 (FRE): Value = Rs. 5.00 Cr., Rank among 28 districts = 2.45, YoY Growth = 6.68%, Contribution to state total = 469.26%
-2025-26 (FAE): Value = Rs. 9.00 Cr., Rank among 28 districts = -29.79, YoY Growth = 4.55%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 588.54 Cr., Rank among 28 districts = 6, Contribution to state total = 6.52%
+2023-24 (SRE): Value = Rs. 652.00 Cr., Rank among 28 districts = 5, YoY Growth = 10.70%, Contribution to state total = 6.68%
+2024-25 (FRE): Value = Rs. 667.56 Cr., Rank among 28 districts = 5, YoY Growth = 2.45%, Contribution to state total = 6.68%
+2025-26 (FAE): Value = Rs. 469.26 Cr., Rank among 28 districts = 9, YoY Growth = -29.79%, Contribution to state total = 4.55%

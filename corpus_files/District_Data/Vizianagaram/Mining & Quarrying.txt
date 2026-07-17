@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 18.00 Cr., Rank among 28 districts = 1.02, Contribution to state total = 649.42%
-2023-24 (SRE): Value = Rs. 14.00 Cr., Rank among 28 districts = 63.07, YoY Growth = 2.19%, Contribution to state total = 1,013.00%
-2024-25 (FRE): Value = Rs. 13.00 Cr., Rank among 28 districts = 56.09, YoY Growth = 3.12%, Contribution to state total = 892.00%
-2025-26 (FAE): Value = Rs. 13.00 Cr., Rank among 28 districts = -11.94, YoY Growth = 2.63%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 398.33 Cr., Rank among 28 districts = 18, Contribution to state total = 1.02%
+2023-24 (SRE): Value = Rs. 649.42 Cr., Rank among 28 districts = 14, YoY Growth = 63.07%, Contribution to state total = 2.19%
+2024-25 (FRE): Value = Rs. 1,013.00 Cr., Rank among 28 districts = 13, YoY Growth = 56.09%, Contribution to state total = 3.12%
+2025-26 (FAE): Value = Rs. 892.00 Cr., Rank among 28 districts = 13, YoY Growth = -11.94%, Contribution to state total = 2.63%

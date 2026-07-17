@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 4.28, Contribution to state total = 1,028.00%
-2023-24 (SRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 12.1, YoY Growth = 4.30%, Contribution to state total = 1,240.27%
-2024-25 (FRE): Value = Rs. 9.00 Cr., Rank among 28 districts = 20.62, YoY Growth = 4.33%, Contribution to state total = 1,451.00%
-2025-26 (FAE): Value = Rs. 9.00 Cr., Rank among 28 districts = 17.02, YoY Growth = 4.33%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 917.28 Cr., Rank among 28 districts = 9, Contribution to state total = 4.28%
+2023-24 (SRE): Value = Rs. 1,028.00 Cr., Rank among 28 districts = 9, YoY Growth = 12.10%, Contribution to state total = 4.30%
+2024-25 (FRE): Value = Rs. 1,240.27 Cr., Rank among 28 districts = 9, YoY Growth = 20.62%, Contribution to state total = 4.33%
+2025-26 (FAE): Value = Rs. 1,451.00 Cr., Rank among 28 districts = 9, YoY Growth = 17.02%, Contribution to state total = 4.33%

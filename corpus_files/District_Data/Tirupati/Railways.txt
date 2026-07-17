@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 3.95, Contribution to state total = 332.00%
-2023-24 (SRE): Value = Rs. 7.00 Cr., Rank among 28 districts = 12.93, YoY Growth = 3.89%, Contribution to state total = 358.66%
-2024-25 (FRE): Value = Rs. 6.00 Cr., Rank among 28 districts = 8.13, YoY Growth = 3.89%, Contribution to state total = 387.00%
-2025-26 (FAE): Value = Rs. 6.00 Cr., Rank among 28 districts = 7.8, YoY Growth = 3.86%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 293.94 Cr., Rank among 28 districts = 6, Contribution to state total = 3.95%
+2023-24 (SRE): Value = Rs. 332.00 Cr., Rank among 28 districts = 7, YoY Growth = 12.93%, Contribution to state total = 3.89%
+2024-25 (FRE): Value = Rs. 358.66 Cr., Rank among 28 districts = 6, YoY Growth = 8.13%, Contribution to state total = 3.89%
+2025-26 (FAE): Value = Rs. 387.00 Cr., Rank among 28 districts = 6, YoY Growth = 7.80%, Contribution to state total = 3.86%

@@ -1,6 +1,6 @@
 District: Krishna — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 4.00 Cr., Rank among 28 districts = 5.19, Contribution to state total = 1,409.81%
-2023-24 (SRE): Value = Rs. 4.00 Cr., Rank among 28 districts = -32.47, YoY Growth = 5.21%, Contribution to state total = 1,301.00%
-2024-25 (FRE): Value = Rs. 4.00 Cr., Rank among 28 districts = -7.73, YoY Growth = 5.25%, Contribution to state total = 1,346.33%
-2025-26 (FAE): Value = Rs. 3.00 Cr., Rank among 28 districts = 3.46, YoY Growth = 5.60%, Contribution to state total = N/A%
+2022-23 (TRE): Value = Rs. 2,088.00 Cr., Rank among 28 districts = 4, Contribution to state total = 5.19%
+2023-24 (SRE): Value = Rs. 1,409.81 Cr., Rank among 28 districts = 4, YoY Growth = -32.47%, Contribution to state total = 5.21%
+2024-25 (FRE): Value = Rs. 1,301.00 Cr., Rank among 28 districts = 4, YoY Growth = -7.73%, Contribution to state total = 5.25%
+2025-26 (FAE): Value = Rs. 1,346.33 Cr., Rank among 28 districts = 3, YoY Growth = 3.46%, Contribution to state total = 5.60%
