@@ -5,6 +5,7 @@ corpus_files/
   training/        training decks — paragraph chunks 1200 chars, slide as unit
   case_studies/    case study decks — 600 char chunks, boilerplate-stripped, keyword-tagged
   district_data/   per-district-sector .txt files — one file = one chunk (already small)
+  vision_documents/ state/district/constituency/mandal vision plans — paragraph chunks 800 chars
 """
 import os
 import pickle
@@ -23,6 +24,7 @@ CHUNK_SIZES = {
     "training":     1200,
     "case_studies":  600,
     "district_data": 99999,  # whole file = one chunk
+    "vision_documents": 2000,  # larger chunks keep the embedding count (and build time) manageable
 }
 OVERLAP = 150
 
@@ -170,17 +172,24 @@ def process_folder(folder_name, folder_path, all_chunks):
             all_chunks.extend(file_chunks)
 
 
-def main():
-    all_chunks = []
-    folders = ["methodology", "training", "case_studies", "district_data"]
+FOLDERS = ["methodology", "training", "case_studies", "district_data", "vision_documents"]
 
-    for folder in folders:
+
+def build_all_chunks():
+    """Extract + chunk every corpus folder. Shared by TF-IDF and embedding indexers."""
+    all_chunks = []
+    for folder in FOLDERS:
         path = os.path.join(CORPUS_DIR, folder)
         if not os.path.isdir(path):
             print(f"Skipping {folder} (not found)")
             continue
         print(f"\n[{folder.upper()}] max_chars={CHUNK_SIZES[folder]}")
         process_folder(folder, path, all_chunks)
+    return all_chunks
+
+
+def main():
+    all_chunks = build_all_chunks()
 
     if not all_chunks:
         print("No chunks extracted.")

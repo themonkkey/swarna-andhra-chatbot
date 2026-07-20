@@ -13,10 +13,49 @@ but is told to say so explicitly rather than blur the two.
 import os
 import pickle
 
+import numpy as np
 import streamlit as st
-from sklearn.metrics.pairwise import cosine_similarity
 
-INDEX_PATH = os.path.join(os.path.dirname(__file__), "index.pkl")
+try:
+    from sklearn.metrics.pairwise import cosine_similarity  # only needed for legacy TF-IDF index
+except Exception:
+    cosine_similarity = None
+
+
+def _bootstrap_secrets():
+    """Make keys available as env vars whether local (.env) or Streamlit Cloud (st.secrets),
+    so embeddings.py and the LLM call read them uniformly from os.environ."""
+    env_path = os.path.join(os.path.dirname(__file__), ".env")
+    if os.path.exists(env_path):
+        for line in open(env_path):
+            line = line.strip()
+            if line and not line.startswith("#") and "=" in line:
+                k, v = line.split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip())
+    try:
+        for k, v in st.secrets.items():
+            os.environ.setdefault(k, str(v))
+    except Exception:
+        pass
+
+
+_bootstrap_secrets()
+
+_BASE = os.path.dirname(__file__)
+INDEX_PATH = os.path.join(_BASE, "index.pkl")
+EMBED_NPZ = os.path.join(_BASE, "embed_index.npz")
+EMBED_CHUNKS = os.path.join(_BASE, "embed_chunks.pkl")
+# the 112MB matrix is committed as two <100MB parts (GitHub file-size limit) and
+# reassembled here at load time
+EMBED_PARTS = [os.path.join(_BASE, f"embed_index_part{i}.npz") for i in range(2)]
+
+
+def _load_matrix():
+    if os.path.exists(EMBED_NPZ):
+        return np.load(EMBED_NPZ)["matrix"]
+    if all(os.path.exists(p) for p in EMBED_PARTS):
+        return np.concatenate([np.load(p)["matrix"] for p in EMBED_PARTS], axis=0)
+    return None
 
 # Recognizable district-name aliases for direct lookup — TF-IDF alone under-ranks a district
 # snapshot against generic methodology docs when the query only has one distinctive term
@@ -86,23 +125,46 @@ don't have that specific figure rather than guessing numbers.
 
 @st.cache_resource
 def load_index():
-    if not os.path.exists(INDEX_PATH):
-        return None
-    with open(INDEX_PATH, "rb") as f:
-        return pickle.load(f)
+    # semantic (embedding) index — preferred
+    matrix = _load_matrix()
+    if matrix is not None and os.path.exists(EMBED_CHUNKS):
+        with open(EMBED_CHUNKS, "rb") as f:
+            meta = pickle.load(f)
+        return {"mode": "embed", "chunks": meta["chunks"],
+                "matrix": matrix.astype(np.float32), "model_id": meta.get("model_id")}
+    # legacy TF-IDF fallback
+    if os.path.exists(INDEX_PATH):
+        with open(INDEX_PATH, "rb") as f:
+            idx = pickle.load(f)
+        idx["mode"] = "tfidf"
+        return idx
+    return None
 
 
 def _label(source, page):
     return f"{source} (slide/page {page})" if page else source
 
 
+def _scores(query, index):
+    """Similarity of query against every chunk, for whichever index mode is loaded."""
+    if index["mode"] == "embed":
+        import embeddings
+        qvec = embeddings.embed_query(query)  # L2-normalized
+        return index["matrix"] @ qvec  # cosine == dot product
+    qvec = index["vectorizer"].transform([query])
+    return cosine_similarity(qvec, index["matrix"]).flatten()
+
+
 def retrieve(query, index, district_folder=None):
     if index is None:
         return []
-    qvec = index["vectorizer"].transform([query])
-    sims = cosine_similarity(qvec, index["matrix"]).flatten()
+    sims = _scores(query, index)
     top_score = float(sims.max())
-    k = 5 if top_score > 0.3 else 9 if top_score > 0.15 else 14
+    # embedding cosines sit higher than TF-IDF; thresholds tuned per mode
+    if index["mode"] == "embed":
+        k = 6 if top_score > 0.75 else 10 if top_score > 0.6 else 16
+    else:
+        k = 5 if top_score > 0.3 else 9 if top_score > 0.15 else 14
     top_idx = sims.argsort()[::-1][:k]
 
     seen_keys = set()
@@ -146,8 +208,8 @@ def retrieve(query, index, district_folder=None):
             continue
         add_chunk(i, float(sims[i]))
         c = index["chunks"][i]
-        # neighbor expansion only for methodology PDFs — training/case_study slides are self-contained
-        if c.get("page") is not None and c.get("folder") == "methodology":
+        # neighbor expansion for multi-page PDFs — training/case_study slides are self-contained
+        if c.get("page") is not None and c.get("folder") in ("methodology", "vision_documents"):
             for delta in (-1, +1):
                 neighbor_key = (c["source"], c["page"] + delta)
                 if neighbor_key in page_index:

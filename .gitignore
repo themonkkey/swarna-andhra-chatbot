@@ -2,5 +2,9 @@ venv/
 __pycache__/
 *.pyc
 .env
-parse_district_data.py
-structured_district_data.csv
+.embed_ckpt.npy
+.raw_chunks_cache.pkl
+embed_index.npz
+index.pkl
+corpus_files/vision_documents/
+.DS_Store
