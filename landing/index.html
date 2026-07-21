@@ -6,162 +6,155 @@
 <title>Swarna Andhra GVA Assistant</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700;800&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.4.0/dist/tabler-icons.min.css">
 <style>
 :root{
-  --green:#3D6949; --green-dk:#2E5138; --green-btn:#5FA030; --gold:#FFA600; --gold-2:#FEB715;
-  --cream:#F7F3EE; --cream-card:#FDF4E0; --ink:#1A1A1A; --muted:#6a6a6a;
-  --maxw:1440px; --pad-x:clamp(16px, 4vw, 56px);
+  --bg:#17201C; --bg2:#1E2925; --bg3:#26332E; --line:rgba(255,255,255,.09);
+  --neon:#01EF6C; --neon-dim:#0BCB60; --text:#EDF5F6; --muted:#8EA79F;
+  --maxw:1280px; --pad-x:clamp(18px,4vw,64px);
 }
-*{box-sizing:border-box; margin:0; padding:0;}
+*{box-sizing:border-box;margin:0;padding:0;}
 html{scroll-behavior:smooth;}
-body{font-family:'Poppins',sans-serif; color:var(--ink); background:#fff; -webkit-font-smoothing:antialiased;}
-.wrap{max-width:var(--maxw); margin:0 auto;}
-img{max-width:100%; display:block;}
-a{text-decoration:none; color:inherit;}
-h1,h2,h3{font-family:'Anton',sans-serif; font-weight:400; letter-spacing:.01em; line-height:1.05;}
+body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased;}
+.wrap{max-width:var(--maxw);margin:0 auto;}
+img{max-width:100%;display:block;}
+a{text-decoration:none;color:inherit;}
+.mono{font-family:'JetBrains Mono',monospace;}
+h1,h2,h3{font-family:'JetBrains Mono',monospace;font-weight:800;letter-spacing:-.01em;line-height:1.02;text-transform:uppercase;}
 
 /* NAV */
-.nav{position:sticky; top:0; z-index:50; background:rgba(255,255,255,0.96); backdrop-filter:blur(8px); border-bottom:1px solid #ececec;}
-.nav-inner{max-width:var(--maxw); margin:0 auto; display:flex; align-items:center; justify-content:space-between; padding:12px var(--pad-x);}
-.brand{display:flex; align-items:center; gap:clamp(8px,1.5vw,14px);}
-.brand-logo{height:clamp(34px,4.5vw,46px); width:auto;}
-.brand-divider{width:1px; height:clamp(24px,3vw,32px); background:#d8d8d8;}
-.brand-tag{font-size:clamp(11px,1.5vw,14px); font-weight:500; color:var(--muted); white-space:nowrap;}
-.navlinks{display:flex; gap:clamp(14px,2.2vw,26px); align-items:center;}
-.navlinks .nl{font-size:14px; color:#555; font-weight:500; cursor:pointer; background:none; border:none; font-family:'Poppins'; padding:4px 0; border-bottom:2px solid transparent;}
-.navlinks .nl:hover{color:var(--green);}
-.navlinks .nl.active{color:var(--green); border-bottom-color:var(--gold);}
-.btn-login{background:var(--gold); color:#1a1a1a; font-family:'Poppins'; font-size:14px; font-weight:600; padding:9px 20px; border-radius:24px; border:none; cursor:pointer; white-space:nowrap;}
-.btn-login:hover{background:var(--gold-2);}
-.hamburger{display:none; background:none; border:none; font-size:26px; color:var(--green); cursor:pointer;}
+.nav{position:sticky;top:0;z-index:50;background:rgba(23,32,28,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--line);}
+.nav-inner{max-width:var(--maxw);margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:12px var(--pad-x);}
+.brand{display:flex;align-items:center;gap:12px;}
+.brand-logo-wrap{background:#fff;border-radius:8px;padding:6px 9px;display:flex;align-items:center;}
+.brand-logo{height:clamp(26px,3.4vw,34px);width:auto;}
+.brand-tag{font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:500;color:var(--muted);letter-spacing:.06em;text-transform:uppercase;white-space:nowrap;}
+.navlinks{display:flex;gap:clamp(14px,2vw,28px);align-items:center;}
+.navlinks .nl{font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:500;letter-spacing:.04em;text-transform:uppercase;color:var(--muted);cursor:pointer;background:none;border:none;padding:6px 0;transition:color .12s;}
+.navlinks .nl:hover,.navlinks .nl.active{color:var(--text);}
+.navlinks .nl.active{color:var(--neon);}
+.btn-neon{font-family:'JetBrains Mono',monospace;background:var(--neon);color:#06130B;font-size:12px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:10px 18px;border:none;border-radius:6px;cursor:pointer;transition:background .12s,transform .12s;}
+.btn-neon:hover{background:#3BFF8C;transform:translateY(-1px);}
+.hamburger{display:none;background:none;border:none;font-size:26px;color:var(--text);cursor:pointer;}
 
-/* buttons shared */
-.btn-primary{display:inline-flex; align-items:center; gap:9px; background:var(--gold); color:#1a1a1a; font-weight:600; font-size:clamp(13px,1.6vw,15px); padding:13px 28px; border-radius:28px; border:none; cursor:pointer; font-family:'Poppins';}
-.btn-primary:hover{background:var(--gold-2); transform:translateY(-1px);}
-.btn-primary i{font-size:17px;}
-.circle-btn{width:clamp(44px,6vw,52px); aspect-ratio:1; border-radius:50%; background:var(--green-btn); display:flex; align-items:center; justify-content:center; border:none; cursor:pointer;}
-.circle-btn i{color:#fff; font-size:20px;}
+.btn-ghost{font-family:'JetBrains Mono',monospace;background:transparent;color:var(--text);font-size:13px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;padding:13px 22px;border:1px solid var(--line);border-radius:8px;cursor:pointer;display:inline-flex;align-items:center;gap:9px;transition:border-color .12s,background .12s;}
+.btn-ghost:hover{border-color:var(--neon);background:rgba(1,239,108,.06);}
+.btn-primary{font-family:'JetBrains Mono',monospace;background:var(--neon);color:#06130B;font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:14px 24px;border:none;border-radius:8px;cursor:pointer;display:inline-flex;align-items:center;gap:9px;transition:background .12s,transform .12s;}
+.btn-primary:hover{background:#3BFF8C;transform:translateY(-1px);}
 
-/* page sections */
 .page{display:none;}
 .page.active{display:block;}
 
 /* HERO */
-.hero{padding:clamp(20px,3vw,28px) var(--pad-x) 0;}
-.hero-card{background:var(--green); border-radius:clamp(20px,3vw,30px); padding:clamp(32px,5vw,64px); position:relative; overflow:hidden;}
-.hero-card::after{content:''; position:absolute; right:-80px; top:-80px; width:min(340px,40vw); aspect-ratio:1; border-radius:50%; border:2px solid rgba(255,255,255,.08);}
-.hero-card::before{content:''; position:absolute; right:40px; bottom:-120px; width:min(280px,32vw); aspect-ratio:1; border-radius:50%; border:2px solid rgba(255,166,0,.15);}
-.hero-content{position:relative; z-index:2; max-width:660px;}
-.eyebrow{display:inline-flex; align-items:center; gap:8px; background:rgba(255,166,0,.18); color:var(--gold-2); font-size:clamp(10px,1.4vw,12px); font-weight:600; padding:6px 15px; border-radius:22px; letter-spacing:.08em; text-transform:uppercase; margin-bottom:clamp(16px,2.5vw,24px);}
-.hero h1{font-size:clamp(32px,6vw,60px); color:#fff;}
-.hero h1 span{color:var(--gold);}
-.hero p{color:rgba(255,255,255,.82); font-size:clamp(13px,1.6vw,16px); line-height:1.65; max-width:540px; margin-top:clamp(14px,2vw,22px); font-weight:300;}
-.hero-cta{display:flex; align-items:center; gap:14px; margin-top:clamp(24px,3.5vw,34px); flex-wrap:wrap;}
+.hero{position:relative;padding:clamp(56px,10vw,120px) var(--pad-x) clamp(40px,6vw,72px);overflow:hidden;border-bottom:1px solid var(--line);}
+.hero::before{content:'';position:absolute;inset:0;background-image:radial-gradient(circle at 1px 1px,rgba(255,255,255,.05) 1px,transparent 0);background-size:34px 34px;pointer-events:none;}
+.hero::after{content:'';position:absolute;right:-140px;top:-120px;width:460px;height:460px;border-radius:50%;background:radial-gradient(circle,rgba(1,239,108,.12),transparent 70%);pointer-events:none;}
+.hero-content{position:relative;max-width:920px;}
+.eyebrow{font-family:'JetBrains Mono',monospace;font-size:clamp(11px,1.4vw,13px);color:var(--neon);letter-spacing:.12em;text-transform:uppercase;margin-bottom:clamp(18px,2.5vw,28px);}
+.hero h1{font-size:clamp(34px,7vw,76px);color:var(--text);}
+.hero h1 span{color:var(--neon);}
+.hero p{font-family:'Inter';font-size:clamp(14px,1.7vw,18px);color:var(--muted);line-height:1.6;max-width:600px;margin-top:clamp(20px,3vw,30px);font-weight:300;}
+.hero-cta{display:flex;gap:14px;margin-top:clamp(28px,4vw,40px);flex-wrap:wrap;}
 
 /* STATS */
-.stats{padding:clamp(20px,3vw,28px) var(--pad-x) 0;}
-.stats-grid{background:var(--cream); border-radius:clamp(16px,2.5vw,22px); display:grid; grid-template-columns:repeat(3,1fr); overflow:hidden;}
-.stat{padding:clamp(18px,3vw,28px) clamp(18px,3vw,32px); border-right:1px solid rgba(0,0,0,.06);}
-.stat:last-child{border-right:none;}
-.stat .n{font-family:'Anton',sans-serif; font-size:clamp(26px,4vw,40px); color:var(--green); line-height:1;}
-.stat .lbl{font-size:clamp(11px,1.4vw,13px); color:#777; margin-top:7px;}
+.stats{padding:clamp(28px,4vw,44px) var(--pad-x);}
+.stats-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;}
+.stat{background:var(--bg2);border:1px solid var(--line);border-radius:14px;padding:clamp(20px,2.5vw,30px);transition:border-color .15s;}
+.stat:hover{border-color:var(--neon);}
+.stat.hl{background:var(--neon);}
+.stat .n{font-family:'JetBrains Mono',monospace;font-size:clamp(28px,4vw,46px);font-weight:800;color:var(--neon);line-height:1;letter-spacing:-.02em;}
+.stat.hl .n{color:#06130B;}
+.stat .lbl{font-family:'JetBrains Mono',monospace;font-size:clamp(10px,1.2vw,12px);color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin-top:10px;}
+.stat.hl .lbl{color:rgba(6,19,11,.7);}
 
 /* SECTION */
-.section{padding:clamp(40px,6vw,72px) var(--pad-x);}
-.sec-head{margin-bottom:clamp(24px,4vw,38px); max-width:760px;}
-.sec-head .kick{font-family:'Anton',sans-serif; color:var(--gold); font-size:clamp(14px,2vw,18px);}
-.sec-head h2{font-size:clamp(24px,4.5vw,40px); color:var(--ink); margin-top:2px;}
-.sec-head p{font-size:clamp(13px,1.6vw,16px); color:var(--muted); line-height:1.7; margin-top:14px; font-weight:300;}
+.section{padding:clamp(48px,7vw,96px) var(--pad-x);}
+.sec-head{margin-bottom:clamp(28px,4vw,44px);max-width:760px;}
+.sec-head .kick{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--neon);letter-spacing:.12em;text-transform:uppercase;}
+.sec-head h2{font-size:clamp(26px,4.5vw,46px);color:var(--text);margin-top:12px;}
+.sec-head p{font-family:'Inter';font-size:clamp(14px,1.6vw,17px);color:var(--muted);line-height:1.7;margin-top:16px;font-weight:300;}
 
-.feature-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:clamp(14px,2vw,20px);}
-.fcard{background:var(--cream-card); border-radius:18px; padding:clamp(20px,3vw,28px); display:flex; gap:16px; align-items:flex-start; transition:transform .15s;}
-.fcard:hover{transform:translateY(-3px);}
-.ficon{width:clamp(42px,5vw,50px); aspect-ratio:1; border-radius:12px; background:var(--green); display:flex; align-items:center; justify-content:center; flex-shrink:0;}
-.ficon i{color:var(--gold); font-size:clamp(20px,2.5vw,24px);}
-.fcard h4{font-size:clamp(15px,1.8vw,17px); font-weight:600; margin-bottom:6px;}
-.fcard p{font-size:clamp(12px,1.5vw,14px); color:var(--muted); line-height:1.55; font-weight:300;}
+.feature-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;}
+.fcard{background:var(--bg2);border:1px solid var(--line);border-radius:14px;padding:clamp(22px,3vw,30px);transition:border-color .15s,transform .15s;}
+.fcard:hover{border-color:var(--neon);transform:translateY(-3px);}
+.fnum{font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--neon);letter-spacing:.08em;}
+.fcard h4{font-family:'JetBrains Mono',monospace;font-size:clamp(15px,1.8vw,18px);font-weight:700;text-transform:uppercase;color:var(--text);margin:16px 0 8px;letter-spacing:-.01em;}
+.fcard p{font-family:'Inter';font-size:clamp(13px,1.4vw,14px);color:var(--muted);line-height:1.6;font-weight:300;}
 
-/* prose blocks (About / Methodology) */
+/* prose */
 .prose{max-width:820px;}
-.prose p{font-size:clamp(14px,1.7vw,16px); line-height:1.8; color:#333; margin-bottom:18px; font-weight:300;}
-.prose h3{font-family:'Anton',sans-serif; font-size:clamp(18px,2.5vw,24px); color:var(--green); margin:34px 0 14px;}
-.prose ul{margin:0 0 18px; padding-left:22px;}
-.prose li{font-size:clamp(14px,1.7vw,16px); line-height:1.75; color:#333; margin-bottom:9px; font-weight:300;}
-.prose strong{font-weight:600; color:var(--ink);}
-.formula{background:var(--cream); border-left:3px solid var(--gold); padding:14px 18px; border-radius:0 8px 8px 0; font-size:clamp(13px,1.6vw,15px); color:var(--green-dk); margin:0 0 18px; font-weight:500;}
+.prose p{font-family:'Inter';font-size:clamp(14px,1.6vw,16px);line-height:1.8;color:#c7d3cf;margin-bottom:18px;font-weight:300;}
+.prose h3{font-size:clamp(16px,2.2vw,22px);color:var(--neon);margin:34px 0 14px;}
+.prose ul{margin:0 0 18px;padding-left:20px;}
+.prose li{font-family:'Inter';font-size:clamp(14px,1.6vw,16px);line-height:1.75;color:#c7d3cf;margin-bottom:9px;font-weight:300;}
+.prose strong{color:var(--text);font-weight:600;}
+.formula{background:var(--bg2);border-left:2px solid var(--neon);padding:14px 18px;border-radius:0 8px 8px 0;font-family:'JetBrains Mono',monospace;font-size:clamp(12px,1.5vw,14px);color:var(--neon);margin-bottom:16px;}
+.approach-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin:8px 0 24px;}
+.acard{background:var(--bg2);border:1px solid var(--line);border-radius:12px;padding:22px;}
+.acard .tag{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--neon);text-transform:uppercase;letter-spacing:.06em;}
+.acard h4{font-family:'JetBrains Mono',monospace;font-size:16px;text-transform:uppercase;color:var(--text);margin:10px 0 8px;}
+.acard p{font-family:'Inter';font-size:13px;color:var(--muted);line-height:1.6;font-weight:300;}
 
-.approach-grid{display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:16px; margin:8px 0 24px;}
-.acard{border:1px solid #e6e6e6; border-radius:14px; padding:22px; background:#fff;}
-.acard .tag{display:inline-block; font-size:11px; font-weight:600; letter-spacing:.05em; text-transform:uppercase; color:var(--green); background:var(--cream); padding:4px 10px; border-radius:12px; margin-bottom:12px;}
-.acard h4{font-family:'Anton',sans-serif; font-size:18px; color:var(--ink); margin-bottom:8px;}
-.acard p{font-size:13.5px; line-height:1.6; color:var(--muted); font-weight:300;}
-
-/* DISTRICTS MAP */
-.map-layout{display:grid; grid-template-columns:1.15fr 1fr; gap:clamp(20px,3vw,36px); align-items:start;}
-.map-box{background:var(--cream); border-radius:20px; padding:clamp(14px,2vw,22px); position:relative;}
-#ap-map{width:100%; height:auto; display:block;}
-#ap-map path{fill:#8FB98F; stroke:#fff; stroke-width:0.8; cursor:pointer; transition:fill .12s;}
-#ap-map path:hover{fill:var(--gold-2);}
-#ap-map path.selected{fill:var(--gold); stroke:var(--green-dk); stroke-width:1.4;}
-.map-hint{font-size:12px; color:var(--muted); text-align:center; margin-top:10px;}
-.map-tooltip{position:fixed; pointer-events:none; background:var(--green-dk); color:#fff; font-size:12px; padding:5px 10px; border-radius:6px; opacity:0; transition:opacity .1s; z-index:100; white-space:nowrap;}
-
-.panel{background:#fff; border:1px solid #e6e6e6; border-radius:20px; padding:clamp(20px,3vw,30px); min-height:360px;}
-.panel-empty{display:flex; flex-direction:column; align-items:center; justify-content:center; height:320px; text-align:center; color:var(--muted);}
-.panel-empty i{font-size:40px; color:#cbd5cb; margin-bottom:14px;}
-.panel-empty p{font-size:14px; font-weight:300; max-width:260px; line-height:1.6;}
-.panel h3{font-family:'Anton',sans-serif; font-size:clamp(22px,3vw,30px); color:var(--green); margin-bottom:4px;}
-.panel .sub{font-size:12px; color:var(--muted); margin-bottom:20px;}
-.metric-row{display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:22px;}
-.metric{background:var(--cream); border-radius:12px; padding:14px 16px;}
-.metric .ml{font-size:11px; color:#888; text-transform:uppercase; letter-spacing:.04em;}
-.metric .mv{font-family:'Anton',sans-serif; font-size:22px; color:var(--ink); margin-top:4px;}
-.metric .mv small{font-family:'Poppins'; font-size:12px; color:var(--green-btn); font-weight:600; margin-left:4px;}
-.panel h5{font-size:12px; font-weight:600; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); margin:0 0 10px;}
-.sector-row{display:flex; align-items:center; justify-content:space-between; padding:9px 0; border-bottom:1px solid #f0f0f0; font-size:13.5px;}
-.sector-row:last-child{border-bottom:none;}
-.sector-row .sn{color:#333;}
-.sector-row .sc{font-weight:600; color:var(--green);}
-.bar{height:5px; background:var(--cream); border-radius:3px; margin-top:3px; overflow:hidden;}
-.bar span{display:block; height:100%; background:var(--gold);}
-.panel-cta{margin-top:22px;}
-.ask-link{display:inline-flex; align-items:center; gap:7px; font-size:13px; font-weight:600; color:var(--green); cursor:pointer;}
-.ask-link i{font-size:15px;}
-
-/* CTA BAND */
-.cta-band-wrap{padding:0 var(--pad-x) clamp(28px,4vw,40px);}
-.cta-band{background:var(--green); border-radius:clamp(20px,3vw,26px); padding:clamp(30px,5vw,48px); display:flex; align-items:center; justify-content:space-between; gap:28px; flex-wrap:wrap;}
-.cta-band h3{color:#fff; font-size:clamp(22px,3.5vw,32px); line-height:1.1; max-width:460px;}
-.cta-band h3 span{color:var(--gold);}
+/* CTA */
+.cta-wrap{padding:0 var(--pad-x) clamp(40px,6vw,72px);}
+.cta{background:var(--bg2);border:1px solid var(--line);border-radius:20px;padding:clamp(32px,5vw,56px);display:flex;align-items:center;justify-content:space-between;gap:28px;flex-wrap:wrap;position:relative;overflow:hidden;}
+.cta::after{content:'';position:absolute;left:-80px;bottom:-120px;width:320px;height:320px;border-radius:50%;background:radial-gradient(circle,rgba(1,239,108,.1),transparent 70%);}
+.cta h3{position:relative;font-size:clamp(22px,3.4vw,34px);color:var(--text);max-width:520px;}
+.cta h3 span{color:var(--neon);}
 
 /* FOOTER */
-.footer{border-top:1px solid #ececec;}
-.footer-inner{max-width:var(--maxw); margin:0 auto; padding:22px var(--pad-x); display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap;}
-.f-brand{display:flex; align-items:center; gap:9px; font-size:13px; color:#888;}
-.f-brand i{color:var(--green); font-size:16px;}
-.f-note{font-size:12px; color:#aaa;}
+.footer{border-top:1px solid var(--line);}
+.footer-inner{max-width:var(--maxw);margin:0 auto;padding:24px var(--pad-x);display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;}
+.f-brand{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;}
+.f-note{font-family:'JetBrains Mono',monospace;font-size:11px;color:#5c6f68;letter-spacing:.04em;}
+
+/* DISTRICTS MAP */
+.map-layout{display:grid;grid-template-columns:1.15fr 1fr;gap:clamp(20px,3vw,36px);align-items:start;}
+.map-box{background:var(--bg2);border:1px solid var(--line);border-radius:16px;padding:clamp(14px,2vw,22px);}
+#ap-map{width:100%;height:auto;display:block;}
+#ap-map path{fill:#33413B;stroke:var(--bg);stroke-width:.8;cursor:pointer;transition:fill .12s;}
+#ap-map path:hover{fill:var(--neon-dim);}
+#ap-map path.selected{fill:var(--neon);stroke:#06130B;stroke-width:1.2;}
+.map-hint{font-family:'JetBrains Mono',monospace;font-size:11px;color:#5c6f68;text-align:center;margin-top:12px;letter-spacing:.03em;}
+.map-tooltip{position:fixed;pointer-events:none;background:var(--neon);color:#06130B;font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:600;padding:5px 10px;border-radius:5px;opacity:0;transition:opacity .1s;z-index:100;white-space:nowrap;}
+.panel{background:var(--bg2);border:1px solid var(--line);border-radius:16px;padding:clamp(20px,3vw,30px);min-height:360px;}
+.panel-empty{display:flex;flex-direction:column;align-items:center;justify-content:center;height:320px;text-align:center;color:var(--muted);}
+.panel-empty i{font-size:38px;color:#3a4a44;margin-bottom:14px;}
+.panel-empty p{font-family:'Inter';font-size:14px;font-weight:300;max-width:260px;line-height:1.6;}
+.panel h3{font-family:'JetBrains Mono',monospace;font-size:clamp(20px,3vw,28px);color:var(--neon);margin-bottom:4px;text-transform:uppercase;}
+.panel .sub{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--muted);margin-bottom:20px;text-transform:uppercase;letter-spacing:.04em;}
+.metric-row{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:22px;}
+.metric{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:14px 16px;}
+.metric .ml{font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;}
+.metric .mv{font-family:'JetBrains Mono',monospace;font-size:20px;font-weight:800;color:var(--text);margin-top:6px;}
+.metric .mv small{font-size:12px;color:var(--neon);font-weight:600;margin-left:4px;}
+.panel h5{font-family:'JetBrains Mono',monospace;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:0 0 12px;}
+.sector-row{display:flex;align-items:center;justify-content:space-between;padding:9px 0;border-bottom:1px solid var(--line);font-size:13px;gap:14px;}
+.sector-row:last-child{border-bottom:none;}
+.sector-row .sn{font-family:'Inter';color:#c7d3cf;}
+.sector-row .sc{font-family:'JetBrains Mono',monospace;font-weight:700;color:var(--neon);}
+.bar{height:5px;background:var(--bg);border-radius:3px;margin-top:4px;overflow:hidden;}
+.bar span{display:block;height:100%;background:var(--neon);}
+.panel-cta{margin-top:22px;}
+.ask-link{font-family:'JetBrains Mono',monospace;display:inline-flex;align-items:center;gap:8px;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.04em;color:var(--neon);cursor:pointer;}
 
 /* RESPONSIVE */
 .mobile-menu{display:none;}
-@media (max-width:860px){
-  .navlinks .nl, .navlinks .btn-wrap{display:none;}
+@media (max-width:900px){
+  .navlinks .nl,.navlinks .btn-wrap{display:none;}
   .hamburger{display:block;}
-  .mobile-menu.open{display:flex; flex-direction:column; gap:4px; padding:8px var(--pad-x) 16px; border-bottom:1px solid #ececec; background:#fff;}
-  .mobile-menu .nl{text-align:left; font-size:15px; color:#444; background:none; border:none; padding:10px 0; font-family:'Poppins'; font-weight:500; cursor:pointer; border-bottom:1px solid #f2f2f2;}
+  .mobile-menu.open{display:flex;flex-direction:column;gap:2px;padding:8px var(--pad-x) 16px;border-bottom:1px solid var(--line);background:var(--bg);}
+  .mobile-menu .nl{font-family:'JetBrains Mono',monospace;text-align:left;font-size:13px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted);background:none;border:none;padding:11px 0;cursor:pointer;border-bottom:1px solid var(--line);}
+  .stats-grid{grid-template-columns:1fr 1fr;}
   .map-layout{grid-template-columns:1fr;}
 }
-@media (max-width:768px){
-  .stats-grid{grid-template-columns:1fr;}
-  .stat{border-right:none; border-bottom:1px solid rgba(0,0,0,.06);}
-  .stat:last-child{border-bottom:none;}
-  .cta-band{flex-direction:column; align-items:flex-start;}
+@media (max-width:560px){
+  .stats-grid{grid-template-columns:1fr 1fr;}
+  .cta{flex-direction:column;align-items:flex-start;}
+  .metric-row{grid-template-columns:1fr;}
 }
-@media (max-width:560px){ .brand-divider,.brand-tag{display:none;} }
-@media (max-width:480px){ .hero-cta{width:100%;} .btn-primary{flex:1; justify-content:center;} .metric-row{grid-template-columns:1fr;} }
-@media (min-width:1700px){ :root{--maxw:1600px;} body{font-size:18px;} }
-@media (min-width:2200px){ :root{--maxw:1900px; --pad-x:80px;} }
+@media (min-width:1600px){:root{--maxw:1440px;}}
 </style>
 </head>
 <body>
@@ -169,17 +162,16 @@ h1,h2,h3{font-family:'Anton',sans-serif; font-weight:400; letter-spacing:.01em; 
 <nav class="nav">
   <div class="nav-inner">
     <button class="brand nl" data-page="home" style="background:none;border:none;cursor:pointer">
-      <img src="assets/swarna-logo-crop.svg" alt="Swarna Andhra @2047 Strategic Framework" class="brand-logo">
-      <span class="brand-divider"></span>
-      <span class="brand-tag">GVA Assistant</span>
+      <span class="brand-logo-wrap"><img src="assets/swarna-logo-crop.svg" alt="Swarna Andhra @2047" class="brand-logo"></span>
+      <span class="brand-tag">// GVA Assistant</span>
     </button>
     <div class="navlinks">
       <button class="nl active" data-page="home">Home</button>
       <button class="nl" data-page="about">About</button>
       <button class="nl" data-page="methodology">Methodology</button>
       <button class="nl" data-page="districts">Districts</button>
-      <a href="https://andhrachatbot.streamlit.app" class="btn-wrap"><button class="btn-login">Open assistant</button></a>
-      <button class="hamburger" aria-label="Menu" id="hamburger"><i class="ti ti-menu-2"></i></button>
+      <a href="https://andhrachatbot.streamlit.app" class="btn-wrap"><button class="btn-neon">Open assistant ↗</button></a>
+      <button class="hamburger" id="hamburger" aria-label="Menu"><i class="ti ti-menu-2"></i></button>
     </div>
   </div>
   <div class="mobile-menu" id="mobileMenu">
@@ -187,117 +179,106 @@ h1,h2,h3{font-family:'Anton',sans-serif; font-weight:400; letter-spacing:.01em; 
     <button class="nl" data-page="about">About</button>
     <button class="nl" data-page="methodology">Methodology</button>
     <button class="nl" data-page="districts">Districts</button>
-    <a href="https://andhrachatbot.streamlit.app"><button class="btn-primary" style="width:100%;justify-content:center;margin-top:8px">Open assistant</button></a>
+    <a href="https://andhrachatbot.streamlit.app"><button class="btn-neon" style="width:100%;margin-top:10px">Open assistant ↗</button></a>
   </div>
 </nav>
 
-<!-- ============ HOME ============ -->
+<!-- HOME -->
 <div class="page active" id="page-home">
-  <header class="hero"><div class="wrap"><div class="hero-card"><div class="hero-content">
-    <div class="eyebrow"><i class="ti ti-sparkles"></i> Pahlé India Foundation · Capacity Building</div>
-    <h1>Ask anything about<br><span>GDP, GSDP and GVA</span><br>for Andhra Pradesh</h1>
-    <p>An AI assistant built on official DDP guidelines, GSVA estimates, and district-wise data for every district in the state. Made to support the Swarna Andhra @2047 vision.</p>
+  <header class="hero"><div class="wrap"><div class="hero-content">
+    <div class="eyebrow">// Pahlé India Foundation — Capacity Building</div>
+    <h1>Ask anything about<br><span>GDP, GSDP &amp; GVA</span><br>for Andhra Pradesh</h1>
+    <p>An AI assistant trained on official DDP guidelines, GSVA estimates, and the vision plans of every district, constituency, and mandal in the state. Built for the Swarna Andhra @2047 mission.</p>
     <div class="hero-cta">
-      <a href="https://andhrachatbot.streamlit.app"><button class="btn-primary"><i class="ti ti-message-circle"></i> Start asking questions</button></a>
-      <button class="circle-btn nl" data-page="about" aria-label="Learn more"><i class="ti ti-arrow-down"></i></button>
+      <a href="https://andhrachatbot.streamlit.app"><button class="btn-primary"><i class="ti ti-message-2"></i> Start asking questions</button></a>
+      <button class="btn-ghost nl" data-page="districts"><i class="ti ti-map-2"></i> Explore districts</button>
     </div>
-  </div></div></div></header>
+  </div></div></header>
 
   <section class="stats"><div class="wrap"><div class="stats-grid">
-    <div class="stat"><div class="n">1,701</div><div class="lbl">Indexed knowledge chunks</div></div>
-    <div class="stat"><div class="n">28</div><div class="lbl">Districts covered</div></div>
-    <div class="stat"><div class="n">14</div><div class="lbl">Sector case studies</div></div>
+    <div class="stat hl"><div class="n">59,388</div><div class="lbl">Indexed chunks</div></div>
+    <div class="stat"><div class="n">28</div><div class="lbl">Districts</div></div>
+    <div class="stat"><div class="n">175</div><div class="lbl">Constituencies</div></div>
+    <div class="stat"><div class="n">1,378</div><div class="lbl">Vision documents</div></div>
   </div></div></section>
 
   <section class="section"><div class="wrap">
-    <div class="sec-head"><div class="kick">What You Can Ask</div><h2>Grounded In Official Material</h2></div>
+    <div class="sec-head"><div class="kick">// What you can ask</div><h2>Grounded in official material</h2></div>
     <div class="feature-grid">
-      <div class="fcard"><div class="ficon"><i class="ti ti-calculator"></i></div><div><h4>GDP and GSDP methodology</h4><p>Production, income, and expenditure approaches. Top-down versus bottom-up. Which sector uses which method.</p></div></div>
-      <div class="fcard"><div class="ficon"><i class="ti ti-chart-bar"></i></div><div><h4>GVA calculation</h4><p>How Gross Value Added is measured across agriculture, industry, and services sectors.</p></div></div>
-      <div class="fcard"><div class="ficon"><i class="ti ti-map-pin"></i></div><div><h4>District economic profiles</h4><p>Comparative-advantage sectors, fastest-growing industries, and interventions to boost GVA in each district.</p></div></div>
-      <div class="fcard"><div class="ficon"><i class="ti ti-database"></i></div><div><h4>DDP data lookup</h4><p>GSDP, GDDP, and NDDP figures for every district across four years, with ranks and growth rates.</p></div></div>
+      <div class="fcard"><div class="fnum">01</div><h4>GDP / GSDP methodology</h4><p>Production, income, and expenditure approaches. Top-down versus bottom-up. Which sector uses which method.</p></div>
+      <div class="fcard"><div class="fnum">02</div><h4>GVA calculation</h4><p>How Gross Value Added is measured across agriculture, industry, and services sectors.</p></div>
+      <div class="fcard"><div class="fnum">03</div><h4>District profiles</h4><p>Comparative-advantage sectors, fastest-growing industries, and interventions to boost GVA per district.</p></div>
+      <div class="fcard"><div class="fnum">04</div><h4>Vision plans</h4><p>Every constituency and mandal vision plan, plus GSDP, GDDP, and per-capita figures across four years.</p></div>
     </div>
   </div></section>
 
-  <section class="cta-band-wrap"><div class="wrap"><div class="cta-band">
-    <h3>Put the entire training corpus <span>one question away.</span></h3>
-    <a href="https://andhrachatbot.streamlit.app"><button class="btn-primary"><i class="ti ti-message-circle"></i> Launch the assistant</button></a>
+  <section class="cta-wrap"><div class="wrap"><div class="cta">
+    <h3>Put the entire corpus <span>one question away.</span></h3>
+    <a href="https://andhrachatbot.streamlit.app"><button class="btn-primary"><i class="ti ti-arrow-right"></i> Launch the assistant</button></a>
   </div></div></section>
 </div>
 
-<!-- ============ ABOUT ============ -->
+<!-- ABOUT -->
 <div class="page" id="page-about">
   <section class="section"><div class="wrap">
-    <div class="sec-head"><div class="kick">About</div><h2>What This Assistant Is</h2></div>
+    <div class="sec-head"><div class="kick">// About</div><h2>What this assistant is</h2></div>
     <div class="prose">
-      <p>The Swarna Andhra GVA Assistant is a question and answer tool built by Pahlé India Foundation for the state capacity building programme. It helps district, constituency, and mandal level officers find clear answers about how state and district income is measured, and how they can raise it.</p>
-      <p>The programme trains officers on GDP, GSDP, and GDDP estimation methodology, and suggests ways to improve Gross Value Added across sectors through specific, practical interventions drawn from real case studies.</p>
-
+      <p>The Swarna Andhra GVA Assistant is a question-and-answer tool built by Pahlé India Foundation for the state capacity-building programme. It helps district, constituency, and mandal officers find clear answers about how state and district income is measured, and how to raise it.</p>
       <h3>Who it is for</h3>
       <ul>
         <li><strong>District and constituency officers</strong> who need quick, reliable answers grounded in official material.</li>
         <li><strong>Master trainers</strong> preparing sessions on estimation methodology.</li>
         <li><strong>Planning teams</strong> looking at where a district has comparative advantage and what to do about it.</li>
       </ul>
-
       <h3>How it works</h3>
-      <p>When you ask a question, the assistant searches the full training corpus, the official DDP and GSVA source documents, and the district data workbook. It then answers using that material and always shows which document and page it drew from, so every answer can be traced back to its source.</p>
-      <p>The assistant covers four areas: estimation methodology, GVA calculation, district economic profiles with suggested interventions, and district GSDP and DDP figures.</p>
-
+      <p>Every question runs a semantic search across the full corpus, the official DDP and GSVA source documents, the district data, and all 1,378 vision plans. Answers are generated from that material and always cite the source, so every claim can be traced back.</p>
       <h3>Where the answers come from</h3>
       <ul>
         <li>The official Guideline for Compilation of DDP Estimates from the National Statistics Office.</li>
         <li>The Compilation of GSVA Estimates with base year 2022-23.</li>
-        <li>The DDP 2024-25 FRE book with district figures.</li>
-        <li>Training decks, toolkits, and fourteen sector case studies prepared for the programme.</li>
+        <li>District GSDP, GDDP, and per-capita data for all 28 districts.</li>
+        <li>Vision and action plans for every constituency and mandal, plus sector case studies.</li>
       </ul>
     </div>
-    <div style="margin-top:32px"><a href="https://andhrachatbot.streamlit.app"><button class="btn-primary"><i class="ti ti-message-circle"></i> Try the assistant</button></a></div>
+    <div style="margin-top:32px"><a href="https://andhrachatbot.streamlit.app"><button class="btn-primary"><i class="ti ti-message-2"></i> Try the assistant</button></a></div>
   </div></section>
 </div>
 
-<!-- ============ METHODOLOGY ============ -->
+<!-- METHODOLOGY -->
 <div class="page" id="page-methodology">
   <section class="section"><div class="wrap">
-    <div class="sec-head"><div class="kick">Methodology</div><h2>How District Income Is Estimated</h2>
-      <p>This summary follows the official Guideline for Compilation of District Domestic Product Estimates issued by the National Statistics Office, consistent with the revised GSVA series under base year 2022-23.</p>
+    <div class="sec-head"><div class="kick">// Methodology</div><h2>How district income is estimated</h2>
+      <p>This follows the official Guideline for Compilation of District Domestic Product issued by the National Statistics Office, consistent with the revised GSVA series under base year 2022-23.</p>
     </div>
     <div class="prose">
-      <p>District Domestic Product, or DDP, measures the total value of goods and services produced within a district over a year. It is the district level counterpart of GSDP at the state level and GDP at the national level. It helps compare districts, identify regions that need attention, and plan local development.</p>
-      <p>For estimation, the economy of a district is divided into <strong>eleven broad industries</strong>: agriculture and allied, mining, manufacturing, electricity and utilities, construction, trade and hotels, transport and communication, financial services, real estate and professional services, public administration and defence, and other services.</p>
-
+      <p>District Domestic Product (DDP) measures the total value of goods and services produced within a district over a year. It is the district-level counterpart of GSDP at the state level and GDP at the national level.</p>
+      <p>For estimation, the district economy is divided into <strong>eleven broad industries</strong>: agriculture and allied, mining, manufacturing, electricity and utilities, construction, trade and hotels, transport and communication, financial services, real estate and professional services, public administration, and other services.</p>
       <h3>The three approaches</h3>
-      <p>Each of the eleven industries is estimated using whichever of these three approaches best fits the data available for it.</p>
       <div class="approach-grid">
-        <div class="acard"><span class="tag">Top-down</span><h4>State to district</h4><p>State level totals are estimated first, then shared among districts using suitable indicators. Used when direct district data is not available. It keeps district figures consistent with state totals, but may miss local variation.</p></div>
-        <div class="acard"><span class="tag">Bottom-up</span><h4>District first</h4><p>Values are estimated directly from data collected within each district, then added up to reach the state total. It reflects local conditions best, but needs detailed and reliable district data.</p></div>
-        <div class="acard"><span class="tag">Mixed</span><h4>Best of both</h4><p>Bottom-up is used for sectors where reliable district data exists, and top-down for the rest. This balances accuracy against what data is actually available.</p></div>
+        <div class="acard"><span class="tag">Top-down</span><h4>State to district</h4><p>State totals are estimated first, then shared among districts using indicators. Used when direct district data is not available.</p></div>
+        <div class="acard"><span class="tag">Bottom-up</span><h4>District first</h4><p>Values are estimated directly from data within each district, then added up to the state total. Reflects local conditions best.</p></div>
+        <div class="acard"><span class="tag">Mixed</span><h4>Best of both</h4><p>Bottom-up where reliable district data exists, top-down for the rest. Balances accuracy against data availability.</p></div>
       </div>
-
       <h3>From GVA to district income</h3>
-      <p>Gross Value Added for each sector is adjusted and added up to give the district total, then taxes and subsidies bring it to the product measure.</p>
-      <div class="formula">Gross District Value Added (GDVA) = sum of adjusted GVA across all sectors</div>
+      <div class="formula">GDVA = sum of adjusted GVA across all sectors</div>
       <div class="formula">GDDP = GDVA + Taxes on Products − Subsidies on Products</div>
-      <div class="formula">Net figures: NVA = GVA − Consumption of Fixed Capital, then NDDP = NDVA + Taxes − Subsidies</div>
-      <p><strong>Per capita district income</strong> is the total district income divided by the mid-year projected population of the district. It is the common measure of the standard of living in a district.</p>
-
-      <h3>Which sector uses which method</h3>
-      <p>Crop and livestock estimates lean on production and yield data at the district level, so they use bottom-up methods. Large scale manufacturing and organised services often rely on state totals shared out by indicators, so they use top-down methods. Most districts end up using the mixed approach across their eleven industries.</p>
+      <div class="formula">NDDP = NDVA + Taxes − Subsidies, where NVA = GVA − Consumption of Fixed Capital</div>
+      <p><strong>Per capita district income</strong> is the total district income divided by the mid-year projected population, measured in rupees per person.</p>
     </div>
-    <div style="margin-top:32px"><a href="https://andhrachatbot.streamlit.app"><button class="btn-primary"><i class="ti ti-message-circle"></i> Ask about a specific sector</button></a></div>
+    <div style="margin-top:32px"><a href="https://andhrachatbot.streamlit.app"><button class="btn-primary"><i class="ti ti-message-2"></i> Ask about a specific sector</button></a></div>
   </div></section>
 </div>
 
-<!-- ============ DISTRICTS ============ -->
+<!-- DISTRICTS -->
 <div class="page" id="page-districts">
   <section class="section"><div class="wrap">
-    <div class="sec-head"><div class="kick">Districts</div><h2>Explore The District Map</h2>
-      <p>Select any district on the map to see its latest economic snapshot: district income, per capita income, and the sectors where it has the strongest comparative advantage.</p>
+    <div class="sec-head"><div class="kick">// Districts</div><h2>Explore the district map</h2>
+      <p>Select any district to see its latest economic snapshot: district income, per-capita income, and the sectors where it has the strongest comparative advantage.</p>
     </div>
     <div class="map-layout">
       <div class="map-box">
         <svg id="ap-map" viewBox="0 0 600 700" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Clickable map of Andhra Pradesh districts"></svg>
-        <div class="map-hint">Tap a district to view its figures, including Markapuram and Polavaram.</div>
+        <div class="map-hint">// Tap a district to view its figures</div>
       </div>
       <div class="panel" id="districtPanel">
         <div class="panel-empty"><i class="ti ti-hand-finger"></i><p>Select a district on the map to see its economic snapshot.</p></div>
@@ -307,8 +288,8 @@ h1,h2,h3{font-family:'Anton',sans-serif; font-weight:400; letter-spacing:.01em; 
 </div>
 
 <footer class="footer"><div class="footer-inner">
-  <div class="f-brand"><i class="ti ti-building-bank"></i> Pahlé India Foundation</div>
-  <div class="f-note">Aligned with Swarna Andhra @2047 · Planning Department</div>
+  <div class="f-brand">Pahlé India Foundation</div>
+  <div class="f-note">// Aligned with Swarna Andhra @2047 · Planning Department</div>
 </div></footer>
 
 <div class="map-tooltip" id="mapTooltip"></div>
@@ -351,7 +332,6 @@ async function initMap(){
       fetch('assets/districts_data.json').then(r=>r.json())
     ]);
     districtData = dd;
-    // bounds
     let minX=180,maxX=-180,minY=90,maxY=-90;
     const eachCoord=(c,f)=>{ if(typeof c[0]==='number') f(c); else c.forEach(cc=>eachCoord(cc,f)); };
     gj.features.forEach(ft=>eachCoord(ft.geometry.coordinates,c=>{minX=Math.min(minX,c[0]);maxX=Math.max(maxX,c[0]);minY=Math.min(minY,c[1]);maxY=Math.max(maxY,c[1]);}));
@@ -406,7 +386,7 @@ function showDistrict(key, name){
       '<div class="metric"><div class="ml">Per capita income</div><div class="mv">'+fmtRs(d.pci)+'</div></div>'+
     '</div>'+
     '<h5>Top sectors by contribution</h5>'+sectors+
-    '<div class="panel-cta"><a class="ask-link" href="https://andhrachatbot.streamlit.app"><i class="ti ti-message-circle"></i> Ask the assistant about '+name+'</a></div>';
+    '<div class="panel-cta"><a class="ask-link" href="https://andhrachatbot.streamlit.app"><i class="ti ti-message-2"></i> Ask the assistant about '+name+'</a></div>';
 }
 </script>
 </body>
