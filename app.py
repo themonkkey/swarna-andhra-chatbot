@@ -361,9 +361,9 @@ html,body,[class*="css"],.stApp{font-family:'Inter',sans-serif;background:var(--
 [data-testid="stChatMessageContent"]{font-size:15px;line-height:1.65;color:var(--ink);}
 /* avatars — recolor Streamlit defaults to match the dark/neon theme */
 [data-testid="stChatMessageAvatarUser"]{background:var(--neon) !important;border:none !important;}
-[data-testid="stChatMessageAvatarUser"] svg{color:#06130C !important;fill:#06130C !important;}
+[data-testid="stChatMessageAvatarUser"] *{color:#06130C !important;fill:#06130C !important;}
 [data-testid="stChatMessageAvatarAssistant"]{background:var(--bg-2) !important;border:1px solid var(--neon) !important;}
-[data-testid="stChatMessageAvatarAssistant"] svg{color:var(--neon) !important;fill:var(--neon) !important;}
+[data-testid="stChatMessageAvatarAssistant"] *{color:var(--neon) !important;fill:var(--neon) !important;}
 /* assistant message card */
 .stChatMessage:has([data-testid="stChatMessageAvatarAssistant"]) [data-testid="stChatMessageContent"]{
   background:var(--panel);border:1px solid var(--line);border-radius:4px 14px 14px 14px;padding:14px 18px;border-left:3px solid var(--neon);}
