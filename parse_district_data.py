@@ -94,6 +94,31 @@ def sector_display_name(raw):
     return AGGREGATE_LABELS.get(raw, raw)
 
 
+def is_per_capita(label):
+    return "Per Capita" in label
+
+
+def is_population(label):
+    return "Population" in label
+
+
+def value_str(label, value):
+    """Render a value with the correct unit for its metric type.
+
+    Sector/GDDP/NDDP/GDVA values are in Rs. crore, but per-capita income is
+    plain rupees per person and population is a count in thousands — the source
+    workbook's generic column header says 'Rs. in Cr.' for every block, which is
+    only right for the economic-value blocks.
+    """
+    if value is None:
+        return "N/A"
+    if is_per_capita(label):
+        return f"Rs. {fmt_num(value, 0)} per person"
+    if is_population(label):
+        return f"{fmt_num(value, 0)} thousand persons"
+    return f"Rs. {fmt_num(value)} Cr."
+
+
 def write_district_sector_chunk(district, sector, years_data):
     sector_label = sector_display_name(sector)
     safe_sector = "".join(c if c.isalnum() or c in " -_&" else "_" for c in sector_label).strip()
@@ -101,13 +126,19 @@ def write_district_sector_chunk(district, sector, years_data):
     os.makedirs(dist_dir, exist_ok=True)
     path = os.path.join(dist_dir, f"{safe_sector}.txt")
 
-    lines = [f"District: {district.title()} — Sector: {sector_label}", ""]
+    metric = is_per_capita(sector_label) or is_population(sector_label)
+    lines = [f"District: {district.title()} — {'Metric' if metric else 'Sector'}: {sector_label}", ""]
     for year in YEARS:
         d = years_data[year]
-        parts = [f"Value = Rs. {fmt_num(d['value'])} Cr.", f"Rank among 28 districts = {d['rank']}"]
+        parts = [value_str(sector_label, d["value"])]
+        if d["rank"] is not None:
+            parts.append(f"Rank among 28 districts = {d['rank']}")
         if d["growth_pct"] is not None:
             parts.append(f"YoY Growth = {fmt_num(d['growth_pct'])}%")
-        parts.append(f"Contribution to state total = {fmt_num(d['contribution_pct'])}%")
+        # contribution-to-state-total is only meaningful for economic-value sectors,
+        # not for per-capita income or population
+        if not metric and d["contribution_pct"] is not None:
+            parts.append(f"Contribution to state total = {fmt_num(d['contribution_pct'])}%")
         lines.append(f"{year}: " + ", ".join(parts))
     with open(path, "w") as f:
         f.write("\n".join(lines))
@@ -151,7 +182,8 @@ def write_district_snapshot(district, sector_rows):
     lines.append("Aggregate figures:")
     for label, d, _ in aggregates:
         g = f", growth {fmt_num(d['growth_pct'])}%" if d["growth_pct"] is not None else ""
-        lines.append(f"  - {label}: Rs. {fmt_num(d['value'])} Cr.{g}, rank {d['rank']}")
+        rank = f", rank {d['rank']}" if d["rank"] is not None else ""
+        lines.append(f"  - {label}: {value_str(label, d['value'])}{g}{rank}")
 
     path = os.path.join(DISTRICT_DATA_DIR, f"{district.title().replace(' ', '_')}_Snapshot.txt")
     with open(path, "w") as f:
