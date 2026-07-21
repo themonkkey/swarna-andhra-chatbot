@@ -1,6 +1,6 @@
-District: Parvathipuram Manyam — Sector: Population ('000)
+District: Parvathipuram Manyam — Metric: Population ('000)
 
-2022-23 (TRE): Value = Rs. 991.00 Cr., Rank among 28 districts = 26, Contribution to state total = 1.87%
-2023-24 (SRE): Value = Rs. 994.00 Cr., Rank among 28 districts = 26, YoY Growth = 0.30%, Contribution to state total = 1.87%
-2024-25 (FRE): Value = Rs. 997.59 Cr., Rank among 28 districts = 26, YoY Growth = 0.40%, Contribution to state total = 1.87%
-2025-26 (FAE): Value = Rs. 1,001.02 Cr., Rank among 28 districts = 26, YoY Growth = 0.30%, Contribution to state total = 1.87%
+2022-23 (TRE): 991 thousand persons, Rank among 28 districts = 26
+2023-24 (SRE): 994 thousand persons, Rank among 28 districts = 26, YoY Growth = 0.30%
+2024-25 (FRE): 998 thousand persons, Rank among 28 districts = 26, YoY Growth = 0.40%
+2025-26 (FAE): 1,001 thousand persons, Rank among 28 districts = 26, YoY Growth = 0.30%

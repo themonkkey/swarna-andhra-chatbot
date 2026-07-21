@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 3,785.03 Cr., Rank among 28 districts = 20, Contribution to state total = 2.59%
-2023-24 (SRE): Value = Rs. 4,261.00 Cr., Rank among 28 districts = 19, YoY Growth = 12.58%, Contribution to state total = 2.76%
-2024-25 (FRE): Value = Rs. 4,889.69 Cr., Rank among 28 districts = 19, YoY Growth = 14.76%, Contribution to state total = 2.97%
-2025-26 (FAE): Value = Rs. 4,881.00 Cr., Rank among 28 districts = 20, YoY Growth = -0.18%, Contribution to state total = 2.77%
+2022-23 (TRE): Rs. 3,785.03 Cr., Rank among 28 districts = 20, Contribution to state total = 2.59%
+2023-24 (SRE): Rs. 4,261.00 Cr., Rank among 28 districts = 19, YoY Growth = 12.58%, Contribution to state total = 2.76%
+2024-25 (FRE): Rs. 4,889.69 Cr., Rank among 28 districts = 19, YoY Growth = 14.76%, Contribution to state total = 2.97%
+2025-26 (FAE): Rs. 4,881.00 Cr., Rank among 28 districts = 20, YoY Growth = -0.18%, Contribution to state total = 2.77%

@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 48,785.34 Cr., Rank among 28 districts = 13, Contribution to state total = 3.73%
-2023-24 (SRE): Value = Rs. 39,734.00 Cr., Rank among 28 districts = 18, YoY Growth = -18.55%, Contribution to state total = 2.79%
-2024-25 (FRE): Value = Rs. 45,654.00 Cr., Rank among 28 districts = 16, YoY Growth = 14.90%, Contribution to state total = 2.87%
-2025-26 (FAE): Value = Rs. 48,364.00 Cr., Rank among 28 districts = 19, YoY Growth = 5.94%, Contribution to state total = 2.74%
+2022-23 (TRE): Rs. 48,785.34 Cr., Rank among 28 districts = 13, Contribution to state total = 3.73%
+2023-24 (SRE): Rs. 39,734.00 Cr., Rank among 28 districts = 18, YoY Growth = -18.55%, Contribution to state total = 2.79%
+2024-25 (FRE): Rs. 45,654.00 Cr., Rank among 28 districts = 16, YoY Growth = 14.90%, Contribution to state total = 2.87%
+2025-26 (FAE): Rs. 48,364.00 Cr., Rank among 28 districts = 19, YoY Growth = 5.94%, Contribution to state total = 2.74%

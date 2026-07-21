@@ -1,6 +1,6 @@
 District: Bapatla — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 98.34 Cr., Rank among 28 districts = 24, Contribution to state total = 1.08%
-2023-24 (SRE): Value = Rs. 102.00 Cr., Rank among 28 districts = 24, YoY Growth = 4.08%, Contribution to state total = 1.04%
-2024-25 (FRE): Value = Rs. 104.54 Cr., Rank among 28 districts = 24, YoY Growth = 2.94%, Contribution to state total = 1.05%
-2025-26 (FAE): Value = Rs. 173.06 Cr., Rank among 28 districts = 26, YoY Growth = 64.76%, Contribution to state total = 1.68%
+2022-23 (TRE): Rs. 98.34 Cr., Rank among 28 districts = 24, Contribution to state total = 1.08%
+2023-24 (SRE): Rs. 102.00 Cr., Rank among 28 districts = 24, YoY Growth = 4.08%, Contribution to state total = 1.04%
+2024-25 (FRE): Rs. 104.54 Cr., Rank among 28 districts = 24, YoY Growth = 2.94%, Contribution to state total = 1.05%
+2025-26 (FAE): Rs. 173.06 Cr., Rank among 28 districts = 26, YoY Growth = 64.76%, Contribution to state total = 1.68%

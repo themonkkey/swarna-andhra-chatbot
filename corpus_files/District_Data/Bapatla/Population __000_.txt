@@ -1,6 +1,6 @@
-District: Bapatla — Sector: Population ('000)
+District: Bapatla — Metric: Population ('000)
 
-2022-23 (TRE): Value = Rs. 1,382.00 Cr., Rank among 28 districts = 24, Contribution to state total = 2.60%
-2023-24 (SRE): Value = Rs. 1,387.00 Cr., Rank among 28 districts = 24, YoY Growth = 0.36%, Contribution to state total = 2.60%
-2024-25 (FRE): Value = Rs. 1,391.68 Cr., Rank among 28 districts = 24, YoY Growth = 0.36%, Contribution to state total = 2.60%
-2025-26 (FAE): Value = Rs. 1,396.47 Cr., Rank among 28 districts = 24, YoY Growth = 0.29%, Contribution to state total = 2.60%
+2022-23 (TRE): 1,382 thousand persons, Rank among 28 districts = 24
+2023-24 (SRE): 1,387 thousand persons, Rank among 28 districts = 24, YoY Growth = 0.36%
+2024-25 (FRE): 1,392 thousand persons, Rank among 28 districts = 24, YoY Growth = 0.36%
+2025-26 (FAE): 1,396 thousand persons, Rank among 28 districts = 24, YoY Growth = 0.29%

@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Services Sector (aggregate)
 
-2022-23 (TRE): Value = Rs. 10,795.01 Cr., Rank among 28 districts = 21, Contribution to state total = 2.16%
-2023-24 (SRE): Value = Rs. 11,328.00 Cr., Rank among 28 districts = 22, YoY Growth = 4.94%, Contribution to state total = 2.07%
-2024-25 (FRE): Value = Rs. 12,887.52 Cr., Rank among 28 districts = 21, YoY Growth = 13.77%, Contribution to state total = 2.08%
-2025-26 (FAE): Value = Rs. 14,621.33 Cr., Rank among 28 districts = 21, YoY Growth = 13.45%, Contribution to state total = 2.09%
+2022-23 (TRE): Rs. 10,795.01 Cr., Rank among 28 districts = 21, Contribution to state total = 2.16%
+2023-24 (SRE): Rs. 11,328.00 Cr., Rank among 28 districts = 22, YoY Growth = 4.94%, Contribution to state total = 2.07%
+2024-25 (FRE): Rs. 12,887.52 Cr., Rank among 28 districts = 21, YoY Growth = 13.77%, Contribution to state total = 2.08%
+2025-26 (FAE): Rs. 14,621.33 Cr., Rank among 28 districts = 21, YoY Growth = 13.45%, Contribution to state total = 2.09%

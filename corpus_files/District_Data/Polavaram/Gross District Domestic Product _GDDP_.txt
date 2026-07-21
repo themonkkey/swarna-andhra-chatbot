@@ -1,6 +1,6 @@
 District: Polavaram — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 4,652.76 Cr., Rank among 28 districts = 28, Contribution to state total = 0.36%
-2023-24 (SRE): Value = Rs. 4,977.00 Cr., Rank among 28 districts = 28, YoY Growth = 6.96%, Contribution to state total = 0.35%
-2024-25 (FRE): Value = Rs. 6,223.00 Cr., Rank among 28 districts = 28, YoY Growth = 25.04%, Contribution to state total = 0.39%
-2025-26 (FAE): Value = Rs. 6,831.00 Cr., Rank among 28 districts = 28, YoY Growth = 9.77%, Contribution to state total = 0.39%
+2022-23 (TRE): Rs. 4,652.76 Cr., Rank among 28 districts = 28, Contribution to state total = 0.36%
+2023-24 (SRE): Rs. 4,977.00 Cr., Rank among 28 districts = 28, YoY Growth = 6.96%, Contribution to state total = 0.35%
+2024-25 (FRE): Rs. 6,223.00 Cr., Rank among 28 districts = 28, YoY Growth = 25.04%, Contribution to state total = 0.39%
+2025-26 (FAE): Rs. 6,831.00 Cr., Rank among 28 districts = 28, YoY Growth = 9.77%, Contribution to state total = 0.39%

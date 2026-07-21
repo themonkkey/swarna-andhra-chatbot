@@ -1,6 +1,6 @@
 District: Eluru — Sector: Construction
 
-2022-23 (TRE): Value = Rs. 2,455.99 Cr., Rank among 28 districts = 18, Contribution to state total = 2.52%
-2023-24 (SRE): Value = Rs. 2,567.00 Cr., Rank among 28 districts = 19, YoY Growth = 4.52%, Contribution to state total = 2.48%
-2024-25 (FRE): Value = Rs. 2,821.20 Cr., Rank among 28 districts = 19, YoY Growth = 9.89%, Contribution to state total = 2.45%
-2025-26 (FAE): Value = Rs. 3,144.19 Cr., Rank among 28 districts = 19, YoY Growth = 11.45%, Contribution to state total = 2.42%
+2022-23 (TRE): Rs. 2,455.99 Cr., Rank among 28 districts = 18, Contribution to state total = 2.52%
+2023-24 (SRE): Rs. 2,567.00 Cr., Rank among 28 districts = 19, YoY Growth = 4.52%, Contribution to state total = 2.48%
+2024-25 (FRE): Rs. 2,821.20 Cr., Rank among 28 districts = 19, YoY Growth = 9.89%, Contribution to state total = 2.45%
+2025-26 (FAE): Rs. 3,144.19 Cr., Rank among 28 districts = 19, YoY Growth = 11.45%, Contribution to state total = 2.42%

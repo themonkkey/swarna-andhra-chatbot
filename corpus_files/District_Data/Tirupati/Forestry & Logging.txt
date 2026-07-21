@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 590.55 Cr., Rank among 28 districts = 5, Contribution to state total = 6.54%
-2023-24 (SRE): Value = Rs. 647.00 Cr., Rank among 28 districts = 6, YoY Growth = 9.48%, Contribution to state total = 6.63%
-2024-25 (FRE): Value = Rs. 661.36 Cr., Rank among 28 districts = 6, YoY Growth = 2.16%, Contribution to state total = 6.61%
-2025-26 (FAE): Value = Rs. 569.86 Cr., Rank among 28 districts = 4, YoY Growth = -13.77%, Contribution to state total = 5.52%
+2022-23 (TRE): Rs. 590.55 Cr., Rank among 28 districts = 5, Contribution to state total = 6.54%
+2023-24 (SRE): Rs. 647.00 Cr., Rank among 28 districts = 6, YoY Growth = 9.48%, Contribution to state total = 6.63%
+2024-25 (FRE): Rs. 661.36 Cr., Rank among 28 districts = 6, YoY Growth = 2.16%, Contribution to state total = 6.61%
+2025-26 (FAE): Rs. 569.86 Cr., Rank among 28 districts = 4, YoY Growth = -13.77%, Contribution to state total = 5.52%

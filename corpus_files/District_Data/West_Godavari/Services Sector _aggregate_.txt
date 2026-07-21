@@ -1,6 +1,6 @@
 District: West Godavari — Sector: Services Sector (aggregate)
 
-2022-23 (TRE): Value = Rs. 18,285.62 Cr., Rank among 28 districts = 11, Contribution to state total = 3.65%
-2023-24 (SRE): Value = Rs. 20,541.00 Cr., Rank among 28 districts = 11, YoY Growth = 12.33%, Contribution to state total = 3.74%
-2024-25 (FRE): Value = Rs. 22,579.49 Cr., Rank among 28 districts = 11, YoY Growth = 9.92%, Contribution to state total = 3.64%
-2025-26 (FAE): Value = Rs. 25,577.19 Cr., Rank among 28 districts = 11, YoY Growth = 13.28%, Contribution to state total = 3.65%
+2022-23 (TRE): Rs. 18,285.62 Cr., Rank among 28 districts = 11, Contribution to state total = 3.65%
+2023-24 (SRE): Rs. 20,541.00 Cr., Rank among 28 districts = 11, YoY Growth = 12.33%, Contribution to state total = 3.74%
+2024-25 (FRE): Rs. 22,579.49 Cr., Rank among 28 districts = 11, YoY Growth = 9.92%, Contribution to state total = 3.64%
+2025-26 (FAE): Rs. 25,577.19 Cr., Rank among 28 districts = 11, YoY Growth = 13.28%, Contribution to state total = 3.65%

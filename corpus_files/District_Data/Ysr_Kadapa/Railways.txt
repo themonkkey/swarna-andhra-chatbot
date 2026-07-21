@@ -1,6 +1,6 @@
 District: Ysr Kadapa — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 154.94 Cr., Rank among 28 districts = 12, Contribution to state total = 2.08%
-2023-24 (SRE): Value = Rs. 176.00 Cr., Rank among 28 districts = 12, YoY Growth = 13.55%, Contribution to state total = 2.06%
-2024-25 (FRE): Value = Rs. 158.19 Cr., Rank among 28 districts = 13, YoY Growth = -10.23%, Contribution to state total = 1.71%
-2025-26 (FAE): Value = Rs. 170.00 Cr., Rank among 28 districts = 13, YoY Growth = 7.59%, Contribution to state total = 1.70%
+2022-23 (TRE): Rs. 154.94 Cr., Rank among 28 districts = 12, Contribution to state total = 2.08%
+2023-24 (SRE): Rs. 176.00 Cr., Rank among 28 districts = 12, YoY Growth = 13.55%, Contribution to state total = 2.06%
+2024-25 (FRE): Rs. 158.19 Cr., Rank among 28 districts = 13, YoY Growth = -10.23%, Contribution to state total = 1.71%
+2025-26 (FAE): Rs. 170.00 Cr., Rank among 28 districts = 13, YoY Growth = 7.59%, Contribution to state total = 1.70%

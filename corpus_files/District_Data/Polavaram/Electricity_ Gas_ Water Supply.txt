@@ -1,6 +1,6 @@
 District: Polavaram — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 178.00 Cr., Rank among 28 districts = 26, Contribution to state total = 0.58%
-2023-24 (SRE): Value = Rs. 287.58 Cr., Rank among 28 districts = 26, YoY Growth = 61.80%, Contribution to state total = 0.73%
-2024-25 (FRE): Value = Rs. 313.59 Cr., Rank among 28 districts = 26, YoY Growth = 9.03%, Contribution to state total = 0.74%
-2025-26 (FAE): Value = Rs. 291.68 Cr., Rank among 28 districts = 26, YoY Growth = -7.01%, Contribution to state total = 0.66%
+2022-23 (TRE): Rs. 178.00 Cr., Rank among 28 districts = 26, Contribution to state total = 0.58%
+2023-24 (SRE): Rs. 287.58 Cr., Rank among 28 districts = 26, YoY Growth = 61.80%, Contribution to state total = 0.73%
+2024-25 (FRE): Rs. 313.59 Cr., Rank among 28 districts = 26, YoY Growth = 9.03%, Contribution to state total = 0.74%
+2025-26 (FAE): Rs. 291.68 Cr., Rank among 28 districts = 26, YoY Growth = -7.01%, Contribution to state total = 0.66%

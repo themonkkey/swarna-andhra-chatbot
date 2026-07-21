@@ -1,6 +1,6 @@
 District: Krishna — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 121.09 Cr., Rank among 28 districts = 22, Contribution to state total = 1.34%
-2023-24 (SRE): Value = Rs. 126.00 Cr., Rank among 28 districts = 22, YoY Growth = 4.13%, Contribution to state total = 1.29%
-2024-25 (FRE): Value = Rs. 129.64 Cr., Rank among 28 districts = 22, YoY Growth = 3.17%, Contribution to state total = 1.30%
-2025-26 (FAE): Value = Rs. 205.01 Cr., Rank among 28 districts = 23, YoY Growth = 57.69%, Contribution to state total = 1.99%
+2022-23 (TRE): Rs. 121.09 Cr., Rank among 28 districts = 22, Contribution to state total = 1.34%
+2023-24 (SRE): Rs. 126.00 Cr., Rank among 28 districts = 22, YoY Growth = 4.13%, Contribution to state total = 1.29%
+2024-25 (FRE): Rs. 129.64 Cr., Rank among 28 districts = 22, YoY Growth = 3.17%, Contribution to state total = 1.30%
+2025-26 (FAE): Rs. 205.01 Cr., Rank among 28 districts = 23, YoY Growth = 57.69%, Contribution to state total = 1.99%

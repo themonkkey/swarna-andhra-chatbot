@@ -1,6 +1,6 @@
 District: West Godavari — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 506.00 Cr., Rank among 28 districts = 19, Contribution to state total = 1.64%
-2023-24 (SRE): Value = Rs. 733.35 Cr., Rank among 28 districts = 18, YoY Growth = 44.86%, Contribution to state total = 1.87%
-2024-25 (FRE): Value = Rs. 803.66 Cr., Rank among 28 districts = 16, YoY Growth = 9.69%, Contribution to state total = 1.90%
-2025-26 (FAE): Value = Rs. 826.09 Cr., Rank among 28 districts = 17, YoY Growth = 2.74%, Contribution to state total = 1.86%
+2022-23 (TRE): Rs. 506.00 Cr., Rank among 28 districts = 19, Contribution to state total = 1.64%
+2023-24 (SRE): Rs. 733.35 Cr., Rank among 28 districts = 18, YoY Growth = 44.86%, Contribution to state total = 1.87%
+2024-25 (FRE): Rs. 803.66 Cr., Rank among 28 districts = 16, YoY Growth = 9.69%, Contribution to state total = 1.90%
+2025-26 (FAE): Rs. 826.09 Cr., Rank among 28 districts = 17, YoY Growth = 2.74%, Contribution to state total = 1.86%

@@ -1,6 +1,6 @@
-District: Markapuram — Sector: Per Capita Income (Rs.)
+District: Markapuram — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 158,474.00 Cr., Rank among 28 districts = 24, Contribution to state total = 2.66%
-2023-24 (SRE): Value = Rs. 179,580.00 Cr., Rank among 28 districts = 22, YoY Growth = 13.32%, Contribution to state total = 2.78%
-2024-25 (FRE): Value = Rs. 208,207.00 Cr., Rank among 28 districts = 21, YoY Growth = 15.94%, Contribution to state total = 2.88%
-2025-26 (FAE): Value = Rs. 216,667.00 Cr., Rank among 28 districts = 21, YoY Growth = 4.06%, Contribution to state total = 2.71%
+2022-23 (TRE): Rs. 158,474 per person, Rank among 28 districts = 24
+2023-24 (SRE): Rs. 179,580 per person, Rank among 28 districts = 22, YoY Growth = 13.32%
+2024-25 (FRE): Rs. 208,207 per person, Rank among 28 districts = 21, YoY Growth = 15.94%
+2025-26 (FAE): Rs. 216,667 per person, Rank among 28 districts = 21, YoY Growth = 4.06%

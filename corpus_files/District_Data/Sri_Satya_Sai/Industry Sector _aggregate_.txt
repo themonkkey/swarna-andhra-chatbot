@@ -1,6 +1,6 @@
 District: Sri Satya Sai — Sector: Industry Sector (aggregate)
 
-2022-23 (TRE): Value = Rs. 14,704.76 Cr., Rank among 28 districts = 6, Contribution to state total = 5.01%
-2023-24 (SRE): Value = Rs. 15,278.12 Cr., Rank among 28 districts = 9, YoY Growth = 3.90%, Contribution to state total = 4.73%
-2024-25 (FRE): Value = Rs. 16,362.00 Cr., Rank among 28 districts = 9, YoY Growth = 7.10%, Contribution to state total = 4.66%
-2025-26 (FAE): Value = Rs. 17,528.00 Cr., Rank among 28 districts = 9, YoY Growth = 7.13%, Contribution to state total = 4.56%
+2022-23 (TRE): Rs. 14,704.76 Cr., Rank among 28 districts = 6, Contribution to state total = 5.01%
+2023-24 (SRE): Rs. 15,278.12 Cr., Rank among 28 districts = 9, YoY Growth = 3.90%, Contribution to state total = 4.73%
+2024-25 (FRE): Rs. 16,362.00 Cr., Rank among 28 districts = 9, YoY Growth = 7.10%, Contribution to state total = 4.66%
+2025-26 (FAE): Rs. 17,528.00 Cr., Rank among 28 districts = 9, YoY Growth = 7.13%, Contribution to state total = 4.56%

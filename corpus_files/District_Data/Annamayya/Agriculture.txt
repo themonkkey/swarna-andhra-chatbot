@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Agriculture
 
-2022-23 (TRE): Value = Rs. 781.00 Cr., Rank among 28 districts = 24, Contribution to state total = 1.58%
-2023-24 (SRE): Value = Rs. 538.90 Cr., Rank among 28 districts = 25, YoY Growth = -30.99%, Contribution to state total = 1.17%
-2024-25 (FRE): Value = Rs. 687.00 Cr., Rank among 28 districts = 25, YoY Growth = 27.46%, Contribution to state total = 1.24%
-2025-26 (FAE): Value = Rs. 377.45 Cr., Rank among 28 districts = 26, YoY Growth = -45.12%, Contribution to state total = 0.66%
+2022-23 (TRE): Rs. 781.00 Cr., Rank among 28 districts = 24, Contribution to state total = 1.58%
+2023-24 (SRE): Rs. 538.90 Cr., Rank among 28 districts = 25, YoY Growth = -30.99%, Contribution to state total = 1.17%
+2024-25 (FRE): Rs. 687.00 Cr., Rank among 28 districts = 25, YoY Growth = 27.46%, Contribution to state total = 1.24%
+2025-26 (FAE): Rs. 377.45 Cr., Rank among 28 districts = 26, YoY Growth = -45.12%, Contribution to state total = 0.66%

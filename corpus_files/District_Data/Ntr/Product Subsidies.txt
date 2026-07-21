@@ -1,6 +1,6 @@
 District: Ntr — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 2,187.00 Cr., Rank among 28 districts = 3, Contribution to state total = 5.44%
-2023-24 (SRE): Value = Rs. 1,570.51 Cr., Rank among 28 districts = 2, YoY Growth = -28.17%, Contribution to state total = 5.80%
-2024-25 (FRE): Value = Rs. 1,449.00 Cr., Rank among 28 districts = 2, YoY Growth = -7.77%, Contribution to state total = 5.85%
-2025-26 (FAE): Value = Rs. 1,433.18 Cr., Rank among 28 districts = 2, YoY Growth = -1.10%, Contribution to state total = 5.97%
+2022-23 (TRE): Rs. 2,187.00 Cr., Rank among 28 districts = 3, Contribution to state total = 5.44%
+2023-24 (SRE): Rs. 1,570.51 Cr., Rank among 28 districts = 2, YoY Growth = -28.17%, Contribution to state total = 5.80%
+2024-25 (FRE): Rs. 1,449.00 Cr., Rank among 28 districts = 2, YoY Growth = -7.77%, Contribution to state total = 5.85%
+2025-26 (FAE): Rs. 1,433.18 Cr., Rank among 28 districts = 2, YoY Growth = -1.10%, Contribution to state total = 5.97%

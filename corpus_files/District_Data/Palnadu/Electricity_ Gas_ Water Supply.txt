@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 585.00 Cr., Rank among 28 districts = 15, Contribution to state total = 1.89%
-2023-24 (SRE): Value = Rs. 738.42 Cr., Rank among 28 districts = 17, YoY Growth = 26.15%, Contribution to state total = 1.88%
-2024-25 (FRE): Value = Rs. 808.36 Cr., Rank among 28 districts = 15, YoY Growth = 9.49%, Contribution to state total = 1.91%
-2025-26 (FAE): Value = Rs. 879.53 Cr., Rank among 28 districts = 15, YoY Growth = 8.91%, Contribution to state total = 1.98%
+2022-23 (TRE): Rs. 585.00 Cr., Rank among 28 districts = 15, Contribution to state total = 1.89%
+2023-24 (SRE): Rs. 738.42 Cr., Rank among 28 districts = 17, YoY Growth = 26.15%, Contribution to state total = 1.88%
+2024-25 (FRE): Rs. 808.36 Cr., Rank among 28 districts = 15, YoY Growth = 9.49%, Contribution to state total = 1.91%
+2025-26 (FAE): Rs. 879.53 Cr., Rank among 28 districts = 15, YoY Growth = 8.91%, Contribution to state total = 1.98%

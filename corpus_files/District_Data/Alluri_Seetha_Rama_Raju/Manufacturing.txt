@@ -1,6 +1,6 @@
 District: Alluri Seetha Rama Raju — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 4.70 Cr., Rank among 28 districts = 28, Contribution to state total = 0.00%
-2023-24 (SRE): Value = Rs. 3.00 Cr., Rank among 28 districts = 28, YoY Growth = -40.00%, Contribution to state total = 0.00%
-2024-25 (FRE): Value = Rs. 3.75 Cr., Rank among 28 districts = 28, YoY Growth = 33.33%, Contribution to state total = 0.00%
-2025-26 (FAE): Value = Rs. 3.96 Cr., Rank among 28 districts = 28, YoY Growth = 0.00%, Contribution to state total = 0.00%
+2022-23 (TRE): Rs. 4.70 Cr., Rank among 28 districts = 28, Contribution to state total = 0.00%
+2023-24 (SRE): Rs. 3.00 Cr., Rank among 28 districts = 28, YoY Growth = -40.00%, Contribution to state total = 0.00%
+2024-25 (FRE): Rs. 3.75 Cr., Rank among 28 districts = 28, YoY Growth = 33.33%, Contribution to state total = 0.00%
+2025-26 (FAE): Rs. 3.96 Cr., Rank among 28 districts = 28, YoY Growth = 0.00%, Contribution to state total = 0.00%

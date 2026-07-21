@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 5,481.06 Cr., Rank among 28 districts = 8, Contribution to state total = 4.55%
-2023-24 (SRE): Value = Rs. 5,868.28 Cr., Rank among 28 districts = 7, YoY Growth = 7.06%, Contribution to state total = 4.66%
-2024-25 (FRE): Value = Rs. 5,959.00 Cr., Rank among 28 districts = 10, YoY Growth = 1.55%, Contribution to state total = 4.20%
-2025-26 (FAE): Value = Rs. 6,518.41 Cr., Rank among 28 districts = 8, YoY Growth = 9.38%, Contribution to state total = 4.57%
+2022-23 (TRE): Rs. 5,481.06 Cr., Rank among 28 districts = 8, Contribution to state total = 4.55%
+2023-24 (SRE): Rs. 5,868.28 Cr., Rank among 28 districts = 7, YoY Growth = 7.06%, Contribution to state total = 4.66%
+2024-25 (FRE): Rs. 5,959.00 Cr., Rank among 28 districts = 10, YoY Growth = 1.55%, Contribution to state total = 4.20%
+2025-26 (FAE): Rs. 6,518.41 Cr., Rank among 28 districts = 8, YoY Growth = 9.38%, Contribution to state total = 4.57%

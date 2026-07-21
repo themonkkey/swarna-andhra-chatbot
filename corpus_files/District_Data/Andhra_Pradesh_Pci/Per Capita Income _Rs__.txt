@@ -1,6 +1,6 @@
-District: Andhra Pradesh Pci — Sector: Per Capita Income (Rs.)
+District: Andhra Pradesh Pci — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 219,814.00 Cr., Rank among 28 districts = None, Contribution to state total = N/A%
-2023-24 (SRE): Value = Rs. 239,311.00 Cr., Rank among 28 districts = None, Contribution to state total = N/A%
-2024-25 (FRE): Value = Rs. 266,699.00 Cr., Rank among 28 districts = None, Contribution to state total = N/A%
-2025-26 (FAE): Value = Rs. 294,507.00 Cr., Rank among 28 districts = None, Contribution to state total = N/A%
+2022-23 (TRE): Rs. 219,814 per person
+2023-24 (SRE): Rs. 239,311 per person
+2024-25 (FRE): Rs. 266,699 per person
+2025-26 (FAE): Rs. 294,507 per person

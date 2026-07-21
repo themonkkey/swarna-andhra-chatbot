@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 98.84 Cr., Rank among 28 districts = 17, Contribution to state total = 1.33%
-2023-24 (SRE): Value = Rs. 112.00 Cr., Rank among 28 districts = 16, YoY Growth = 13.13%, Contribution to state total = 1.31%
-2024-25 (FRE): Value = Rs. 128.48 Cr., Rank among 28 districts = 16, YoY Growth = 14.29%, Contribution to state total = 1.39%
-2025-26 (FAE): Value = Rs. 138.00 Cr., Rank among 28 districts = 16, YoY Growth = 7.81%, Contribution to state total = 1.38%
+2022-23 (TRE): Rs. 98.84 Cr., Rank among 28 districts = 17, Contribution to state total = 1.33%
+2023-24 (SRE): Rs. 112.00 Cr., Rank among 28 districts = 16, YoY Growth = 13.13%, Contribution to state total = 1.31%
+2024-25 (FRE): Rs. 128.48 Cr., Rank among 28 districts = 16, YoY Growth = 14.29%, Contribution to state total = 1.39%
+2025-26 (FAE): Rs. 138.00 Cr., Rank among 28 districts = 16, YoY Growth = 7.81%, Contribution to state total = 1.38%

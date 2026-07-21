@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 5,856.36 Cr., Rank among 28 districts = 10, Contribution to state total = 4.00%
-2023-24 (SRE): Value = Rs. 6,282.00 Cr., Rank among 28 districts = 10, YoY Growth = 7.27%, Contribution to state total = 4.06%
-2024-25 (FRE): Value = Rs. 7,695.86 Cr., Rank among 28 districts = 8, YoY Growth = 22.51%, Contribution to state total = 4.68%
-2025-26 (FAE): Value = Rs. 8,399.00 Cr., Rank among 28 districts = 7, YoY Growth = 9.13%, Contribution to state total = 4.77%
+2022-23 (TRE): Rs. 5,856.36 Cr., Rank among 28 districts = 10, Contribution to state total = 4.00%
+2023-24 (SRE): Rs. 6,282.00 Cr., Rank among 28 districts = 10, YoY Growth = 7.27%, Contribution to state total = 4.06%
+2024-25 (FRE): Rs. 7,695.86 Cr., Rank among 28 districts = 8, YoY Growth = 22.51%, Contribution to state total = 4.68%
+2025-26 (FAE): Rs. 8,399.00 Cr., Rank among 28 districts = 7, YoY Growth = 9.13%, Contribution to state total = 4.77%

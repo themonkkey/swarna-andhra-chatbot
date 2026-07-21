@@ -1,6 +1,6 @@
 District: Polavaram — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 423.30 Cr., Rank among 28 districts = 28, Contribution to state total = 0.42%
-2023-24 (SRE): Value = Rs. 431.68 Cr., Rank among 28 districts = 28, YoY Growth = 2.13%, Contribution to state total = 0.40%
-2024-25 (FRE): Value = Rs. 470.41 Cr., Rank among 28 districts = 28, YoY Growth = 8.80%, Contribution to state total = 0.39%
-2025-26 (FAE): Value = Rs. 542.19 Cr., Rank among 28 districts = 28, YoY Growth = 15.32%, Contribution to state total = 0.39%
+2022-23 (TRE): Rs. 423.30 Cr., Rank among 28 districts = 28, Contribution to state total = 0.42%
+2023-24 (SRE): Rs. 431.68 Cr., Rank among 28 districts = 28, YoY Growth = 2.13%, Contribution to state total = 0.40%
+2024-25 (FRE): Rs. 470.41 Cr., Rank among 28 districts = 28, YoY Growth = 8.80%, Contribution to state total = 0.39%
+2025-26 (FAE): Rs. 542.19 Cr., Rank among 28 districts = 28, YoY Growth = 15.32%, Contribution to state total = 0.39%

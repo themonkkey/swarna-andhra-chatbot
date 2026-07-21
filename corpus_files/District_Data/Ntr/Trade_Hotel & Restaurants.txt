@@ -1,6 +1,6 @@
 District: Ntr — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 10,217.18 Cr., Rank among 28 districts = 2, Contribution to state total = 11.45%
-2023-24 (SRE): Value = Rs. 12,155.00 Cr., Rank among 28 districts = 2, YoY Growth = 18.97%, Contribution to state total = 12.62%
-2024-25 (FRE): Value = Rs. 14,628.00 Cr., Rank among 28 districts = 2, YoY Growth = 20.35%, Contribution to state total = 13.42%
-2025-26 (FAE): Value = Rs. 17,101.85 Cr., Rank among 28 districts = 2, YoY Growth = 16.91%, Contribution to state total = 13.95%
+2022-23 (TRE): Rs. 10,217.18 Cr., Rank among 28 districts = 2, Contribution to state total = 11.45%
+2023-24 (SRE): Rs. 12,155.00 Cr., Rank among 28 districts = 2, YoY Growth = 18.97%, Contribution to state total = 12.62%
+2024-25 (FRE): Rs. 14,628.00 Cr., Rank among 28 districts = 2, YoY Growth = 20.35%, Contribution to state total = 13.42%
+2025-26 (FAE): Rs. 17,101.85 Cr., Rank among 28 districts = 2, YoY Growth = 16.91%, Contribution to state total = 13.95%

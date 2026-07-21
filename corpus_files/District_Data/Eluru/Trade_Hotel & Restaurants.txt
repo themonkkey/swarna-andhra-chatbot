@@ -1,6 +1,6 @@
 District: Eluru — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 1,635.40 Cr., Rank among 28 districts = 14, Contribution to state total = 1.83%
-2023-24 (SRE): Value = Rs. 1,928.00 Cr., Rank among 28 districts = 14, YoY Growth = 17.92%, Contribution to state total = 2.00%
-2024-25 (FRE): Value = Rs. 1,934.00 Cr., Rank among 28 districts = 15, YoY Growth = 0.31%, Contribution to state total = 1.77%
-2025-26 (FAE): Value = Rs. 2,174.59 Cr., Rank among 28 districts = 15, YoY Growth = 12.46%, Contribution to state total = 1.77%
+2022-23 (TRE): Rs. 1,635.40 Cr., Rank among 28 districts = 14, Contribution to state total = 1.83%
+2023-24 (SRE): Rs. 1,928.00 Cr., Rank among 28 districts = 14, YoY Growth = 17.92%, Contribution to state total = 2.00%
+2024-25 (FRE): Rs. 1,934.00 Cr., Rank among 28 districts = 15, YoY Growth = 0.31%, Contribution to state total = 1.77%
+2025-26 (FAE): Rs. 2,174.59 Cr., Rank among 28 districts = 15, YoY Growth = 12.46%, Contribution to state total = 1.77%

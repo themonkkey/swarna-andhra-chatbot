@@ -1,6 +1,6 @@
 District: Bapatla — Sector: AGRICULTURE & ALLIED SECTOR
 
-2022-23 (TRE): Value = Rs. 17,723.61 Cr., Rank among 28 districts = 9, Contribution to state total = 4.11%
-2023-24 (SRE): Value = Rs. 18,565.25 Cr., Rank among 28 districts = 9, YoY Growth = 4.74%, Contribution to state total = 4.14%
-2024-25 (FRE): Value = Rs. 20,369.51 Cr., Rank among 28 districts = 9, YoY Growth = 9.72%, Contribution to state total = 4.07%
-2025-26 (FAE): Value = Rs. 25,154.55 Cr., Rank among 28 districts = 6, YoY Growth = 23.49%, Contribution to state total = 4.66%
+2022-23 (TRE): Rs. 17,723.61 Cr., Rank among 28 districts = 9, Contribution to state total = 4.11%
+2023-24 (SRE): Rs. 18,565.25 Cr., Rank among 28 districts = 9, YoY Growth = 4.74%, Contribution to state total = 4.14%
+2024-25 (FRE): Rs. 20,369.51 Cr., Rank among 28 districts = 9, YoY Growth = 9.72%, Contribution to state total = 4.07%
+2025-26 (FAE): Rs. 25,154.55 Cr., Rank among 28 districts = 6, YoY Growth = 23.49%, Contribution to state total = 4.66%

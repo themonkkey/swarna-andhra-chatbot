@@ -1,6 +1,6 @@
 District: Markapuram — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 21,085.56 Cr., Rank among 28 districts = 25, Contribution to state total = 1.61%
-2023-24 (SRE): Value = Rs. 23,855.00 Cr., Rank among 28 districts = 25, YoY Growth = 13.13%, Contribution to state total = 1.68%
-2024-25 (FRE): Value = Rs. 27,678.00 Cr., Rank among 28 districts = 25, YoY Growth = 16.03%, Contribution to state total = 1.74%
-2025-26 (FAE): Value = Rs. 28,994.00 Cr., Rank among 28 districts = 25, YoY Growth = 4.75%, Contribution to state total = 1.65%
+2022-23 (TRE): Rs. 21,085.56 Cr., Rank among 28 districts = 25, Contribution to state total = 1.61%
+2023-24 (SRE): Rs. 23,855.00 Cr., Rank among 28 districts = 25, YoY Growth = 13.13%, Contribution to state total = 1.68%
+2024-25 (FRE): Rs. 27,678.00 Cr., Rank among 28 districts = 25, YoY Growth = 16.03%, Contribution to state total = 1.74%
+2025-26 (FAE): Rs. 28,994.00 Cr., Rank among 28 districts = 25, YoY Growth = 4.75%, Contribution to state total = 1.65%

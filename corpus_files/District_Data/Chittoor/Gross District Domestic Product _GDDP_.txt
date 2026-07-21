@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 38,552.63 Cr., Rank among 28 districts = 18, Contribution to state total = 2.95%
-2023-24 (SRE): Value = Rs. 37,827.00 Cr., Rank among 28 districts = 20, YoY Growth = -1.88%, Contribution to state total = 2.66%
-2024-25 (FRE): Value = Rs. 42,460.00 Cr., Rank among 28 districts = 20, YoY Growth = 12.25%, Contribution to state total = 2.67%
-2025-26 (FAE): Value = Rs. 49,290.00 Cr., Rank among 28 districts = 17, YoY Growth = 16.09%, Contribution to state total = 2.80%
+2022-23 (TRE): Rs. 38,552.63 Cr., Rank among 28 districts = 18, Contribution to state total = 2.95%
+2023-24 (SRE): Rs. 37,827.00 Cr., Rank among 28 districts = 20, YoY Growth = -1.88%, Contribution to state total = 2.66%
+2024-25 (FRE): Rs. 42,460.00 Cr., Rank among 28 districts = 20, YoY Growth = 12.25%, Contribution to state total = 2.67%
+2025-26 (FAE): Rs. 49,290.00 Cr., Rank among 28 districts = 17, YoY Growth = 16.09%, Contribution to state total = 2.80%

@@ -1,6 +1,6 @@
 District: West Godavari — Sector: Public Admn.
 
-2022-23 (TRE): Value = Rs. 1,427.96 Cr., Rank among 28 districts = 18, Contribution to state total = 2.83%
-2023-24 (SRE): Value = Rs. 1,437.00 Cr., Rank among 28 districts = 20, YoY Growth = 0.63%, Contribution to state total = 2.69%
-2024-25 (FRE): Value = Rs. 1,546.28 Cr., Rank among 28 districts = 20, YoY Growth = 7.59%, Contribution to state total = 2.70%
-2025-26 (FAE): Value = Rs. 1,602.24 Cr., Rank among 28 districts = 20, YoY Growth = 3.62%, Contribution to state total = 2.67%
+2022-23 (TRE): Rs. 1,427.96 Cr., Rank among 28 districts = 18, Contribution to state total = 2.83%
+2023-24 (SRE): Rs. 1,437.00 Cr., Rank among 28 districts = 20, YoY Growth = 0.63%, Contribution to state total = 2.69%
+2024-25 (FRE): Rs. 1,546.28 Cr., Rank among 28 districts = 20, YoY Growth = 7.59%, Contribution to state total = 2.70%
+2025-26 (FAE): Rs. 1,602.24 Cr., Rank among 28 districts = 20, YoY Growth = 3.62%, Contribution to state total = 2.67%

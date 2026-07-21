@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Net District Domestic Product (NDDP)
 
-2022-23 (TRE): Value = Rs. 33,847.80 Cr., Rank among 28 districts = 19, Contribution to state total = 2.90%
-2023-24 (SRE): Value = Rs. 36,218.64 Cr., Rank among 28 districts = 17, YoY Growth = 7.00%, Contribution to state total = 2.84%
-2024-25 (FRE): Value = Rs. 39,218.73 Cr., Rank among 28 districts = 19, YoY Growth = 8.28%, Contribution to state total = 2.75%
-2025-26 (FAE): Value = Rs. 43,266.63 Cr., Rank among 28 districts = 20, YoY Growth = 10.32%, Contribution to state total = 2.74%
+2022-23 (TRE): Rs. 33,847.80 Cr., Rank among 28 districts = 19, Contribution to state total = 2.90%
+2023-24 (SRE): Rs. 36,218.64 Cr., Rank among 28 districts = 17, YoY Growth = 7.00%, Contribution to state total = 2.84%
+2024-25 (FRE): Rs. 39,218.73 Cr., Rank among 28 districts = 19, YoY Growth = 8.28%, Contribution to state total = 2.75%
+2025-26 (FAE): Rs. 43,266.63 Cr., Rank among 28 districts = 20, YoY Growth = 10.32%, Contribution to state total = 2.74%

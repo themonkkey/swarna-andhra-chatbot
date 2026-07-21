@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Construction
 
-2022-23 (TRE): Value = Rs. 3,176.84 Cr., Rank among 28 districts = 13, Contribution to state total = 3.26%
-2023-24 (SRE): Value = Rs. 3,379.00 Cr., Rank among 28 districts = 13, YoY Growth = 6.36%, Contribution to state total = 3.27%
-2024-25 (FRE): Value = Rs. 3,753.10 Cr., Rank among 28 districts = 13, YoY Growth = 11.07%, Contribution to state total = 3.26%
-2025-26 (FAE): Value = Rs. 4,228.58 Cr., Rank among 28 districts = 13, YoY Growth = 12.68%, Contribution to state total = 3.25%
+2022-23 (TRE): Rs. 3,176.84 Cr., Rank among 28 districts = 13, Contribution to state total = 3.26%
+2023-24 (SRE): Rs. 3,379.00 Cr., Rank among 28 districts = 13, YoY Growth = 6.36%, Contribution to state total = 3.27%
+2024-25 (FRE): Rs. 3,753.10 Cr., Rank among 28 districts = 13, YoY Growth = 11.07%, Contribution to state total = 3.26%
+2025-26 (FAE): Rs. 4,228.58 Cr., Rank among 28 districts = 13, YoY Growth = 12.68%, Contribution to state total = 3.25%

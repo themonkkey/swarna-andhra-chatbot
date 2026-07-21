@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 1,285.17 Cr., Rank among 28 districts = 19, Contribution to state total = 2.18%
-2023-24 (SRE): Value = Rs. 1,390.06 Cr., Rank among 28 districts = 19, YoY Growth = 8.17%, Contribution to state total = 2.14%
-2024-25 (FRE): Value = Rs. 1,607.75 Cr., Rank among 28 districts = 19, YoY Growth = 15.68%, Contribution to state total = 2.16%
-2025-26 (FAE): Value = Rs. 1,840.00 Cr., Rank among 28 districts = 19, YoY Growth = 14.43%, Contribution to state total = 2.14%
+2022-23 (TRE): Rs. 1,285.17 Cr., Rank among 28 districts = 19, Contribution to state total = 2.18%
+2023-24 (SRE): Rs. 1,390.06 Cr., Rank among 28 districts = 19, YoY Growth = 8.17%, Contribution to state total = 2.14%
+2024-25 (FRE): Rs. 1,607.75 Cr., Rank among 28 districts = 19, YoY Growth = 15.68%, Contribution to state total = 2.16%
+2025-26 (FAE): Rs. 1,840.00 Cr., Rank among 28 districts = 19, YoY Growth = 14.43%, Contribution to state total = 2.14%

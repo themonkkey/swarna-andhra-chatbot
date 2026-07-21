@@ -1,6 +1,6 @@
 District: Polavaram — Sector: Industry Sector (aggregate)
 
-2022-23 (TRE): Value = Rs. 386.81 Cr., Rank among 28 districts = 28, Contribution to state total = 0.13%
-2023-24 (SRE): Value = Rs. 500.56 Cr., Rank among 28 districts = 28, YoY Growth = 29.46%, Contribution to state total = 0.15%
-2024-25 (FRE): Value = Rs. 628.00 Cr., Rank among 28 districts = 28, YoY Growth = 25.35%, Contribution to state total = 0.18%
-2025-26 (FAE): Value = Rs. 558.00 Cr., Rank among 28 districts = 28, YoY Growth = -11.15%, Contribution to state total = 0.15%
+2022-23 (TRE): Rs. 386.81 Cr., Rank among 28 districts = 28, Contribution to state total = 0.13%
+2023-24 (SRE): Rs. 500.56 Cr., Rank among 28 districts = 28, YoY Growth = 29.46%, Contribution to state total = 0.15%
+2024-25 (FRE): Rs. 628.00 Cr., Rank among 28 districts = 28, YoY Growth = 25.35%, Contribution to state total = 0.18%
+2025-26 (FAE): Rs. 558.00 Cr., Rank among 28 districts = 28, YoY Growth = -11.15%, Contribution to state total = 0.15%

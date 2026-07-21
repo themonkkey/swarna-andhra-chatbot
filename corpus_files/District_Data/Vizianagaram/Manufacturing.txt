@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 1,796.02 Cr., Rank among 28 districts = 18, Contribution to state total = 1.42%
-2023-24 (SRE): Value = Rs. 2,121.00 Cr., Rank among 28 districts = 19, YoY Growth = 18.10%, Contribution to state total = 1.40%
-2024-25 (FRE): Value = Rs. 2,286.42 Cr., Rank among 28 districts = 19, YoY Growth = 7.78%, Contribution to state total = 1.42%
-2025-26 (FAE): Value = Rs. 2,497.96 Cr., Rank among 28 districts = 19, YoY Growth = 9.27%, Contribution to state total = 1.42%
+2022-23 (TRE): Rs. 1,796.02 Cr., Rank among 28 districts = 18, Contribution to state total = 1.42%
+2023-24 (SRE): Rs. 2,121.00 Cr., Rank among 28 districts = 19, YoY Growth = 18.10%, Contribution to state total = 1.40%
+2024-25 (FRE): Rs. 2,286.42 Cr., Rank among 28 districts = 19, YoY Growth = 7.78%, Contribution to state total = 1.42%
+2025-26 (FAE): Rs. 2,497.96 Cr., Rank among 28 districts = 19, YoY Growth = 9.27%, Contribution to state total = 1.42%

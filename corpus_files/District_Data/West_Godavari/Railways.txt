@@ -1,6 +1,6 @@
 District: West Godavari — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 171.50 Cr., Rank among 28 districts = 11, Contribution to state total = 2.31%
-2023-24 (SRE): Value = Rs. 191.00 Cr., Rank among 28 districts = 11, YoY Growth = 11.05%, Contribution to state total = 2.24%
-2024-25 (FRE): Value = Rs. 205.60 Cr., Rank among 28 districts = 11, YoY Growth = 7.85%, Contribution to state total = 2.23%
-2025-26 (FAE): Value = Rs. 221.00 Cr., Rank among 28 districts = 11, YoY Growth = 7.28%, Contribution to state total = 2.21%
+2022-23 (TRE): Rs. 171.50 Cr., Rank among 28 districts = 11, Contribution to state total = 2.31%
+2023-24 (SRE): Rs. 191.00 Cr., Rank among 28 districts = 11, YoY Growth = 11.05%, Contribution to state total = 2.24%
+2024-25 (FRE): Rs. 205.60 Cr., Rank among 28 districts = 11, YoY Growth = 7.85%, Contribution to state total = 2.23%
+2025-26 (FAE): Rs. 221.00 Cr., Rank among 28 districts = 11, YoY Growth = 7.28%, Contribution to state total = 2.21%

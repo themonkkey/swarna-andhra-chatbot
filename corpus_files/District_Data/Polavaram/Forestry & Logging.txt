@@ -1,6 +1,6 @@
 District: Polavaram — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 665.48 Cr., Rank among 28 districts = 3, Contribution to state total = 7.36%
-2023-24 (SRE): Value = Rs. 741.00 Cr., Rank among 28 districts = 3, YoY Growth = 11.43%, Contribution to state total = 7.59%
-2024-25 (FRE): Value = Rs. 759.89 Cr., Rank among 28 districts = 3, YoY Growth = 2.56%, Contribution to state total = 7.60%
-2025-26 (FAE): Value = Rs. 471.09 Cr., Rank among 28 districts = 8, YoY Growth = -38.03%, Contribution to state total = 4.57%
+2022-23 (TRE): Rs. 665.48 Cr., Rank among 28 districts = 3, Contribution to state total = 7.36%
+2023-24 (SRE): Rs. 741.00 Cr., Rank among 28 districts = 3, YoY Growth = 11.43%, Contribution to state total = 7.59%
+2024-25 (FRE): Rs. 759.89 Cr., Rank among 28 districts = 3, YoY Growth = 2.56%, Contribution to state total = 7.60%
+2025-26 (FAE): Rs. 471.09 Cr., Rank among 28 districts = 8, YoY Growth = -38.03%, Contribution to state total = 4.57%

@@ -1,6 +1,6 @@
 District: West Godavari — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 1,593.00 Cr., Rank among 28 districts = 12, Contribution to state total = 3.96%
-2023-24 (SRE): Value = Rs. 1,094.21 Cr., Rank among 28 districts = 12, YoY Growth = -31.32%, Contribution to state total = 4.04%
-2024-25 (FRE): Value = Rs. 1,005.00 Cr., Rank among 28 districts = 11, YoY Growth = -8.14%, Contribution to state total = 4.06%
-2025-26 (FAE): Value = Rs. 1,009.06 Cr., Rank among 28 districts = 11, YoY Growth = 0.40%, Contribution to state total = 4.20%
+2022-23 (TRE): Rs. 1,593.00 Cr., Rank among 28 districts = 12, Contribution to state total = 3.96%
+2023-24 (SRE): Rs. 1,094.21 Cr., Rank among 28 districts = 12, YoY Growth = -31.32%, Contribution to state total = 4.04%
+2024-25 (FRE): Rs. 1,005.00 Cr., Rank among 28 districts = 11, YoY Growth = -8.14%, Contribution to state total = 4.06%
+2025-26 (FAE): Rs. 1,009.06 Cr., Rank among 28 districts = 11, YoY Growth = 0.40%, Contribution to state total = 4.20%

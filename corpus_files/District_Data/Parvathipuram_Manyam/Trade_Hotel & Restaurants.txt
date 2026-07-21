@@ -1,6 +1,6 @@
 District: Parvathipuram Manyam — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 769.81 Cr., Rank among 28 districts = 22, Contribution to state total = 0.86%
-2023-24 (SRE): Value = Rs. 1,001.00 Cr., Rank among 28 districts = 21, YoY Growth = 30.00%, Contribution to state total = 1.04%
-2024-25 (FRE): Value = Rs. 975.00 Cr., Rank among 28 districts = 21, YoY Growth = -2.60%, Contribution to state total = 0.89%
-2025-26 (FAE): Value = Rs. 1,244.96 Cr., Rank among 28 districts = 20, YoY Growth = 27.69%, Contribution to state total = 1.02%
+2022-23 (TRE): Rs. 769.81 Cr., Rank among 28 districts = 22, Contribution to state total = 0.86%
+2023-24 (SRE): Rs. 1,001.00 Cr., Rank among 28 districts = 21, YoY Growth = 30.00%, Contribution to state total = 1.04%
+2024-25 (FRE): Rs. 975.00 Cr., Rank among 28 districts = 21, YoY Growth = -2.60%, Contribution to state total = 0.89%
+2025-26 (FAE): Rs. 1,244.96 Cr., Rank among 28 districts = 20, YoY Growth = 27.69%, Contribution to state total = 1.02%

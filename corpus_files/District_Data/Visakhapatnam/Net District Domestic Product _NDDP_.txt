@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Net District Domestic Product (NDDP)
 
-2022-23 (TRE): Value = Rs. 95,248.07 Cr., Rank among 28 districts = 1, Contribution to state total = 8.16%
-2023-24 (SRE): Value = Rs. 112,233.72 Cr., Rank among 28 districts = 1, YoY Growth = 17.83%, Contribution to state total = 8.81%
-2024-25 (FRE): Value = Rs. 124,900.25 Cr., Rank among 28 districts = 1, YoY Growth = 11.29%, Contribution to state total = 8.76%
-2025-26 (FAE): Value = Rs. 139,688.13 Cr., Rank among 28 districts = 1, YoY Growth = 11.84%, Contribution to state total = 8.84%
+2022-23 (TRE): Rs. 95,248.07 Cr., Rank among 28 districts = 1, Contribution to state total = 8.16%
+2023-24 (SRE): Rs. 112,233.72 Cr., Rank among 28 districts = 1, YoY Growth = 17.83%, Contribution to state total = 8.81%
+2024-25 (FRE): Rs. 124,900.25 Cr., Rank among 28 districts = 1, YoY Growth = 11.29%, Contribution to state total = 8.76%
+2025-26 (FAE): Rs. 139,688.13 Cr., Rank among 28 districts = 1, YoY Growth = 11.84%, Contribution to state total = 8.84%

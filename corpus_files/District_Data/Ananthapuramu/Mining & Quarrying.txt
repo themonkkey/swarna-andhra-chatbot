@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 364.77 Cr., Rank among 28 districts = 19, Contribution to state total = 0.94%
-2023-24 (SRE): Value = Rs. 757.22 Cr., Rank among 28 districts = 11, YoY Growth = 107.40%, Contribution to state total = 2.56%
-2024-25 (FRE): Value = Rs. 1,179.08 Cr., Rank among 28 districts = 9, YoY Growth = 55.75%, Contribution to state total = 3.64%
-2025-26 (FAE): Value = Rs. 722.00 Cr., Rank among 28 districts = 14, YoY Growth = -38.76%, Contribution to state total = 2.13%
+2022-23 (TRE): Rs. 364.77 Cr., Rank among 28 districts = 19, Contribution to state total = 0.94%
+2023-24 (SRE): Rs. 757.22 Cr., Rank among 28 districts = 11, YoY Growth = 107.40%, Contribution to state total = 2.56%
+2024-25 (FRE): Rs. 1,179.08 Cr., Rank among 28 districts = 9, YoY Growth = 55.75%, Contribution to state total = 3.64%
+2025-26 (FAE): Rs. 722.00 Cr., Rank among 28 districts = 14, YoY Growth = -38.76%, Contribution to state total = 2.13%

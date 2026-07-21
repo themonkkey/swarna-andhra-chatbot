@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 5,480.00 Cr., Rank among 28 districts = 7, Contribution to state total = 4.49%
-2023-24 (SRE): Value = Rs. 5,956.00 Cr., Rank among 28 districts = 9, YoY Growth = 8.69%, Contribution to state total = 4.54%
-2024-25 (FRE): Value = Rs. 6,433.70 Cr., Rank among 28 districts = 9, YoY Growth = 8.03%, Contribution to state total = 4.46%
-2025-26 (FAE): Value = Rs. 7,023.09 Cr., Rank among 28 districts = 9, YoY Growth = 9.15%, Contribution to state total = 4.34%
+2022-23 (TRE): Rs. 5,480.00 Cr., Rank among 28 districts = 7, Contribution to state total = 4.49%
+2023-24 (SRE): Rs. 5,956.00 Cr., Rank among 28 districts = 9, YoY Growth = 8.69%, Contribution to state total = 4.54%
+2024-25 (FRE): Rs. 6,433.70 Cr., Rank among 28 districts = 9, YoY Growth = 8.03%, Contribution to state total = 4.46%
+2025-26 (FAE): Rs. 7,023.09 Cr., Rank among 28 districts = 9, YoY Growth = 9.15%, Contribution to state total = 4.34%

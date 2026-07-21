@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 1,389.00 Cr., Rank among 28 districts = 16, Contribution to state total = 3.45%
-2023-24 (SRE): Value = Rs. 875.05 Cr., Rank among 28 districts = 15, YoY Growth = -37.01%, Contribution to state total = 3.23%
-2024-25 (FRE): Value = Rs. 821.00 Cr., Rank among 28 districts = 15, YoY Growth = -6.17%, Contribution to state total = 3.31%
-2025-26 (FAE): Value = Rs. 744.38 Cr., Rank among 28 districts = 15, YoY Growth = -9.38%, Contribution to state total = 3.10%
+2022-23 (TRE): Rs. 1,389.00 Cr., Rank among 28 districts = 16, Contribution to state total = 3.45%
+2023-24 (SRE): Rs. 875.05 Cr., Rank among 28 districts = 15, YoY Growth = -37.01%, Contribution to state total = 3.23%
+2024-25 (FRE): Rs. 821.00 Cr., Rank among 28 districts = 15, YoY Growth = -6.17%, Contribution to state total = 3.31%
+2025-26 (FAE): Rs. 744.38 Cr., Rank among 28 districts = 15, YoY Growth = -9.38%, Contribution to state total = 3.10%

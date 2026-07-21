@@ -1,6 +1,6 @@
 District: Markapuram — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 716.18 Cr., Rank among 28 districts = 25, Contribution to state total = 1.22%
-2023-24 (SRE): Value = Rs. 814.94 Cr., Rank among 28 districts = 25, YoY Growth = 13.83%, Contribution to state total = 1.26%
-2024-25 (FRE): Value = Rs. 919.05 Cr., Rank among 28 districts = 25, YoY Growth = 12.76%, Contribution to state total = 1.24%
-2025-26 (FAE): Value = Rs. 1,079.00 Cr., Rank among 28 districts = 25, YoY Growth = 17.41%, Contribution to state total = 1.26%
+2022-23 (TRE): Rs. 716.18 Cr., Rank among 28 districts = 25, Contribution to state total = 1.22%
+2023-24 (SRE): Rs. 814.94 Cr., Rank among 28 districts = 25, YoY Growth = 13.83%, Contribution to state total = 1.26%
+2024-25 (FRE): Rs. 919.05 Cr., Rank among 28 districts = 25, YoY Growth = 12.76%, Contribution to state total = 1.24%
+2025-26 (FAE): Rs. 1,079.00 Cr., Rank among 28 districts = 25, YoY Growth = 17.41%, Contribution to state total = 1.26%

@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 1,561.07 Cr., Rank among 28 districts = 15, Contribution to state total = 1.75%
-2023-24 (SRE): Value = Rs. 1,724.00 Cr., Rank among 28 districts = 16, YoY Growth = 10.44%, Contribution to state total = 1.79%
-2024-25 (FRE): Value = Rs. 1,672.00 Cr., Rank among 28 districts = 18, YoY Growth = -3.02%, Contribution to state total = 1.53%
-2025-26 (FAE): Value = Rs. 1,823.80 Cr., Rank among 28 districts = 18, YoY Growth = 9.09%, Contribution to state total = 1.49%
+2022-23 (TRE): Rs. 1,561.07 Cr., Rank among 28 districts = 15, Contribution to state total = 1.75%
+2023-24 (SRE): Rs. 1,724.00 Cr., Rank among 28 districts = 16, YoY Growth = 10.44%, Contribution to state total = 1.79%
+2024-25 (FRE): Rs. 1,672.00 Cr., Rank among 28 districts = 18, YoY Growth = -3.02%, Contribution to state total = 1.53%
+2025-26 (FAE): Rs. 1,823.80 Cr., Rank among 28 districts = 18, YoY Growth = 9.09%, Contribution to state total = 1.49%

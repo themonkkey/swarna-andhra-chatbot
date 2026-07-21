@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 311.23 Cr., Rank among 28 districts = 13, Contribution to state total = 3.44%
-2023-24 (SRE): Value = Rs. 336.00 Cr., Rank among 28 districts = 13, YoY Growth = 8.04%, Contribution to state total = 3.44%
-2024-25 (FRE): Value = Rs. 341.57 Cr., Rank among 28 districts = 13, YoY Growth = 1.79%, Contribution to state total = 3.42%
-2025-26 (FAE): Value = Rs. 378.11 Cr., Rank among 28 districts = 12, YoY Growth = 10.53%, Contribution to state total = 3.66%
+2022-23 (TRE): Rs. 311.23 Cr., Rank among 28 districts = 13, Contribution to state total = 3.44%
+2023-24 (SRE): Rs. 336.00 Cr., Rank among 28 districts = 13, YoY Growth = 8.04%, Contribution to state total = 3.44%
+2024-25 (FRE): Rs. 341.57 Cr., Rank among 28 districts = 13, YoY Growth = 1.79%, Contribution to state total = 3.42%
+2025-26 (FAE): Rs. 378.11 Cr., Rank among 28 districts = 12, YoY Growth = 10.53%, Contribution to state total = 3.66%

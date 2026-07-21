@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 3,289.00 Cr., Rank among 28 districts = 20, Contribution to state total = 2.70%
-2023-24 (SRE): Value = Rs. 3,607.00 Cr., Rank among 28 districts = 19, YoY Growth = 9.67%, Contribution to state total = 2.75%
-2024-25 (FRE): Value = Rs. 3,960.89 Cr., Rank among 28 districts = 18, YoY Growth = 9.81%, Contribution to state total = 2.75%
-2025-26 (FAE): Value = Rs. 4,447.91 Cr., Rank among 28 districts = 18, YoY Growth = 12.29%, Contribution to state total = 2.75%
+2022-23 (TRE): Rs. 3,289.00 Cr., Rank among 28 districts = 20, Contribution to state total = 2.70%
+2023-24 (SRE): Rs. 3,607.00 Cr., Rank among 28 districts = 19, YoY Growth = 9.67%, Contribution to state total = 2.75%
+2024-25 (FRE): Rs. 3,960.89 Cr., Rank among 28 districts = 18, YoY Growth = 9.81%, Contribution to state total = 2.75%
+2025-26 (FAE): Rs. 4,447.91 Cr., Rank among 28 districts = 18, YoY Growth = 12.29%, Contribution to state total = 2.75%

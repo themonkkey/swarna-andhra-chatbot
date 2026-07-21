@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 2,336.00 Cr., Rank among 28 districts = 2, Contribution to state total = 5.81%
-2023-24 (SRE): Value = Rs. 1,486.48 Cr., Rank among 28 districts = 3, YoY Growth = -36.39%, Contribution to state total = 5.49%
-2024-25 (FRE): Value = Rs. 1,380.00 Cr., Rank among 28 districts = 3, YoY Growth = -7.13%, Contribution to state total = 5.57%
-2025-26 (FAE): Value = Rs. 1,343.99 Cr., Rank among 28 districts = 4, YoY Growth = -2.61%, Contribution to state total = 5.60%
+2022-23 (TRE): Rs. 2,336.00 Cr., Rank among 28 districts = 2, Contribution to state total = 5.81%
+2023-24 (SRE): Rs. 1,486.48 Cr., Rank among 28 districts = 3, YoY Growth = -36.39%, Contribution to state total = 5.49%
+2024-25 (FRE): Rs. 1,380.00 Cr., Rank among 28 districts = 3, YoY Growth = -7.13%, Contribution to state total = 5.57%
+2025-26 (FAE): Rs. 1,343.99 Cr., Rank among 28 districts = 4, YoY Growth = -2.61%, Contribution to state total = 5.60%

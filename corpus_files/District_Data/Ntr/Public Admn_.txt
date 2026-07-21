@@ -1,6 +1,6 @@
 District: Ntr — Sector: Public Admn.
 
-2022-23 (TRE): Value = Rs. 2,701.32 Cr., Rank among 28 districts = 2, Contribution to state total = 5.35%
-2023-24 (SRE): Value = Rs. 2,718.00 Cr., Rank among 28 districts = 4, YoY Growth = 0.63%, Contribution to state total = 5.09%
-2024-25 (FRE): Value = Rs. 2,910.16 Cr., Rank among 28 districts = 4, YoY Growth = 7.06%, Contribution to state total = 5.09%
-2025-26 (FAE): Value = Rs. 3,073.83 Cr., Rank among 28 districts = 3, YoY Growth = 5.64%, Contribution to state total = 5.13%
+2022-23 (TRE): Rs. 2,701.32 Cr., Rank among 28 districts = 2, Contribution to state total = 5.35%
+2023-24 (SRE): Rs. 2,718.00 Cr., Rank among 28 districts = 4, YoY Growth = 0.63%, Contribution to state total = 5.09%
+2024-25 (FRE): Rs. 2,910.16 Cr., Rank among 28 districts = 4, YoY Growth = 7.06%, Contribution to state total = 5.09%
+2025-26 (FAE): Rs. 3,073.83 Cr., Rank among 28 districts = 3, YoY Growth = 5.64%, Contribution to state total = 5.13%

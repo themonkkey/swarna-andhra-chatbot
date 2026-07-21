@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Other Services
 
-2022-23 (TRE): Value = Rs. 5,806.20 Cr., Rank among 28 districts = 4, Contribution to state total = 5.96%
-2023-24 (SRE): Value = Rs. 6,652.27 Cr., Rank among 28 districts = 4, YoY Growth = 14.57%, Contribution to state total = 6.05%
-2024-25 (FRE): Value = Rs. 7,472.60 Cr., Rank among 28 districts = 4, YoY Growth = 12.34%, Contribution to state total = 6.01%
-2025-26 (FAE): Value = Rs. 8,545.18 Cr., Rank among 28 districts = 4, YoY Growth = 14.34%, Contribution to state total = 5.97%
+2022-23 (TRE): Rs. 5,806.20 Cr., Rank among 28 districts = 4, Contribution to state total = 5.96%
+2023-24 (SRE): Rs. 6,652.27 Cr., Rank among 28 districts = 4, YoY Growth = 14.57%, Contribution to state total = 6.05%
+2024-25 (FRE): Rs. 7,472.60 Cr., Rank among 28 districts = 4, YoY Growth = 12.34%, Contribution to state total = 6.01%
+2025-26 (FAE): Rs. 8,545.18 Cr., Rank among 28 districts = 4, YoY Growth = 14.34%, Contribution to state total = 5.97%

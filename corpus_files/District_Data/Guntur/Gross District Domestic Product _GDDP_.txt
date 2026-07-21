@@ -1,6 +1,6 @@
 District: Guntur — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 57,658.55 Cr., Rank among 28 districts = 8, Contribution to state total = 4.41%
-2023-24 (SRE): Value = Rs. 66,963.00 Cr., Rank among 28 districts = 7, YoY Growth = 16.14%, Contribution to state total = 4.70%
-2024-25 (FRE): Value = Rs. 73,707.00 Cr., Rank among 28 districts = 7, YoY Growth = 10.07%, Contribution to state total = 4.63%
-2025-26 (FAE): Value = Rs. 83,911.00 Cr., Rank among 28 districts = 7, YoY Growth = 13.84%, Contribution to state total = 4.76%
+2022-23 (TRE): Rs. 57,658.55 Cr., Rank among 28 districts = 8, Contribution to state total = 4.41%
+2023-24 (SRE): Rs. 66,963.00 Cr., Rank among 28 districts = 7, YoY Growth = 16.14%, Contribution to state total = 4.70%
+2024-25 (FRE): Rs. 73,707.00 Cr., Rank among 28 districts = 7, YoY Growth = 10.07%, Contribution to state total = 4.63%
+2025-26 (FAE): Rs. 83,911.00 Cr., Rank among 28 districts = 7, YoY Growth = 13.84%, Contribution to state total = 4.76%

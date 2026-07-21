@@ -1,6 +1,6 @@
 District: Ntr — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 2,945.66 Cr., Rank among 28 districts = 10, Contribution to state total = 2.33%
-2023-24 (SRE): Value = Rs. 3,123.00 Cr., Rank among 28 districts = 12, YoY Growth = 6.01%, Contribution to state total = 2.07%
-2024-25 (FRE): Value = Rs. 3,369.74 Cr., Rank among 28 districts = 12, YoY Growth = 7.91%, Contribution to state total = 2.09%
-2025-26 (FAE): Value = Rs. 3,705.70 Cr., Rank among 28 districts = 12, YoY Growth = 9.97%, Contribution to state total = 2.10%
+2022-23 (TRE): Rs. 2,945.66 Cr., Rank among 28 districts = 10, Contribution to state total = 2.33%
+2023-24 (SRE): Rs. 3,123.00 Cr., Rank among 28 districts = 12, YoY Growth = 6.01%, Contribution to state total = 2.07%
+2024-25 (FRE): Rs. 3,369.74 Cr., Rank among 28 districts = 12, YoY Growth = 7.91%, Contribution to state total = 2.09%
+2025-26 (FAE): Rs. 3,705.70 Cr., Rank among 28 districts = 12, YoY Growth = 9.97%, Contribution to state total = 2.10%

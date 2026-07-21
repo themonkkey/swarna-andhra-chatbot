@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Agriculture
 
-2022-23 (TRE): Value = Rs. 756.00 Cr., Rank among 28 districts = 25, Contribution to state total = 1.53%
-2023-24 (SRE): Value = Rs. 563.98 Cr., Rank among 28 districts = 24, YoY Growth = -25.40%, Contribution to state total = 1.22%
-2024-25 (FRE): Value = Rs. 815.00 Cr., Rank among 28 districts = 23, YoY Growth = 44.50%, Contribution to state total = 1.48%
-2025-26 (FAE): Value = Rs. 940.27 Cr., Rank among 28 districts = 23, YoY Growth = 15.34%, Contribution to state total = 1.64%
+2022-23 (TRE): Rs. 756.00 Cr., Rank among 28 districts = 25, Contribution to state total = 1.53%
+2023-24 (SRE): Rs. 563.98 Cr., Rank among 28 districts = 24, YoY Growth = -25.40%, Contribution to state total = 1.22%
+2024-25 (FRE): Rs. 815.00 Cr., Rank among 28 districts = 23, YoY Growth = 44.50%, Contribution to state total = 1.48%
+2025-26 (FAE): Rs. 940.27 Cr., Rank among 28 districts = 23, YoY Growth = 15.34%, Contribution to state total = 1.64%

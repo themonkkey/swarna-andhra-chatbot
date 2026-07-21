@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 333.63 Cr., Rank among 28 districts = 17, Contribution to state total = 0.31%
-2023-24 (SRE): Value = Rs. 266.50 Cr., Rank among 28 districts = 19, YoY Growth = -20.36%, Contribution to state total = 0.24%
-2024-25 (FRE): Value = Rs. 292.19 Cr., Rank among 28 districts = 20, YoY Growth = 9.77%, Contribution to state total = 0.23%
-2025-26 (FAE): Value = Rs. 602.44 Cr., Rank among 28 districts = 17, YoY Growth = 106.16%, Contribution to state total = 0.39%
+2022-23 (TRE): Rs. 333.63 Cr., Rank among 28 districts = 17, Contribution to state total = 0.31%
+2023-24 (SRE): Rs. 266.50 Cr., Rank among 28 districts = 19, YoY Growth = -20.36%, Contribution to state total = 0.24%
+2024-25 (FRE): Rs. 292.19 Cr., Rank among 28 districts = 20, YoY Growth = 9.77%, Contribution to state total = 0.23%
+2025-26 (FAE): Rs. 602.44 Cr., Rank among 28 districts = 17, YoY Growth = 106.16%, Contribution to state total = 0.39%

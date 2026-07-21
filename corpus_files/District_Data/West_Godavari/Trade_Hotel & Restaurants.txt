@@ -1,6 +1,6 @@
 District: West Godavari — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 3,025.01 Cr., Rank among 28 districts = 8, Contribution to state total = 3.39%
-2023-24 (SRE): Value = Rs. 3,832.00 Cr., Rank among 28 districts = 7, YoY Growth = 26.68%, Contribution to state total = 3.98%
-2024-25 (FRE): Value = Rs. 3,519.00 Cr., Rank among 28 districts = 8, YoY Growth = -8.17%, Contribution to state total = 3.23%
-2025-26 (FAE): Value = Rs. 3,905.30 Cr., Rank among 28 districts = 8, YoY Growth = 10.97%, Contribution to state total = 3.19%
+2022-23 (TRE): Rs. 3,025.01 Cr., Rank among 28 districts = 8, Contribution to state total = 3.39%
+2023-24 (SRE): Rs. 3,832.00 Cr., Rank among 28 districts = 7, YoY Growth = 26.68%, Contribution to state total = 3.98%
+2024-25 (FRE): Rs. 3,519.00 Cr., Rank among 28 districts = 8, YoY Growth = -8.17%, Contribution to state total = 3.23%
+2025-26 (FAE): Rs. 3,905.30 Cr., Rank among 28 districts = 8, YoY Growth = 10.97%, Contribution to state total = 3.19%

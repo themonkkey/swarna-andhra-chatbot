@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 3,330.51 Cr., Rank among 28 districts = 14, Contribution to state total = 3.32%
-2023-24 (SRE): Value = Rs. 3,498.62 Cr., Rank among 28 districts = 14, YoY Growth = 5.04%, Contribution to state total = 3.24%
-2024-25 (FRE): Value = Rs. 3,905.47 Cr., Rank among 28 districts = 16, YoY Growth = 11.60%, Contribution to state total = 3.21%
-2025-26 (FAE): Value = Rs. 4,448.58 Cr., Rank among 28 districts = 15, YoY Growth = 13.93%, Contribution to state total = 3.22%
+2022-23 (TRE): Rs. 3,330.51 Cr., Rank among 28 districts = 14, Contribution to state total = 3.32%
+2023-24 (SRE): Rs. 3,498.62 Cr., Rank among 28 districts = 14, YoY Growth = 5.04%, Contribution to state total = 3.24%
+2024-25 (FRE): Rs. 3,905.47 Cr., Rank among 28 districts = 16, YoY Growth = 11.60%, Contribution to state total = 3.21%
+2025-26 (FAE): Rs. 4,448.58 Cr., Rank among 28 districts = 15, YoY Growth = 13.93%, Contribution to state total = 3.22%

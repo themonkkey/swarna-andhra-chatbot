@@ -1,6 +1,6 @@
 District: Kakinada — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 3,439.29 Cr., Rank among 28 districts = 3, Contribution to state total = 8.81%
-2023-24 (SRE): Value = Rs. 3,029.26 Cr., Rank among 28 districts = 2, YoY Growth = -11.92%, Contribution to state total = 10.22%
-2024-25 (FRE): Value = Rs. 3,546.48 Cr., Rank among 28 districts = 2, YoY Growth = 17.07%, Contribution to state total = 10.94%
-2025-26 (FAE): Value = Rs. 3,630.00 Cr., Rank among 28 districts = 2, YoY Growth = 2.37%, Contribution to state total = 10.69%
+2022-23 (TRE): Rs. 3,439.29 Cr., Rank among 28 districts = 3, Contribution to state total = 8.81%
+2023-24 (SRE): Rs. 3,029.26 Cr., Rank among 28 districts = 2, YoY Growth = -11.92%, Contribution to state total = 10.22%
+2024-25 (FRE): Rs. 3,546.48 Cr., Rank among 28 districts = 2, YoY Growth = 17.07%, Contribution to state total = 10.94%
+2025-26 (FAE): Rs. 3,630.00 Cr., Rank among 28 districts = 2, YoY Growth = 2.37%, Contribution to state total = 10.69%

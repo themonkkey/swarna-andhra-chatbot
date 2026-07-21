@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Agriculture
 
-2022-23 (TRE): Value = Rs. 2,231.00 Cr., Rank among 28 districts = 10, Contribution to state total = 4.51%
-2023-24 (SRE): Value = Rs. 3,082.66 Cr., Rank among 28 districts = 4, YoY Growth = 38.19%, Contribution to state total = 6.67%
-2024-25 (FRE): Value = Rs. 4,087.00 Cr., Rank among 28 districts = 1, YoY Growth = 32.57%, Contribution to state total = 7.40%
-2025-26 (FAE): Value = Rs. 1,980.34 Cr., Rank among 28 districts = 15, YoY Growth = -51.55%, Contribution to state total = 3.45%
+2022-23 (TRE): Rs. 2,231.00 Cr., Rank among 28 districts = 10, Contribution to state total = 4.51%
+2023-24 (SRE): Rs. 3,082.66 Cr., Rank among 28 districts = 4, YoY Growth = 38.19%, Contribution to state total = 6.67%
+2024-25 (FRE): Rs. 4,087.00 Cr., Rank among 28 districts = 1, YoY Growth = 32.57%, Contribution to state total = 7.40%
+2025-26 (FAE): Rs. 1,980.34 Cr., Rank among 28 districts = 15, YoY Growth = -51.55%, Contribution to state total = 3.45%

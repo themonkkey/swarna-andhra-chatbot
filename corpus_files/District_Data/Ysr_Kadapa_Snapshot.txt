@@ -29,5 +29,5 @@ Aggregate figures:
   - Product Subsidies: Rs. 1,085.46 Cr., growth -3.73%, rank 8
   - Gross District Domestic Product (GDDP): Rs. 79,627.00 Cr., growth 9.99%, rank 8
   - Net District Domestic Product (NDDP): Rs. 70,507.26 Cr., growth 9.75%, rank 8
-  - Population ('000): Rs. 2,484.98 Cr., growth 0.36%, rank 2
-  - Per Capita Income (Rs.): Rs. 283,734.00 Cr., growth 9.38%, rank 12
+  - Population ('000): 2,485 thousand persons, growth 0.36%, rank 2
+  - Per Capita Income (Rs.): Rs. 283,734 per person, growth 9.38%, rank 12

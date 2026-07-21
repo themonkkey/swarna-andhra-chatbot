@@ -1,6 +1,6 @@
 District: Krishna — Sector: Gross District Value Added (GDVA)
 
-2022-23 (TRE): Value = Rs. 63,651.00 Cr., Rank among 28 districts = 4, Contribution to state total = 5.19%
-2023-24 (SRE): Value = Rs. 68,715.00 Cr., Rank among 28 districts = 4, YoY Growth = 7.96%, Contribution to state total = 5.21%
-2024-25 (FRE): Value = Rs. 77,321.18 Cr., Rank among 28 districts = 4, YoY Growth = 12.52%, Contribution to state total = 5.25%
-2025-26 (FAE): Value = Rs. 91,046.51 Cr., Rank among 28 districts = 3, YoY Growth = 17.75%, Contribution to state total = 5.60%
+2022-23 (TRE): Rs. 63,651.00 Cr., Rank among 28 districts = 4, Contribution to state total = 5.19%
+2023-24 (SRE): Rs. 68,715.00 Cr., Rank among 28 districts = 4, YoY Growth = 7.96%, Contribution to state total = 5.21%
+2024-25 (FRE): Rs. 77,321.18 Cr., Rank among 28 districts = 4, YoY Growth = 12.52%, Contribution to state total = 5.25%
+2025-26 (FAE): Rs. 91,046.51 Cr., Rank among 28 districts = 3, YoY Growth = 17.75%, Contribution to state total = 5.60%

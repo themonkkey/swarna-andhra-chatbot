@@ -1,6 +1,6 @@
 District: Guntur — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 548.95 Cr., Rank among 28 districts = 13, Contribution to state total = 1.41%
-2023-24 (SRE): Value = Rs. 2,632.74 Cr., Rank among 28 districts = 3, YoY Growth = 379.60%, Contribution to state total = 8.89%
-2024-25 (FRE): Value = Rs. 1,903.89 Cr., Rank among 28 districts = 3, YoY Growth = -27.69%, Contribution to state total = 5.87%
-2025-26 (FAE): Value = Rs. 3,629.00 Cr., Rank among 28 districts = 3, YoY Growth = 90.60%, Contribution to state total = 10.69%
+2022-23 (TRE): Rs. 548.95 Cr., Rank among 28 districts = 13, Contribution to state total = 1.41%
+2023-24 (SRE): Rs. 2,632.74 Cr., Rank among 28 districts = 3, YoY Growth = 379.60%, Contribution to state total = 8.89%
+2024-25 (FRE): Rs. 1,903.89 Cr., Rank among 28 districts = 3, YoY Growth = -27.69%, Contribution to state total = 5.87%
+2025-26 (FAE): Rs. 3,629.00 Cr., Rank among 28 districts = 3, YoY Growth = 90.60%, Contribution to state total = 10.69%

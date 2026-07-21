@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Services Sector (aggregate)
 
-2022-23 (TRE): Value = Rs. 16,635.13 Cr., Rank among 28 districts = 13, Contribution to state total = 3.32%
-2023-24 (SRE): Value = Rs. 18,001.00 Cr., Rank among 28 districts = 13, YoY Growth = 8.21%, Contribution to state total = 3.28%
-2024-25 (FRE): Value = Rs. 19,692.06 Cr., Rank among 28 districts = 13, YoY Growth = 9.39%, Contribution to state total = 3.17%
-2025-26 (FAE): Value = Rs. 22,260.79 Cr., Rank among 28 districts = 13, YoY Growth = 13.05%, Contribution to state total = 3.18%
+2022-23 (TRE): Rs. 16,635.13 Cr., Rank among 28 districts = 13, Contribution to state total = 3.32%
+2023-24 (SRE): Rs. 18,001.00 Cr., Rank among 28 districts = 13, YoY Growth = 8.21%, Contribution to state total = 3.28%
+2024-25 (FRE): Rs. 19,692.06 Cr., Rank among 28 districts = 13, YoY Growth = 9.39%, Contribution to state total = 3.17%
+2025-26 (FAE): Rs. 22,260.79 Cr., Rank among 28 districts = 13, YoY Growth = 13.05%, Contribution to state total = 3.18%

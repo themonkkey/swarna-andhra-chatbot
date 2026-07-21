@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 11,792.25 Cr., Rank among 28 districts = 1, Contribution to state total = 8.06%
-2023-24 (SRE): Value = Rs. 10,856.00 Cr., Rank among 28 districts = 1, YoY Growth = -7.94%, Contribution to state total = 7.02%
-2024-25 (FRE): Value = Rs. 9,361.73 Cr., Rank among 28 districts = 4, YoY Growth = -13.76%, Contribution to state total = 5.69%
-2025-26 (FAE): Value = Rs. 10,912.00 Cr., Rank among 28 districts = 2, YoY Growth = 16.56%, Contribution to state total = 6.19%
+2022-23 (TRE): Rs. 11,792.25 Cr., Rank among 28 districts = 1, Contribution to state total = 8.06%
+2023-24 (SRE): Rs. 10,856.00 Cr., Rank among 28 districts = 1, YoY Growth = -7.94%, Contribution to state total = 7.02%
+2024-25 (FRE): Rs. 9,361.73 Cr., Rank among 28 districts = 4, YoY Growth = -13.76%, Contribution to state total = 5.69%
+2025-26 (FAE): Rs. 10,912.00 Cr., Rank among 28 districts = 2, YoY Growth = 16.56%, Contribution to state total = 6.19%

@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 1,259.00 Cr., Rank among 28 districts = 7, Contribution to state total = 3.23%
-2023-24 (SRE): Value = Rs. 1,428.83 Cr., Rank among 28 districts = 6, YoY Growth = 13.50%, Contribution to state total = 4.82%
-2024-25 (FRE): Value = Rs. 1,620.86 Cr., Rank among 28 districts = 6, YoY Growth = 13.44%, Contribution to state total = 5.00%
-2025-26 (FAE): Value = Rs. 440.00 Cr., Rank among 28 districts = 19, YoY Growth = -72.86%, Contribution to state total = 1.30%
+2022-23 (TRE): Rs. 1,259.00 Cr., Rank among 28 districts = 7, Contribution to state total = 3.23%
+2023-24 (SRE): Rs. 1,428.83 Cr., Rank among 28 districts = 6, YoY Growth = 13.50%, Contribution to state total = 4.82%
+2024-25 (FRE): Rs. 1,620.86 Cr., Rank among 28 districts = 6, YoY Growth = 13.44%, Contribution to state total = 5.00%
+2025-26 (FAE): Rs. 440.00 Cr., Rank among 28 districts = 19, YoY Growth = -72.86%, Contribution to state total = 1.30%

@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 63.51 Cr., Rank among 28 districts = 19, Contribution to state total = 0.86%
-2023-24 (SRE): Value = Rs. 66.00 Cr., Rank among 28 districts = 19, YoY Growth = 3.12%, Contribution to state total = 0.77%
-2024-25 (FRE): Value = Rs. 61.75 Cr., Rank among 28 districts = 22, YoY Growth = -6.06%, Contribution to state total = 0.67%
-2025-26 (FAE): Value = Rs. 66.00 Cr., Rank among 28 districts = 22, YoY Growth = 6.45%, Contribution to state total = 0.66%
+2022-23 (TRE): Rs. 63.51 Cr., Rank among 28 districts = 19, Contribution to state total = 0.86%
+2023-24 (SRE): Rs. 66.00 Cr., Rank among 28 districts = 19, YoY Growth = 3.12%, Contribution to state total = 0.77%
+2024-25 (FRE): Rs. 61.75 Cr., Rank among 28 districts = 22, YoY Growth = -6.06%, Contribution to state total = 0.67%
+2025-26 (FAE): Rs. 66.00 Cr., Rank among 28 districts = 22, YoY Growth = 6.45%, Contribution to state total = 0.66%

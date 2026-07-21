@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Net District Domestic Product (NDDP)
 
-2022-23 (TRE): Value = Rs. 64,210.58 Cr., Rank among 28 districts = 2, Contribution to state total = 5.50%
-2023-24 (SRE): Value = Rs. 67,586.78 Cr., Rank among 28 districts = 4, YoY Growth = 5.26%, Contribution to state total = 5.30%
-2024-25 (FRE): Value = Rs. 76,946.30 Cr., Rank among 28 districts = 3, YoY Growth = 13.85%, Contribution to state total = 5.40%
-2025-26 (FAE): Value = Rs. 85,673.44 Cr., Rank among 28 districts = 4, YoY Growth = 11.34%, Contribution to state total = 5.42%
+2022-23 (TRE): Rs. 64,210.58 Cr., Rank among 28 districts = 2, Contribution to state total = 5.50%
+2023-24 (SRE): Rs. 67,586.78 Cr., Rank among 28 districts = 4, YoY Growth = 5.26%, Contribution to state total = 5.30%
+2024-25 (FRE): Rs. 76,946.30 Cr., Rank among 28 districts = 3, YoY Growth = 13.85%, Contribution to state total = 5.40%
+2025-26 (FAE): Rs. 85,673.44 Cr., Rank among 28 districts = 4, YoY Growth = 11.34%, Contribution to state total = 5.42%

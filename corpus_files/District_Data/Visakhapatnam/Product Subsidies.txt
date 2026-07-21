@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 3,396.00 Cr., Rank among 28 districts = 1, Contribution to state total = 8.44%
-2023-24 (SRE): Value = Rs. 2,472.53 Cr., Rank among 28 districts = 1, YoY Growth = -27.18%, Contribution to state total = 9.13%
-2024-25 (FRE): Value = Rs. 2,245.00 Cr., Rank among 28 districts = 1, YoY Growth = -9.22%, Contribution to state total = 9.06%
-2025-26 (FAE): Value = Rs. 2,194.83 Cr., Rank among 28 districts = 1, YoY Growth = -2.23%, Contribution to state total = 9.14%
+2022-23 (TRE): Rs. 3,396.00 Cr., Rank among 28 districts = 1, Contribution to state total = 8.44%
+2023-24 (SRE): Rs. 2,472.53 Cr., Rank among 28 districts = 1, YoY Growth = -27.18%, Contribution to state total = 9.13%
+2024-25 (FRE): Rs. 2,245.00 Cr., Rank among 28 districts = 1, YoY Growth = -9.22%, Contribution to state total = 9.06%
+2025-26 (FAE): Rs. 2,194.83 Cr., Rank among 28 districts = 1, YoY Growth = -2.23%, Contribution to state total = 9.14%

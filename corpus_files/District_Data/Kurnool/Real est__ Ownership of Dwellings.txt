@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 3,236.89 Cr., Rank among 28 districts = 16, Contribution to state total = 3.22%
-2023-24 (SRE): Value = Rs. 3,433.31 Cr., Rank among 28 districts = 16, YoY Growth = 6.05%, Contribution to state total = 3.18%
-2024-25 (FRE): Value = Rs. 3,905.66 Cr., Rank among 28 districts = 15, YoY Growth = 13.78%, Contribution to state total = 3.21%
-2025-26 (FAE): Value = Rs. 4,402.95 Cr., Rank among 28 districts = 16, YoY Growth = 12.72%, Contribution to state total = 3.19%
+2022-23 (TRE): Rs. 3,236.89 Cr., Rank among 28 districts = 16, Contribution to state total = 3.22%
+2023-24 (SRE): Rs. 3,433.31 Cr., Rank among 28 districts = 16, YoY Growth = 6.05%, Contribution to state total = 3.18%
+2024-25 (FRE): Rs. 3,905.66 Cr., Rank among 28 districts = 15, YoY Growth = 13.78%, Contribution to state total = 3.21%
+2025-26 (FAE): Rs. 4,402.95 Cr., Rank among 28 districts = 16, YoY Growth = 12.72%, Contribution to state total = 3.19%

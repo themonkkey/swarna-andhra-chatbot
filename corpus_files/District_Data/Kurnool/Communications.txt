@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 842.54 Cr., Rank among 28 districts = 10, Contribution to state total = 3.94%
-2023-24 (SRE): Value = Rs. 938.00 Cr., Rank among 28 districts = 10, YoY Growth = 11.27%, Contribution to state total = 3.92%
-2024-25 (FRE): Value = Rs. 1,136.30 Cr., Rank among 28 districts = 10, YoY Growth = 21.11%, Contribution to state total = 3.97%
-2025-26 (FAE): Value = Rs. 1,326.00 Cr., Rank among 28 districts = 10, YoY Growth = 16.73%, Contribution to state total = 3.96%
+2022-23 (TRE): Rs. 842.54 Cr., Rank among 28 districts = 10, Contribution to state total = 3.94%
+2023-24 (SRE): Rs. 938.00 Cr., Rank among 28 districts = 10, YoY Growth = 11.27%, Contribution to state total = 3.92%
+2024-25 (FRE): Rs. 1,136.30 Cr., Rank among 28 districts = 10, YoY Growth = 21.11%, Contribution to state total = 3.97%
+2025-26 (FAE): Rs. 1,326.00 Cr., Rank among 28 districts = 10, YoY Growth = 16.73%, Contribution to state total = 3.96%

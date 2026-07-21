@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 144.06 Cr., Rank among 28 districts = 24, Contribution to state total = 0.37%
-2023-24 (SRE): Value = Rs. 524.15 Cr., Rank among 28 districts = 18, YoY Growth = 263.89%, Contribution to state total = 1.77%
-2024-25 (FRE): Value = Rs. 845.85 Cr., Rank among 28 districts = 14, YoY Growth = 61.45%, Contribution to state total = 2.61%
-2025-26 (FAE): Value = Rs. 498.00 Cr., Rank among 28 districts = 17, YoY Growth = -41.13%, Contribution to state total = 1.47%
+2022-23 (TRE): Rs. 144.06 Cr., Rank among 28 districts = 24, Contribution to state total = 0.37%
+2023-24 (SRE): Rs. 524.15 Cr., Rank among 28 districts = 18, YoY Growth = 263.89%, Contribution to state total = 1.77%
+2024-25 (FRE): Rs. 845.85 Cr., Rank among 28 districts = 14, YoY Growth = 61.45%, Contribution to state total = 2.61%
+2025-26 (FAE): Rs. 498.00 Cr., Rank among 28 districts = 17, YoY Growth = -41.13%, Contribution to state total = 1.47%

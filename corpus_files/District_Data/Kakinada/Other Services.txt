@@ -1,6 +1,6 @@
 District: Kakinada — Sector: Other Services
 
-2022-23 (TRE): Value = Rs. 4,154.68 Cr., Rank among 28 districts = 9, Contribution to state total = 4.27%
-2023-24 (SRE): Value = Rs. 4,734.83 Cr., Rank among 28 districts = 9, YoY Growth = 13.96%, Contribution to state total = 4.31%
-2024-25 (FRE): Value = Rs. 5,290.21 Cr., Rank among 28 districts = 9, YoY Growth = 11.72%, Contribution to state total = 4.25%
-2025-26 (FAE): Value = Rs. 6,111.84 Cr., Rank among 28 districts = 8, YoY Growth = 15.54%, Contribution to state total = 4.27%
+2022-23 (TRE): Rs. 4,154.68 Cr., Rank among 28 districts = 9, Contribution to state total = 4.27%
+2023-24 (SRE): Rs. 4,734.83 Cr., Rank among 28 districts = 9, YoY Growth = 13.96%, Contribution to state total = 4.31%
+2024-25 (FRE): Rs. 5,290.21 Cr., Rank among 28 districts = 9, YoY Growth = 11.72%, Contribution to state total = 4.25%
+2025-26 (FAE): Rs. 6,111.84 Cr., Rank among 28 districts = 8, YoY Growth = 15.54%, Contribution to state total = 4.27%

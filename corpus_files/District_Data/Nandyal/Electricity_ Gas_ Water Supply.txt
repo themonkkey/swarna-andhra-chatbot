@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 985.00 Cr., Rank among 28 districts = 10, Contribution to state total = 3.19%
-2023-24 (SRE): Value = Rs. 840.43 Cr., Rank among 28 districts = 12, YoY Growth = -14.72%, Contribution to state total = 2.14%
-2024-25 (FRE): Value = Rs. 885.01 Cr., Rank among 28 districts = 13, YoY Growth = 5.36%, Contribution to state total = 2.09%
-2025-26 (FAE): Value = Rs. 1,072.11 Cr., Rank among 28 districts = 11, YoY Growth = 21.13%, Contribution to state total = 2.42%
+2022-23 (TRE): Rs. 985.00 Cr., Rank among 28 districts = 10, Contribution to state total = 3.19%
+2023-24 (SRE): Rs. 840.43 Cr., Rank among 28 districts = 12, YoY Growth = -14.72%, Contribution to state total = 2.14%
+2024-25 (FRE): Rs. 885.01 Cr., Rank among 28 districts = 13, YoY Growth = 5.36%, Contribution to state total = 2.09%
+2025-26 (FAE): Rs. 1,072.11 Cr., Rank among 28 districts = 11, YoY Growth = 21.13%, Contribution to state total = 2.42%

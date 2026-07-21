@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 2,530.54 Cr., Rank among 28 districts = 23, Contribution to state total = 2.52%
-2023-24 (SRE): Value = Rs. 2,672.45 Cr., Rank among 28 districts = 22, YoY Growth = 5.57%, Contribution to state total = 2.48%
-2024-25 (FRE): Value = Rs. 2,992.20 Cr., Rank among 28 districts = 22, YoY Growth = 11.98%, Contribution to state total = 2.46%
-2025-26 (FAE): Value = Rs. 3,404.99 Cr., Rank among 28 districts = 22, YoY Growth = 13.80%, Contribution to state total = 2.46%
+2022-23 (TRE): Rs. 2,530.54 Cr., Rank among 28 districts = 23, Contribution to state total = 2.52%
+2023-24 (SRE): Rs. 2,672.45 Cr., Rank among 28 districts = 22, YoY Growth = 5.57%, Contribution to state total = 2.48%
+2024-25 (FRE): Rs. 2,992.20 Cr., Rank among 28 districts = 22, YoY Growth = 11.98%, Contribution to state total = 2.46%
+2025-26 (FAE): Rs. 3,404.99 Cr., Rank among 28 districts = 22, YoY Growth = 13.80%, Contribution to state total = 2.46%

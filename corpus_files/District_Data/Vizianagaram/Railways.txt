@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 286.28 Cr., Rank among 28 districts = 7, Contribution to state total = 3.84%
-2023-24 (SRE): Value = Rs. 348.00 Cr., Rank among 28 districts = 6, YoY Growth = 21.68%, Contribution to state total = 4.08%
-2024-25 (FRE): Value = Rs. 289.59 Cr., Rank among 28 districts = 8, YoY Growth = -16.67%, Contribution to state total = 3.14%
-2025-26 (FAE): Value = Rs. 313.00 Cr., Rank among 28 districts = 8, YoY Growth = 7.93%, Contribution to state total = 3.12%
+2022-23 (TRE): Rs. 286.28 Cr., Rank among 28 districts = 7, Contribution to state total = 3.84%
+2023-24 (SRE): Rs. 348.00 Cr., Rank among 28 districts = 6, YoY Growth = 21.68%, Contribution to state total = 4.08%
+2024-25 (FRE): Rs. 289.59 Cr., Rank among 28 districts = 8, YoY Growth = -16.67%, Contribution to state total = 3.14%
+2025-26 (FAE): Rs. 313.00 Cr., Rank among 28 districts = 8, YoY Growth = 7.93%, Contribution to state total = 3.12%

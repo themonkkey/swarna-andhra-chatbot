@@ -1,6 +1,6 @@
-District: Ysr Kadapa — Sector: Population ('000)
+District: Ysr Kadapa — Metric: Population ('000)
 
-2022-23 (TRE): Value = Rs. 2,459.00 Cr., Rank among 28 districts = 2, Contribution to state total = 4.63%
-2023-24 (SRE): Value = Rs. 2,468.00 Cr., Rank among 28 districts = 2, YoY Growth = 0.37%, Contribution to state total = 4.63%
-2024-25 (FRE): Value = Rs. 2,476.45 Cr., Rank among 28 districts = 2, YoY Growth = 0.32%, Contribution to state total = 4.63%
-2025-26 (FAE): Value = Rs. 2,484.98 Cr., Rank among 28 districts = 2, YoY Growth = 0.36%, Contribution to state total = 4.63%
+2022-23 (TRE): 2,459 thousand persons, Rank among 28 districts = 2
+2023-24 (SRE): 2,468 thousand persons, Rank among 28 districts = 2, YoY Growth = 0.37%
+2024-25 (FRE): 2,476 thousand persons, Rank among 28 districts = 2, YoY Growth = 0.32%
+2025-26 (FAE): 2,485 thousand persons, Rank among 28 districts = 2, YoY Growth = 0.36%

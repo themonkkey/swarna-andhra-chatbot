@@ -1,6 +1,6 @@
 District: Eluru — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 25.21 Cr., Rank among 28 districts = 23, Contribution to state total = 0.34%
-2023-24 (SRE): Value = Rs. 29.00 Cr., Rank among 28 districts = 24, YoY Growth = 16.00%, Contribution to state total = 0.34%
-2024-25 (FRE): Value = Rs. 31.17 Cr., Rank among 28 districts = 24, YoY Growth = 6.90%, Contribution to state total = 0.34%
-2025-26 (FAE): Value = Rs. 33.00 Cr., Rank among 28 districts = 24, YoY Growth = 6.45%, Contribution to state total = 0.33%
+2022-23 (TRE): Rs. 25.21 Cr., Rank among 28 districts = 23, Contribution to state total = 0.34%
+2023-24 (SRE): Rs. 29.00 Cr., Rank among 28 districts = 24, YoY Growth = 16.00%, Contribution to state total = 0.34%
+2024-25 (FRE): Rs. 31.17 Cr., Rank among 28 districts = 24, YoY Growth = 6.90%, Contribution to state total = 0.34%
+2025-26 (FAE): Rs. 33.00 Cr., Rank among 28 districts = 24, YoY Growth = 6.45%, Contribution to state total = 0.33%

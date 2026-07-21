@@ -1,6 +1,6 @@
-District: Guntur — Sector: Per Capita Income (Rs.)
+District: Guntur — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 228,323.00 Cr., Rank among 28 districts = 8, Contribution to state total = 3.83%
-2023-24 (SRE): Value = Rs. 265,199.00 Cr., Rank among 28 districts = 6, YoY Growth = 16.15%, Contribution to state total = 4.11%
-2024-25 (FRE): Value = Rs. 290,912.00 Cr., Rank among 28 districts = 7, YoY Growth = 9.70%, Contribution to state total = 4.02%
-2025-26 (FAE): Value = Rs. 329,678.00 Cr., Rank among 28 districts = 7, YoY Growth = 13.33%, Contribution to state total = 4.13%
+2022-23 (TRE): Rs. 228,323 per person, Rank among 28 districts = 8
+2023-24 (SRE): Rs. 265,199 per person, Rank among 28 districts = 6, YoY Growth = 16.15%
+2024-25 (FRE): Rs. 290,912 per person, Rank among 28 districts = 7, YoY Growth = 9.70%
+2025-26 (FAE): Rs. 329,678 per person, Rank among 28 districts = 7, YoY Growth = 13.33%

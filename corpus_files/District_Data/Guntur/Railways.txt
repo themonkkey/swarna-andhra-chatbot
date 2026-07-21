@@ -1,6 +1,6 @@
 District: Guntur — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 342.87 Cr., Rank among 28 districts = 5, Contribution to state total = 4.61%
-2023-24 (SRE): Value = Rs. 376.00 Cr., Rank among 28 districts = 5, YoY Growth = 9.62%, Contribution to state total = 4.41%
-2024-25 (FRE): Value = Rs. 409.44 Cr., Rank among 28 districts = 5, YoY Growth = 8.78%, Contribution to state total = 4.43%
-2025-26 (FAE): Value = Rs. 437.00 Cr., Rank among 28 districts = 5, YoY Growth = 6.85%, Contribution to state total = 4.36%
+2022-23 (TRE): Rs. 342.87 Cr., Rank among 28 districts = 5, Contribution to state total = 4.61%
+2023-24 (SRE): Rs. 376.00 Cr., Rank among 28 districts = 5, YoY Growth = 9.62%, Contribution to state total = 4.41%
+2024-25 (FRE): Rs. 409.44 Cr., Rank among 28 districts = 5, YoY Growth = 8.78%, Contribution to state total = 4.43%
+2025-26 (FAE): Rs. 437.00 Cr., Rank among 28 districts = 5, YoY Growth = 6.85%, Contribution to state total = 4.36%

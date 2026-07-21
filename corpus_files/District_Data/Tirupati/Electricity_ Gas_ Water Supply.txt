@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 1,431.00 Cr., Rank among 28 districts = 9, Contribution to state total = 4.63%
-2023-24 (SRE): Value = Rs. 1,464.21 Cr., Rank among 28 districts = 9, YoY Growth = 2.31%, Contribution to state total = 3.73%
-2024-25 (FRE): Value = Rs. 1,499.96 Cr., Rank among 28 districts = 9, YoY Growth = 2.46%, Contribution to state total = 3.54%
-2025-26 (FAE): Value = Rs. 1,606.67 Cr., Rank among 28 districts = 9, YoY Growth = 7.13%, Contribution to state total = 3.62%
+2022-23 (TRE): Rs. 1,431.00 Cr., Rank among 28 districts = 9, Contribution to state total = 4.63%
+2023-24 (SRE): Rs. 1,464.21 Cr., Rank among 28 districts = 9, YoY Growth = 2.31%, Contribution to state total = 3.73%
+2024-25 (FRE): Rs. 1,499.96 Cr., Rank among 28 districts = 9, YoY Growth = 2.46%, Contribution to state total = 3.54%
+2025-26 (FAE): Rs. 1,606.67 Cr., Rank among 28 districts = 9, YoY Growth = 7.13%, Contribution to state total = 3.62%

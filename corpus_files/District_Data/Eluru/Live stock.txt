@@ -1,6 +1,6 @@
 District: Eluru — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 9,849.94 Cr., Rank among 28 districts = 2, Contribution to state total = 6.73%
-2023-24 (SRE): Value = Rs. 9,178.00 Cr., Rank among 28 districts = 3, YoY Growth = -6.82%, Contribution to state total = 5.94%
-2024-25 (FRE): Value = Rs. 10,226.00 Cr., Rank among 28 districts = 2, YoY Growth = 11.42%, Contribution to state total = 6.21%
-2025-26 (FAE): Value = Rs. 11,326.00 Cr., Rank among 28 districts = 1, YoY Growth = 10.76%, Contribution to state total = 6.43%
+2022-23 (TRE): Rs. 9,849.94 Cr., Rank among 28 districts = 2, Contribution to state total = 6.73%
+2023-24 (SRE): Rs. 9,178.00 Cr., Rank among 28 districts = 3, YoY Growth = -6.82%, Contribution to state total = 5.94%
+2024-25 (FRE): Rs. 10,226.00 Cr., Rank among 28 districts = 2, YoY Growth = 11.42%, Contribution to state total = 6.21%
+2025-26 (FAE): Rs. 11,326.00 Cr., Rank among 28 districts = 1, YoY Growth = 10.76%, Contribution to state total = 6.43%

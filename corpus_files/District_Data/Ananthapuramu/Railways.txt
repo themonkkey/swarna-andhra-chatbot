@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 900.23 Cr., Rank among 28 districts = 3, Contribution to state total = 12.09%
-2023-24 (SRE): Value = Rs. 965.00 Cr., Rank among 28 districts = 3, YoY Growth = 7.22%, Contribution to state total = 11.32%
-2024-25 (FRE): Value = Rs. 1,041.16 Cr., Rank among 28 districts = 3, YoY Growth = 7.88%, Contribution to state total = 11.29%
-2025-26 (FAE): Value = Rs. 1,172.00 Cr., Rank among 28 districts = 3, YoY Growth = 12.58%, Contribution to state total = 11.70%
+2022-23 (TRE): Rs. 900.23 Cr., Rank among 28 districts = 3, Contribution to state total = 12.09%
+2023-24 (SRE): Rs. 965.00 Cr., Rank among 28 districts = 3, YoY Growth = 7.22%, Contribution to state total = 11.32%
+2024-25 (FRE): Rs. 1,041.16 Cr., Rank among 28 districts = 3, YoY Growth = 7.88%, Contribution to state total = 11.29%
+2025-26 (FAE): Rs. 1,172.00 Cr., Rank among 28 districts = 3, YoY Growth = 12.58%, Contribution to state total = 11.70%

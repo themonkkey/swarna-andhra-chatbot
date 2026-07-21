@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 100.70 Cr., Rank among 28 districts = 16, Contribution to state total = 1.36%
-2023-24 (SRE): Value = Rs. 110.00 Cr., Rank among 28 districts = 17, YoY Growth = 8.91%, Contribution to state total = 1.29%
-2024-25 (FRE): Value = Rs. 119.26 Cr., Rank among 28 districts = 17, YoY Growth = 8.18%, Contribution to state total = 1.29%
-2025-26 (FAE): Value = Rs. 129.00 Cr., Rank among 28 districts = 17, YoY Growth = 8.40%, Contribution to state total = 1.29%
+2022-23 (TRE): Rs. 100.70 Cr., Rank among 28 districts = 16, Contribution to state total = 1.36%
+2023-24 (SRE): Rs. 110.00 Cr., Rank among 28 districts = 17, YoY Growth = 8.91%, Contribution to state total = 1.29%
+2024-25 (FRE): Rs. 119.26 Cr., Rank among 28 districts = 17, YoY Growth = 8.18%, Contribution to state total = 1.29%
+2025-26 (FAE): Rs. 129.00 Cr., Rank among 28 districts = 17, YoY Growth = 8.40%, Contribution to state total = 1.29%

@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 1,658.13 Cr., Rank among 28 districts = 15, Contribution to state total = 2.82%
-2023-24 (SRE): Value = Rs. 1,870.86 Cr., Rank among 28 districts = 15, YoY Growth = 12.85%, Contribution to state total = 2.89%
-2024-25 (FRE): Value = Rs. 2,118.69 Cr., Rank among 28 districts = 15, YoY Growth = 13.25%, Contribution to state total = 2.85%
-2025-26 (FAE): Value = Rs. 2,476.00 Cr., Rank among 28 districts = 15, YoY Growth = 16.85%, Contribution to state total = 2.89%
+2022-23 (TRE): Rs. 1,658.13 Cr., Rank among 28 districts = 15, Contribution to state total = 2.82%
+2023-24 (SRE): Rs. 1,870.86 Cr., Rank among 28 districts = 15, YoY Growth = 12.85%, Contribution to state total = 2.89%
+2024-25 (FRE): Rs. 2,118.69 Cr., Rank among 28 districts = 15, YoY Growth = 13.25%, Contribution to state total = 2.85%
+2025-26 (FAE): Rs. 2,476.00 Cr., Rank among 28 districts = 15, YoY Growth = 16.85%, Contribution to state total = 2.89%

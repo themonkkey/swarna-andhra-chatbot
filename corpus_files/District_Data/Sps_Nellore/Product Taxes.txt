@@ -1,6 +1,6 @@
 District: Sps Nellore — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 5,841.00 Cr., Rank among 28 districts = 6, Contribution to state total = 4.79%
-2023-24 (SRE): Value = Rs. 6,316.00 Cr., Rank among 28 districts = 6, YoY Growth = 8.13%, Contribution to state total = 4.82%
-2024-25 (FRE): Value = Rs. 7,001.74 Cr., Rank among 28 districts = 6, YoY Growth = 10.86%, Contribution to state total = 4.85%
-2025-26 (FAE): Value = Rs. 7,852.74 Cr., Rank among 28 districts = 6, YoY Growth = 12.15%, Contribution to state total = 4.86%
+2022-23 (TRE): Rs. 5,841.00 Cr., Rank among 28 districts = 6, Contribution to state total = 4.79%
+2023-24 (SRE): Rs. 6,316.00 Cr., Rank among 28 districts = 6, YoY Growth = 8.13%, Contribution to state total = 4.82%
+2024-25 (FRE): Rs. 7,001.74 Cr., Rank among 28 districts = 6, YoY Growth = 10.86%, Contribution to state total = 4.85%
+2025-26 (FAE): Rs. 7,852.74 Cr., Rank among 28 districts = 6, YoY Growth = 12.15%, Contribution to state total = 4.86%

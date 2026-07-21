@@ -1,6 +1,6 @@
 District: Palnadu — Sector: AGRICULTURE & ALLIED SECTOR
 
-2022-23 (TRE): Value = Rs. 16,559.04 Cr., Rank among 28 districts = 11, Contribution to state total = 3.84%
-2023-24 (SRE): Value = Rs. 16,560.10 Cr., Rank among 28 districts = 10, YoY Growth = 0.01%, Contribution to state total = 3.70%
-2024-25 (FRE): Value = Rs. 17,128.47 Cr., Rank among 28 districts = 14, YoY Growth = 3.43%, Contribution to state total = 3.42%
-2025-26 (FAE): Value = Rs. 18,947.76 Cr., Rank among 28 districts = 11, YoY Growth = 10.63%, Contribution to state total = 3.51%
+2022-23 (TRE): Rs. 16,559.04 Cr., Rank among 28 districts = 11, Contribution to state total = 3.84%
+2023-24 (SRE): Rs. 16,560.10 Cr., Rank among 28 districts = 10, YoY Growth = 0.01%, Contribution to state total = 3.70%
+2024-25 (FRE): Rs. 17,128.47 Cr., Rank among 28 districts = 14, YoY Growth = 3.43%, Contribution to state total = 3.42%
+2025-26 (FAE): Rs. 18,947.76 Cr., Rank among 28 districts = 11, YoY Growth = 10.63%, Contribution to state total = 3.51%

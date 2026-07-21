@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 748.54 Cr., Rank among 28 districts = 16, Contribution to state total = 3.50%
-2023-24 (SRE): Value = Rs. 835.00 Cr., Rank among 28 districts = 16, YoY Growth = 11.48%, Contribution to state total = 3.49%
-2024-25 (FRE): Value = Rs. 993.08 Cr., Rank among 28 districts = 16, YoY Growth = 18.92%, Contribution to state total = 3.47%
-2025-26 (FAE): Value = Rs. 1,165.00 Cr., Rank among 28 districts = 16, YoY Growth = 17.32%, Contribution to state total = 3.48%
+2022-23 (TRE): Rs. 748.54 Cr., Rank among 28 districts = 16, Contribution to state total = 3.50%
+2023-24 (SRE): Rs. 835.00 Cr., Rank among 28 districts = 16, YoY Growth = 11.48%, Contribution to state total = 3.49%
+2024-25 (FRE): Rs. 993.08 Cr., Rank among 28 districts = 16, YoY Growth = 18.92%, Contribution to state total = 3.47%
+2025-26 (FAE): Rs. 1,165.00 Cr., Rank among 28 districts = 16, YoY Growth = 17.32%, Contribution to state total = 3.48%

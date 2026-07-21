@@ -1,6 +1,6 @@
 District: Krishna — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 4,079.22 Cr., Rank among 28 districts = 10, Contribution to state total = 4.06%
-2023-24 (SRE): Value = Rs. 4,405.35 Cr., Rank among 28 districts = 9, YoY Growth = 7.99%, Contribution to state total = 4.08%
-2024-25 (FRE): Value = Rs. 4,954.76 Cr., Rank among 28 districts = 10, YoY Growth = 12.49%, Contribution to state total = 4.07%
-2025-26 (FAE): Value = Rs. 5,642.00 Cr., Rank among 28 districts = 9, YoY Growth = 13.86%, Contribution to state total = 4.08%
+2022-23 (TRE): Rs. 4,079.22 Cr., Rank among 28 districts = 10, Contribution to state total = 4.06%
+2023-24 (SRE): Rs. 4,405.35 Cr., Rank among 28 districts = 9, YoY Growth = 7.99%, Contribution to state total = 4.08%
+2024-25 (FRE): Rs. 4,954.76 Cr., Rank among 28 districts = 10, YoY Growth = 12.49%, Contribution to state total = 4.07%
+2025-26 (FAE): Rs. 5,642.00 Cr., Rank among 28 districts = 9, YoY Growth = 13.86%, Contribution to state total = 4.08%

@@ -1,6 +1,6 @@
 District: Ntr — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 309.94 Cr., Rank among 28 districts = 19, Contribution to state total = 0.29%
-2023-24 (SRE): Value = Rs. 339.67 Cr., Rank among 28 districts = 17, YoY Growth = 9.68%, Contribution to state total = 0.30%
-2024-25 (FRE): Value = Rs. 361.40 Cr., Rank among 28 districts = 18, YoY Growth = 6.18%, Contribution to state total = 0.28%
-2025-26 (FAE): Value = Rs. 381.56 Cr., Rank among 28 districts = 19, YoY Growth = 5.82%, Contribution to state total = 0.25%
+2022-23 (TRE): Rs. 309.94 Cr., Rank among 28 districts = 19, Contribution to state total = 0.29%
+2023-24 (SRE): Rs. 339.67 Cr., Rank among 28 districts = 17, YoY Growth = 9.68%, Contribution to state total = 0.30%
+2024-25 (FRE): Rs. 361.40 Cr., Rank among 28 districts = 18, YoY Growth = 6.18%, Contribution to state total = 0.28%
+2025-26 (FAE): Rs. 381.56 Cr., Rank among 28 districts = 19, YoY Growth = 5.82%, Contribution to state total = 0.25%

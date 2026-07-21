@@ -1,6 +1,6 @@
 District: Alluri Seetha Rama Raju — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 1,076.00 Cr., Rank among 28 districts = 27, Contribution to state total = 0.88%
-2023-24 (SRE): Value = Rs. 1,184.00 Cr., Rank among 28 districts = 27, YoY Growth = 10.04%, Contribution to state total = 0.90%
-2024-25 (FRE): Value = Rs. 1,490.34 Cr., Rank among 28 districts = 26, YoY Growth = 25.84%, Contribution to state total = 1.03%
-2025-26 (FAE): Value = Rs. 1,679.45 Cr., Rank among 28 districts = 26, YoY Growth = 12.68%, Contribution to state total = 1.04%
+2022-23 (TRE): Rs. 1,076.00 Cr., Rank among 28 districts = 27, Contribution to state total = 0.88%
+2023-24 (SRE): Rs. 1,184.00 Cr., Rank among 28 districts = 27, YoY Growth = 10.04%, Contribution to state total = 0.90%
+2024-25 (FRE): Rs. 1,490.34 Cr., Rank among 28 districts = 26, YoY Growth = 25.84%, Contribution to state total = 1.03%
+2025-26 (FAE): Rs. 1,679.45 Cr., Rank among 28 districts = 26, YoY Growth = 12.68%, Contribution to state total = 1.04%

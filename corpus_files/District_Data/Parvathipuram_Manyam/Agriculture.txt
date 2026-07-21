@@ -1,6 +1,6 @@
 District: Parvathipuram Manyam — Sector: Agriculture
 
-2022-23 (TRE): Value = Rs. 949.00 Cr., Rank among 28 districts = 21, Contribution to state total = 1.92%
-2023-24 (SRE): Value = Rs. 885.54 Cr., Rank among 28 districts = 21, YoY Growth = -6.64%, Contribution to state total = 1.92%
-2024-25 (FRE): Value = Rs. 1,045.00 Cr., Rank among 28 districts = 21, YoY Growth = 17.95%, Contribution to state total = 1.89%
-2025-26 (FAE): Value = Rs. 1,192.85 Cr., Rank among 28 districts = 21, YoY Growth = 14.16%, Contribution to state total = 2.08%
+2022-23 (TRE): Rs. 949.00 Cr., Rank among 28 districts = 21, Contribution to state total = 1.92%
+2023-24 (SRE): Rs. 885.54 Cr., Rank among 28 districts = 21, YoY Growth = -6.64%, Contribution to state total = 1.92%
+2024-25 (FRE): Rs. 1,045.00 Cr., Rank among 28 districts = 21, YoY Growth = 17.95%, Contribution to state total = 1.89%
+2025-26 (FAE): Rs. 1,192.85 Cr., Rank among 28 districts = 21, YoY Growth = 14.16%, Contribution to state total = 2.08%

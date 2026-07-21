@@ -1,6 +1,6 @@
 District: Alluri Seetha Rama Raju — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 172.30 Cr., Rank among 28 districts = 27, Contribution to state total = 0.80%
-2023-24 (SRE): Value = Rs. 189.00 Cr., Rank among 28 districts = 27, YoY Growth = 9.88%, Contribution to state total = 0.79%
-2024-25 (FRE): Value = Rs. 223.23 Cr., Rank among 28 districts = 27, YoY Growth = 17.99%, Contribution to state total = 0.78%
-2025-26 (FAE): Value = Rs. 260.00 Cr., Rank among 28 districts = 27, YoY Growth = 16.59%, Contribution to state total = 0.78%
+2022-23 (TRE): Rs. 172.30 Cr., Rank among 28 districts = 27, Contribution to state total = 0.80%
+2023-24 (SRE): Rs. 189.00 Cr., Rank among 28 districts = 27, YoY Growth = 9.88%, Contribution to state total = 0.79%
+2024-25 (FRE): Rs. 223.23 Cr., Rank among 28 districts = 27, YoY Growth = 17.99%, Contribution to state total = 0.78%
+2025-26 (FAE): Rs. 260.00 Cr., Rank among 28 districts = 27, YoY Growth = 16.59%, Contribution to state total = 0.78%

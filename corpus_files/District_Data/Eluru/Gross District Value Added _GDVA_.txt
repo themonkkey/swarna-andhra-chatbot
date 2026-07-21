@@ -1,6 +1,6 @@
 District: Eluru — Sector: Gross District Value Added (GDVA)
 
-2022-23 (TRE): Value = Rs. 62,542.00 Cr., Rank among 28 districts = 5, Contribution to state total = 5.10%
-2023-24 (SRE): Value = Rs. 66,373.00 Cr., Rank among 28 districts = 5, YoY Growth = 6.13%, Contribution to state total = 5.03%
-2024-25 (FRE): Value = Rs. 75,815.79 Cr., Rank among 28 districts = 5, YoY Growth = 14.23%, Contribution to state total = 5.15%
-2025-26 (FAE): Value = Rs. 81,558.81 Cr., Rank among 28 districts = 5, YoY Growth = 7.57%, Contribution to state total = 5.02%
+2022-23 (TRE): Rs. 62,542.00 Cr., Rank among 28 districts = 5, Contribution to state total = 5.10%
+2023-24 (SRE): Rs. 66,373.00 Cr., Rank among 28 districts = 5, YoY Growth = 6.13%, Contribution to state total = 5.03%
+2024-25 (FRE): Rs. 75,815.79 Cr., Rank among 28 districts = 5, YoY Growth = 14.23%, Contribution to state total = 5.15%
+2025-26 (FAE): Rs. 81,558.81 Cr., Rank among 28 districts = 5, YoY Growth = 7.57%, Contribution to state total = 5.02%

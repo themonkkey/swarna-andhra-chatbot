@@ -1,6 +1,6 @@
 District: Parvathipuram Manyam — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 228.92 Cr., Rank among 28 districts = 20, Contribution to state total = 0.22%
-2023-24 (SRE): Value = Rs. 247.53 Cr., Rank among 28 districts = 20, YoY Growth = 8.30%, Contribution to state total = 0.22%
-2024-25 (FRE): Value = Rs. 301.98 Cr., Rank among 28 districts = 19, YoY Growth = 21.77%, Contribution to state total = 0.24%
-2025-26 (FAE): Value = Rs. 271.70 Cr., Rank among 28 districts = 20, YoY Growth = -9.93%, Contribution to state total = 0.18%
+2022-23 (TRE): Rs. 228.92 Cr., Rank among 28 districts = 20, Contribution to state total = 0.22%
+2023-24 (SRE): Rs. 247.53 Cr., Rank among 28 districts = 20, YoY Growth = 8.30%, Contribution to state total = 0.22%
+2024-25 (FRE): Rs. 301.98 Cr., Rank among 28 districts = 19, YoY Growth = 21.77%, Contribution to state total = 0.24%
+2025-26 (FAE): Rs. 271.70 Cr., Rank among 28 districts = 20, YoY Growth = -9.93%, Contribution to state total = 0.18%

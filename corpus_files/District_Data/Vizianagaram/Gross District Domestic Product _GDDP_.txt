@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 34,312.86 Cr., Rank among 28 districts = 22, Contribution to state total = 2.62%
-2023-24 (SRE): Value = Rs. 37,143.00 Cr., Rank among 28 districts = 21, YoY Growth = 8.25%, Contribution to state total = 2.61%
-2024-25 (FRE): Value = Rs. 40,940.00 Cr., Rank among 28 districts = 22, YoY Growth = 10.22%, Contribution to state total = 2.57%
-2025-26 (FAE): Value = Rs. 45,180.00 Cr., Rank among 28 districts = 22, YoY Growth = 10.36%, Contribution to state total = 2.56%
+2022-23 (TRE): Rs. 34,312.86 Cr., Rank among 28 districts = 22, Contribution to state total = 2.62%
+2023-24 (SRE): Rs. 37,143.00 Cr., Rank among 28 districts = 21, YoY Growth = 8.25%, Contribution to state total = 2.61%
+2024-25 (FRE): Rs. 40,940.00 Cr., Rank among 28 districts = 22, YoY Growth = 10.22%, Contribution to state total = 2.57%
+2025-26 (FAE): Rs. 45,180.00 Cr., Rank among 28 districts = 22, YoY Growth = 10.36%, Contribution to state total = 2.56%

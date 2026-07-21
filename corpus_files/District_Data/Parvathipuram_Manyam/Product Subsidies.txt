@@ -1,6 +1,6 @@
 District: Parvathipuram Manyam — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 438.00 Cr., Rank among 28 districts = 26, Contribution to state total = 1.09%
-2023-24 (SRE): Value = Rs. 267.83 Cr., Rank among 28 districts = 26, YoY Growth = -38.81%, Contribution to state total = 0.99%
-2024-25 (FRE): Value = Rs. 250.00 Cr., Rank among 28 districts = 27, YoY Growth = -6.72%, Contribution to state total = 1.01%
-2025-26 (FAE): Value = Rs. 235.32 Cr., Rank among 28 districts = 27, YoY Growth = -6.00%, Contribution to state total = 0.98%
+2022-23 (TRE): Rs. 438.00 Cr., Rank among 28 districts = 26, Contribution to state total = 1.09%
+2023-24 (SRE): Rs. 267.83 Cr., Rank among 28 districts = 26, YoY Growth = -38.81%, Contribution to state total = 0.99%
+2024-25 (FRE): Rs. 250.00 Cr., Rank among 28 districts = 27, YoY Growth = -6.72%, Contribution to state total = 1.01%
+2025-26 (FAE): Rs. 235.32 Cr., Rank among 28 districts = 27, YoY Growth = -6.00%, Contribution to state total = 0.98%

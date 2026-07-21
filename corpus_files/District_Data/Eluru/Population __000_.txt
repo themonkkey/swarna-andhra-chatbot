@@ -1,6 +1,6 @@
-District: Eluru — Sector: Population ('000)
+District: Eluru — Metric: Population ('000)
 
-2022-23 (TRE): Value = Rs. 2,148.00 Cr., Rank among 28 districts = 12, Contribution to state total = 4.05%
-2023-24 (SRE): Value = Rs. 2,156.00 Cr., Rank among 28 districts = 12, YoY Growth = 0.37%, Contribution to state total = 4.05%
-2024-25 (FRE): Value = Rs. 2,163.36 Cr., Rank among 28 districts = 12, YoY Growth = 0.32%, Contribution to state total = 4.05%
-2025-26 (FAE): Value = Rs. 2,170.81 Cr., Rank among 28 districts = 12, YoY Growth = 0.37%, Contribution to state total = 4.05%
+2022-23 (TRE): 2,148 thousand persons, Rank among 28 districts = 12
+2023-24 (SRE): 2,156 thousand persons, Rank among 28 districts = 12, YoY Growth = 0.37%
+2024-25 (FRE): 2,163 thousand persons, Rank among 28 districts = 12, YoY Growth = 0.32%
+2025-26 (FAE): 2,171 thousand persons, Rank among 28 districts = 12, YoY Growth = 0.37%

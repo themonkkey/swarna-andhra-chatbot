@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 109.10 Cr., Rank among 28 districts = 14, Contribution to state total = 1.46%
-2023-24 (SRE): Value = Rs. 120.00 Cr., Rank among 28 districts = 15, YoY Growth = 10.09%, Contribution to state total = 1.41%
-2024-25 (FRE): Value = Rs. 129.21 Cr., Rank among 28 districts = 15, YoY Growth = 7.50%, Contribution to state total = 1.40%
-2025-26 (FAE): Value = Rs. 139.00 Cr., Rank among 28 districts = 15, YoY Growth = 7.75%, Contribution to state total = 1.39%
+2022-23 (TRE): Rs. 109.10 Cr., Rank among 28 districts = 14, Contribution to state total = 1.46%
+2023-24 (SRE): Rs. 120.00 Cr., Rank among 28 districts = 15, YoY Growth = 10.09%, Contribution to state total = 1.41%
+2024-25 (FRE): Rs. 129.21 Cr., Rank among 28 districts = 15, YoY Growth = 7.50%, Contribution to state total = 1.40%
+2025-26 (FAE): Rs. 139.00 Cr., Rank among 28 districts = 15, YoY Growth = 7.75%, Contribution to state total = 1.39%

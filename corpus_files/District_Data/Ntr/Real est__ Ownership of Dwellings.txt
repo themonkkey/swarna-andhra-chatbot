@@ -1,6 +1,6 @@
 District: Ntr — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 7,996.54 Cr., Rank among 28 districts = 1, Contribution to state total = 7.97%
-2023-24 (SRE): Value = Rs. 8,861.35 Cr., Rank among 28 districts = 1, YoY Growth = 10.80%, Contribution to state total = 8.21%
-2024-25 (FRE): Value = Rs. 10,102.24 Cr., Rank among 28 districts = 1, YoY Growth = 14.01%, Contribution to state total = 8.30%
-2025-26 (FAE): Value = Rs. 11,450.79 Cr., Rank among 28 districts = 1, YoY Growth = 13.35%, Contribution to state total = 8.29%
+2022-23 (TRE): Rs. 7,996.54 Cr., Rank among 28 districts = 1, Contribution to state total = 7.97%
+2023-24 (SRE): Rs. 8,861.35 Cr., Rank among 28 districts = 1, YoY Growth = 10.80%, Contribution to state total = 8.21%
+2024-25 (FRE): Rs. 10,102.24 Cr., Rank among 28 districts = 1, YoY Growth = 14.01%, Contribution to state total = 8.30%
+2025-26 (FAE): Rs. 11,450.79 Cr., Rank among 28 districts = 1, YoY Growth = 13.35%, Contribution to state total = 8.29%

@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 188.92 Cr., Rank among 28 districts = 10, Contribution to state total = 2.54%
-2023-24 (SRE): Value = Rs. 219.00 Cr., Rank among 28 districts = 10, YoY Growth = 15.87%, Contribution to state total = 2.57%
-2024-25 (FRE): Value = Rs. 233.69 Cr., Rank among 28 districts = 10, YoY Growth = 6.85%, Contribution to state total = 2.54%
-2025-26 (FAE): Value = Rs. 252.00 Cr., Rank among 28 districts = 10, YoY Growth = 7.69%, Contribution to state total = 2.51%
+2022-23 (TRE): Rs. 188.92 Cr., Rank among 28 districts = 10, Contribution to state total = 2.54%
+2023-24 (SRE): Rs. 219.00 Cr., Rank among 28 districts = 10, YoY Growth = 15.87%, Contribution to state total = 2.57%
+2024-25 (FRE): Rs. 233.69 Cr., Rank among 28 districts = 10, YoY Growth = 6.85%, Contribution to state total = 2.54%
+2025-26 (FAE): Rs. 252.00 Cr., Rank among 28 districts = 10, YoY Growth = 7.69%, Contribution to state total = 2.51%

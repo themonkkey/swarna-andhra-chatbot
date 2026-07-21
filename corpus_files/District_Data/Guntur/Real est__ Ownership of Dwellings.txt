@@ -1,6 +1,6 @@
 District: Guntur — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 6,094.50 Cr., Rank among 28 districts = 3, Contribution to state total = 6.07%
-2023-24 (SRE): Value = Rs. 6,702.27 Cr., Rank among 28 districts = 3, YoY Growth = 9.98%, Contribution to state total = 6.21%
-2024-25 (FRE): Value = Rs. 7,638.95 Cr., Rank among 28 districts = 3, YoY Growth = 13.98%, Contribution to state total = 6.28%
-2025-26 (FAE): Value = Rs. 8,653.51 Cr., Rank among 28 districts = 3, YoY Growth = 13.29%, Contribution to state total = 6.26%
+2022-23 (TRE): Rs. 6,094.50 Cr., Rank among 28 districts = 3, Contribution to state total = 6.07%
+2023-24 (SRE): Rs. 6,702.27 Cr., Rank among 28 districts = 3, YoY Growth = 9.98%, Contribution to state total = 6.21%
+2024-25 (FRE): Rs. 7,638.95 Cr., Rank among 28 districts = 3, YoY Growth = 13.98%, Contribution to state total = 6.28%
+2025-26 (FAE): Rs. 8,653.51 Cr., Rank among 28 districts = 3, YoY Growth = 13.29%, Contribution to state total = 6.26%

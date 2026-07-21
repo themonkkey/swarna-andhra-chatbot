@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Gross District Value Added (GDVA)
 
-2022-23 (TRE): Value = Rs. 27,648.00 Cr., Rank among 28 districts = 24, Contribution to state total = 2.25%
-2023-24 (SRE): Value = Rs. 30,597.00 Cr., Rank among 28 districts = 24, YoY Growth = 10.67%, Contribution to state total = 2.32%
-2024-25 (FRE): Value = Rs. 33,451.53 Cr., Rank among 28 districts = 24, YoY Growth = 9.33%, Contribution to state total = 2.27%
-2025-26 (FAE): Value = Rs. 32,891.39 Cr., Rank among 28 districts = 24, YoY Growth = -1.68%, Contribution to state total = 2.02%
+2022-23 (TRE): Rs. 27,648.00 Cr., Rank among 28 districts = 24, Contribution to state total = 2.25%
+2023-24 (SRE): Rs. 30,597.00 Cr., Rank among 28 districts = 24, YoY Growth = 10.67%, Contribution to state total = 2.32%
+2024-25 (FRE): Rs. 33,451.53 Cr., Rank among 28 districts = 24, YoY Growth = 9.33%, Contribution to state total = 2.27%
+2025-26 (FAE): Rs. 32,891.39 Cr., Rank among 28 districts = 24, YoY Growth = -1.68%, Contribution to state total = 2.02%

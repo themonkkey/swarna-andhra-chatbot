@@ -1,6 +1,6 @@
 District: Eluru — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 66,710.56 Cr., Rank among 28 districts = 5, Contribution to state total = 5.10%
-2023-24 (SRE): Value = Rs. 71,601.00 Cr., Rank among 28 districts = 5, YoY Growth = 7.33%, Contribution to state total = 5.03%
-2024-25 (FRE): Value = Rs. 81,971.00 Cr., Rank among 28 districts = 5, YoY Growth = 14.48%, Contribution to state total = 5.15%
-2025-26 (FAE): Value = Rs. 88,472.00 Cr., Rank among 28 districts = 5, YoY Growth = 7.93%, Contribution to state total = 5.02%
+2022-23 (TRE): Rs. 66,710.56 Cr., Rank among 28 districts = 5, Contribution to state total = 5.10%
+2023-24 (SRE): Rs. 71,601.00 Cr., Rank among 28 districts = 5, YoY Growth = 7.33%, Contribution to state total = 5.03%
+2024-25 (FRE): Rs. 81,971.00 Cr., Rank among 28 districts = 5, YoY Growth = 14.48%, Contribution to state total = 5.15%
+2025-26 (FAE): Rs. 88,472.00 Cr., Rank among 28 districts = 5, YoY Growth = 7.93%, Contribution to state total = 5.02%

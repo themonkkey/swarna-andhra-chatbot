@@ -1,6 +1,6 @@
-District: East Godavari — Sector: Per Capita Income (Rs.)
+District: East Godavari — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 223,145.00 Cr., Rank among 28 districts = 10, Contribution to state total = 3.75%
-2023-24 (SRE): Value = Rs. 236,616.00 Cr., Rank among 28 districts = 11, YoY Growth = 6.04%, Contribution to state total = 3.66%
-2024-25 (FRE): Value = Rs. 253,600.00 Cr., Rank among 28 districts = 14, YoY Growth = 7.18%, Contribution to state total = 3.50%
-2025-26 (FAE): Value = Rs. 281,392.00 Cr., Rank among 28 districts = 14, YoY Growth = 10.96%, Contribution to state total = 3.52%
+2022-23 (TRE): Rs. 223,145 per person, Rank among 28 districts = 10
+2023-24 (SRE): Rs. 236,616 per person, Rank among 28 districts = 11, YoY Growth = 6.04%
+2024-25 (FRE): Rs. 253,600 per person, Rank among 28 districts = 14, YoY Growth = 7.18%
+2025-26 (FAE): Rs. 281,392 per person, Rank among 28 districts = 14, YoY Growth = 10.96%

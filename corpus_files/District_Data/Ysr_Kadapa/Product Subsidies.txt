@@ -1,6 +1,6 @@
 District: Ysr Kadapa — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 1,614.00 Cr., Rank among 28 districts = 11, Contribution to state total = 4.01%
-2023-24 (SRE): Value = Rs. 1,271.00 Cr., Rank among 28 districts = 8, YoY Growth = -21.25%, Contribution to state total = 4.69%
-2024-25 (FRE): Value = Rs. 1,127.00 Cr., Rank among 28 districts = 8, YoY Growth = -11.33%, Contribution to state total = 4.55%
-2025-26 (FAE): Value = Rs. 1,085.46 Cr., Rank among 28 districts = 8, YoY Growth = -3.73%, Contribution to state total = 4.52%
+2022-23 (TRE): Rs. 1,614.00 Cr., Rank among 28 districts = 11, Contribution to state total = 4.01%
+2023-24 (SRE): Rs. 1,271.00 Cr., Rank among 28 districts = 8, YoY Growth = -21.25%, Contribution to state total = 4.69%
+2024-25 (FRE): Rs. 1,127.00 Cr., Rank among 28 districts = 8, YoY Growth = -11.33%, Contribution to state total = 4.55%
+2025-26 (FAE): Rs. 1,085.46 Cr., Rank among 28 districts = 8, YoY Growth = -3.73%, Contribution to state total = 4.52%

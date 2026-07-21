@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 1,808.00 Cr., Rank among 28 districts = 7, Contribution to state total = 4.49%
-2023-24 (SRE): Value = Rs. 1,230.73 Cr., Rank among 28 districts = 9, YoY Growth = -31.91%, Contribution to state total = 4.55%
-2024-25 (FRE): Value = Rs. 1,105.00 Cr., Rank among 28 districts = 9, YoY Growth = -10.24%, Contribution to state total = 4.46%
-2025-26 (FAE): Value = Rs. 1,043.18 Cr., Rank among 28 districts = 9, YoY Growth = -5.61%, Contribution to state total = 4.34%
+2022-23 (TRE): Rs. 1,808.00 Cr., Rank among 28 districts = 7, Contribution to state total = 4.49%
+2023-24 (SRE): Rs. 1,230.73 Cr., Rank among 28 districts = 9, YoY Growth = -31.91%, Contribution to state total = 4.55%
+2024-25 (FRE): Rs. 1,105.00 Cr., Rank among 28 districts = 9, YoY Growth = -10.24%, Contribution to state total = 4.46%
+2025-26 (FAE): Rs. 1,043.18 Cr., Rank among 28 districts = 9, YoY Growth = -5.61%, Contribution to state total = 4.34%

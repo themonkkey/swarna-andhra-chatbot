@@ -1,6 +1,6 @@
-District: Anakapalle — Sector: Per Capita Income (Rs.)
+District: Anakapalle — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 205,469.00 Cr., Rank among 28 districts = 15, Contribution to state total = 3.45%
-2023-24 (SRE): Value = Rs. 220,741.00 Cr., Rank among 28 districts = 15, YoY Growth = 7.43%, Contribution to state total = 3.42%
-2024-25 (FRE): Value = Rs. 240,880.00 Cr., Rank among 28 districts = 16, YoY Growth = 9.12%, Contribution to state total = 3.33%
-2025-26 (FAE): Value = Rs. 273,149.00 Cr., Rank among 28 districts = 15, YoY Growth = 13.40%, Contribution to state total = 3.42%
+2022-23 (TRE): Rs. 205,469 per person, Rank among 28 districts = 15
+2023-24 (SRE): Rs. 220,741 per person, Rank among 28 districts = 15, YoY Growth = 7.43%
+2024-25 (FRE): Rs. 240,880 per person, Rank among 28 districts = 16, YoY Growth = 9.12%
+2025-26 (FAE): Rs. 273,149 per person, Rank among 28 districts = 15, YoY Growth = 13.40%

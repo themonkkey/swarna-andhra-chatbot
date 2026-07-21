@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 342.78 Cr., Rank among 28 districts = 12, Contribution to state total = 3.80%
-2023-24 (SRE): Value = Rs. 373.00 Cr., Rank among 28 districts = 11, YoY Growth = 8.75%, Contribution to state total = 3.82%
-2024-25 (FRE): Value = Rs. 382.14 Cr., Rank among 28 districts = 11, YoY Growth = 2.41%, Contribution to state total = 3.82%
-2025-26 (FAE): Value = Rs. 371.30 Cr., Rank among 28 districts = 13, YoY Growth = -2.88%, Contribution to state total = 3.60%
+2022-23 (TRE): Rs. 342.78 Cr., Rank among 28 districts = 12, Contribution to state total = 3.80%
+2023-24 (SRE): Rs. 373.00 Cr., Rank among 28 districts = 11, YoY Growth = 8.75%, Contribution to state total = 3.82%
+2024-25 (FRE): Rs. 382.14 Cr., Rank among 28 districts = 11, YoY Growth = 2.41%, Contribution to state total = 3.82%
+2025-26 (FAE): Rs. 371.30 Cr., Rank among 28 districts = 13, YoY Growth = -2.88%, Contribution to state total = 3.60%

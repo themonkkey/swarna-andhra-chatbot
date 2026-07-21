@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Public Admn.
 
-2022-23 (TRE): Value = Rs. 1,982.03 Cr., Rank among 28 districts = 11, Contribution to state total = 3.92%
-2023-24 (SRE): Value = Rs. 2,104.00 Cr., Rank among 28 districts = 10, YoY Growth = 6.16%, Contribution to state total = 3.94%
-2024-25 (FRE): Value = Rs. 2,261.22 Cr., Rank among 28 districts = 10, YoY Growth = 7.46%, Contribution to state total = 3.95%
-2025-26 (FAE): Value = Rs. 2,374.29 Cr., Rank among 28 districts = 10, YoY Growth = 5.00%, Contribution to state total = 3.96%
+2022-23 (TRE): Rs. 1,982.03 Cr., Rank among 28 districts = 11, Contribution to state total = 3.92%
+2023-24 (SRE): Rs. 2,104.00 Cr., Rank among 28 districts = 10, YoY Growth = 6.16%, Contribution to state total = 3.94%
+2024-25 (FRE): Rs. 2,261.22 Cr., Rank among 28 districts = 10, YoY Growth = 7.46%, Contribution to state total = 3.95%
+2025-26 (FAE): Rs. 2,374.29 Cr., Rank among 28 districts = 10, YoY Growth = 5.00%, Contribution to state total = 3.96%

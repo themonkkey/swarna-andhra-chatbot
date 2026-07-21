@@ -1,6 +1,6 @@
 District: Ysr Kadapa — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 4,092.47 Cr., Rank among 28 districts = 9, Contribution to state total = 4.08%
-2023-24 (SRE): Value = Rs. 4,381.83 Cr., Rank among 28 districts = 10, YoY Growth = 7.09%, Contribution to state total = 4.06%
-2024-25 (FRE): Value = Rs. 4,990.44 Cr., Rank among 28 districts = 9, YoY Growth = 13.87%, Contribution to state total = 4.10%
-2025-26 (FAE): Value = Rs. 5,634.81 Cr., Rank among 28 districts = 10, YoY Growth = 12.93%, Contribution to state total = 4.08%
+2022-23 (TRE): Rs. 4,092.47 Cr., Rank among 28 districts = 9, Contribution to state total = 4.08%
+2023-24 (SRE): Rs. 4,381.83 Cr., Rank among 28 districts = 10, YoY Growth = 7.09%, Contribution to state total = 4.06%
+2024-25 (FRE): Rs. 4,990.44 Cr., Rank among 28 districts = 9, YoY Growth = 13.87%, Contribution to state total = 4.10%
+2025-26 (FAE): Rs. 5,634.81 Cr., Rank among 28 districts = 10, YoY Growth = 12.93%, Contribution to state total = 4.08%

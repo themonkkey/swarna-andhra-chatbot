@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Gross District Value Added (GDVA)
 
-2022-23 (TRE): Value = Rs. 51,844.00 Cr., Rank among 28 districts = 9, Contribution to state total = 4.23%
-2023-24 (SRE): Value = Rs. 54,651.00 Cr., Rank among 28 districts = 11, YoY Growth = 5.41%, Contribution to state total = 4.14%
-2024-25 (FRE): Value = Rs. 59,070.62 Cr., Rank among 28 districts = 12, YoY Growth = 8.09%, Contribution to state total = 4.01%
-2025-26 (FAE): Value = Rs. 64,977.22 Cr., Rank among 28 districts = 12, YoY Growth = 10.00%, Contribution to state total = 4.00%
+2022-23 (TRE): Rs. 51,844.00 Cr., Rank among 28 districts = 9, Contribution to state total = 4.23%
+2023-24 (SRE): Rs. 54,651.00 Cr., Rank among 28 districts = 11, YoY Growth = 5.41%, Contribution to state total = 4.14%
+2024-25 (FRE): Rs. 59,070.62 Cr., Rank among 28 districts = 12, YoY Growth = 8.09%, Contribution to state total = 4.01%
+2025-26 (FAE): Rs. 64,977.22 Cr., Rank among 28 districts = 12, YoY Growth = 10.00%, Contribution to state total = 4.00%

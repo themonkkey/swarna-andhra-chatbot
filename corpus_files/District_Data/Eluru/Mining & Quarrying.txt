@@ -1,6 +1,6 @@
 District: Eluru — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 163.18 Cr., Rank among 28 districts = 23, Contribution to state total = 0.42%
-2023-24 (SRE): Value = Rs. 738.03 Cr., Rank among 28 districts = 12, YoY Growth = 352.76%, Contribution to state total = 2.49%
-2024-25 (FRE): Value = Rs. 574.71 Cr., Rank among 28 districts = 18, YoY Growth = -22.09%, Contribution to state total = 1.77%
-2025-26 (FAE): Value = Rs. 56.00 Cr., Rank among 28 districts = 25, YoY Growth = -90.26%, Contribution to state total = 0.16%
+2022-23 (TRE): Rs. 163.18 Cr., Rank among 28 districts = 23, Contribution to state total = 0.42%
+2023-24 (SRE): Rs. 738.03 Cr., Rank among 28 districts = 12, YoY Growth = 352.76%, Contribution to state total = 2.49%
+2024-25 (FRE): Rs. 574.71 Cr., Rank among 28 districts = 18, YoY Growth = -22.09%, Contribution to state total = 1.77%
+2025-26 (FAE): Rs. 56.00 Cr., Rank among 28 districts = 25, YoY Growth = -90.26%, Contribution to state total = 0.16%

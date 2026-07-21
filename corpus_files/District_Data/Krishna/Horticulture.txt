@@ -1,6 +1,6 @@
 District: Krishna — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 1,457.05 Cr., Rank among 28 districts = 25, Contribution to state total = 1.21%
-2023-24 (SRE): Value = Rs. 2,069.48 Cr., Rank among 28 districts = 22, YoY Growth = 42.00%, Contribution to state total = 1.64%
-2024-25 (FRE): Value = Rs. 2,380.00 Cr., Rank among 28 districts = 22, YoY Growth = 15.03%, Contribution to state total = 1.68%
-2025-26 (FAE): Value = Rs. 2,124.38 Cr., Rank among 28 districts = 24, YoY Growth = -10.76%, Contribution to state total = 1.49%
+2022-23 (TRE): Rs. 1,457.05 Cr., Rank among 28 districts = 25, Contribution to state total = 1.21%
+2023-24 (SRE): Rs. 2,069.48 Cr., Rank among 28 districts = 22, YoY Growth = 42.00%, Contribution to state total = 1.64%
+2024-25 (FRE): Rs. 2,380.00 Cr., Rank among 28 districts = 22, YoY Growth = 15.03%, Contribution to state total = 1.68%
+2025-26 (FAE): Rs. 2,124.38 Cr., Rank among 28 districts = 24, YoY Growth = -10.76%, Contribution to state total = 1.49%

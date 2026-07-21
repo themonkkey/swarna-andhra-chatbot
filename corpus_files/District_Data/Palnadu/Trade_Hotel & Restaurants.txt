@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 792.47 Cr., Rank among 28 districts = 21, Contribution to state total = 0.89%
-2023-24 (SRE): Value = Rs. 719.00 Cr., Rank among 28 districts = 23, YoY Growth = -9.22%, Contribution to state total = 0.75%
-2024-25 (FRE): Value = Rs. 825.00 Cr., Rank among 28 districts = 23, YoY Growth = 14.74%, Contribution to state total = 0.76%
-2025-26 (FAE): Value = Rs. 937.47 Cr., Rank among 28 districts = 23, YoY Growth = 13.58%, Contribution to state total = 0.76%
+2022-23 (TRE): Rs. 792.47 Cr., Rank among 28 districts = 21, Contribution to state total = 0.89%
+2023-24 (SRE): Rs. 719.00 Cr., Rank among 28 districts = 23, YoY Growth = -9.22%, Contribution to state total = 0.75%
+2024-25 (FRE): Rs. 825.00 Cr., Rank among 28 districts = 23, YoY Growth = 14.74%, Contribution to state total = 0.76%
+2025-26 (FAE): Rs. 937.47 Cr., Rank among 28 districts = 23, YoY Growth = 13.58%, Contribution to state total = 0.76%

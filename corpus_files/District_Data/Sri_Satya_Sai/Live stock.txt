@@ -1,6 +1,6 @@
 District: Sri Satya Sai — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 9,112.03 Cr., Rank among 28 districts = 3, Contribution to state total = 6.23%
-2023-24 (SRE): Value = Rs. 10,389.00 Cr., Rank among 28 districts = 2, YoY Growth = 14.01%, Contribution to state total = 6.72%
-2024-25 (FRE): Value = Rs. 10,542.30 Cr., Rank among 28 districts = 1, YoY Growth = 1.47%, Contribution to state total = 6.41%
-2025-26 (FAE): Value = Rs. 9,932.00 Cr., Rank among 28 districts = 3, YoY Growth = -5.79%, Contribution to state total = 5.64%
+2022-23 (TRE): Rs. 9,112.03 Cr., Rank among 28 districts = 3, Contribution to state total = 6.23%
+2023-24 (SRE): Rs. 10,389.00 Cr., Rank among 28 districts = 2, YoY Growth = 14.01%, Contribution to state total = 6.72%
+2024-25 (FRE): Rs. 10,542.30 Cr., Rank among 28 districts = 1, YoY Growth = 1.47%, Contribution to state total = 6.41%
+2025-26 (FAE): Rs. 9,932.00 Cr., Rank among 28 districts = 3, YoY Growth = -5.79%, Contribution to state total = 5.64%

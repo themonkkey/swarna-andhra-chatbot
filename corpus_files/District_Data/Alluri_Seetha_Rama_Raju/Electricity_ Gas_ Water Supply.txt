@@ -1,6 +1,6 @@
 District: Alluri Seetha Rama Raju — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 123.00 Cr., Rank among 28 districts = 27, Contribution to state total = 0.40%
-2023-24 (SRE): Value = Rs. 171.02 Cr., Rank among 28 districts = 27, YoY Growth = 39.02%, Contribution to state total = 0.44%
-2024-25 (FRE): Value = Rs. 198.59 Cr., Rank among 28 districts = 27, YoY Growth = 16.37%, Contribution to state total = 0.47%
-2025-26 (FAE): Value = Rs. 197.18 Cr., Rank among 28 districts = 27, YoY Growth = -1.01%, Contribution to state total = 0.44%
+2022-23 (TRE): Rs. 123.00 Cr., Rank among 28 districts = 27, Contribution to state total = 0.40%
+2023-24 (SRE): Rs. 171.02 Cr., Rank among 28 districts = 27, YoY Growth = 39.02%, Contribution to state total = 0.44%
+2024-25 (FRE): Rs. 198.59 Cr., Rank among 28 districts = 27, YoY Growth = 16.37%, Contribution to state total = 0.47%
+2025-26 (FAE): Rs. 197.18 Cr., Rank among 28 districts = 27, YoY Growth = -1.01%, Contribution to state total = 0.44%

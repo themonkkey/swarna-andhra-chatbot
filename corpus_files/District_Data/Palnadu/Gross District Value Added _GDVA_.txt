@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Gross District Value Added (GDVA)
 
-2022-23 (TRE): Value = Rs. 37,079.00 Cr., Rank among 28 districts = 17, Contribution to state total = 3.02%
-2023-24 (SRE): Value = Rs. 38,655.00 Cr., Rank among 28 districts = 16, YoY Growth = 4.25%, Contribution to state total = 2.93%
-2024-25 (FRE): Value = Rs. 42,040.38 Cr., Rank among 28 districts = 17, YoY Growth = 8.76%, Contribution to state total = 2.86%
-2025-26 (FAE): Value = Rs. 45,716.46 Cr., Rank among 28 districts = 16, YoY Growth = 8.74%, Contribution to state total = 2.81%
+2022-23 (TRE): Rs. 37,079.00 Cr., Rank among 28 districts = 17, Contribution to state total = 3.02%
+2023-24 (SRE): Rs. 38,655.00 Cr., Rank among 28 districts = 16, YoY Growth = 4.25%, Contribution to state total = 2.93%
+2024-25 (FRE): Rs. 42,040.38 Cr., Rank among 28 districts = 17, YoY Growth = 8.76%, Contribution to state total = 2.86%
+2025-26 (FAE): Rs. 45,716.46 Cr., Rank among 28 districts = 16, YoY Growth = 8.74%, Contribution to state total = 2.81%

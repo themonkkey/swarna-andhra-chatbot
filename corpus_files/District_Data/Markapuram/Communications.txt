@@ -1,6 +1,6 @@
 District: Markapuram — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 381.29 Cr., Rank among 28 districts = 25, Contribution to state total = 1.78%
-2023-24 (SRE): Value = Rs. 427.00 Cr., Rank among 28 districts = 25, YoY Growth = 12.07%, Contribution to state total = 1.79%
-2024-25 (FRE): Value = Rs. 513.04 Cr., Rank among 28 districts = 25, YoY Growth = 20.14%, Contribution to state total = 1.79%
-2025-26 (FAE): Value = Rs. 602.00 Cr., Rank among 28 districts = 25, YoY Growth = 17.35%, Contribution to state total = 1.80%
+2022-23 (TRE): Rs. 381.29 Cr., Rank among 28 districts = 25, Contribution to state total = 1.78%
+2023-24 (SRE): Rs. 427.00 Cr., Rank among 28 districts = 25, YoY Growth = 12.07%, Contribution to state total = 1.79%
+2024-25 (FRE): Rs. 513.04 Cr., Rank among 28 districts = 25, YoY Growth = 20.14%, Contribution to state total = 1.79%
+2025-26 (FAE): Rs. 602.00 Cr., Rank among 28 districts = 25, YoY Growth = 17.35%, Contribution to state total = 1.80%

@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 1,068.55 Cr., Rank among 28 districts = 18, Contribution to state total = 1.20%
-2023-24 (SRE): Value = Rs. 1,561.00 Cr., Rank among 28 districts = 18, YoY Growth = 46.02%, Contribution to state total = 1.62%
-2024-25 (FRE): Value = Rs. 1,790.00 Cr., Rank among 28 districts = 16, YoY Growth = 14.67%, Contribution to state total = 1.64%
-2025-26 (FAE): Value = Rs. 1,856.86 Cr., Rank among 28 districts = 17, YoY Growth = 3.74%, Contribution to state total = 1.51%
+2022-23 (TRE): Rs. 1,068.55 Cr., Rank among 28 districts = 18, Contribution to state total = 1.20%
+2023-24 (SRE): Rs. 1,561.00 Cr., Rank among 28 districts = 18, YoY Growth = 46.02%, Contribution to state total = 1.62%
+2024-25 (FRE): Rs. 1,790.00 Cr., Rank among 28 districts = 16, YoY Growth = 14.67%, Contribution to state total = 1.64%
+2025-26 (FAE): Rs. 1,856.86 Cr., Rank among 28 districts = 17, YoY Growth = 3.74%, Contribution to state total = 1.51%

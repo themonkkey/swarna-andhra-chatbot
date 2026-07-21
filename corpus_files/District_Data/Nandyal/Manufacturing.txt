@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 1,777.46 Cr., Rank among 28 districts = 19, Contribution to state total = 1.41%
-2023-24 (SRE): Value = Rs. 2,827.00 Cr., Rank among 28 districts = 14, YoY Growth = 59.09%, Contribution to state total = 1.87%
-2024-25 (FRE): Value = Rs. 3,012.56 Cr., Rank among 28 districts = 14, YoY Growth = 6.58%, Contribution to state total = 1.87%
-2025-26 (FAE): Value = Rs. 3,303.22 Cr., Rank among 28 districts = 14, YoY Growth = 9.62%, Contribution to state total = 1.87%
+2022-23 (TRE): Rs. 1,777.46 Cr., Rank among 28 districts = 19, Contribution to state total = 1.41%
+2023-24 (SRE): Rs. 2,827.00 Cr., Rank among 28 districts = 14, YoY Growth = 59.09%, Contribution to state total = 1.87%
+2024-25 (FRE): Rs. 3,012.56 Cr., Rank among 28 districts = 14, YoY Growth = 6.58%, Contribution to state total = 1.87%
+2025-26 (FAE): Rs. 3,303.22 Cr., Rank among 28 districts = 14, YoY Growth = 9.62%, Contribution to state total = 1.87%

@@ -339,49 +339,54 @@ st.set_page_config(
 
 BRAND_CSS = """
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@300;400;500;600&display=swap');
-:root{--green:#3D6949;--green-dk:#2E5138;--gold:#FFA600;--gold-2:#FEB715;--cream:#F7F3EE;--cream-card:#FDF4E0;--ink:#1A1A1A;--muted:#6a6a6a;}
-html,body,[class*="css"]{font-family:'Poppins',sans-serif;}
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@300;400;500;600;700&display=swap');
+:root{--bg:#17201C;--bg-2:#1E2A24;--panel:#212E27;--neon:#01EF6C;--neon-dk:#00C957;--line:#2E3E35;--ink:#EAF3ED;--muted:#8FA598;}
+html,body,[class*="css"],.stApp{font-family:'Inter',sans-serif;background:var(--bg) !important;color:var(--ink);}
 #MainMenu,footer,header[data-testid="stHeader"]{visibility:hidden;}
 .block-container{padding-top:1.2rem;padding-bottom:7rem;max-width:820px;}
+.stApp{background:var(--bg);}
 
 /* branded header */
-.sa-header{display:flex;align-items:center;gap:14px;background:var(--green);border-radius:18px;padding:18px 24px;margin-bottom:6px;}
-.sa-emblem{width:44px;height:44px;border-radius:50%;background:rgba(255,255,255,.12);display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;}
-.sa-htext h1{font-family:'Anton',sans-serif;font-weight:400;font-size:26px;color:#fff;line-height:1.05;margin:0;letter-spacing:.02em;}
-.sa-htext h1 span{color:var(--gold);}
-.sa-htext p{font-size:12px;color:rgba(255,255,255,.82);margin:3px 0 0;font-weight:300;}
-.sa-badge{margin-left:auto;background:rgba(255,166,0,.18);color:var(--gold-2);font-size:11px;font-weight:600;padding:5px 12px;border-radius:20px;white-space:nowrap;}
-.sa-sub{font-size:13px;color:var(--muted);margin:10px 2px 4px;font-weight:300;line-height:1.6;}
+.sa-header{display:flex;align-items:center;gap:14px;background:var(--bg-2);border:1px solid var(--line);border-radius:14px;padding:20px 24px;margin-bottom:6px;position:relative;overflow:hidden;}
+.sa-header::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--neon);}
+.sa-emblem{width:44px;height:44px;border-radius:10px;background:rgba(1,239,108,.10);border:1px solid rgba(1,239,108,.30);display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;}
+.sa-htext h1{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:24px;color:var(--ink);line-height:1.05;margin:0;letter-spacing:-.01em;}
+.sa-htext h1 span{color:var(--neon);}
+.sa-htext p{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--muted);margin:5px 0 0;font-weight:400;letter-spacing:.02em;}
+.sa-badge{margin-left:auto;background:rgba(1,239,108,.12);color:var(--neon);border:1px solid rgba(1,239,108,.35);font-family:'JetBrains Mono',monospace;font-size:10px;font-weight:500;padding:5px 12px;border-radius:6px;white-space:nowrap;text-transform:uppercase;letter-spacing:.08em;}
+.sa-sub{font-size:13px;color:var(--muted);margin:12px 2px 4px;font-weight:300;line-height:1.65;}
 
 /* chat bubbles */
 [data-testid="stChatMessage"]{background:transparent;padding:.2rem 0;}
-[data-testid="stChatMessageContent"]{font-size:15px;line-height:1.65;}
+[data-testid="stChatMessageContent"]{font-size:15px;line-height:1.65;color:var(--ink);}
 /* assistant message card */
 .stChatMessage:has([data-testid="stChatMessageAvatarAssistant"]) [data-testid="stChatMessageContent"]{
-  background:var(--cream-card);border-radius:4px 16px 16px 16px;padding:14px 18px;border-left:3px solid var(--gold);}
+  background:var(--panel);border:1px solid var(--line);border-radius:4px 14px 14px 14px;padding:14px 18px;border-left:3px solid var(--neon);}
 /* user message card */
 .stChatMessage:has([data-testid="stChatMessageAvatarUser"]) [data-testid="stChatMessageContent"]{
-  background:var(--green);color:#fff;border-radius:16px 4px 16px 16px;padding:12px 18px;}
-.stChatMessage:has([data-testid="stChatMessageAvatarUser"]) [data-testid="stChatMessageContent"] *{color:#fff !important;}
+  background:var(--neon);color:#06130C;border-radius:14px 4px 14px 14px;padding:12px 18px;font-weight:500;}
+.stChatMessage:has([data-testid="stChatMessageAvatarUser"]) [data-testid="stChatMessageContent"] *{color:#06130C !important;}
 
 /* welcome chips */
-div.stButton>button{background:var(--cream);border:1px solid #e6ddd0;color:var(--green-dk);border-radius:22px;font-size:13px;
-  font-weight:500;padding:9px 16px;text-align:left;transition:all .12s;font-family:'Poppins';}
-div.stButton>button:hover{border-color:var(--gold);background:var(--cream-card);color:var(--ink);}
+div.stButton>button{background:var(--bg-2);border:1px solid var(--line);color:var(--ink);border-radius:10px;font-size:13px;
+  font-weight:400;padding:11px 16px;text-align:left;transition:all .12s;font-family:'Inter';}
+div.stButton>button:hover{border-color:var(--neon);background:var(--panel);color:var(--neon);}
 
 /* sources expander */
-[data-testid="stExpander"]{border:none;}
-[data-testid="stExpander"] summary{font-size:12px;color:var(--muted);font-weight:500;}
-[data-testid="stExpander"] summary:hover{color:var(--green);}
+[data-testid="stExpander"]{border:none;background:transparent;}
+[data-testid="stExpander"] summary{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--muted);font-weight:400;text-transform:uppercase;letter-spacing:.06em;}
+[data-testid="stExpander"] summary:hover{color:var(--neon);}
+[data-testid="stExpander"] [data-testid="stExpanderDetails"]{color:var(--muted);font-size:12px;}
 
 /* chat input */
-[data-testid="stChatInput"]{border:1.5px solid #e6ddd0;border-radius:26px;background:#fff;}
-[data-testid="stChatInput"]:focus-within{border-color:var(--gold);}
-[data-testid="stChatInput"] textarea{font-size:15px;}
-[data-testid="stChatInput"] button{background:var(--gold);border-radius:50%;}
+[data-testid="stChatInput"]{border:1px solid var(--line);border-radius:12px;background:var(--bg-2);}
+[data-testid="stChatInput"]:focus-within{border-color:var(--neon);box-shadow:0 0 0 1px rgba(1,239,108,.25);}
+[data-testid="stChatInput"] textarea{font-size:15px;color:var(--ink);}
+[data-testid="stChatInput"] button{background:var(--neon);border-radius:9px;}
+[data-testid="stChatInput"] button svg{color:#06130C;fill:#06130C;}
 
-.sa-foot{text-align:center;font-size:11px;color:#b0a99c;margin-top:8px;}
+a{color:var(--neon) !important;}
+.sa-foot{text-align:center;font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--muted);margin-top:8px;letter-spacing:.04em;}
 </style>
 """
 st.markdown(BRAND_CSS, unsafe_allow_html=True)

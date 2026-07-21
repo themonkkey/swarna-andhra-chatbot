@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 10,296.00 Cr., Rank among 28 districts = 1, Contribution to state total = 8.44%
-2023-24 (SRE): Value = Rs. 11,966.00 Cr., Rank among 28 districts = 1, YoY Growth = 16.22%, Contribution to state total = 9.13%
-2024-25 (FRE): Value = Rs. 13,073.63 Cr., Rank among 28 districts = 1, YoY Growth = 9.26%, Contribution to state total = 9.06%
-2025-26 (FAE): Value = Rs. 14,776.48 Cr., Rank among 28 districts = 1, YoY Growth = 13.02%, Contribution to state total = 9.14%
+2022-23 (TRE): Rs. 10,296.00 Cr., Rank among 28 districts = 1, Contribution to state total = 8.44%
+2023-24 (SRE): Rs. 11,966.00 Cr., Rank among 28 districts = 1, YoY Growth = 16.22%, Contribution to state total = 9.13%
+2024-25 (FRE): Rs. 13,073.63 Cr., Rank among 28 districts = 1, YoY Growth = 9.26%, Contribution to state total = 9.06%
+2025-26 (FAE): Rs. 14,776.48 Cr., Rank among 28 districts = 1, YoY Growth = 13.02%, Contribution to state total = 9.14%

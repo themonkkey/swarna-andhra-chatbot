@@ -1,6 +1,6 @@
-District: West Godavari — Sector: Population ('000)
+District: West Godavari — Metric: Population ('000)
 
-2022-23 (TRE): Value = Rs. 1,975.00 Cr., Rank among 28 districts = 15, Contribution to state total = 3.72%
-2023-24 (SRE): Value = Rs. 1,982.00 Cr., Rank among 28 districts = 15, YoY Growth = 0.35%, Contribution to state total = 3.72%
-2024-25 (FRE): Value = Rs. 1,988.94 Cr., Rank among 28 districts = 15, YoY Growth = 0.35%, Contribution to state total = 3.72%
-2025-26 (FAE): Value = Rs. 1,995.79 Cr., Rank among 28 districts = 15, YoY Growth = 0.35%, Contribution to state total = 3.72%
+2022-23 (TRE): 1,975 thousand persons, Rank among 28 districts = 15
+2023-24 (SRE): 1,982 thousand persons, Rank among 28 districts = 15, YoY Growth = 0.35%
+2024-25 (FRE): 1,989 thousand persons, Rank among 28 districts = 15, YoY Growth = 0.35%
+2025-26 (FAE): 1,996 thousand persons, Rank among 28 districts = 15, YoY Growth = 0.35%

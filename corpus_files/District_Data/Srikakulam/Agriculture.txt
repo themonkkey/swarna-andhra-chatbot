@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Agriculture
 
-2022-23 (TRE): Value = Rs. 2,178.00 Cr., Rank among 28 districts = 12, Contribution to state total = 4.41%
-2023-24 (SRE): Value = Rs. 1,938.18 Cr., Rank among 28 districts = 11, YoY Growth = -11.02%, Contribution to state total = 4.19%
-2024-25 (FRE): Value = Rs. 2,245.00 Cr., Rank among 28 districts = 11, YoY Growth = 15.84%, Contribution to state total = 4.06%
-2025-26 (FAE): Value = Rs. 2,255.41 Cr., Rank among 28 districts = 12, YoY Growth = 0.45%, Contribution to state total = 3.93%
+2022-23 (TRE): Rs. 2,178.00 Cr., Rank among 28 districts = 12, Contribution to state total = 4.41%
+2023-24 (SRE): Rs. 1,938.18 Cr., Rank among 28 districts = 11, YoY Growth = -11.02%, Contribution to state total = 4.19%
+2024-25 (FRE): Rs. 2,245.00 Cr., Rank among 28 districts = 11, YoY Growth = 15.84%, Contribution to state total = 4.06%
+2025-26 (FAE): Rs. 2,255.41 Cr., Rank among 28 districts = 12, YoY Growth = 0.45%, Contribution to state total = 3.93%

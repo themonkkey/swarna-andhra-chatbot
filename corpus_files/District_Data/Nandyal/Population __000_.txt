@@ -1,6 +1,6 @@
-District: Nandyal — Sector: Population ('000)
+District: Nandyal — Metric: Population ('000)
 
-2022-23 (TRE): Value = Rs. 1,908.00 Cr., Rank among 28 districts = 17, Contribution to state total = 3.59%
-2023-24 (SRE): Value = Rs. 1,914.00 Cr., Rank among 28 districts = 17, YoY Growth = 0.31%, Contribution to state total = 3.59%
-2024-25 (FRE): Value = Rs. 1,920.90 Cr., Rank among 28 districts = 17, YoY Growth = 0.37%, Contribution to state total = 3.59%
-2025-26 (FAE): Value = Rs. 1,927.51 Cr., Rank among 28 districts = 17, YoY Growth = 0.36%, Contribution to state total = 3.59%
+2022-23 (TRE): 1,908 thousand persons, Rank among 28 districts = 17
+2023-24 (SRE): 1,914 thousand persons, Rank among 28 districts = 17, YoY Growth = 0.31%
+2024-25 (FRE): 1,921 thousand persons, Rank among 28 districts = 17, YoY Growth = 0.37%
+2025-26 (FAE): 1,928 thousand persons, Rank among 28 districts = 17, YoY Growth = 0.36%

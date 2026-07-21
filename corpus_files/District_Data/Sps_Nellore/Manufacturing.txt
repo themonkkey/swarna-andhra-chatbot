@@ -1,6 +1,6 @@
 District: Sps Nellore — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 2,360.68 Cr., Rank among 28 districts = 16, Contribution to state total = 1.87%
-2023-24 (SRE): Value = Rs. 2,755.00 Cr., Rank among 28 districts = 15, YoY Growth = 16.69%, Contribution to state total = 1.82%
-2024-25 (FRE): Value = Rs. 3,007.75 Cr., Rank among 28 districts = 15, YoY Growth = 9.18%, Contribution to state total = 1.87%
-2025-26 (FAE): Value = Rs. 3,273.60 Cr., Rank among 28 districts = 15, YoY Growth = 8.84%, Contribution to state total = 1.86%
+2022-23 (TRE): Rs. 2,360.68 Cr., Rank among 28 districts = 16, Contribution to state total = 1.87%
+2023-24 (SRE): Rs. 2,755.00 Cr., Rank among 28 districts = 15, YoY Growth = 16.69%, Contribution to state total = 1.82%
+2024-25 (FRE): Rs. 3,007.75 Cr., Rank among 28 districts = 15, YoY Growth = 9.18%, Contribution to state total = 1.87%
+2025-26 (FAE): Rs. 3,273.60 Cr., Rank among 28 districts = 15, YoY Growth = 8.84%, Contribution to state total = 1.86%

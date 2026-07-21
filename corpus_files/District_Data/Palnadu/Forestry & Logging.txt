@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 374.61 Cr., Rank among 28 districts = 10, Contribution to state total = 4.15%
-2023-24 (SRE): Value = Rs. 402.00 Cr., Rank among 28 districts = 10, YoY Growth = 7.20%, Contribution to state total = 4.12%
-2024-25 (FRE): Value = Rs. 413.06 Cr., Rank among 28 districts = 10, YoY Growth = 2.74%, Contribution to state total = 4.13%
-2025-26 (FAE): Value = Rs. 431.42 Cr., Rank among 28 districts = 11, YoY Growth = 4.36%, Contribution to state total = 4.18%
+2022-23 (TRE): Rs. 374.61 Cr., Rank among 28 districts = 10, Contribution to state total = 4.15%
+2023-24 (SRE): Rs. 402.00 Cr., Rank among 28 districts = 10, YoY Growth = 7.20%, Contribution to state total = 4.12%
+2024-25 (FRE): Rs. 413.06 Cr., Rank among 28 districts = 10, YoY Growth = 2.74%, Contribution to state total = 4.13%
+2025-26 (FAE): Rs. 431.42 Cr., Rank among 28 districts = 11, YoY Growth = 4.36%, Contribution to state total = 4.18%

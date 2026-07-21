@@ -1,6 +1,6 @@
 District: Polavaram — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 125.01 Cr., Rank among 28 districts = 28, Contribution to state total = 0.58%
-2023-24 (SRE): Value = Rs. 136.00 Cr., Rank among 28 districts = 28, YoY Growth = 8.80%, Contribution to state total = 0.57%
-2024-25 (FRE): Value = Rs. 158.12 Cr., Rank among 28 districts = 28, YoY Growth = 16.18%, Contribution to state total = 0.55%
-2025-26 (FAE): Value = Rs. 183.00 Cr., Rank among 28 districts = 28, YoY Growth = 15.82%, Contribution to state total = 0.55%
+2022-23 (TRE): Rs. 125.01 Cr., Rank among 28 districts = 28, Contribution to state total = 0.58%
+2023-24 (SRE): Rs. 136.00 Cr., Rank among 28 districts = 28, YoY Growth = 8.80%, Contribution to state total = 0.57%
+2024-25 (FRE): Rs. 158.12 Cr., Rank among 28 districts = 28, YoY Growth = 16.18%, Contribution to state total = 0.55%
+2025-26 (FAE): Rs. 183.00 Cr., Rank among 28 districts = 28, YoY Growth = 15.82%, Contribution to state total = 0.55%

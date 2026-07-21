@@ -1,6 +1,6 @@
 District: Sps Nellore — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 1,050.64 Cr., Rank among 28 districts = 4, Contribution to state total = 4.91%
-2023-24 (SRE): Value = Rs. 1,171.00 Cr., Rank among 28 districts = 5, YoY Growth = 11.42%, Contribution to state total = 4.90%
-2024-25 (FRE): Value = Rs. 1,404.85 Cr., Rank among 28 districts = 4, YoY Growth = 19.98%, Contribution to state total = 4.91%
-2025-26 (FAE): Value = Rs. 1,642.00 Cr., Rank among 28 districts = 5, YoY Growth = 16.87%, Contribution to state total = 4.90%
+2022-23 (TRE): Rs. 1,050.64 Cr., Rank among 28 districts = 4, Contribution to state total = 4.91%
+2023-24 (SRE): Rs. 1,171.00 Cr., Rank among 28 districts = 5, YoY Growth = 11.42%, Contribution to state total = 4.90%
+2024-25 (FRE): Rs. 1,404.85 Cr., Rank among 28 districts = 4, YoY Growth = 19.98%, Contribution to state total = 4.91%
+2025-26 (FAE): Rs. 1,642.00 Cr., Rank among 28 districts = 5, YoY Growth = 16.87%, Contribution to state total = 4.90%

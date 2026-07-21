@@ -1,6 +1,6 @@
 District: Prakasam — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 383.00 Cr., Rank among 28 districts = 23, Contribution to state total = 1.24%
-2023-24 (SRE): Value = Rs. 545.14 Cr., Rank among 28 districts = 23, YoY Growth = 42.30%, Contribution to state total = 1.39%
-2024-25 (FRE): Value = Rs. 575.21 Cr., Rank among 28 districts = 23, YoY Growth = 5.50%, Contribution to state total = 1.36%
-2025-26 (FAE): Value = Rs. 612.08 Cr., Rank among 28 districts = 23, YoY Growth = 6.43%, Contribution to state total = 1.38%
+2022-23 (TRE): Rs. 383.00 Cr., Rank among 28 districts = 23, Contribution to state total = 1.24%
+2023-24 (SRE): Rs. 545.14 Cr., Rank among 28 districts = 23, YoY Growth = 42.30%, Contribution to state total = 1.39%
+2024-25 (FRE): Rs. 575.21 Cr., Rank among 28 districts = 23, YoY Growth = 5.50%, Contribution to state total = 1.36%
+2025-26 (FAE): Rs. 612.08 Cr., Rank among 28 districts = 23, YoY Growth = 6.43%, Contribution to state total = 1.38%

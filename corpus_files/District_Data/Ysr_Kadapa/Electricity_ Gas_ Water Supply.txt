@@ -1,6 +1,6 @@
 District: Ysr Kadapa — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 2,114.00 Cr., Rank among 28 districts = 4, Contribution to state total = 6.84%
-2023-24 (SRE): Value = Rs. 3,327.33 Cr., Rank among 28 districts = 3, YoY Growth = 57.38%, Contribution to state total = 8.47%
-2024-25 (FRE): Value = Rs. 2,943.64 Cr., Rank among 28 districts = 3, YoY Growth = -11.51%, Contribution to state total = 6.96%
-2025-26 (FAE): Value = Rs. 3,095.57 Cr., Rank among 28 districts = 3, YoY Growth = 5.16%, Contribution to state total = 6.98%
+2022-23 (TRE): Rs. 2,114.00 Cr., Rank among 28 districts = 4, Contribution to state total = 6.84%
+2023-24 (SRE): Rs. 3,327.33 Cr., Rank among 28 districts = 3, YoY Growth = 57.38%, Contribution to state total = 8.47%
+2024-25 (FRE): Rs. 2,943.64 Cr., Rank among 28 districts = 3, YoY Growth = -11.51%, Contribution to state total = 6.96%
+2025-26 (FAE): Rs. 3,095.57 Cr., Rank among 28 districts = 3, YoY Growth = 5.16%, Contribution to state total = 6.98%

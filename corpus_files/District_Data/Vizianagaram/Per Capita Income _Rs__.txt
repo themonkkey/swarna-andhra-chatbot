@@ -1,6 +1,6 @@
-District: Vizianagaram — Sector: Per Capita Income (Rs.)
+District: Vizianagaram — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 150,171.00 Cr., Rank among 28 districts = 25, Contribution to state total = 2.52%
-2023-24 (SRE): Value = Rs. 161,549.00 Cr., Rank among 28 districts = 25, YoY Growth = 7.58%, Contribution to state total = 2.50%
-2024-25 (FRE): Value = Rs. 176,906.00 Cr., Rank among 28 districts = 25, YoY Growth = 9.51%, Contribution to state total = 2.44%
-2025-26 (FAE): Value = Rs. 195,098.00 Cr., Rank among 28 districts = 25, YoY Growth = 10.28%, Contribution to state total = 2.44%
+2022-23 (TRE): Rs. 150,171 per person, Rank among 28 districts = 25
+2023-24 (SRE): Rs. 161,549 per person, Rank among 28 districts = 25, YoY Growth = 7.58%
+2024-25 (FRE): Rs. 176,906 per person, Rank among 28 districts = 25, YoY Growth = 9.51%
+2025-26 (FAE): Rs. 195,098 per person, Rank among 28 districts = 25, YoY Growth = 10.28%

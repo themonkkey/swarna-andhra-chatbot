@@ -1,6 +1,6 @@
-District: Ananthapuramu — Sector: Per Capita Income (Rs.)
+District: Ananthapuramu — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 220,835.00 Cr., Rank among 28 districts = 11, Contribution to state total = 3.71%
-2023-24 (SRE): Value = Rs. 242,502.00 Cr., Rank among 28 districts = 9, YoY Growth = 9.81%, Contribution to state total = 3.75%
-2024-25 (FRE): Value = Rs. 265,412.00 Cr., Rank among 28 districts = 9, YoY Growth = 9.45%, Contribution to state total = 3.67%
-2025-26 (FAE): Value = Rs. 284,277.00 Cr., Rank among 28 districts = 11, YoY Growth = 7.11%, Contribution to state total = 3.56%
+2022-23 (TRE): Rs. 220,835 per person, Rank among 28 districts = 11
+2023-24 (SRE): Rs. 242,502 per person, Rank among 28 districts = 9, YoY Growth = 9.81%
+2024-25 (FRE): Rs. 265,412 per person, Rank among 28 districts = 9, YoY Growth = 9.45%
+2025-26 (FAE): Rs. 284,277 per person, Rank among 28 districts = 11, YoY Growth = 7.11%

@@ -1,6 +1,6 @@
 District: Polavaram — Sector: Transport by Other means & Storage
 
-2022-23 (TRE): Value = Rs. 203.91 Cr., Rank among 28 districts = 27, Contribution to state total = 0.27%
-2023-24 (SRE): Value = Rs. 228.28 Cr., Rank among 28 districts = 27, YoY Growth = 11.76%, Contribution to state total = 0.27%
-2024-25 (FRE): Value = Rs. 272.30 Cr., Rank among 28 districts = 27, YoY Growth = 19.30%, Contribution to state total = 0.28%
-2025-26 (FAE): Value = Rs. 307.93 Cr., Rank among 28 districts = 27, YoY Growth = 13.24%, Contribution to state total = 0.29%
+2022-23 (TRE): Rs. 203.91 Cr., Rank among 28 districts = 27, Contribution to state total = 0.27%
+2023-24 (SRE): Rs. 228.28 Cr., Rank among 28 districts = 27, YoY Growth = 11.76%, Contribution to state total = 0.27%
+2024-25 (FRE): Rs. 272.30 Cr., Rank among 28 districts = 27, YoY Growth = 19.30%, Contribution to state total = 0.28%
+2025-26 (FAE): Rs. 307.93 Cr., Rank among 28 districts = 27, YoY Growth = 13.24%, Contribution to state total = 0.29%

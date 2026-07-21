@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 572.66 Cr., Rank among 28 districts = 21, Contribution to state total = 2.68%
-2023-24 (SRE): Value = Rs. 642.00 Cr., Rank among 28 districts = 21, YoY Growth = 12.04%, Contribution to state total = 2.69%
-2024-25 (FRE): Value = Rs. 777.05 Cr., Rank among 28 districts = 21, YoY Growth = 21.03%, Contribution to state total = 2.71%
-2025-26 (FAE): Value = Rs. 904.00 Cr., Rank among 28 districts = 21, YoY Growth = 16.34%, Contribution to state total = 2.70%
+2022-23 (TRE): Rs. 572.66 Cr., Rank among 28 districts = 21, Contribution to state total = 2.68%
+2023-24 (SRE): Rs. 642.00 Cr., Rank among 28 districts = 21, YoY Growth = 12.04%, Contribution to state total = 2.69%
+2024-25 (FRE): Rs. 777.05 Cr., Rank among 28 districts = 21, YoY Growth = 21.03%, Contribution to state total = 2.71%
+2025-26 (FAE): Rs. 904.00 Cr., Rank among 28 districts = 21, YoY Growth = 16.34%, Contribution to state total = 2.70%

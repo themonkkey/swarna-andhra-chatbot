@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 554.81 Cr., Rank among 28 districts = 22, Contribution to state total = 2.59%
-2023-24 (SRE): Value = Rs. 618.00 Cr., Rank among 28 districts = 22, YoY Growth = 11.35%, Contribution to state total = 2.58%
-2024-25 (FRE): Value = Rs. 748.57 Cr., Rank among 28 districts = 22, YoY Growth = 21.20%, Contribution to state total = 2.62%
-2025-26 (FAE): Value = Rs. 873.00 Cr., Rank among 28 districts = 22, YoY Growth = 16.56%, Contribution to state total = 2.60%
+2022-23 (TRE): Rs. 554.81 Cr., Rank among 28 districts = 22, Contribution to state total = 2.59%
+2023-24 (SRE): Rs. 618.00 Cr., Rank among 28 districts = 22, YoY Growth = 11.35%, Contribution to state total = 2.58%
+2024-25 (FRE): Rs. 748.57 Cr., Rank among 28 districts = 22, YoY Growth = 21.20%, Contribution to state total = 2.62%
+2025-26 (FAE): Rs. 873.00 Cr., Rank among 28 districts = 22, YoY Growth = 16.56%, Contribution to state total = 2.60%

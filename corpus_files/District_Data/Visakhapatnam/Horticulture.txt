@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 469.96 Cr., Rank among 28 districts = 28, Contribution to state total = 0.39%
-2023-24 (SRE): Value = Rs. 616.77 Cr., Rank among 28 districts = 27, YoY Growth = 31.28%, Contribution to state total = 0.49%
-2024-25 (FRE): Value = Rs. 746.00 Cr., Rank among 28 districts = 28, YoY Growth = 20.91%, Contribution to state total = 0.53%
-2025-26 (FAE): Value = Rs. 996.82 Cr., Rank among 28 districts = 28, YoY Growth = 33.65%, Contribution to state total = 0.70%
+2022-23 (TRE): Rs. 469.96 Cr., Rank among 28 districts = 28, Contribution to state total = 0.39%
+2023-24 (SRE): Rs. 616.77 Cr., Rank among 28 districts = 27, YoY Growth = 31.28%, Contribution to state total = 0.49%
+2024-25 (FRE): Rs. 746.00 Cr., Rank among 28 districts = 28, YoY Growth = 20.91%, Contribution to state total = 0.53%
+2025-26 (FAE): Rs. 996.82 Cr., Rank among 28 districts = 28, YoY Growth = 33.65%, Contribution to state total = 0.70%

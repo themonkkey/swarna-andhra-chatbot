@@ -1,6 +1,6 @@
 District: Bapatla — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 61.28 Cr., Rank among 28 districts = 20, Contribution to state total = 0.82%
-2023-24 (SRE): Value = Rs. 68.00 Cr., Rank among 28 districts = 18, YoY Growth = 11.48%, Contribution to state total = 0.80%
-2024-25 (FRE): Value = Rs. 72.87 Cr., Rank among 28 districts = 19, YoY Growth = 7.35%, Contribution to state total = 0.79%
-2025-26 (FAE): Value = Rs. 79.00 Cr., Rank among 28 districts = 19, YoY Growth = 8.22%, Contribution to state total = 0.79%
+2022-23 (TRE): Rs. 61.28 Cr., Rank among 28 districts = 20, Contribution to state total = 0.82%
+2023-24 (SRE): Rs. 68.00 Cr., Rank among 28 districts = 18, YoY Growth = 11.48%, Contribution to state total = 0.80%
+2024-25 (FRE): Rs. 72.87 Cr., Rank among 28 districts = 19, YoY Growth = 7.35%, Contribution to state total = 0.79%
+2025-26 (FAE): Rs. 79.00 Cr., Rank among 28 districts = 19, YoY Growth = 8.22%, Contribution to state total = 0.79%

@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 1,157.00 Cr., Rank among 28 districts = 19, Contribution to state total = 2.88%
-2023-24 (SRE): Value = Rs. 760.25 Cr., Rank among 28 districts = 17, YoY Growth = -34.31%, Contribution to state total = 2.81%
-2024-25 (FRE): Value = Rs. 676.00 Cr., Rank among 28 districts = 19, YoY Growth = -11.05%, Contribution to state total = 2.73%
-2025-26 (FAE): Value = Rs. 655.30 Cr., Rank among 28 districts = 20, YoY Growth = -3.11%, Contribution to state total = 2.73%
+2022-23 (TRE): Rs. 1,157.00 Cr., Rank among 28 districts = 19, Contribution to state total = 2.88%
+2023-24 (SRE): Rs. 760.25 Cr., Rank among 28 districts = 17, YoY Growth = -34.31%, Contribution to state total = 2.81%
+2024-25 (FRE): Rs. 676.00 Cr., Rank among 28 districts = 19, YoY Growth = -11.05%, Contribution to state total = 2.73%
+2025-26 (FAE): Rs. 655.30 Cr., Rank among 28 districts = 20, YoY Growth = -3.11%, Contribution to state total = 2.73%

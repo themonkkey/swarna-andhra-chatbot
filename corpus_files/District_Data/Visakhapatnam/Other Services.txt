@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Other Services
 
-2022-23 (TRE): Value = Rs. 6,874.85 Cr., Rank among 28 districts = 3, Contribution to state total = 7.06%
-2023-24 (SRE): Value = Rs. 8,020.40 Cr., Rank among 28 districts = 2, YoY Growth = 16.65%, Contribution to state total = 7.29%
-2024-25 (FRE): Value = Rs. 9,233.44 Cr., Rank among 28 districts = 2, YoY Growth = 15.12%, Contribution to state total = 7.42%
-2025-26 (FAE): Value = Rs. 10,703.50 Cr., Rank among 28 districts = 2, YoY Growth = 15.93%, Contribution to state total = 7.48%
+2022-23 (TRE): Rs. 6,874.85 Cr., Rank among 28 districts = 3, Contribution to state total = 7.06%
+2023-24 (SRE): Rs. 8,020.40 Cr., Rank among 28 districts = 2, YoY Growth = 16.65%, Contribution to state total = 7.29%
+2024-25 (FRE): Rs. 9,233.44 Cr., Rank among 28 districts = 2, YoY Growth = 15.12%, Contribution to state total = 7.42%
+2025-26 (FAE): Rs. 10,703.50 Cr., Rank among 28 districts = 2, YoY Growth = 15.93%, Contribution to state total = 7.48%

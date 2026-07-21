@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 3,308.68 Cr., Rank among 28 districts = 15, Contribution to state total = 3.30%
-2023-24 (SRE): Value = Rs. 3,493.78 Cr., Rank among 28 districts = 15, YoY Growth = 5.59%, Contribution to state total = 3.24%
-2024-25 (FRE): Value = Rs. 3,922.61 Cr., Rank among 28 districts = 14, YoY Growth = 12.28%, Contribution to state total = 3.22%
-2025-26 (FAE): Value = Rs. 4,456.88 Cr., Rank among 28 districts = 14, YoY Growth = 13.61%, Contribution to state total = 3.23%
+2022-23 (TRE): Rs. 3,308.68 Cr., Rank among 28 districts = 15, Contribution to state total = 3.30%
+2023-24 (SRE): Rs. 3,493.78 Cr., Rank among 28 districts = 15, YoY Growth = 5.59%, Contribution to state total = 3.24%
+2024-25 (FRE): Rs. 3,922.61 Cr., Rank among 28 districts = 14, YoY Growth = 12.28%, Contribution to state total = 3.22%
+2025-26 (FAE): Rs. 4,456.88 Cr., Rank among 28 districts = 14, YoY Growth = 13.61%, Contribution to state total = 3.23%

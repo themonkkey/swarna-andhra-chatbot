@@ -1,6 +1,6 @@
 District: Eluru — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 2,052.00 Cr., Rank among 28 districts = 5, Contribution to state total = 5.10%
-2023-24 (SRE): Value = Rs. 1,361.76 Cr., Rank among 28 districts = 5, YoY Growth = -33.63%, Contribution to state total = 5.03%
-2024-25 (FRE): Value = Rs. 1,276.00 Cr., Rank among 28 districts = 5, YoY Growth = -6.31%, Contribution to state total = 5.15%
-2025-26 (FAE): Value = Rs. 1,206.03 Cr., Rank among 28 districts = 5, YoY Growth = -5.49%, Contribution to state total = 5.02%
+2022-23 (TRE): Rs. 2,052.00 Cr., Rank among 28 districts = 5, Contribution to state total = 5.10%
+2023-24 (SRE): Rs. 1,361.76 Cr., Rank among 28 districts = 5, YoY Growth = -33.63%, Contribution to state total = 5.03%
+2024-25 (FRE): Rs. 1,276.00 Cr., Rank among 28 districts = 5, YoY Growth = -6.31%, Contribution to state total = 5.15%
+2025-26 (FAE): Rs. 1,206.03 Cr., Rank among 28 districts = 5, YoY Growth = -5.49%, Contribution to state total = 5.02%

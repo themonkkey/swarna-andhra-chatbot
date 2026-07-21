@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 6,980.68 Cr., Rank among 28 districts = 2, Contribution to state total = 11.86%
-2023-24 (SRE): Value = Rs. 7,672.83 Cr., Rank among 28 districts = 2, YoY Growth = 9.91%, Contribution to state total = 11.84%
-2024-25 (FRE): Value = Rs. 8,803.00 Cr., Rank among 28 districts = 2, YoY Growth = 14.73%, Contribution to state total = 11.85%
-2025-26 (FAE): Value = Rs. 10,155.00 Cr., Rank among 28 districts = 2, YoY Growth = 15.36%, Contribution to state total = 11.84%
+2022-23 (TRE): Rs. 6,980.68 Cr., Rank among 28 districts = 2, Contribution to state total = 11.86%
+2023-24 (SRE): Rs. 7,672.83 Cr., Rank among 28 districts = 2, YoY Growth = 9.91%, Contribution to state total = 11.84%
+2024-25 (FRE): Rs. 8,803.00 Cr., Rank among 28 districts = 2, YoY Growth = 14.73%, Contribution to state total = 11.85%
+2025-26 (FAE): Rs. 10,155.00 Cr., Rank among 28 districts = 2, YoY Growth = 15.36%, Contribution to state total = 11.84%

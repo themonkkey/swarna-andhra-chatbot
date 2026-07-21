@@ -1,6 +1,6 @@
-District: Annamayya — Sector: Per Capita Income (Rs.)
+District: Annamayya — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 177,968.00 Cr., Rank among 28 districts = 19, Contribution to state total = 2.99%
-2023-24 (SRE): Value = Rs. 198,641.00 Cr., Rank among 28 districts = 17, YoY Growth = 11.62%, Contribution to state total = 3.07%
-2024-25 (FRE): Value = Rs. 216,881.00 Cr., Rank among 28 districts = 20, YoY Growth = 9.18%, Contribution to state total = 3.00%
-2025-26 (FAE): Value = Rs. 212,967.00 Cr., Rank among 28 districts = 22, YoY Growth = -1.80%, Contribution to state total = 2.67%
+2022-23 (TRE): Rs. 177,968 per person, Rank among 28 districts = 19
+2023-24 (SRE): Rs. 198,641 per person, Rank among 28 districts = 17, YoY Growth = 11.62%
+2024-25 (FRE): Rs. 216,881 per person, Rank among 28 districts = 20, YoY Growth = 9.18%
+2025-26 (FAE): Rs. 212,967 per person, Rank among 28 districts = 22, YoY Growth = -1.80%

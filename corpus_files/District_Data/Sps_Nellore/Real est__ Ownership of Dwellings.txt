@@ -1,6 +1,6 @@
 District: Sps Nellore — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 5,039.57 Cr., Rank among 28 districts = 5, Contribution to state total = 5.02%
-2023-24 (SRE): Value = Rs. 5,421.45 Cr., Rank among 28 districts = 5, YoY Growth = 7.56%, Contribution to state total = 5.03%
-2024-25 (FRE): Value = Rs. 6,110.71 Cr., Rank among 28 districts = 5, YoY Growth = 12.73%, Contribution to state total = 5.02%
-2025-26 (FAE): Value = Rs. 6,943.73 Cr., Rank among 28 districts = 5, YoY Growth = 13.63%, Contribution to state total = 5.02%
+2022-23 (TRE): Rs. 5,039.57 Cr., Rank among 28 districts = 5, Contribution to state total = 5.02%
+2023-24 (SRE): Rs. 5,421.45 Cr., Rank among 28 districts = 5, YoY Growth = 7.56%, Contribution to state total = 5.03%
+2024-25 (FRE): Rs. 6,110.71 Cr., Rank among 28 districts = 5, YoY Growth = 12.73%, Contribution to state total = 5.02%
+2025-26 (FAE): Rs. 6,943.73 Cr., Rank among 28 districts = 5, YoY Growth = 13.63%, Contribution to state total = 5.02%

@@ -1,6 +1,6 @@
 District: Kakinada — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 1,668.00 Cr., Rank among 28 districts = 10, Contribution to state total = 4.15%
-2023-24 (SRE): Value = Rs. 1,124.74 Cr., Rank among 28 districts = 10, YoY Growth = -32.55%, Contribution to state total = 4.15%
-2024-25 (FRE): Value = Rs. 1,040.00 Cr., Rank among 28 districts = 10, YoY Growth = -7.56%, Contribution to state total = 4.20%
-2025-26 (FAE): Value = Rs. 1,025.37 Cr., Rank among 28 districts = 10, YoY Growth = -1.44%, Contribution to state total = 4.27%
+2022-23 (TRE): Rs. 1,668.00 Cr., Rank among 28 districts = 10, Contribution to state total = 4.15%
+2023-24 (SRE): Rs. 1,124.74 Cr., Rank among 28 districts = 10, YoY Growth = -32.55%, Contribution to state total = 4.15%
+2024-25 (FRE): Rs. 1,040.00 Cr., Rank among 28 districts = 10, YoY Growth = -7.56%, Contribution to state total = 4.20%
+2025-26 (FAE): Rs. 1,025.37 Cr., Rank among 28 districts = 10, YoY Growth = -1.44%, Contribution to state total = 4.27%

@@ -1,6 +1,6 @@
-District: Dr.B.R.Ambedkar Konaseema — Sector: Population ('000)
+District: Dr.B.R.Ambedkar Konaseema — Metric: Population ('000)
 
-2022-23 (TRE): Value = Rs. 1,556.00 Cr., Rank among 28 districts = 22, Contribution to state total = 2.93%
-2023-24 (SRE): Value = Rs. 1,561.00 Cr., Rank among 28 districts = 22, YoY Growth = 0.32%, Contribution to state total = 2.93%
-2024-25 (FRE): Value = Rs. 1,566.61 Cr., Rank among 28 districts = 22, YoY Growth = 0.38%, Contribution to state total = 2.93%
-2025-26 (FAE): Value = Rs. 1,572.00 Cr., Rank among 28 districts = 22, YoY Growth = 0.32%, Contribution to state total = 2.93%
+2022-23 (TRE): 1,556 thousand persons, Rank among 28 districts = 22
+2023-24 (SRE): 1,561 thousand persons, Rank among 28 districts = 22, YoY Growth = 0.32%
+2024-25 (FRE): 1,567 thousand persons, Rank among 28 districts = 22, YoY Growth = 0.38%
+2025-26 (FAE): 1,572 thousand persons, Rank among 28 districts = 22, YoY Growth = 0.32%

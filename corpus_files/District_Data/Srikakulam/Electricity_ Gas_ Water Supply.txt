@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 371.00 Cr., Rank among 28 districts = 24, Contribution to state total = 1.20%
-2023-24 (SRE): Value = Rs. 486.35 Cr., Rank among 28 districts = 24, YoY Growth = 31.00%, Contribution to state total = 1.24%
-2024-25 (FRE): Value = Rs. 582.03 Cr., Rank among 28 districts = 22, YoY Growth = 19.75%, Contribution to state total = 1.38%
-2025-26 (FAE): Value = Rs. 623.53 Cr., Rank among 28 districts = 22, YoY Growth = 7.22%, Contribution to state total = 1.41%
+2022-23 (TRE): Rs. 371.00 Cr., Rank among 28 districts = 24, Contribution to state total = 1.20%
+2023-24 (SRE): Rs. 486.35 Cr., Rank among 28 districts = 24, YoY Growth = 31.00%, Contribution to state total = 1.24%
+2024-25 (FRE): Rs. 582.03 Cr., Rank among 28 districts = 22, YoY Growth = 19.75%, Contribution to state total = 1.38%
+2025-26 (FAE): Rs. 623.53 Cr., Rank among 28 districts = 22, YoY Growth = 7.22%, Contribution to state total = 1.41%

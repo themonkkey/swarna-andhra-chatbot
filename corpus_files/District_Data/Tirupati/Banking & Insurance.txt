@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 3,419.05 Cr., Rank among 28 districts = 4, Contribution to state total = 5.81%
-2023-24 (SRE): Value = Rs. 3,984.44 Cr., Rank among 28 districts = 4, YoY Growth = 16.53%, Contribution to state total = 6.15%
-2024-25 (FRE): Value = Rs. 4,441.36 Cr., Rank among 28 districts = 4, YoY Growth = 11.47%, Contribution to state total = 5.98%
-2025-26 (FAE): Value = Rs. 5,273.00 Cr., Rank among 28 districts = 4, YoY Growth = 18.73%, Contribution to state total = 6.15%
+2022-23 (TRE): Rs. 3,419.05 Cr., Rank among 28 districts = 4, Contribution to state total = 5.81%
+2023-24 (SRE): Rs. 3,984.44 Cr., Rank among 28 districts = 4, YoY Growth = 16.53%, Contribution to state total = 6.15%
+2024-25 (FRE): Rs. 4,441.36 Cr., Rank among 28 districts = 4, YoY Growth = 11.47%, Contribution to state total = 5.98%
+2025-26 (FAE): Rs. 5,273.00 Cr., Rank among 28 districts = 4, YoY Growth = 18.73%, Contribution to state total = 6.15%

@@ -1,6 +1,6 @@
 District: Palnadu — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 3,688.00 Cr., Rank among 28 districts = 17, Contribution to state total = 3.02%
-2023-24 (SRE): Value = Rs. 3,838.00 Cr., Rank among 28 districts = 16, YoY Growth = 4.07%, Contribution to state total = 2.93%
-2024-25 (FRE): Value = Rs. 4,120.38 Cr., Rank among 28 districts = 17, YoY Growth = 7.35%, Contribution to state total = 2.86%
-2025-26 (FAE): Value = Rs. 4,551.24 Cr., Rank among 28 districts = 16, YoY Growth = 10.46%, Contribution to state total = 2.81%
+2022-23 (TRE): Rs. 3,688.00 Cr., Rank among 28 districts = 17, Contribution to state total = 3.02%
+2023-24 (SRE): Rs. 3,838.00 Cr., Rank among 28 districts = 16, YoY Growth = 4.07%, Contribution to state total = 2.93%
+2024-25 (FRE): Rs. 4,120.38 Cr., Rank among 28 districts = 17, YoY Growth = 7.35%, Contribution to state total = 2.86%
+2025-26 (FAE): Rs. 4,551.24 Cr., Rank among 28 districts = 16, YoY Growth = 10.46%, Contribution to state total = 2.81%

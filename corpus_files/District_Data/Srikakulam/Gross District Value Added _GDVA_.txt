@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Gross District Value Added (GDVA)
 
-2022-23 (TRE): Value = Rs. 35,276.00 Cr., Rank among 28 districts = 19, Contribution to state total = 2.88%
-2023-24 (SRE): Value = Rs. 37,055.00 Cr., Rank among 28 districts = 17, YoY Growth = 5.04%, Contribution to state total = 2.81%
-2024-25 (FRE): Value = Rs. 40,177.06 Cr., Rank among 28 districts = 19, YoY Growth = 8.43%, Contribution to state total = 2.73%
-2025-26 (FAE): Value = Rs. 44,315.34 Cr., Rank among 28 districts = 20, YoY Growth = 10.30%, Contribution to state total = 2.73%
+2022-23 (TRE): Rs. 35,276.00 Cr., Rank among 28 districts = 19, Contribution to state total = 2.88%
+2023-24 (SRE): Rs. 37,055.00 Cr., Rank among 28 districts = 17, YoY Growth = 5.04%, Contribution to state total = 2.81%
+2024-25 (FRE): Rs. 40,177.06 Cr., Rank among 28 districts = 19, YoY Growth = 8.43%, Contribution to state total = 2.73%
+2025-26 (FAE): Rs. 44,315.34 Cr., Rank among 28 districts = 20, YoY Growth = 10.30%, Contribution to state total = 2.73%

@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 6,249.71 Cr., Rank among 28 districts = 8, Contribution to state total = 4.27%
-2023-24 (SRE): Value = Rs. 5,890.00 Cr., Rank among 28 districts = 11, YoY Growth = -5.76%, Contribution to state total = 3.81%
-2024-25 (FRE): Value = Rs. 5,694.65 Cr., Rank among 28 districts = 16, YoY Growth = -3.31%, Contribution to state total = 3.46%
-2025-26 (FAE): Value = Rs. 6,752.00 Cr., Rank among 28 districts = 14, YoY Growth = 18.56%, Contribution to state total = 3.83%
+2022-23 (TRE): Rs. 6,249.71 Cr., Rank among 28 districts = 8, Contribution to state total = 4.27%
+2023-24 (SRE): Rs. 5,890.00 Cr., Rank among 28 districts = 11, YoY Growth = -5.76%, Contribution to state total = 3.81%
+2024-25 (FRE): Rs. 5,694.65 Cr., Rank among 28 districts = 16, YoY Growth = -3.31%, Contribution to state total = 3.46%
+2025-26 (FAE): Rs. 6,752.00 Cr., Rank among 28 districts = 14, YoY Growth = 18.56%, Contribution to state total = 3.83%

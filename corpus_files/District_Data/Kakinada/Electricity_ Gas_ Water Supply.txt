@@ -1,6 +1,6 @@
 District: Kakinada — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 496.00 Cr., Rank among 28 districts = 20, Contribution to state total = 1.61%
-2023-24 (SRE): Value = Rs. 673.11 Cr., Rank among 28 districts = 21, YoY Growth = 35.69%, Contribution to state total = 1.71%
-2024-25 (FRE): Value = Rs. 846.57 Cr., Rank among 28 districts = 14, YoY Growth = 25.85%, Contribution to state total = 2.00%
-2025-26 (FAE): Value = Rs. 927.77 Cr., Rank among 28 districts = 13, YoY Growth = 9.56%, Contribution to state total = 2.09%
+2022-23 (TRE): Rs. 496.00 Cr., Rank among 28 districts = 20, Contribution to state total = 1.61%
+2023-24 (SRE): Rs. 673.11 Cr., Rank among 28 districts = 21, YoY Growth = 35.69%, Contribution to state total = 1.71%
+2024-25 (FRE): Rs. 846.57 Cr., Rank among 28 districts = 14, YoY Growth = 25.85%, Contribution to state total = 2.00%
+2025-26 (FAE): Rs. 927.77 Cr., Rank among 28 districts = 13, YoY Growth = 9.56%, Contribution to state total = 2.09%

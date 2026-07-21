@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 1,085.00 Cr., Rank among 28 districts = 20, Contribution to state total = 2.70%
-2023-24 (SRE): Value = Rs. 745.24 Cr., Rank among 28 districts = 19, YoY Growth = -31.34%, Contribution to state total = 2.75%
-2024-25 (FRE): Value = Rs. 680.00 Cr., Rank among 28 districts = 18, YoY Growth = -8.72%, Contribution to state total = 2.75%
-2025-26 (FAE): Value = Rs. 660.67 Cr., Rank among 28 districts = 18, YoY Growth = -2.79%, Contribution to state total = 2.75%
+2022-23 (TRE): Rs. 1,085.00 Cr., Rank among 28 districts = 20, Contribution to state total = 2.70%
+2023-24 (SRE): Rs. 745.24 Cr., Rank among 28 districts = 19, YoY Growth = -31.34%, Contribution to state total = 2.75%
+2024-25 (FRE): Rs. 680.00 Cr., Rank among 28 districts = 18, YoY Growth = -8.72%, Contribution to state total = 2.75%
+2025-26 (FAE): Rs. 660.67 Cr., Rank among 28 districts = 18, YoY Growth = -2.79%, Contribution to state total = 2.75%

@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 7,082.00 Cr., Rank among 28 districts = 2, Contribution to state total = 5.81%
-2023-24 (SRE): Value = Rs. 7,194.00 Cr., Rank among 28 districts = 3, YoY Growth = 1.58%, Contribution to state total = 5.49%
-2024-25 (FRE): Value = Rs. 8,035.02 Cr., Rank among 28 districts = 3, YoY Growth = 11.69%, Contribution to state total = 5.57%
-2025-26 (FAE): Value = Rs. 9,048.25 Cr., Rank among 28 districts = 4, YoY Growth = 12.61%, Contribution to state total = 5.59%
+2022-23 (TRE): Rs. 7,082.00 Cr., Rank among 28 districts = 2, Contribution to state total = 5.81%
+2023-24 (SRE): Rs. 7,194.00 Cr., Rank among 28 districts = 3, YoY Growth = 1.58%, Contribution to state total = 5.49%
+2024-25 (FRE): Rs. 8,035.02 Cr., Rank among 28 districts = 3, YoY Growth = 11.69%, Contribution to state total = 5.57%
+2025-26 (FAE): Rs. 9,048.25 Cr., Rank among 28 districts = 4, YoY Growth = 12.61%, Contribution to state total = 5.59%

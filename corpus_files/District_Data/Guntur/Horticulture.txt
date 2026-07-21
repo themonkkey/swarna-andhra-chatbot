@@ -1,6 +1,6 @@
 District: Guntur — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 2,807.91 Cr., Rank among 28 districts = 17, Contribution to state total = 2.33%
-2023-24 (SRE): Value = Rs. 3,697.67 Cr., Rank among 28 districts = 15, YoY Growth = 31.70%, Contribution to state total = 2.94%
-2024-25 (FRE): Value = Rs. 3,200.00 Cr., Rank among 28 districts = 18, YoY Growth = -13.47%, Contribution to state total = 2.25%
-2025-26 (FAE): Value = Rs. 3,459.14 Cr., Rank among 28 districts = 16, YoY Growth = 8.09%, Contribution to state total = 2.43%
+2022-23 (TRE): Rs. 2,807.91 Cr., Rank among 28 districts = 17, Contribution to state total = 2.33%
+2023-24 (SRE): Rs. 3,697.67 Cr., Rank among 28 districts = 15, YoY Growth = 31.70%, Contribution to state total = 2.94%
+2024-25 (FRE): Rs. 3,200.00 Cr., Rank among 28 districts = 18, YoY Growth = -13.47%, Contribution to state total = 2.25%
+2025-26 (FAE): Rs. 3,459.14 Cr., Rank among 28 districts = 16, YoY Growth = 8.09%, Contribution to state total = 2.43%

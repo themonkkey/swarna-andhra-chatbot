@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 6,532.25 Cr., Rank among 28 districts = 2, Contribution to state total = 6.51%
-2023-24 (SRE): Value = Rs. 7,246.07 Cr., Rank among 28 districts = 2, YoY Growth = 10.93%, Contribution to state total = 6.72%
-2024-25 (FRE): Value = Rs. 8,406.80 Cr., Rank among 28 districts = 2, YoY Growth = 16.02%, Contribution to state total = 6.91%
-2025-26 (FAE): Value = Rs. 9,434.53 Cr., Rank among 28 districts = 2, YoY Growth = 12.23%, Contribution to state total = 6.83%
+2022-23 (TRE): Rs. 6,532.25 Cr., Rank among 28 districts = 2, Contribution to state total = 6.51%
+2023-24 (SRE): Rs. 7,246.07 Cr., Rank among 28 districts = 2, YoY Growth = 10.93%, Contribution to state total = 6.72%
+2024-25 (FRE): Rs. 8,406.80 Cr., Rank among 28 districts = 2, YoY Growth = 16.02%, Contribution to state total = 6.91%
+2025-26 (FAE): Rs. 9,434.53 Cr., Rank among 28 districts = 2, YoY Growth = 12.23%, Contribution to state total = 6.83%

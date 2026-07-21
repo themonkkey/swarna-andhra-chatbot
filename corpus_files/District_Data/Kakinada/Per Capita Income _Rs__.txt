@@ -1,6 +1,6 @@
-District: Kakinada — Sector: Per Capita Income (Rs.)
+District: Kakinada — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 213,415.00 Cr., Rank among 28 districts = 14, Contribution to state total = 3.58%
-2023-24 (SRE): Value = Rs. 234,229.00 Cr., Rank among 28 districts = 13, YoY Growth = 9.75%, Contribution to state total = 3.63%
-2024-25 (FRE): Value = Rs. 263,863.00 Cr., Rank among 28 districts = 10, YoY Growth = 12.65%, Contribution to state total = 3.65%
-2025-26 (FAE): Value = Rs. 296,848.00 Cr., Rank among 28 districts = 9, YoY Growth = 12.50%, Contribution to state total = 3.71%
+2022-23 (TRE): Rs. 213,415 per person, Rank among 28 districts = 14
+2023-24 (SRE): Rs. 234,229 per person, Rank among 28 districts = 13, YoY Growth = 9.75%
+2024-25 (FRE): Rs. 263,863 per person, Rank among 28 districts = 10, YoY Growth = 12.65%
+2025-26 (FAE): Rs. 296,848 per person, Rank among 28 districts = 9, YoY Growth = 12.50%

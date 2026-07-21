@@ -1,6 +1,6 @@
 District: Ntr — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 6,629.00 Cr., Rank among 28 districts = 3, Contribution to state total = 5.44%
-2023-24 (SRE): Value = Rs. 7,600.00 Cr., Rank among 28 districts = 2, YoY Growth = 14.65%, Contribution to state total = 5.80%
-2024-25 (FRE): Value = Rs. 8,440.67 Cr., Rank among 28 districts = 2, YoY Growth = 11.07%, Contribution to state total = 5.85%
-2025-26 (FAE): Value = Rs. 9,648.71 Cr., Rank among 28 districts = 2, YoY Growth = 14.31%, Contribution to state total = 5.97%
+2022-23 (TRE): Rs. 6,629.00 Cr., Rank among 28 districts = 3, Contribution to state total = 5.44%
+2023-24 (SRE): Rs. 7,600.00 Cr., Rank among 28 districts = 2, YoY Growth = 14.65%, Contribution to state total = 5.80%
+2024-25 (FRE): Rs. 8,440.67 Cr., Rank among 28 districts = 2, YoY Growth = 11.07%, Contribution to state total = 5.85%
+2025-26 (FAE): Rs. 9,648.71 Cr., Rank among 28 districts = 2, YoY Growth = 14.31%, Contribution to state total = 5.97%

@@ -1,6 +1,6 @@
-District: Parvathipuram Manyam — Sector: Per Capita Income (Rs.)
+District: Parvathipuram Manyam — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 130,489.00 Cr., Rank among 28 districts = 27, Contribution to state total = 2.19%
-2023-24 (SRE): Value = Rs. 128,834.00 Cr., Rank among 28 districts = 27, YoY Growth = -1.27%, Contribution to state total = 1.99%
-2024-25 (FRE): Value = Rs. 146,039.00 Cr., Rank among 28 districts = 28, YoY Growth = 13.35%, Contribution to state total = 2.02%
-2025-26 (FAE): Value = Rs. 156,875.00 Cr., Rank among 28 districts = 28, YoY Growth = 7.42%, Contribution to state total = 1.96%
+2022-23 (TRE): Rs. 130,489 per person, Rank among 28 districts = 27
+2023-24 (SRE): Rs. 128,834 per person, Rank among 28 districts = 27, YoY Growth = -1.27%
+2024-25 (FRE): Rs. 146,039 per person, Rank among 28 districts = 28, YoY Growth = 13.35%
+2025-26 (FAE): Rs. 156,875 per person, Rank among 28 districts = 28, YoY Growth = 7.42%

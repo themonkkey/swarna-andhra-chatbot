@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 16,519.14 Cr., Rank among 28 districts = 1, Contribution to state total = 13.70%
-2023-24 (SRE): Value = Rs. 16,092.51 Cr., Rank among 28 districts = 1, YoY Growth = -2.58%, Contribution to state total = 12.79%
-2024-25 (FRE): Value = Rs. 16,129.00 Cr., Rank among 28 districts = 1, YoY Growth = 0.22%, Contribution to state total = 11.36%
-2025-26 (FAE): Value = Rs. 16,588.13 Cr., Rank among 28 districts = 1, YoY Growth = 2.85%, Contribution to state total = 11.63%
+2022-23 (TRE): Rs. 16,519.14 Cr., Rank among 28 districts = 1, Contribution to state total = 13.70%
+2023-24 (SRE): Rs. 16,092.51 Cr., Rank among 28 districts = 1, YoY Growth = -2.58%, Contribution to state total = 12.79%
+2024-25 (FRE): Rs. 16,129.00 Cr., Rank among 28 districts = 1, YoY Growth = 0.22%, Contribution to state total = 11.36%
+2025-26 (FAE): Rs. 16,588.13 Cr., Rank among 28 districts = 1, YoY Growth = 2.85%, Contribution to state total = 11.63%

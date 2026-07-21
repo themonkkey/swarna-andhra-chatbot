@@ -1,6 +1,6 @@
 District: Polavaram — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 143.00 Cr., Rank among 28 districts = 28, Contribution to state total = 0.36%
-2023-24 (SRE): Value = Rs. 94.66 Cr., Rank among 28 districts = 28, YoY Growth = -33.57%, Contribution to state total = 0.35%
-2024-25 (FRE): Value = Rs. 97.00 Cr., Rank among 28 districts = 28, YoY Growth = 2.11%, Contribution to state total = 0.39%
-2025-26 (FAE): Value = Rs. 93.12 Cr., Rank among 28 districts = 28, YoY Growth = -4.12%, Contribution to state total = 0.39%
+2022-23 (TRE): Rs. 143.00 Cr., Rank among 28 districts = 28, Contribution to state total = 0.36%
+2023-24 (SRE): Rs. 94.66 Cr., Rank among 28 districts = 28, YoY Growth = -33.57%, Contribution to state total = 0.35%
+2024-25 (FRE): Rs. 97.00 Cr., Rank among 28 districts = 28, YoY Growth = 2.11%, Contribution to state total = 0.39%
+2025-26 (FAE): Rs. 93.12 Cr., Rank among 28 districts = 28, YoY Growth = -4.12%, Contribution to state total = 0.39%

@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Fishing & Aquaculture
 
-2022-23 (TRE): Value = Rs. 75.91 Cr., Rank among 28 districts = 26, Contribution to state total = 0.07%
-2023-24 (SRE): Value = Rs. 62.23 Cr., Rank among 28 districts = 27, YoY Growth = -18.42%, Contribution to state total = 0.06%
-2024-25 (FRE): Value = Rs. 36.58 Cr., Rank among 28 districts = 28, YoY Growth = -40.32%, Contribution to state total = 0.03%
-2025-26 (FAE): Value = Rs. 21.74 Cr., Rank among 28 districts = 28, YoY Growth = -40.54%, Contribution to state total = 0.01%
+2022-23 (TRE): Rs. 75.91 Cr., Rank among 28 districts = 26, Contribution to state total = 0.07%
+2023-24 (SRE): Rs. 62.23 Cr., Rank among 28 districts = 27, YoY Growth = -18.42%, Contribution to state total = 0.06%
+2024-25 (FRE): Rs. 36.58 Cr., Rank among 28 districts = 28, YoY Growth = -40.32%, Contribution to state total = 0.03%
+2025-26 (FAE): Rs. 21.74 Cr., Rank among 28 districts = 28, YoY Growth = -40.54%, Contribution to state total = 0.01%

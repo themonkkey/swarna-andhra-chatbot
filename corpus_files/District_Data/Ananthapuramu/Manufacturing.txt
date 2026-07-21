@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 2,456.30 Cr., Rank among 28 districts = 15, Contribution to state total = 1.94%
-2023-24 (SRE): Value = Rs. 4,327.00 Cr., Rank among 28 districts = 9, YoY Growth = 76.18%, Contribution to state total = 2.87%
-2024-25 (FRE): Value = Rs. 4,628.42 Cr., Rank among 28 districts = 9, YoY Growth = 6.96%, Contribution to state total = 2.87%
-2025-26 (FAE): Value = Rs. 5,068.89 Cr., Rank among 28 districts = 9, YoY Growth = 9.53%, Contribution to state total = 2.88%
+2022-23 (TRE): Rs. 2,456.30 Cr., Rank among 28 districts = 15, Contribution to state total = 1.94%
+2023-24 (SRE): Rs. 4,327.00 Cr., Rank among 28 districts = 9, YoY Growth = 76.18%, Contribution to state total = 2.87%
+2024-25 (FRE): Rs. 4,628.42 Cr., Rank among 28 districts = 9, YoY Growth = 6.96%, Contribution to state total = 2.87%
+2025-26 (FAE): Rs. 5,068.89 Cr., Rank among 28 districts = 9, YoY Growth = 9.53%, Contribution to state total = 2.88%

@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 2,750.00 Cr., Rank among 28 districts = 24, Contribution to state total = 2.25%
-2023-24 (SRE): Value = Rs. 3,038.00 Cr., Rank among 28 districts = 24, YoY Growth = 10.47%, Contribution to state total = 2.32%
-2024-25 (FRE): Value = Rs. 3,278.59 Cr., Rank among 28 districts = 24, YoY Growth = 7.93%, Contribution to state total = 2.27%
-2025-26 (FAE): Value = Rs. 3,274.46 Cr., Rank among 28 districts = 24, YoY Growth = -0.15%, Contribution to state total = 2.02%
+2022-23 (TRE): Rs. 2,750.00 Cr., Rank among 28 districts = 24, Contribution to state total = 2.25%
+2023-24 (SRE): Rs. 3,038.00 Cr., Rank among 28 districts = 24, YoY Growth = 10.47%, Contribution to state total = 2.32%
+2024-25 (FRE): Rs. 3,278.59 Cr., Rank among 28 districts = 24, YoY Growth = 7.93%, Contribution to state total = 2.27%
+2025-26 (FAE): Rs. 3,274.46 Cr., Rank among 28 districts = 24, YoY Growth = -0.15%, Contribution to state total = 2.02%

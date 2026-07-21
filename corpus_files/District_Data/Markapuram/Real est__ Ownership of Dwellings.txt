@@ -1,6 +1,6 @@
 District: Markapuram — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 2,140.29 Cr., Rank among 28 districts = 25, Contribution to state total = 2.13%
-2023-24 (SRE): Value = Rs. 2,308.39 Cr., Rank among 28 districts = 25, YoY Growth = 7.85%, Contribution to state total = 2.14%
-2024-25 (FRE): Value = Rs. 2,580.76 Cr., Rank among 28 districts = 25, YoY Growth = 11.83%, Contribution to state total = 2.12%
-2025-26 (FAE): Value = Rs. 2,950.29 Cr., Rank among 28 districts = 25, YoY Growth = 14.30%, Contribution to state total = 2.13%
+2022-23 (TRE): Rs. 2,140.29 Cr., Rank among 28 districts = 25, Contribution to state total = 2.13%
+2023-24 (SRE): Rs. 2,308.39 Cr., Rank among 28 districts = 25, YoY Growth = 7.85%, Contribution to state total = 2.14%
+2024-25 (FRE): Rs. 2,580.76 Cr., Rank among 28 districts = 25, YoY Growth = 11.83%, Contribution to state total = 2.12%
+2025-26 (FAE): Rs. 2,950.29 Cr., Rank among 28 districts = 25, YoY Growth = 14.30%, Contribution to state total = 2.13%

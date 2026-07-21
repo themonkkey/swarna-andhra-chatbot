@@ -1,6 +1,6 @@
 District: Visakhapatnam — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 77.51 Cr., Rank among 28 districts = 25, Contribution to state total = 0.20%
-2023-24 (SRE): Value = Rs. 219.14 Cr., Rank among 28 districts = 23, YoY Growth = 180.77%, Contribution to state total = 0.74%
-2024-25 (FRE): Value = Rs. 269.62 Cr., Rank among 28 districts = 24, YoY Growth = 23.29%, Contribution to state total = 0.83%
-2025-26 (FAE): Value = Rs. 46.00 Cr., Rank among 28 districts = 27, YoY Growth = -82.96%, Contribution to state total = 0.14%
+2022-23 (TRE): Rs. 77.51 Cr., Rank among 28 districts = 25, Contribution to state total = 0.20%
+2023-24 (SRE): Rs. 219.14 Cr., Rank among 28 districts = 23, YoY Growth = 180.77%, Contribution to state total = 0.74%
+2024-25 (FRE): Rs. 269.62 Cr., Rank among 28 districts = 24, YoY Growth = 23.29%, Contribution to state total = 0.83%
+2025-26 (FAE): Rs. 46.00 Cr., Rank among 28 districts = 27, YoY Growth = -82.96%, Contribution to state total = 0.14%

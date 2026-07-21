@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 1,748.23 Cr., Rank among 28 districts = 21, Contribution to state total = 1.38%
-2023-24 (SRE): Value = Rs. 1,486.00 Cr., Rank among 28 districts = 21, YoY Growth = -14.99%, Contribution to state total = 0.98%
-2024-25 (FRE): Value = Rs. 1,601.55 Cr., Rank among 28 districts = 21, YoY Growth = 7.81%, Contribution to state total = 0.99%
-2025-26 (FAE): Value = Rs. 1,749.85 Cr., Rank among 28 districts = 21, YoY Growth = 9.24%, Contribution to state total = 0.99%
+2022-23 (TRE): Rs. 1,748.23 Cr., Rank among 28 districts = 21, Contribution to state total = 1.38%
+2023-24 (SRE): Rs. 1,486.00 Cr., Rank among 28 districts = 21, YoY Growth = -14.99%, Contribution to state total = 0.98%
+2024-25 (FRE): Rs. 1,601.55 Cr., Rank among 28 districts = 21, YoY Growth = 7.81%, Contribution to state total = 0.99%
+2025-26 (FAE): Rs. 1,749.85 Cr., Rank among 28 districts = 21, YoY Growth = 9.24%, Contribution to state total = 0.99%

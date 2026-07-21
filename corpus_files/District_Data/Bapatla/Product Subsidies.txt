@@ -1,6 +1,6 @@
 District: Bapatla — Sector: Product Subsidies
 
-2022-23 (TRE): Value = Rs. 1,047.00 Cr., Rank among 28 districts = 23, Contribution to state total = 2.60%
-2023-24 (SRE): Value = Rs. 669.82 Cr., Rank among 28 districts = 23, YoY Growth = -36.01%, Contribution to state total = 2.47%
-2024-25 (FRE): Value = Rs. 606.00 Cr., Rank among 28 districts = 23, YoY Growth = -9.55%, Contribution to state total = 2.45%
-2025-26 (FAE): Value = Rs. 633.05 Cr., Rank among 28 districts = 21, YoY Growth = 4.46%, Contribution to state total = 2.64%
+2022-23 (TRE): Rs. 1,047.00 Cr., Rank among 28 districts = 23, Contribution to state total = 2.60%
+2023-24 (SRE): Rs. 669.82 Cr., Rank among 28 districts = 23, YoY Growth = -36.01%, Contribution to state total = 2.47%
+2024-25 (FRE): Rs. 606.00 Cr., Rank among 28 districts = 23, YoY Growth = -9.55%, Contribution to state total = 2.45%
+2025-26 (FAE): Rs. 633.05 Cr., Rank among 28 districts = 21, YoY Growth = 4.46%, Contribution to state total = 2.64%

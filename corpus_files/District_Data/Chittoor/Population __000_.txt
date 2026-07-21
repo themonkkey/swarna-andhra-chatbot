@@ -1,6 +1,6 @@
-District: Chittoor — Sector: Population ('000)
+District: Chittoor — Metric: Population ('000)
 
-2022-23 (TRE): Value = Rs. 1,759.00 Cr., Rank among 28 districts = 21, Contribution to state total = 3.31%
-2023-24 (SRE): Value = Rs. 1,765.00 Cr., Rank among 28 districts = 21, YoY Growth = 0.34%, Contribution to state total = 3.31%
-2024-25 (FRE): Value = Rs. 1,771.52 Cr., Rank among 28 districts = 21, YoY Growth = 0.40%, Contribution to state total = 3.32%
-2025-26 (FAE): Value = Rs. 1,777.62 Cr., Rank among 28 districts = 21, YoY Growth = 0.34%, Contribution to state total = 3.31%
+2022-23 (TRE): 1,759 thousand persons, Rank among 28 districts = 21
+2023-24 (SRE): 1,765 thousand persons, Rank among 28 districts = 21, YoY Growth = 0.34%
+2024-25 (FRE): 1,772 thousand persons, Rank among 28 districts = 21, YoY Growth = 0.40%
+2025-26 (FAE): 1,778 thousand persons, Rank among 28 districts = 21, YoY Growth = 0.34%

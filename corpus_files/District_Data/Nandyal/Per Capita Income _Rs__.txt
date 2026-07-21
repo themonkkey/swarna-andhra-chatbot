@@ -1,6 +1,6 @@
-District: Nandyal — Sector: Per Capita Income (Rs.)
+District: Nandyal — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 166,111.00 Cr., Rank among 28 districts = 21, Contribution to state total = 2.79%
-2023-24 (SRE): Value = Rs. 184,288.00 Cr., Rank among 28 districts = 20, YoY Growth = 10.94%, Contribution to state total = 2.85%
-2024-25 (FRE): Value = Rs. 205,327.00 Cr., Rank among 28 districts = 22, YoY Growth = 11.42%, Contribution to state total = 2.84%
-2025-26 (FAE): Value = Rs. 227,054.00 Cr., Rank among 28 districts = 20, YoY Growth = 10.58%, Contribution to state total = 2.84%
+2022-23 (TRE): Rs. 166,111 per person, Rank among 28 districts = 21
+2023-24 (SRE): Rs. 184,288 per person, Rank among 28 districts = 20, YoY Growth = 10.94%
+2024-25 (FRE): Rs. 205,327 per person, Rank among 28 districts = 22, YoY Growth = 11.42%
+2025-26 (FAE): Rs. 227,054 per person, Rank among 28 districts = 20, YoY Growth = 10.58%

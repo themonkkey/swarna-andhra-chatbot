@@ -1,6 +1,6 @@
 District: Bapatla — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 1,872.73 Cr., Rank among 28 districts = 4, Contribution to state total = 4.80%
-2023-24 (SRE): Value = Rs. 463.66 Cr., Rank among 28 districts = 21, YoY Growth = -75.23%, Contribution to state total = 1.57%
-2024-25 (FRE): Value = Rs. 371.51 Cr., Rank among 28 districts = 21, YoY Growth = -19.83%, Contribution to state total = 1.15%
-2025-26 (FAE): Value = Rs. 543.00 Cr., Rank among 28 districts = 15, YoY Growth = 45.97%, Contribution to state total = 1.60%
+2022-23 (TRE): Rs. 1,872.73 Cr., Rank among 28 districts = 4, Contribution to state total = 4.80%
+2023-24 (SRE): Rs. 463.66 Cr., Rank among 28 districts = 21, YoY Growth = -75.23%, Contribution to state total = 1.57%
+2024-25 (FRE): Rs. 371.51 Cr., Rank among 28 districts = 21, YoY Growth = -19.83%, Contribution to state total = 1.15%
+2025-26 (FAE): Rs. 543.00 Cr., Rank among 28 districts = 15, YoY Growth = 45.97%, Contribution to state total = 1.60%

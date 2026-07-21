@@ -1,6 +1,6 @@
 District: Krishna — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 6,330.00 Cr., Rank among 28 districts = 4, Contribution to state total = 5.19%
-2023-24 (SRE): Value = Rs. 6,823.00 Cr., Rank among 28 districts = 4, YoY Growth = 7.79%, Contribution to state total = 5.21%
-2024-25 (FRE): Value = Rs. 7,578.25 Cr., Rank among 28 districts = 4, YoY Growth = 11.07%, Contribution to state total = 5.25%
-2025-26 (FAE): Value = Rs. 9,064.01 Cr., Rank among 28 districts = 3, YoY Growth = 19.61%, Contribution to state total = 5.60%
+2022-23 (TRE): Rs. 6,330.00 Cr., Rank among 28 districts = 4, Contribution to state total = 5.19%
+2023-24 (SRE): Rs. 6,823.00 Cr., Rank among 28 districts = 4, YoY Growth = 7.79%, Contribution to state total = 5.21%
+2024-25 (FRE): Rs. 7,578.25 Cr., Rank among 28 districts = 4, YoY Growth = 11.07%, Contribution to state total = 5.25%
+2025-26 (FAE): Rs. 9,064.01 Cr., Rank among 28 districts = 3, YoY Growth = 19.61%, Contribution to state total = 5.60%

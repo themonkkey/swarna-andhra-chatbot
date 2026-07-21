@@ -1,6 +1,6 @@
 District: Parvathipuram Manyam — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 24.46 Cr., Rank among 28 districts = 24, Contribution to state total = 0.32%
-2023-24 (SRE): Value = Rs. 27.00 Cr., Rank among 28 districts = 25, YoY Growth = 12.50%, Contribution to state total = 0.32%
-2024-25 (FRE): Value = Rs. 29.71 Cr., Rank among 28 districts = 25, YoY Growth = 11.11%, Contribution to state total = 0.33%
-2025-26 (FAE): Value = Rs. 32.00 Cr., Rank among 28 districts = 25, YoY Growth = 6.67%, Contribution to state total = 0.32%
+2022-23 (TRE): Rs. 24.46 Cr., Rank among 28 districts = 24, Contribution to state total = 0.32%
+2023-24 (SRE): Rs. 27.00 Cr., Rank among 28 districts = 25, YoY Growth = 12.50%, Contribution to state total = 0.32%
+2024-25 (FRE): Rs. 29.71 Cr., Rank among 28 districts = 25, YoY Growth = 11.11%, Contribution to state total = 0.33%
+2025-26 (FAE): Rs. 32.00 Cr., Rank among 28 districts = 25, YoY Growth = 6.67%, Contribution to state total = 0.32%

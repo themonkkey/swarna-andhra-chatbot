@@ -1,6 +1,6 @@
 District: Krishna — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 5,773.55 Cr., Rank among 28 districts = 11, Contribution to state total = 3.95%
-2023-24 (SRE): Value = Rs. 5,231.00 Cr., Rank among 28 districts = 16, YoY Growth = -9.40%, Contribution to state total = 3.38%
-2024-25 (FRE): Value = Rs. 6,132.28 Cr., Rank among 28 districts = 14, YoY Growth = 17.22%, Contribution to state total = 3.73%
-2025-26 (FAE): Value = Rs. 6,358.00 Cr., Rank among 28 districts = 15, YoY Growth = 3.69%, Contribution to state total = 3.61%
+2022-23 (TRE): Rs. 5,773.55 Cr., Rank among 28 districts = 11, Contribution to state total = 3.95%
+2023-24 (SRE): Rs. 5,231.00 Cr., Rank among 28 districts = 16, YoY Growth = -9.40%, Contribution to state total = 3.38%
+2024-25 (FRE): Rs. 6,132.28 Cr., Rank among 28 districts = 14, YoY Growth = 17.22%, Contribution to state total = 3.73%
+2025-26 (FAE): Rs. 6,358.00 Cr., Rank among 28 districts = 15, YoY Growth = 3.69%, Contribution to state total = 3.61%

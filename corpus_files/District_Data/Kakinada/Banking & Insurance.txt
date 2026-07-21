@@ -1,6 +1,6 @@
 District: Kakinada — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 2,241.03 Cr., Rank among 28 districts = 9, Contribution to state total = 3.81%
-2023-24 (SRE): Value = Rs. 2,494.50 Cr., Rank among 28 districts = 9, YoY Growth = 11.29%, Contribution to state total = 3.85%
-2024-25 (FRE): Value = Rs. 2,843.98 Cr., Rank among 28 districts = 9, YoY Growth = 14.03%, Contribution to state total = 3.83%
-2025-26 (FAE): Value = Rs. 3,302.00 Cr., Rank among 28 districts = 9, YoY Growth = 16.10%, Contribution to state total = 3.85%
+2022-23 (TRE): Rs. 2,241.03 Cr., Rank among 28 districts = 9, Contribution to state total = 3.81%
+2023-24 (SRE): Rs. 2,494.50 Cr., Rank among 28 districts = 9, YoY Growth = 11.29%, Contribution to state total = 3.85%
+2024-25 (FRE): Rs. 2,843.98 Cr., Rank among 28 districts = 9, YoY Growth = 14.03%, Contribution to state total = 3.83%
+2025-26 (FAE): Rs. 3,302.00 Cr., Rank among 28 districts = 9, YoY Growth = 16.10%, Contribution to state total = 3.85%

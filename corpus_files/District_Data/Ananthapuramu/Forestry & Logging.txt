@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Forestry & Logging
 
-2022-23 (TRE): Value = Rs. 350.11 Cr., Rank among 28 districts = 11, Contribution to state total = 3.87%
-2023-24 (SRE): Value = Rs. 371.00 Cr., Rank among 28 districts = 12, YoY Growth = 6.00%, Contribution to state total = 3.80%
-2024-25 (FRE): Value = Rs. 374.63 Cr., Rank among 28 districts = 12, YoY Growth = 1.08%, Contribution to state total = 3.75%
-2025-26 (FAE): Value = Rs. 518.62 Cr., Rank among 28 districts = 7, YoY Growth = 38.40%, Contribution to state total = 5.03%
+2022-23 (TRE): Rs. 350.11 Cr., Rank among 28 districts = 11, Contribution to state total = 3.87%
+2023-24 (SRE): Rs. 371.00 Cr., Rank among 28 districts = 12, YoY Growth = 6.00%, Contribution to state total = 3.80%
+2024-25 (FRE): Rs. 374.63 Cr., Rank among 28 districts = 12, YoY Growth = 1.08%, Contribution to state total = 3.75%
+2025-26 (FAE): Rs. 518.62 Cr., Rank among 28 districts = 7, YoY Growth = 38.40%, Contribution to state total = 5.03%

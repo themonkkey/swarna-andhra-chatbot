@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 1,001.06 Cr., Rank among 28 districts = 23, Contribution to state total = 1.70%
-2023-24 (SRE): Value = Rs. 1,138.66 Cr., Rank among 28 districts = 23, YoY Growth = 13.79%, Contribution to state total = 1.76%
-2024-25 (FRE): Value = Rs. 1,284.37 Cr., Rank among 28 districts = 23, YoY Growth = 12.73%, Contribution to state total = 1.73%
-2025-26 (FAE): Value = Rs. 1,507.00 Cr., Rank among 28 districts = 23, YoY Growth = 17.37%, Contribution to state total = 1.76%
+2022-23 (TRE): Rs. 1,001.06 Cr., Rank among 28 districts = 23, Contribution to state total = 1.70%
+2023-24 (SRE): Rs. 1,138.66 Cr., Rank among 28 districts = 23, YoY Growth = 13.79%, Contribution to state total = 1.76%
+2024-25 (FRE): Rs. 1,284.37 Cr., Rank among 28 districts = 23, YoY Growth = 12.73%, Contribution to state total = 1.73%
+2025-26 (FAE): Rs. 1,507.00 Cr., Rank among 28 districts = 23, YoY Growth = 17.37%, Contribution to state total = 1.76%

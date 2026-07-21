@@ -1,6 +1,6 @@
-District: Markapuram — Sector: Population ('000)
+District: Markapuram — Metric: Population ('000)
 
-2022-23 (TRE): Value = Rs. 1,223.00 Cr., Rank among 28 districts = 25, Contribution to state total = 2.30%
-2023-24 (SRE): Value = Rs. 1,227.00 Cr., Rank among 28 districts = 25, YoY Growth = 0.33%, Contribution to state total = 2.30%
-2024-25 (FRE): Value = Rs. 1,231.50 Cr., Rank among 28 districts = 25, YoY Growth = 0.41%, Contribution to state total = 2.30%
-2025-26 (FAE): Value = Rs. 1,235.74 Cr., Rank among 28 districts = 25, YoY Growth = 0.32%, Contribution to state total = 2.30%
+2022-23 (TRE): 1,223 thousand persons, Rank among 28 districts = 25
+2023-24 (SRE): 1,227 thousand persons, Rank among 28 districts = 25, YoY Growth = 0.33%
+2024-25 (FRE): 1,232 thousand persons, Rank among 28 districts = 25, YoY Growth = 0.41%
+2025-26 (FAE): 1,236 thousand persons, Rank among 28 districts = 25, YoY Growth = 0.32%

@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 4,210.00 Cr., Rank among 28 districts = 16, Contribution to state total = 3.45%
-2023-24 (SRE): Value = Rs. 4,235.00 Cr., Rank among 28 districts = 15, YoY Growth = 0.59%, Contribution to state total = 3.23%
-2024-25 (FRE): Value = Rs. 4,782.89 Cr., Rank among 28 districts = 15, YoY Growth = 12.94%, Contribution to state total = 3.32%
-2025-26 (FAE): Value = Rs. 5,011.48 Cr., Rank among 28 districts = 15, YoY Growth = 4.77%, Contribution to state total = 3.10%
+2022-23 (TRE): Rs. 4,210.00 Cr., Rank among 28 districts = 16, Contribution to state total = 3.45%
+2023-24 (SRE): Rs. 4,235.00 Cr., Rank among 28 districts = 15, YoY Growth = 0.59%, Contribution to state total = 3.23%
+2024-25 (FRE): Rs. 4,782.89 Cr., Rank among 28 districts = 15, YoY Growth = 12.94%, Contribution to state total = 3.32%
+2025-26 (FAE): Rs. 5,011.48 Cr., Rank among 28 districts = 15, YoY Growth = 4.77%, Contribution to state total = 3.10%

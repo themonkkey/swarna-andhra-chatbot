@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 1,461.36 Cr., Rank among 28 districts = 16, Contribution to state total = 2.48%
-2023-24 (SRE): Value = Rs. 1,570.30 Cr., Rank among 28 districts = 16, YoY Growth = 7.46%, Contribution to state total = 2.42%
-2024-25 (FRE): Value = Rs. 1,822.24 Cr., Rank among 28 districts = 16, YoY Growth = 16.05%, Contribution to state total = 2.45%
-2025-26 (FAE): Value = Rs. 2,078.00 Cr., Rank among 28 districts = 16, YoY Growth = 14.05%, Contribution to state total = 2.42%
+2022-23 (TRE): Rs. 1,461.36 Cr., Rank among 28 districts = 16, Contribution to state total = 2.48%
+2023-24 (SRE): Rs. 1,570.30 Cr., Rank among 28 districts = 16, YoY Growth = 7.46%, Contribution to state total = 2.42%
+2024-25 (FRE): Rs. 1,822.24 Cr., Rank among 28 districts = 16, YoY Growth = 16.05%, Contribution to state total = 2.45%
+2025-26 (FAE): Rs. 2,078.00 Cr., Rank among 28 districts = 16, YoY Growth = 14.05%, Contribution to state total = 2.42%

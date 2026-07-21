@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Public Admn.
 
-2022-23 (TRE): Value = Rs. 2,202.86 Cr., Rank among 28 districts = 7, Contribution to state total = 4.36%
-2023-24 (SRE): Value = Rs. 2,345.00 Cr., Rank among 28 districts = 7, YoY Growth = 6.45%, Contribution to state total = 4.40%
-2024-25 (FRE): Value = Rs. 2,513.73 Cr., Rank among 28 districts = 7, YoY Growth = 7.21%, Contribution to state total = 4.39%
-2025-26 (FAE): Value = Rs. 2,614.19 Cr., Rank among 28 districts = 7, YoY Growth = 3.98%, Contribution to state total = 4.36%
+2022-23 (TRE): Rs. 2,202.86 Cr., Rank among 28 districts = 7, Contribution to state total = 4.36%
+2023-24 (SRE): Rs. 2,345.00 Cr., Rank among 28 districts = 7, YoY Growth = 6.45%, Contribution to state total = 4.40%
+2024-25 (FRE): Rs. 2,513.73 Cr., Rank among 28 districts = 7, YoY Growth = 7.21%, Contribution to state total = 4.39%
+2025-26 (FAE): Rs. 2,614.19 Cr., Rank among 28 districts = 7, YoY Growth = 3.98%, Contribution to state total = 4.36%

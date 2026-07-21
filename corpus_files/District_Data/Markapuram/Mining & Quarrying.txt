@@ -1,6 +1,6 @@
 District: Markapuram — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 752.88 Cr., Rank among 28 districts = 10, Contribution to state total = 1.93%
-2023-24 (SRE): Value = Rs. 184.02 Cr., Rank among 28 districts = 24, YoY Growth = -75.56%, Contribution to state total = 0.62%
-2024-25 (FRE): Value = Rs. 270.89 Cr., Rank among 28 districts = 23, YoY Growth = 47.28%, Contribution to state total = 0.84%
-2025-26 (FAE): Value = Rs. 60.00 Cr., Rank among 28 districts = 24, YoY Growth = -77.86%, Contribution to state total = 0.18%
+2022-23 (TRE): Rs. 752.88 Cr., Rank among 28 districts = 10, Contribution to state total = 1.93%
+2023-24 (SRE): Rs. 184.02 Cr., Rank among 28 districts = 24, YoY Growth = -75.56%, Contribution to state total = 0.62%
+2024-25 (FRE): Rs. 270.89 Cr., Rank among 28 districts = 23, YoY Growth = 47.28%, Contribution to state total = 0.84%
+2025-26 (FAE): Rs. 60.00 Cr., Rank among 28 districts = 24, YoY Growth = -77.86%, Contribution to state total = 0.18%

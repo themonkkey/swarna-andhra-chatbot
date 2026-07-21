@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 245.74 Cr., Rank among 28 districts = 20, Contribution to state total = 0.63%
-2023-24 (SRE): Value = Rs. 956.76 Cr., Rank among 28 districts = 9, YoY Growth = 289.02%, Contribution to state total = 3.23%
-2024-25 (FRE): Value = Rs. 1,081.30 Cr., Rank among 28 districts = 12, YoY Growth = 12.96%, Contribution to state total = 3.33%
-2025-26 (FAE): Value = Rs. 970.00 Cr., Rank among 28 districts = 12, YoY Growth = -10.27%, Contribution to state total = 2.86%
+2022-23 (TRE): Rs. 245.74 Cr., Rank among 28 districts = 20, Contribution to state total = 0.63%
+2023-24 (SRE): Rs. 956.76 Cr., Rank among 28 districts = 9, YoY Growth = 289.02%, Contribution to state total = 3.23%
+2024-25 (FRE): Rs. 1,081.30 Cr., Rank among 28 districts = 12, YoY Growth = 12.96%, Contribution to state total = 3.33%
+2025-26 (FAE): Rs. 970.00 Cr., Rank among 28 districts = 12, YoY Growth = -10.27%, Contribution to state total = 2.86%

@@ -1,6 +1,6 @@
 District: Bapatla — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 392.00 Cr., Rank among 28 districts = 22, Contribution to state total = 1.27%
-2023-24 (SRE): Value = Rs. 547.08 Cr., Rank among 28 districts = 22, YoY Growth = 39.54%, Contribution to state total = 1.39%
-2024-25 (FRE): Value = Rs. 523.47 Cr., Rank among 28 districts = 25, YoY Growth = -4.39%, Contribution to state total = 1.24%
-2025-26 (FAE): Value = Rs. 570.26 Cr., Rank among 28 districts = 24, YoY Growth = 8.99%, Contribution to state total = 1.29%
+2022-23 (TRE): Rs. 392.00 Cr., Rank among 28 districts = 22, Contribution to state total = 1.27%
+2023-24 (SRE): Rs. 547.08 Cr., Rank among 28 districts = 22, YoY Growth = 39.54%, Contribution to state total = 1.39%
+2024-25 (FRE): Rs. 523.47 Cr., Rank among 28 districts = 25, YoY Growth = -4.39%, Contribution to state total = 1.24%
+2025-26 (FAE): Rs. 570.26 Cr., Rank among 28 districts = 24, YoY Growth = 8.99%, Contribution to state total = 1.29%

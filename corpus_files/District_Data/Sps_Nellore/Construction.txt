@@ -1,6 +1,6 @@
 District: Sps Nellore — Sector: Construction
 
-2022-23 (TRE): Value = Rs. 4,726.88 Cr., Rank among 28 districts = 6, Contribution to state total = 4.85%
-2023-24 (SRE): Value = Rs. 5,021.00 Cr., Rank among 28 districts = 6, YoY Growth = 6.22%, Contribution to state total = 4.85%
-2024-25 (FRE): Value = Rs. 5,591.92 Cr., Rank among 28 districts = 6, YoY Growth = 11.37%, Contribution to state total = 4.86%
-2025-26 (FAE): Value = Rs. 6,324.45 Cr., Rank among 28 districts = 6, YoY Growth = 13.09%, Contribution to state total = 4.86%
+2022-23 (TRE): Rs. 4,726.88 Cr., Rank among 28 districts = 6, Contribution to state total = 4.85%
+2023-24 (SRE): Rs. 5,021.00 Cr., Rank among 28 districts = 6, YoY Growth = 6.22%, Contribution to state total = 4.85%
+2024-25 (FRE): Rs. 5,591.92 Cr., Rank among 28 districts = 6, YoY Growth = 11.37%, Contribution to state total = 4.86%
+2025-26 (FAE): Rs. 6,324.45 Cr., Rank among 28 districts = 6, YoY Growth = 13.09%, Contribution to state total = 4.86%

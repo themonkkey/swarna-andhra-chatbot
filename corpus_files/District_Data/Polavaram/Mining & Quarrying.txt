@@ -1,6 +1,6 @@
 District: Polavaram — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 21.40 Cr., Rank among 28 districts = 28, Contribution to state total = 0.05%
-2023-24 (SRE): Value = Rs. 18.66 Cr., Rank among 28 districts = 27, YoY Growth = -9.52%, Contribution to state total = 0.06%
-2024-25 (FRE): Value = Rs. 107.69 Cr., Rank among 28 districts = 27, YoY Growth = 468.42%, Contribution to state total = 0.33%
-2025-26 (FAE): Value = Rs. 45.00 Cr., Rank among 28 districts = 28, YoY Growth = -58.33%, Contribution to state total = 0.13%
+2022-23 (TRE): Rs. 21.40 Cr., Rank among 28 districts = 28, Contribution to state total = 0.05%
+2023-24 (SRE): Rs. 18.66 Cr., Rank among 28 districts = 27, YoY Growth = -9.52%, Contribution to state total = 0.06%
+2024-25 (FRE): Rs. 107.69 Cr., Rank among 28 districts = 27, YoY Growth = 468.42%, Contribution to state total = 0.33%
+2025-26 (FAE): Rs. 45.00 Cr., Rank among 28 districts = 28, YoY Growth = -58.33%, Contribution to state total = 0.13%

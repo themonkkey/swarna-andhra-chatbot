@@ -1,6 +1,6 @@
 District: West Godavari — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 4,323.23 Cr., Rank among 28 districts = 8, Contribution to state total = 4.31%
-2023-24 (SRE): Value = Rs. 4,628.10 Cr., Rank among 28 districts = 8, YoY Growth = 7.06%, Contribution to state total = 4.29%
-2024-25 (FRE): Value = Rs. 5,193.95 Cr., Rank among 28 districts = 8, YoY Growth = 12.23%, Contribution to state total = 4.27%
-2025-26 (FAE): Value = Rs. 5,906.00 Cr., Rank among 28 districts = 8, YoY Growth = 13.71%, Contribution to state total = 4.27%
+2022-23 (TRE): Rs. 4,323.23 Cr., Rank among 28 districts = 8, Contribution to state total = 4.31%
+2023-24 (SRE): Rs. 4,628.10 Cr., Rank among 28 districts = 8, YoY Growth = 7.06%, Contribution to state total = 4.29%
+2024-25 (FRE): Rs. 5,193.95 Cr., Rank among 28 districts = 8, YoY Growth = 12.23%, Contribution to state total = 4.27%
+2025-26 (FAE): Rs. 5,906.00 Cr., Rank among 28 districts = 8, YoY Growth = 13.71%, Contribution to state total = 4.27%

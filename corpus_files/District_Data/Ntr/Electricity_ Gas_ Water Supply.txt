@@ -1,6 +1,6 @@
 District: Ntr — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 2,028.00 Cr., Rank among 28 districts = 5, Contribution to state total = 6.57%
-2023-24 (SRE): Value = Rs. 3,562.30 Cr., Rank among 28 districts = 2, YoY Growth = 75.64%, Contribution to state total = 9.07%
-2024-25 (FRE): Value = Rs. 3,823.91 Cr., Rank among 28 districts = 2, YoY Growth = 7.36%, Contribution to state total = 9.04%
-2025-26 (FAE): Value = Rs. 3,964.41 Cr., Rank among 28 districts = 2, YoY Growth = 3.66%, Contribution to state total = 8.94%
+2022-23 (TRE): Rs. 2,028.00 Cr., Rank among 28 districts = 5, Contribution to state total = 6.57%
+2023-24 (SRE): Rs. 3,562.30 Cr., Rank among 28 districts = 2, YoY Growth = 75.64%, Contribution to state total = 9.07%
+2024-25 (FRE): Rs. 3,823.91 Cr., Rank among 28 districts = 2, YoY Growth = 7.36%, Contribution to state total = 9.04%
+2025-26 (FAE): Rs. 3,964.41 Cr., Rank among 28 districts = 2, YoY Growth = 3.66%, Contribution to state total = 8.94%

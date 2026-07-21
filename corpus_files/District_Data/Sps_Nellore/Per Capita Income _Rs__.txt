@@ -1,6 +1,6 @@
-District: Sps Nellore — Sector: Per Capita Income (Rs.)
+District: Sps Nellore — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 214,597.00 Cr., Rank among 28 districts = 13, Contribution to state total = 3.60%
-2023-24 (SRE): Value = Rs. 235,252.00 Cr., Rank among 28 districts = 12, YoY Growth = 9.63%, Contribution to state total = 3.64%
-2024-25 (FRE): Value = Rs. 262,817.00 Cr., Rank among 28 districts = 11, YoY Growth = 11.72%, Contribution to state total = 3.63%
-2025-26 (FAE): Value = Rs. 290,668.00 Cr., Rank among 28 districts = 10, YoY Growth = 10.60%, Contribution to state total = 3.64%
+2022-23 (TRE): Rs. 214,597 per person, Rank among 28 districts = 13
+2023-24 (SRE): Rs. 235,252 per person, Rank among 28 districts = 12, YoY Growth = 9.63%
+2024-25 (FRE): Rs. 262,817 per person, Rank among 28 districts = 11, YoY Growth = 11.72%
+2025-26 (FAE): Rs. 290,668 per person, Rank among 28 districts = 10, YoY Growth = 10.60%

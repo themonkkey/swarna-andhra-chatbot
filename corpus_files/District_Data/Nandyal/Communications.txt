@@ -1,6 +1,6 @@
 District: Nandyal — Sector: Communications
 
-2022-23 (TRE): Value = Rs. 620.86 Cr., Rank among 28 districts = 18, Contribution to state total = 2.90%
-2023-24 (SRE): Value = Rs. 695.00 Cr., Rank among 28 districts = 18, YoY Growth = 11.92%, Contribution to state total = 2.91%
-2024-25 (FRE): Value = Rs. 837.05 Cr., Rank among 28 districts = 18, YoY Growth = 20.43%, Contribution to state total = 2.92%
-2025-26 (FAE): Value = Rs. 976.00 Cr., Rank among 28 districts = 18, YoY Growth = 16.61%, Contribution to state total = 2.91%
+2022-23 (TRE): Rs. 620.86 Cr., Rank among 28 districts = 18, Contribution to state total = 2.90%
+2023-24 (SRE): Rs. 695.00 Cr., Rank among 28 districts = 18, YoY Growth = 11.92%, Contribution to state total = 2.91%
+2024-25 (FRE): Rs. 837.05 Cr., Rank among 28 districts = 18, YoY Growth = 20.43%, Contribution to state total = 2.92%
+2025-26 (FAE): Rs. 976.00 Cr., Rank among 28 districts = 18, YoY Growth = 16.61%, Contribution to state total = 2.91%

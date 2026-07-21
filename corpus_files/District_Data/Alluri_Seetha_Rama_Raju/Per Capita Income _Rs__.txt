@@ -1,6 +1,6 @@
-District: Alluri Seetha Rama Raju — Sector: Per Capita Income (Rs.)
+District: Alluri Seetha Rama Raju — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 161,856.00 Cr., Rank among 28 districts = 23, Contribution to state total = 2.72%
-2023-24 (SRE): Value = Rs. 179,970.00 Cr., Rank among 28 districts = 21, YoY Growth = 11.19%, Contribution to state total = 2.79%
-2024-25 (FRE): Value = Rs. 230,412.00 Cr., Rank among 28 districts = 17, YoY Growth = 28.03%, Contribution to state total = 3.18%
-2025-26 (FAE): Value = Rs. 257,411.00 Cr., Rank among 28 districts = 16, YoY Growth = 11.72%, Contribution to state total = 3.22%
+2022-23 (TRE): Rs. 161,856 per person, Rank among 28 districts = 23
+2023-24 (SRE): Rs. 179,970 per person, Rank among 28 districts = 21, YoY Growth = 11.19%
+2024-25 (FRE): Rs. 230,412 per person, Rank among 28 districts = 17, YoY Growth = 28.03%
+2025-26 (FAE): Rs. 257,411 per person, Rank among 28 districts = 16, YoY Growth = 11.72%

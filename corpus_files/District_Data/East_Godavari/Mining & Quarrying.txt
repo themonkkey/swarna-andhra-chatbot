@@ -1,6 +1,6 @@
 District: East Godavari — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 514.95 Cr., Rank among 28 districts = 15, Contribution to state total = 1.32%
-2023-24 (SRE): Value = Rs. 612.67 Cr., Rank among 28 districts = 16, YoY Growth = 19.03%, Contribution to state total = 2.07%
-2024-25 (FRE): Value = Rs. 369.08 Cr., Rank among 28 districts = 22, YoY Growth = -39.80%, Contribution to state total = 1.14%
-2025-26 (FAE): Value = Rs. 181.00 Cr., Rank among 28 districts = 22, YoY Growth = -50.95%, Contribution to state total = 0.53%
+2022-23 (TRE): Rs. 514.95 Cr., Rank among 28 districts = 15, Contribution to state total = 1.32%
+2023-24 (SRE): Rs. 612.67 Cr., Rank among 28 districts = 16, YoY Growth = 19.03%, Contribution to state total = 2.07%
+2024-25 (FRE): Rs. 369.08 Cr., Rank among 28 districts = 22, YoY Growth = -39.80%, Contribution to state total = 1.14%
+2025-26 (FAE): Rs. 181.00 Cr., Rank among 28 districts = 22, YoY Growth = -50.95%, Contribution to state total = 0.53%

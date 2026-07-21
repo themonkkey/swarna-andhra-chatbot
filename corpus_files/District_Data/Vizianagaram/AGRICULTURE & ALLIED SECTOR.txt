@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: AGRICULTURE & ALLIED SECTOR
 
-2022-23 (TRE): Value = Rs. 11,135.73 Cr., Rank among 28 districts = 20, Contribution to state total = 2.58%
-2023-24 (SRE): Value = Rs. 11,015.65 Cr., Rank among 28 districts = 21, YoY Growth = -1.08%, Contribution to state total = 2.46%
-2024-25 (FRE): Value = Rs. 11,790.74 Cr., Rank among 28 districts = 21, YoY Growth = 7.04%, Contribution to state total = 2.36%
-2025-26 (FAE): Value = Rs. 12,664.81 Cr., Rank among 28 districts = 21, YoY Growth = 7.41%, Contribution to state total = 2.35%
+2022-23 (TRE): Rs. 11,135.73 Cr., Rank among 28 districts = 20, Contribution to state total = 2.58%
+2023-24 (SRE): Rs. 11,015.65 Cr., Rank among 28 districts = 21, YoY Growth = -1.08%, Contribution to state total = 2.46%
+2024-25 (FRE): Rs. 11,790.74 Cr., Rank among 28 districts = 21, YoY Growth = 7.04%, Contribution to state total = 2.36%
+2025-26 (FAE): Rs. 12,664.81 Cr., Rank among 28 districts = 21, YoY Growth = 7.41%, Contribution to state total = 2.35%

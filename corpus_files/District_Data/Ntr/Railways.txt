@@ -1,6 +1,6 @@
 District: Ntr — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 2,052.64 Cr., Rank among 28 districts = 1, Contribution to state total = 27.57%
-2023-24 (SRE): Value = Rs. 2,536.00 Cr., Rank among 28 districts = 1, YoY Growth = 23.53%, Contribution to state total = 29.74%
-2024-25 (FRE): Value = Rs. 2,871.79 Cr., Rank among 28 districts = 1, YoY Growth = 13.25%, Contribution to state total = 31.14%
-2025-26 (FAE): Value = Rs. 3,133.00 Cr., Rank among 28 districts = 1, YoY Growth = 9.09%, Contribution to state total = 31.26%
+2022-23 (TRE): Rs. 2,052.64 Cr., Rank among 28 districts = 1, Contribution to state total = 27.57%
+2023-24 (SRE): Rs. 2,536.00 Cr., Rank among 28 districts = 1, YoY Growth = 23.53%, Contribution to state total = 29.74%
+2024-25 (FRE): Rs. 2,871.79 Cr., Rank among 28 districts = 1, YoY Growth = 13.25%, Contribution to state total = 31.14%
+2025-26 (FAE): Rs. 3,133.00 Cr., Rank among 28 districts = 1, YoY Growth = 9.09%, Contribution to state total = 31.26%

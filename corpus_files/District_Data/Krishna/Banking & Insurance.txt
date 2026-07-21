@@ -1,6 +1,6 @@
 District: Krishna — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 3,026.65 Cr., Rank among 28 districts = 5, Contribution to state total = 5.14%
-2023-24 (SRE): Value = Rs. 2,799.86 Cr., Rank among 28 districts = 6, YoY Growth = -7.50%, Contribution to state total = 4.32%
-2024-25 (FRE): Value = Rs. 3,514.75 Cr., Rank among 28 districts = 5, YoY Growth = 25.54%, Contribution to state total = 4.73%
-2025-26 (FAE): Value = Rs. 3,706.00 Cr., Rank among 28 districts = 6, YoY Growth = 5.43%, Contribution to state total = 4.32%
+2022-23 (TRE): Rs. 3,026.65 Cr., Rank among 28 districts = 5, Contribution to state total = 5.14%
+2023-24 (SRE): Rs. 2,799.86 Cr., Rank among 28 districts = 6, YoY Growth = -7.50%, Contribution to state total = 4.32%
+2024-25 (FRE): Rs. 3,514.75 Cr., Rank among 28 districts = 5, YoY Growth = 25.54%, Contribution to state total = 4.73%
+2025-26 (FAE): Rs. 3,706.00 Cr., Rank among 28 districts = 6, YoY Growth = 5.43%, Contribution to state total = 4.32%

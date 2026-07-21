@@ -1,6 +1,6 @@
 District: Dr.B.R.Ambedkar Konaseema — Sector: Industry Sector (aggregate)
 
-2022-23 (TRE): Value = Rs. 9,733.39 Cr., Rank among 28 districts = 12, Contribution to state total = 3.31%
-2023-24 (SRE): Value = Rs. 9,507.86 Cr., Rank among 28 districts = 12, YoY Growth = -2.31%, Contribution to state total = 2.94%
-2024-25 (FRE): Value = Rs. 9,967.00 Cr., Rank among 28 districts = 12, YoY Growth = 4.83%, Contribution to state total = 2.84%
-2025-26 (FAE): Value = Rs. 9,721.00 Cr., Rank among 28 districts = 16, YoY Growth = -2.47%, Contribution to state total = 2.53%
+2022-23 (TRE): Rs. 9,733.39 Cr., Rank among 28 districts = 12, Contribution to state total = 3.31%
+2023-24 (SRE): Rs. 9,507.86 Cr., Rank among 28 districts = 12, YoY Growth = -2.31%, Contribution to state total = 2.94%
+2024-25 (FRE): Rs. 9,967.00 Cr., Rank among 28 districts = 12, YoY Growth = 4.83%, Contribution to state total = 2.84%
+2025-26 (FAE): Rs. 9,721.00 Cr., Rank among 28 districts = 16, YoY Growth = -2.47%, Contribution to state total = 2.53%

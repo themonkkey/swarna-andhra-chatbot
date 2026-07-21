@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 8,765.93 Cr., Rank among 28 districts = 4, Contribution to state total = 5.99%
-2023-24 (SRE): Value = Rs. 8,583.00 Cr., Rank among 28 districts = 4, YoY Growth = -2.09%, Contribution to state total = 5.55%
-2024-25 (FRE): Value = Rs. 8,349.84 Cr., Rank among 28 districts = 6, YoY Growth = -2.71%, Contribution to state total = 5.07%
-2025-26 (FAE): Value = Rs. 9,549.00 Cr., Rank among 28 districts = 5, YoY Growth = 14.36%, Contribution to state total = 5.42%
+2022-23 (TRE): Rs. 8,765.93 Cr., Rank among 28 districts = 4, Contribution to state total = 5.99%
+2023-24 (SRE): Rs. 8,583.00 Cr., Rank among 28 districts = 4, YoY Growth = -2.09%, Contribution to state total = 5.55%
+2024-25 (FRE): Rs. 8,349.84 Cr., Rank among 28 districts = 6, YoY Growth = -2.71%, Contribution to state total = 5.07%
+2025-26 (FAE): Rs. 9,549.00 Cr., Rank among 28 districts = 5, YoY Growth = 14.36%, Contribution to state total = 5.42%

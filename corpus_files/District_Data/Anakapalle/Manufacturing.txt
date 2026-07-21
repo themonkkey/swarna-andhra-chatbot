@@ -1,6 +1,6 @@
 District: Anakapalle — Sector: Manufacturing
 
-2022-23 (TRE): Value = Rs. 17,004.70 Cr., Rank among 28 districts = 3, Contribution to state total = 13.46%
-2023-24 (SRE): Value = Rs. 19,223.00 Cr., Rank among 28 districts = 3, YoY Growth = 13.04%, Contribution to state total = 12.73%
-2024-25 (FRE): Value = Rs. 20,370.52 Cr., Rank among 28 districts = 3, YoY Growth = 5.97%, Contribution to state total = 12.63%
-2025-26 (FAE): Value = Rs. 22,373.38 Cr., Rank among 28 districts = 3, YoY Growth = 9.83%, Contribution to state total = 12.70%
+2022-23 (TRE): Rs. 17,004.70 Cr., Rank among 28 districts = 3, Contribution to state total = 13.46%
+2023-24 (SRE): Rs. 19,223.00 Cr., Rank among 28 districts = 3, YoY Growth = 13.04%, Contribution to state total = 12.73%
+2024-25 (FRE): Rs. 20,370.52 Cr., Rank among 28 districts = 3, YoY Growth = 5.97%, Contribution to state total = 12.63%
+2025-26 (FAE): Rs. 22,373.38 Cr., Rank among 28 districts = 3, YoY Growth = 9.83%, Contribution to state total = 12.70%

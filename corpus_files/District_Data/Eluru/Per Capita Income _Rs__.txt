@@ -1,6 +1,6 @@
-District: Eluru — Sector: Per Capita Income (Rs.)
+District: Eluru — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 286,905.00 Cr., Rank among 28 districts = 3, Contribution to state total = 4.82%
-2023-24 (SRE): Value = Rs. 305,296.00 Cr., Rank among 28 districts = 4, YoY Growth = 6.41%, Contribution to state total = 4.73%
-2024-25 (FRE): Value = Rs. 349,145.00 Cr., Rank among 28 districts = 3, YoY Growth = 14.36%, Contribution to state total = 4.82%
-2025-26 (FAE): Value = Rs. 376,992.00 Cr., Rank among 28 districts = 4, YoY Growth = 7.98%, Contribution to state total = 4.72%
+2022-23 (TRE): Rs. 286,905 per person, Rank among 28 districts = 3
+2023-24 (SRE): Rs. 305,296 per person, Rank among 28 districts = 4, YoY Growth = 6.41%
+2024-25 (FRE): Rs. 349,145 per person, Rank among 28 districts = 3, YoY Growth = 14.36%
+2025-26 (FAE): Rs. 376,992 per person, Rank among 28 districts = 4, YoY Growth = 7.98%

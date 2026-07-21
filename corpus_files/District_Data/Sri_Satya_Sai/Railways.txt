@@ -1,6 +1,6 @@
 District: Sri Satya Sai — Sector: Railways
 
-2022-23 (TRE): Value = Rs. 106.88 Cr., Rank among 28 districts = 15, Contribution to state total = 1.44%
-2023-24 (SRE): Value = Rs. 133.00 Cr., Rank among 28 districts = 14, YoY Growth = 24.30%, Contribution to state total = 1.56%
-2024-25 (FRE): Value = Rs. 143.70 Cr., Rank among 28 districts = 14, YoY Growth = 8.27%, Contribution to state total = 1.56%
-2025-26 (FAE): Value = Rs. 155.00 Cr., Rank among 28 districts = 14, YoY Growth = 7.64%, Contribution to state total = 1.55%
+2022-23 (TRE): Rs. 106.88 Cr., Rank among 28 districts = 15, Contribution to state total = 1.44%
+2023-24 (SRE): Rs. 133.00 Cr., Rank among 28 districts = 14, YoY Growth = 24.30%, Contribution to state total = 1.56%
+2024-25 (FRE): Rs. 143.70 Cr., Rank among 28 districts = 14, YoY Growth = 8.27%, Contribution to state total = 1.56%
+2025-26 (FAE): Rs. 155.00 Cr., Rank among 28 districts = 14, YoY Growth = 7.64%, Contribution to state total = 1.55%

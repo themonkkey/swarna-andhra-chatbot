@@ -1,6 +1,6 @@
 District: West Godavari — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 3,914.70 Cr., Rank among 28 districts = 19, Contribution to state total = 2.68%
-2023-24 (SRE): Value = Rs. 3,692.00 Cr., Rank among 28 districts = 22, YoY Growth = -5.70%, Contribution to state total = 2.39%
-2024-25 (FRE): Value = Rs. 4,354.09 Cr., Rank among 28 districts = 21, YoY Growth = 17.93%, Contribution to state total = 2.65%
-2025-26 (FAE): Value = Rs. 4,765.00 Cr., Rank among 28 districts = 21, YoY Growth = 9.44%, Contribution to state total = 2.71%
+2022-23 (TRE): Rs. 3,914.70 Cr., Rank among 28 districts = 19, Contribution to state total = 2.68%
+2023-24 (SRE): Rs. 3,692.00 Cr., Rank among 28 districts = 22, YoY Growth = -5.70%, Contribution to state total = 2.39%
+2024-25 (FRE): Rs. 4,354.09 Cr., Rank among 28 districts = 21, YoY Growth = 17.93%, Contribution to state total = 2.65%
+2025-26 (FAE): Rs. 4,765.00 Cr., Rank among 28 districts = 21, YoY Growth = 9.44%, Contribution to state total = 2.71%

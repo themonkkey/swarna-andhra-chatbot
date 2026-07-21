@@ -1,6 +1,6 @@
-District: Ysr Kadapa — Sector: Per Capita Income (Rs.)
+District: Ysr Kadapa — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 190,879.00 Cr., Rank among 28 districts = 18, Contribution to state total = 3.21%
-2023-24 (SRE): Value = Rs. 238,871.00 Cr., Rank among 28 districts = 10, YoY Growth = 25.14%, Contribution to state total = 3.70%
-2024-25 (FRE): Value = Rs. 259,411.00 Cr., Rank among 28 districts = 12, YoY Growth = 8.60%, Contribution to state total = 3.58%
-2025-26 (FAE): Value = Rs. 283,734.00 Cr., Rank among 28 districts = 12, YoY Growth = 9.38%, Contribution to state total = 3.55%
+2022-23 (TRE): Rs. 190,879 per person, Rank among 28 districts = 18
+2023-24 (SRE): Rs. 238,871 per person, Rank among 28 districts = 10, YoY Growth = 25.14%
+2024-25 (FRE): Rs. 259,411 per person, Rank among 28 districts = 12, YoY Growth = 8.60%
+2025-26 (FAE): Rs. 283,734 per person, Rank among 28 districts = 12, YoY Growth = 9.38%

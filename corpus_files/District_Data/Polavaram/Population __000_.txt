@@ -1,6 +1,6 @@
-District: Polavaram — Sector: Population ('000)
+District: Polavaram — Metric: Population ('000)
 
-2022-23 (TRE): Value = Rs. 375.00 Cr., Rank among 28 districts = 28, Contribution to state total = 0.71%
-2023-24 (SRE): Value = Rs. 376.00 Cr., Rank among 28 districts = 28, YoY Growth = 0.27%, Contribution to state total = 0.71%
-2024-25 (FRE): Value = Rs. 377.23 Cr., Rank among 28 districts = 28, YoY Growth = 0.27%, Contribution to state total = 0.71%
-2025-26 (FAE): Value = Rs. 378.53 Cr., Rank among 28 districts = 28, YoY Growth = 0.53%, Contribution to state total = 0.71%
+2022-23 (TRE): 375 thousand persons, Rank among 28 districts = 28
+2023-24 (SRE): 376 thousand persons, Rank among 28 districts = 28, YoY Growth = 0.27%
+2024-25 (FRE): 377 thousand persons, Rank among 28 districts = 28, YoY Growth = 0.27%
+2025-26 (FAE): 379 thousand persons, Rank among 28 districts = 28, YoY Growth = 0.53%

@@ -1,6 +1,6 @@
 District: Kakinada — Sector: Horticulture
 
-2022-23 (TRE): Value = Rs. 2,256.92 Cr., Rank among 28 districts = 21, Contribution to state total = 1.87%
-2023-24 (SRE): Value = Rs. 2,368.22 Cr., Rank among 28 districts = 20, YoY Growth = 4.92%, Contribution to state total = 1.88%
-2024-25 (FRE): Value = Rs. 3,072.00 Cr., Rank among 28 districts = 19, YoY Growth = 29.73%, Contribution to state total = 2.16%
-2025-26 (FAE): Value = Rs. 2,956.83 Cr., Rank among 28 districts = 19, YoY Growth = -3.74%, Contribution to state total = 2.07%
+2022-23 (TRE): Rs. 2,256.92 Cr., Rank among 28 districts = 21, Contribution to state total = 1.87%
+2023-24 (SRE): Rs. 2,368.22 Cr., Rank among 28 districts = 20, YoY Growth = 4.92%, Contribution to state total = 1.88%
+2024-25 (FRE): Rs. 3,072.00 Cr., Rank among 28 districts = 19, YoY Growth = 29.73%, Contribution to state total = 2.16%
+2025-26 (FAE): Rs. 2,956.83 Cr., Rank among 28 districts = 19, YoY Growth = -3.74%, Contribution to state total = 2.07%

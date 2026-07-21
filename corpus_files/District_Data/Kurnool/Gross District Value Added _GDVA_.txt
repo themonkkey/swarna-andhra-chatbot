@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Gross District Value Added (GDVA)
 
-2022-23 (TRE): Value = Rs. 42,336.00 Cr., Rank among 28 districts = 16, Contribution to state total = 3.45%
-2023-24 (SRE): Value = Rs. 42,650.00 Cr., Rank among 28 districts = 15, YoY Growth = 0.74%, Contribution to state total = 3.23%
-2024-25 (FRE): Value = Rs. 48,800.00 Cr., Rank among 28 districts = 15, YoY Growth = 14.42%, Contribution to state total = 3.32%
-2025-26 (FAE): Value = Rs. 50,339.46 Cr., Rank among 28 districts = 15, YoY Growth = 3.15%, Contribution to state total = 3.10%
+2022-23 (TRE): Rs. 42,336.00 Cr., Rank among 28 districts = 16, Contribution to state total = 3.45%
+2023-24 (SRE): Rs. 42,650.00 Cr., Rank among 28 districts = 15, YoY Growth = 0.74%, Contribution to state total = 3.23%
+2024-25 (FRE): Rs. 48,800.00 Cr., Rank among 28 districts = 15, YoY Growth = 14.42%, Contribution to state total = 3.32%
+2025-26 (FAE): Rs. 50,339.46 Cr., Rank among 28 districts = 15, YoY Growth = 3.15%, Contribution to state total = 3.10%

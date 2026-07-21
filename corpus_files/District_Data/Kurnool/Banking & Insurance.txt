@@ -1,6 +1,6 @@
 District: Kurnool — Sector: Banking & Insurance
 
-2022-23 (TRE): Value = Rs. 1,905.67 Cr., Rank among 28 districts = 12, Contribution to state total = 3.24%
-2023-24 (SRE): Value = Rs. 1,933.36 Cr., Rank among 28 districts = 13, YoY Growth = 1.42%, Contribution to state total = 2.98%
-2024-25 (FRE): Value = Rs. 2,310.71 Cr., Rank among 28 districts = 13, YoY Growth = 19.56%, Contribution to state total = 3.11%
-2025-26 (FAE): Value = Rs. 2,559.00 Cr., Rank among 28 districts = 13, YoY Growth = 10.73%, Contribution to state total = 2.98%
+2022-23 (TRE): Rs. 1,905.67 Cr., Rank among 28 districts = 12, Contribution to state total = 3.24%
+2023-24 (SRE): Rs. 1,933.36 Cr., Rank among 28 districts = 13, YoY Growth = 1.42%, Contribution to state total = 2.98%
+2024-25 (FRE): Rs. 2,310.71 Cr., Rank among 28 districts = 13, YoY Growth = 19.56%, Contribution to state total = 3.11%
+2025-26 (FAE): Rs. 2,559.00 Cr., Rank among 28 districts = 13, YoY Growth = 10.73%, Contribution to state total = 2.98%

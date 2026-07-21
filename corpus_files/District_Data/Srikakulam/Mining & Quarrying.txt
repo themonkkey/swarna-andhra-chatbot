@@ -1,6 +1,6 @@
 District: Srikakulam — Sector: Mining & Quarrying
 
-2022-23 (TRE): Value = Rs. 598.27 Cr., Rank among 28 districts = 11, Contribution to state total = 1.53%
-2023-24 (SRE): Value = Rs. 148.64 Cr., Rank among 28 districts = 25, YoY Growth = -75.08%, Contribution to state total = 0.50%
-2024-25 (FRE): Value = Rs. 512.75 Cr., Rank among 28 districts = 20, YoY Growth = 244.30%, Contribution to state total = 1.58%
-2025-26 (FAE): Value = Rs. 1,039.00 Cr., Rank among 28 districts = 11, YoY Growth = 102.53%, Contribution to state total = 3.06%
+2022-23 (TRE): Rs. 598.27 Cr., Rank among 28 districts = 11, Contribution to state total = 1.53%
+2023-24 (SRE): Rs. 148.64 Cr., Rank among 28 districts = 25, YoY Growth = -75.08%, Contribution to state total = 0.50%
+2024-25 (FRE): Rs. 512.75 Cr., Rank among 28 districts = 20, YoY Growth = 244.30%, Contribution to state total = 1.58%
+2025-26 (FAE): Rs. 1,039.00 Cr., Rank among 28 districts = 11, YoY Growth = 102.53%, Contribution to state total = 3.06%

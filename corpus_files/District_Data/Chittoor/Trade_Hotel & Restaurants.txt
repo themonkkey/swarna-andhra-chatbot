@@ -1,6 +1,6 @@
 District: Chittoor — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 1,386.08 Cr., Rank among 28 districts = 16, Contribution to state total = 1.55%
-2023-24 (SRE): Value = Rs. 2,008.00 Cr., Rank among 28 districts = 13, YoY Growth = 44.88%, Contribution to state total = 2.08%
-2024-25 (FRE): Value = Rs. 2,495.00 Cr., Rank among 28 districts = 11, YoY Growth = 24.25%, Contribution to state total = 2.29%
-2025-26 (FAE): Value = Rs. 2,903.62 Cr., Rank among 28 districts = 11, YoY Growth = 16.39%, Contribution to state total = 2.37%
+2022-23 (TRE): Rs. 1,386.08 Cr., Rank among 28 districts = 16, Contribution to state total = 1.55%
+2023-24 (SRE): Rs. 2,008.00 Cr., Rank among 28 districts = 13, YoY Growth = 44.88%, Contribution to state total = 2.08%
+2024-25 (FRE): Rs. 2,495.00 Cr., Rank among 28 districts = 11, YoY Growth = 24.25%, Contribution to state total = 2.29%
+2025-26 (FAE): Rs. 2,903.62 Cr., Rank among 28 districts = 11, YoY Growth = 16.39%, Contribution to state total = 2.37%

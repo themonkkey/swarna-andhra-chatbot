@@ -1,6 +1,6 @@
 District: Guntur — Sector: Industry Sector (aggregate)
 
-2022-23 (TRE): Value = Rs. 13,125.99 Cr., Rank among 28 districts = 9, Contribution to state total = 4.47%
-2023-24 (SRE): Value = Rs. 16,842.90 Cr., Rank among 28 districts = 6, YoY Growth = 28.32%, Contribution to state total = 5.21%
-2024-25 (FRE): Value = Rs. 17,751.00 Cr., Rank among 28 districts = 7, YoY Growth = 5.39%, Contribution to state total = 5.06%
-2025-26 (FAE): Value = Rs. 21,153.00 Cr., Rank among 28 districts = 5, YoY Growth = 19.17%, Contribution to state total = 5.50%
+2022-23 (TRE): Rs. 13,125.99 Cr., Rank among 28 districts = 9, Contribution to state total = 4.47%
+2023-24 (SRE): Rs. 16,842.90 Cr., Rank among 28 districts = 6, YoY Growth = 28.32%, Contribution to state total = 5.21%
+2024-25 (FRE): Rs. 17,751.00 Cr., Rank among 28 districts = 7, YoY Growth = 5.39%, Contribution to state total = 5.06%
+2025-26 (FAE): Rs. 21,153.00 Cr., Rank among 28 districts = 5, YoY Growth = 19.17%, Contribution to state total = 5.50%

@@ -1,6 +1,6 @@
 District: Ananthapuramu — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 6,631.57 Cr., Rank among 28 districts = 7, Contribution to state total = 4.53%
-2023-24 (SRE): Value = Rs. 8,358.00 Cr., Rank among 28 districts = 6, YoY Growth = 26.03%, Contribution to state total = 5.41%
-2024-25 (FRE): Value = Rs. 9,479.37 Cr., Rank among 28 districts = 3, YoY Growth = 13.41%, Contribution to state total = 5.76%
-2025-26 (FAE): Value = Rs. 9,554.00 Cr., Rank among 28 districts = 4, YoY Growth = 0.79%, Contribution to state total = 5.42%
+2022-23 (TRE): Rs. 6,631.57 Cr., Rank among 28 districts = 7, Contribution to state total = 4.53%
+2023-24 (SRE): Rs. 8,358.00 Cr., Rank among 28 districts = 6, YoY Growth = 26.03%, Contribution to state total = 5.41%
+2024-25 (FRE): Rs. 9,479.37 Cr., Rank among 28 districts = 3, YoY Growth = 13.41%, Contribution to state total = 5.76%
+2025-26 (FAE): Rs. 9,554.00 Cr., Rank among 28 districts = 4, YoY Growth = 0.79%, Contribution to state total = 5.42%

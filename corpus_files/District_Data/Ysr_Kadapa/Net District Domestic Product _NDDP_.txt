@@ -1,6 +1,6 @@
 District: Ysr Kadapa — Sector: Net District Domestic Product (NDDP)
 
-2022-23 (TRE): Value = Rs. 46,943.92 Cr., Rank among 28 districts = 12, Contribution to state total = 4.02%
-2023-24 (SRE): Value = Rs. 58,950.57 Cr., Rank among 28 districts = 8, YoY Growth = 25.58%, Contribution to state total = 4.62%
-2024-25 (FRE): Value = Rs. 64,241.81 Cr., Rank among 28 districts = 8, YoY Growth = 8.98%, Contribution to state total = 4.51%
-2025-26 (FAE): Value = Rs. 70,507.26 Cr., Rank among 28 districts = 8, YoY Growth = 9.75%, Contribution to state total = 4.46%
+2022-23 (TRE): Rs. 46,943.92 Cr., Rank among 28 districts = 12, Contribution to state total = 4.02%
+2023-24 (SRE): Rs. 58,950.57 Cr., Rank among 28 districts = 8, YoY Growth = 25.58%, Contribution to state total = 4.62%
+2024-25 (FRE): Rs. 64,241.81 Cr., Rank among 28 districts = 8, YoY Growth = 8.98%, Contribution to state total = 4.51%
+2025-26 (FAE): Rs. 70,507.26 Cr., Rank among 28 districts = 8, YoY Growth = 9.75%, Contribution to state total = 4.46%

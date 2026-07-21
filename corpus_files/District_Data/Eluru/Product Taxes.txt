@@ -1,6 +1,6 @@
 District: Eluru — Sector: Product Taxes
 
-2022-23 (TRE): Value = Rs. 6,220.00 Cr., Rank among 28 districts = 5, Contribution to state total = 5.10%
-2023-24 (SRE): Value = Rs. 6,590.00 Cr., Rank among 28 districts = 5, YoY Growth = 5.95%, Contribution to state total = 5.03%
-2024-25 (FRE): Value = Rs. 7,430.71 Cr., Rank among 28 districts = 5, YoY Growth = 12.76%, Contribution to state total = 5.15%
-2025-26 (FAE): Value = Rs. 8,119.48 Cr., Rank among 28 districts = 5, YoY Growth = 9.26%, Contribution to state total = 5.02%
+2022-23 (TRE): Rs. 6,220.00 Cr., Rank among 28 districts = 5, Contribution to state total = 5.10%
+2023-24 (SRE): Rs. 6,590.00 Cr., Rank among 28 districts = 5, YoY Growth = 5.95%, Contribution to state total = 5.03%
+2024-25 (FRE): Rs. 7,430.71 Cr., Rank among 28 districts = 5, YoY Growth = 12.76%, Contribution to state total = 5.15%
+2025-26 (FAE): Rs. 8,119.48 Cr., Rank among 28 districts = 5, YoY Growth = 9.26%, Contribution to state total = 5.02%

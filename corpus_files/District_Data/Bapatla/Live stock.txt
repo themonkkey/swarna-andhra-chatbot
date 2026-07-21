@@ -1,6 +1,6 @@
 District: Bapatla — Sector: Live stock
 
-2022-23 (TRE): Value = Rs. 3,726.46 Cr., Rank among 28 districts = 21, Contribution to state total = 2.55%
-2023-24 (SRE): Value = Rs. 3,846.00 Cr., Rank among 28 districts = 21, YoY Growth = 3.22%, Contribution to state total = 2.49%
-2024-25 (FRE): Value = Rs. 4,075.74 Cr., Rank among 28 districts = 22, YoY Growth = 5.98%, Contribution to state total = 2.48%
-2025-26 (FAE): Value = Rs. 4,367.00 Cr., Rank among 28 districts = 22, YoY Growth = 7.14%, Contribution to state total = 2.48%
+2022-23 (TRE): Rs. 3,726.46 Cr., Rank among 28 districts = 21, Contribution to state total = 2.55%
+2023-24 (SRE): Rs. 3,846.00 Cr., Rank among 28 districts = 21, YoY Growth = 3.22%, Contribution to state total = 2.49%
+2024-25 (FRE): Rs. 4,075.74 Cr., Rank among 28 districts = 22, YoY Growth = 5.98%, Contribution to state total = 2.48%
+2025-26 (FAE): Rs. 4,367.00 Cr., Rank among 28 districts = 22, YoY Growth = 7.14%, Contribution to state total = 2.48%

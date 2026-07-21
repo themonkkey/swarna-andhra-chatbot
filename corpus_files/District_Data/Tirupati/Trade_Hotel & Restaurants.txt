@@ -1,6 +1,6 @@
 District: Tirupati — Sector: Trade,Hotel & Restaurants
 
-2022-23 (TRE): Value = Rs. 4,877.45 Cr., Rank among 28 districts = 4, Contribution to state total = 5.47%
-2023-24 (SRE): Value = Rs. 3,767.00 Cr., Rank among 28 districts = 8, YoY Growth = -22.76%, Contribution to state total = 3.91%
-2024-25 (FRE): Value = Rs. 4,857.00 Cr., Rank among 28 districts = 5, YoY Growth = 28.94%, Contribution to state total = 4.46%
-2025-26 (FAE): Value = Rs. 5,537.97 Cr., Rank among 28 districts = 5, YoY Growth = 14.02%, Contribution to state total = 4.52%
+2022-23 (TRE): Rs. 4,877.45 Cr., Rank among 28 districts = 4, Contribution to state total = 5.47%
+2023-24 (SRE): Rs. 3,767.00 Cr., Rank among 28 districts = 8, YoY Growth = -22.76%, Contribution to state total = 3.91%
+2024-25 (FRE): Rs. 4,857.00 Cr., Rank among 28 districts = 5, YoY Growth = 28.94%, Contribution to state total = 4.46%
+2025-26 (FAE): Rs. 5,537.97 Cr., Rank among 28 districts = 5, YoY Growth = 14.02%, Contribution to state total = 4.52%

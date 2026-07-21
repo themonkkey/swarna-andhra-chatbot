@@ -1,6 +1,6 @@
 District: Dr.B.R.Ambedkar Konaseema — Sector: Real est., Ownership of Dwellings
 
-2022-23 (TRE): Value = Rs. 2,532.51 Cr., Rank among 28 districts = 22, Contribution to state total = 2.52%
-2023-24 (SRE): Value = Rs. 2,649.77 Cr., Rank among 28 districts = 23, YoY Growth = 4.62%, Contribution to state total = 2.46%
-2024-25 (FRE): Value = Rs. 2,921.57 Cr., Rank among 28 districts = 23, YoY Growth = 10.26%, Contribution to state total = 2.40%
-2025-26 (FAE): Value = Rs. 3,346.29 Cr., Rank among 28 districts = 23, YoY Growth = 14.51%, Contribution to state total = 2.42%
+2022-23 (TRE): Rs. 2,532.51 Cr., Rank among 28 districts = 22, Contribution to state total = 2.52%
+2023-24 (SRE): Rs. 2,649.77 Cr., Rank among 28 districts = 23, YoY Growth = 4.62%, Contribution to state total = 2.46%
+2024-25 (FRE): Rs. 2,921.57 Cr., Rank among 28 districts = 23, YoY Growth = 10.26%, Contribution to state total = 2.40%
+2025-26 (FAE): Rs. 3,346.29 Cr., Rank among 28 districts = 23, YoY Growth = 14.51%, Contribution to state total = 2.42%

@@ -1,6 +1,6 @@
 District: Ntr — Sector: Gross District Domestic Product (GDDP)
 
-2022-23 (TRE): Value = Rs. 71,095.93 Cr., Rank among 28 districts = 3, Contribution to state total = 5.44%
-2023-24 (SRE): Value = Rs. 82,577.00 Cr., Rank among 28 districts = 2, YoY Growth = 16.15%, Contribution to state total = 5.80%
-2024-25 (FRE): Value = Rs. 93,112.00 Cr., Rank among 28 districts = 2, YoY Growth = 12.76%, Contribution to state total = 5.85%
-2025-26 (FAE): Value = Rs. 105,135.00 Cr., Rank among 28 districts = 2, YoY Growth = 12.91%, Contribution to state total = 5.97%
+2022-23 (TRE): Rs. 71,095.93 Cr., Rank among 28 districts = 3, Contribution to state total = 5.44%
+2023-24 (SRE): Rs. 82,577.00 Cr., Rank among 28 districts = 2, YoY Growth = 16.15%, Contribution to state total = 5.80%
+2024-25 (FRE): Rs. 93,112.00 Cr., Rank among 28 districts = 2, YoY Growth = 12.76%, Contribution to state total = 5.85%
+2025-26 (FAE): Rs. 105,135.00 Cr., Rank among 28 districts = 2, YoY Growth = 12.91%, Contribution to state total = 5.97%

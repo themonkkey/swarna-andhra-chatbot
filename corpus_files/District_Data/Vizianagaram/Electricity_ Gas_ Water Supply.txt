@@ -1,6 +1,6 @@
 District: Vizianagaram — Sector: Electricity, Gas, Water Supply
 
-2022-23 (TRE): Value = Rs. 570.00 Cr., Rank among 28 districts = 17, Contribution to state total = 1.85%
-2023-24 (SRE): Value = Rs. 756.21 Cr., Rank among 28 districts = 15, YoY Growth = 32.63%, Contribution to state total = 1.93%
-2024-25 (FRE): Value = Rs. 775.34 Cr., Rank among 28 districts = 18, YoY Growth = 2.51%, Contribution to state total = 1.83%
-2025-26 (FAE): Value = Rs. 823.05 Cr., Rank among 28 districts = 18, YoY Growth = 6.19%, Contribution to state total = 1.86%
+2022-23 (TRE): Rs. 570.00 Cr., Rank among 28 districts = 17, Contribution to state total = 1.85%
+2023-24 (SRE): Rs. 756.21 Cr., Rank among 28 districts = 15, YoY Growth = 32.63%, Contribution to state total = 1.93%
+2024-25 (FRE): Rs. 775.34 Cr., Rank among 28 districts = 18, YoY Growth = 2.51%, Contribution to state total = 1.83%
+2025-26 (FAE): Rs. 823.05 Cr., Rank among 28 districts = 18, YoY Growth = 6.19%, Contribution to state total = 1.86%

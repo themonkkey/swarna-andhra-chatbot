@@ -1,6 +1,6 @@
-District: Palnadu — Sector: Per Capita Income (Rs.)
+District: Palnadu — Metric: Per Capita Income (Rs.)
 
-2022-23 (TRE): Value = Rs. 164,259.00 Cr., Rank among 28 districts = 22, Contribution to state total = 2.76%
-2023-24 (SRE): Value = Rs. 173,305.00 Cr., Rank among 28 districts = 23, YoY Growth = 5.51%, Contribution to state total = 2.68%
-2024-25 (FRE): Value = Rs. 188,274.00 Cr., Rank among 28 districts = 24, YoY Growth = 8.64%, Contribution to state total = 2.60%
-2025-26 (FAE): Value = Rs. 204,995.00 Cr., Rank among 28 districts = 23, YoY Growth = 8.88%, Contribution to state total = 2.57%
+2022-23 (TRE): Rs. 164,259 per person, Rank among 28 districts = 22
+2023-24 (SRE): Rs. 173,305 per person, Rank among 28 districts = 23, YoY Growth = 5.51%
+2024-25 (FRE): Rs. 188,274 per person, Rank among 28 districts = 24, YoY Growth = 8.64%
+2025-26 (FAE): Rs. 204,995 per person, Rank among 28 districts = 23, YoY Growth = 8.88%

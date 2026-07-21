@@ -1,6 +1,6 @@
 District: Annamayya — Sector: Public Admn.
 
-2022-23 (TRE): Value = Rs. 1,349.61 Cr., Rank among 28 districts = 21, Contribution to state total = 2.67%
-2023-24 (SRE): Value = Rs. 1,472.00 Cr., Rank among 28 districts = 18, YoY Growth = 9.04%, Contribution to state total = 2.76%
-2024-25 (FRE): Value = Rs. 1,576.80 Cr., Rank among 28 districts = 18, YoY Growth = 7.13%, Contribution to state total = 2.76%
-2025-26 (FAE): Value = Rs. 1,638.49 Cr., Rank among 28 districts = 18, YoY Growth = 3.87%, Contribution to state total = 2.73%
+2022-23 (TRE): Rs. 1,349.61 Cr., Rank among 28 districts = 21, Contribution to state total = 2.67%
+2023-24 (SRE): Rs. 1,472.00 Cr., Rank among 28 districts = 18, YoY Growth = 9.04%, Contribution to state total = 2.76%
+2024-25 (FRE): Rs. 1,576.80 Cr., Rank among 28 districts = 18, YoY Growth = 7.13%, Contribution to state total = 2.76%
+2025-26 (FAE): Rs. 1,638.49 Cr., Rank among 28 districts = 18, YoY Growth = 3.87%, Contribution to state total = 2.73%
