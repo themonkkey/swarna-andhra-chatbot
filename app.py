@@ -12,6 +12,7 @@ but is told to say so explicitly rather than blur the two.
 """
 import os
 import pickle
+import re
 
 import numpy as np
 import streamlit as st
@@ -216,16 +217,65 @@ def retrieve(query, index, district_folder=None):
                 return 4
             return 5
 
+        # force only the top few headline aggregates (snapshot carries GDDP/NDDP/
+        # per-capita/top-sectors already). Forcing all ~7 buried the semantically
+        # relevant mandal/constituency vision plans for topical queries like
+        # "paddy productivity in Anaparthi mandal", so keep this lean.
         forced.sort(key=lambda jc: prio(jc[1]["source"]))
-        for j, c in forced[:7]:
+        for j, c in forced[:2]:
             add_chunk(j, 1.0)
 
-    for i in top_idx:
-        if sims[i] <= 0:
-            continue
+    primary = [i for i in top_idx if sims[i] > 0]
+
+    # keyword rescue: numeric tables (e.g. "Paddy Productivity 7275 -> 7646") embed
+    # poorly, so pure vector search finds the right DOCUMENT but often the wrong PAGE.
+    # For each top-matching document, also pull the page whose text best matches the
+    # query's content words. Added before the primary hits so it survives the cap.
+    stop = {"what", "is", "the", "and", "its", "for", "of", "in", "how", "which",
+            "are", "to", "me", "tell", "about", "give", "show", "district", "mandal",
+            "constituency", "target", "targets", "plan"}
+    qwords = set(w for w in re.findall(r"[a-z]+", query.lower()) if len(w) > 3 and w not in stop)
+    if qwords:
+        top_sources = []
+        for i in primary[:5]:
+            s = index["chunks"][i]["source"]
+            if s not in top_sources:
+                top_sources.append(s)
+        # queries seeking figures ("productivity", "target", "growth"...) want the
+        # number-bearing table page, which embeds poorly and has few keywords
+        data_intent = bool(re.search(
+            r"productiv|target|growth|\brate\b|income|gdp|gddp|gsdp|\bddp\b|per capita|"
+            r"population|contribution|hectare|\barea\b|yield|percent|\bvalue\b|figure",
+            query.lower()))
+        for src in top_sources[:3]:
+            # exclude query words that are just the place/name (they appear in the
+            # document's own path), so within-document ranking uses topic words only
+            path_words = set(re.findall(r"[a-z]+", src.lower()))
+            topic = qwords - path_words
+            if not topic:
+                continue
+            scored = []
+            for j, c in enumerate(index["chunks"]):
+                if c["source"] != src:
+                    continue
+                low = c["text"].lower()
+                cover = sum(1 for w in topic if w in low)
+                if cover == 0:
+                    continue
+                digits = len(re.findall(r"\d", c["text"])) if data_intent else 0
+                scored.append((cover * 100 + min(digits, 60), j))
+            scored.sort(reverse=True)
+            for _, j in scored[:2]:
+                add_chunk(j, 0.99)
+
+    # pass 1: all distinct primary hits, so no single document's neighbor pages
+    # crowd a more relevant document out of the context window
+    for i in primary:
         add_chunk(i, float(sims[i]))
+
+    # pass 2: neighbor expansion (adjacent pages) for multi-page PDFs, appended after
+    for i in primary:
         c = index["chunks"][i]
-        # neighbor expansion for multi-page PDFs — training/case_study slides are self-contained
         if c.get("page") is not None and c.get("folder") in ("methodology", "vision_documents"):
             for delta in (-1, +1):
                 neighbor_key = (c["source"], c["page"] + delta)
@@ -238,7 +288,7 @@ def retrieve(query, index, district_folder=None):
 # Groq's free tier caps llama models at a few thousand tokens/minute, so the prompt
 # must stay small. Cap how many chunks and how much of each go into the LLM context
 # (the full hit list is still shown separately under "sources retrieved").
-CONTEXT_MAX_CHUNKS = 9
+CONTEXT_MAX_CHUNKS = 11
 CONTEXT_CHARS_PROSE = 900       # vision/methodology prose — trim hard
 CONTEXT_CHARS_DATA = 1600       # district_data files are short + dense with exact numbers
 
