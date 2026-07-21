@@ -281,37 +281,120 @@ def call_llm(messages):
         raise RuntimeError(f"Unknown LLM_PROVIDER: {provider}")
 
 
-st.set_page_config(page_title="Swarna Andhra GVA Assistant", page_icon="📊")
-st.title("📊 Swarna Andhra GVA Assistant (prototype)")
-st.caption(
-    "Ask about GDP/GSDP estimation methods, GVA calculation, or district economic profiles & "
-    "GVA-boosting interventions — grounded in PIF's training corpus."
+st.set_page_config(
+    page_title="Swarna Andhra GVA Assistant",
+    page_icon="🏛️",
+    layout="centered",
+)
+
+BRAND_CSS = """
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@300;400;500;600&display=swap');
+:root{--green:#3D6949;--green-dk:#2E5138;--gold:#FFA600;--gold-2:#FEB715;--cream:#F7F3EE;--cream-card:#FDF4E0;--ink:#1A1A1A;--muted:#6a6a6a;}
+html,body,[class*="css"]{font-family:'Poppins',sans-serif;}
+#MainMenu,footer,header[data-testid="stHeader"]{visibility:hidden;}
+.block-container{padding-top:1.2rem;padding-bottom:7rem;max-width:820px;}
+
+/* branded header */
+.sa-header{display:flex;align-items:center;gap:14px;background:var(--green);border-radius:18px;padding:18px 24px;margin-bottom:6px;}
+.sa-emblem{width:44px;height:44px;border-radius:50%;background:rgba(255,255,255,.12);display:flex;align-items:center;justify-content:center;font-size:22px;flex-shrink:0;}
+.sa-htext h1{font-family:'Anton',sans-serif;font-weight:400;font-size:26px;color:#fff;line-height:1.05;margin:0;letter-spacing:.02em;}
+.sa-htext h1 span{color:var(--gold);}
+.sa-htext p{font-size:12px;color:rgba(255,255,255,.82);margin:3px 0 0;font-weight:300;}
+.sa-badge{margin-left:auto;background:rgba(255,166,0,.18);color:var(--gold-2);font-size:11px;font-weight:600;padding:5px 12px;border-radius:20px;white-space:nowrap;}
+.sa-sub{font-size:13px;color:var(--muted);margin:10px 2px 4px;font-weight:300;line-height:1.6;}
+
+/* chat bubbles */
+[data-testid="stChatMessage"]{background:transparent;padding:.2rem 0;}
+[data-testid="stChatMessageContent"]{font-size:15px;line-height:1.65;}
+/* assistant message card */
+.stChatMessage:has([data-testid="stChatMessageAvatarAssistant"]) [data-testid="stChatMessageContent"]{
+  background:var(--cream-card);border-radius:4px 16px 16px 16px;padding:14px 18px;border-left:3px solid var(--gold);}
+/* user message card */
+.stChatMessage:has([data-testid="stChatMessageAvatarUser"]) [data-testid="stChatMessageContent"]{
+  background:var(--green);color:#fff;border-radius:16px 4px 16px 16px;padding:12px 18px;}
+.stChatMessage:has([data-testid="stChatMessageAvatarUser"]) [data-testid="stChatMessageContent"] *{color:#fff !important;}
+
+/* welcome chips */
+div.stButton>button{background:var(--cream);border:1px solid #e6ddd0;color:var(--green-dk);border-radius:22px;font-size:13px;
+  font-weight:500;padding:9px 16px;text-align:left;transition:all .12s;font-family:'Poppins';}
+div.stButton>button:hover{border-color:var(--gold);background:var(--cream-card);color:var(--ink);}
+
+/* sources expander */
+[data-testid="stExpander"]{border:none;}
+[data-testid="stExpander"] summary{font-size:12px;color:var(--muted);font-weight:500;}
+[data-testid="stExpander"] summary:hover{color:var(--green);}
+
+/* chat input */
+[data-testid="stChatInput"]{border:1.5px solid #e6ddd0;border-radius:26px;background:#fff;}
+[data-testid="stChatInput"]:focus-within{border-color:var(--gold);}
+[data-testid="stChatInput"] textarea{font-size:15px;}
+[data-testid="stChatInput"] button{background:var(--gold);border-radius:50%;}
+
+.sa-foot{text-align:center;font-size:11px;color:#b0a99c;margin-top:8px;}
+</style>
+"""
+st.markdown(BRAND_CSS, unsafe_allow_html=True)
+
+st.markdown(
+    """
+    <div class="sa-header">
+      <div class="sa-emblem">🏛️</div>
+      <div class="sa-htext">
+        <h1>Swarna Andhra <span>GVA Assistant</span></h1>
+        <p>Pahlé India Foundation · aligned with Swarna Andhra @2047</p>
+      </div>
+      <div class="sa-badge">Prototype</div>
+    </div>
+    <div class="sa-sub">Ask about GDP / GSDP estimation, GVA calculation, district economic profiles,
+    or any constituency and mandal vision plan — answered from official material with sources.</div>
+    """,
+    unsafe_allow_html=True,
 )
 
 index = load_index()
 if index is None:
-    st.error(
-        "No index found. Run `python ingest.py` first to build the corpus index from "
-        "`corpus_files/`."
-    )
+    st.error("No index found. Run `python embed_index.py` to build the corpus index.")
     st.stop()
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
+if "pending" not in st.session_state:
+    st.session_state.pending = None
 
+EXAMPLES = [
+    "What is the GDDP and per capita income of Kakinada?",
+    "How is district income estimated — top-down or bottom-up?",
+    "Economic priorities in the Bapatla constituency vision plan?",
+    "Which sectors give Visakhapatnam its comparative advantage?",
+]
+
+# welcome screen with starter questions (only before the first message)
+if not st.session_state.messages:
+    st.markdown("<div class='sa-sub' style='margin-top:18px;font-weight:500;color:var(--ink)'>Try asking</div>",
+                unsafe_allow_html=True)
+    cols = st.columns(2)
+    for i, ex in enumerate(EXAMPLES):
+        if cols[i % 2].button(ex, key=f"ex{i}", use_container_width=True):
+            st.session_state.pending = ex
+            st.rerun()
+
+# replay history
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
+        if msg["role"] == "assistant" and msg.get("sources"):
+            with st.expander("Sources"):
+                st.markdown(msg["sources"])
 
-user_input = st.chat_input("e.g. How is fisheries GVA estimated — top-down or bottom-up?")
-if user_input:
+
+def handle_query(user_input):
     st.session_state.messages.append({"role": "user", "content": user_input})
     with st.chat_message("user"):
         st.markdown(user_input)
 
     district_folder = detect_district(user_input)
-    # follow-up handling: if this turn names no district, carry over the most
-    # recent one mentioned so "what about its growth?" still resolves correctly.
+    # follow-up handling: carry over the last district mentioned when this turn names none
     if not district_folder:
         for m in reversed(st.session_state.messages[:-1]):
             if m["role"] == "user":
@@ -322,13 +405,10 @@ if user_input:
 
     hits = retrieve(user_input, index, district_folder=district_folder)
     context_block = build_context_block(hits)
-
-    # recent conversation for memory — truncated to stay within the free-tier token budget
     history = [
         {"role": m["role"], "content": m["content"][:600]}
         for m in st.session_state.messages[:-1][-4:]
     ]
-
     llm_messages = (
         [{"role": "system", "content": SYSTEM_PROMPT}]
         + history
@@ -336,20 +416,36 @@ if user_input:
     )
 
     with st.chat_message("assistant"):
-        try:
-            answer = call_llm(llm_messages)
-        except KeyError as e:
-            answer = (
-                f"Missing API key: {e}. Set it as an environment variable before running "
-                "`streamlit run app.py` (see README)."
-            )
-        except Exception as e:
-            answer = f"Error calling the LLM: {e}"
+        with st.spinner("Searching the corpus…"):
+            try:
+                answer = call_llm(llm_messages)
+            except KeyError as e:
+                answer = f"Missing API key: {e}."
+            except Exception as e:
+                answer = f"Sorry, something went wrong: {e}"
         st.markdown(answer)
+        sources_md = ""
         if hits:
-            with st.expander("Sources retrieved from corpus"):
-                for h in hits:
-                    tag = " *(neighbor)*" if h.get("neighbor") else ""
-                    st.markdown(f"- `{_label(h['source'], h['page'])}` (score {h['score']:.2f}){tag}")
+            seen = []
+            for h in hits:
+                lbl = _label(h["source"], h["page"])
+                if lbl not in seen:
+                    seen.append(lbl)
+            sources_md = "\n".join(f"- `{s}`" for s in seen[:8])
+            with st.expander("Sources"):
+                st.markdown(sources_md)
 
-    st.session_state.messages.append({"role": "assistant", "content": answer})
+    st.session_state.messages.append(
+        {"role": "assistant", "content": answer, "sources": sources_md}
+    )
+
+
+typed = st.chat_input("Ask about a district, a vision plan, or GVA methodology…")
+query = typed or st.session_state.pending
+st.session_state.pending = None
+if query:
+    handle_query(query)
+    st.rerun()
+
+st.markdown("<div class='sa-foot'>Grounded in official Swarna Andhra training material · answers may be approximate</div>",
+            unsafe_allow_html=True)
