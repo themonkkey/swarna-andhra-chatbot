@@ -218,13 +218,21 @@ def retrieve(query, index, district_folder=None):
     return results
 
 
+# Groq's free tier caps llama models at a few thousand tokens/minute, so the prompt
+# must stay small. Cap how many chunks and how much of each go into the LLM context
+# (the full hit list is still shown separately under "sources retrieved").
+CONTEXT_MAX_CHUNKS = 8
+CONTEXT_CHARS_PER_CHUNK = 900
+
+
 def build_context_block(hits):
     if not hits:
         return "(No relevant material found in the PIF corpus for this query.)"
     parts = []
-    for h in hits:
+    for h in hits[:CONTEXT_MAX_CHUNKS]:
         label = _label(h["source"], h["page"])
-        parts.append(f"--- Source: {label} (relevance {h['score']:.2f}) ---\n{h['text']}")
+        text = h["text"][:CONTEXT_CHARS_PER_CHUNK]
+        parts.append(f"--- Source: {label} (relevance {h['score']:.2f}) ---\n{text}")
     return "\n\n".join(parts)
 
 
@@ -235,9 +243,10 @@ def call_llm(messages):
 
         client = Groq(api_key=os.environ["GROQ_API_KEY"])
         resp = client.chat.completions.create(
-            model=os.environ.get("GROQ_MODEL", "llama-3.1-8b-instant"),
+            model=os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile"),
             messages=messages,
             temperature=0.2,
+            max_tokens=1024,
         )
         return resp.choices[0].message.content
     elif provider == "gemini":
