@@ -199,8 +199,25 @@ def retrieve(query, index, district_folder=None):
             (j, c) for j, c in enumerate(index["chunks"])
             if c["source"].startswith(sector_prefix) or c["source"] == snapshot_name
         ]
-        forced.sort(key=lambda jc: 0 if "Snapshot" in jc[1]["source"] else 1)
-        for j, c in forced[:6]:
+
+        # headline aggregates (GDDP, NDDP, per-capita, GDVA) and the snapshot must come
+        # before the alphabetical per-sector files, or the truncated context drops them.
+        def prio(src):
+            s = src.lower()
+            if "snapshot" in s:
+                return 0
+            if "gross district domestic product" in s or "gddp" in s:
+                return 1
+            if "net district domestic product" in s or "nddp" in s:
+                return 2
+            if "per capita" in s:
+                return 3
+            if "gross district value added" in s or "gdva" in s:
+                return 4
+            return 5
+
+        forced.sort(key=lambda jc: prio(jc[1]["source"]))
+        for j, c in forced[:7]:
             add_chunk(j, 1.0)
 
     for i in top_idx:
@@ -221,8 +238,9 @@ def retrieve(query, index, district_folder=None):
 # Groq's free tier caps llama models at a few thousand tokens/minute, so the prompt
 # must stay small. Cap how many chunks and how much of each go into the LLM context
 # (the full hit list is still shown separately under "sources retrieved").
-CONTEXT_MAX_CHUNKS = 8
-CONTEXT_CHARS_PER_CHUNK = 900
+CONTEXT_MAX_CHUNKS = 9
+CONTEXT_CHARS_PROSE = 900       # vision/methodology prose — trim hard
+CONTEXT_CHARS_DATA = 1600       # district_data files are short + dense with exact numbers
 
 
 def build_context_block(hits):
@@ -231,7 +249,8 @@ def build_context_block(hits):
     parts = []
     for h in hits[:CONTEXT_MAX_CHUNKS]:
         label = _label(h["source"], h["page"])
-        text = h["text"][:CONTEXT_CHARS_PER_CHUNK]
+        cap = CONTEXT_CHARS_DATA if h["source"].startswith("district_data/") else CONTEXT_CHARS_PROSE
+        text = h["text"][:cap]
         parts.append(f"--- Source: {label} (relevance {h['score']:.2f}) ---\n{text}")
     return "\n\n".join(parts)
 
@@ -291,16 +310,30 @@ if user_input:
         st.markdown(user_input)
 
     district_folder = detect_district(user_input)
+    # follow-up handling: if this turn names no district, carry over the most
+    # recent one mentioned so "what about its growth?" still resolves correctly.
+    if not district_folder:
+        for m in reversed(st.session_state.messages[:-1]):
+            if m["role"] == "user":
+                prev = detect_district(m["content"])
+                if prev:
+                    district_folder = prev
+                    break
+
     hits = retrieve(user_input, index, district_folder=district_folder)
     context_block = build_context_block(hits)
 
-    llm_messages = [
-        {"role": "system", "content": SYSTEM_PROMPT},
-        {
-            "role": "user",
-            "content": f"CONTEXT:\n{context_block}\n\nQUESTION: {user_input}",
-        },
+    # recent conversation for memory — truncated to stay within the free-tier token budget
+    history = [
+        {"role": m["role"], "content": m["content"][:600]}
+        for m in st.session_state.messages[:-1][-4:]
     ]
+
+    llm_messages = (
+        [{"role": "system", "content": SYSTEM_PROMPT}]
+        + history
+        + [{"role": "user", "content": f"CONTEXT:\n{context_block}\n\nQUESTION: {user_input}"}]
+    )
 
     with st.chat_message("assistant"):
         try:
